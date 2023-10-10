@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html>
+<!-- Gratefully borrowed in large part from https://cocoxu.github.io/ -->
+
+<head>
+	<meta charset="utf-8">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<!--<meta content="width=840, initial-scale=1.0" name="viewport">-->
+	<meta content="Zachary Levonian" name="author">
+	<meta content="Zachary Levonian's Homepage" name="description">
+	<meta content="data science,human-computer interaction,machine learning" name="keywords">
+
+	<title>Zachary Levonian</title>
+	<!-- Bootstrap core CSS -->
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<!-- Bootstrap theme -->
+	<link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+	<!-- Bootstrap icon -->
+	<link href="bootstrap/css/bootstrap.icon-large.min.css" rel="stylesheet">
+	<!-- Custom styles for this template -->
+	<link href="theme.css" rel="stylesheet">
+</head>
+
+<body>
+ 
+
+	<div class="container-narrow">
+		<div class="title">
+			<img class="img-thumbnail-levon003" height="220" hspace="15" src="images/headshot.jpg" style="float:right;border:6px">
+
+			<h4><strong>Zachary Levonian</strong> &nbsp;&nbsp;&nbsp;&nbsp; <a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/zwlevonian">Follow @zwlevonian</a>
+				<script>
+					!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');
+				</script> <br>
+			</h4>
+
+			PhD in <a href="https://www.cs.umn.edu/">Computer Science</a><br>
+			<a href="https://twin-cities.umn.edu/">University of Minnesota</a><br>
+			<span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;
+			levon003 at umn dot edu<br>
+
+			<br>
+			My research lies at the intersection of <b>social computing</b> and <b>natural language processing</b>.
+			I am interested in the way humans communicate with and support one another online.
+			<br><br>
+			I completed my PhD with <a href="https://grouplens.org/">GroupLens</a> in October 2022.
+			I was advised by Professors
+			<a href="https://lanayarosh.com/">Lana Yarosh</a>
+			and <a href="https://www-users.cs.umn.edu/~terveen/">Loren Terveen</a>.
+			<br><br>
+		</div>
+
+		<br>
+
+		<!--<div>
+			<h4>March 2023: I am currently looking for an industry position as a Senior Data Scientist, Senior ML Engineer, Research Scientist, or similar position.</h4>
+			<p>Can put messages here. I am currently based in Tacoma, WA and open to fully remote positions.
+				Here are links for my <a href="files/zwlevonian_industry_resume.pdf">résumé</a>
+				and <a href="https://www.linkedin.com/in/zachary-levonian-376b56a0/">LinkedIn</a>.
+				Thank you! -Zach
+			</p>
+		</div>
+		<br>-->
+
+		<div class="navbar navbar-default" role="navigation">
+			<div class="container">
+				<div class="navbar-collapse">
+					<ul class="nav navbar-nav">
+						<li>
+							<a href="#research">Research</a>
+						</li>
+
+						<li>
+							<a href="#publications">Publications</a>
+						</li>
+
+						<li>
+							<a href="#news">About Me</a>
+						</li>
+
+						<li>
+							<a href="files/zwlevonian_cv_umn_noident.pdf">CV</a>
+						</li>
+
+						<li>
+							<a href="files/zwlevonian_resume.pdf">Résumé</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<!--<div class="content">
+			<h5 class="text-primary" id="teach">Teaching</h5>
+
+			<strong><a href="course webpage">Course Name</a></strong> - CSci 1000 (<strong>Fall 2017</strong>)<br>
+
+		  Course description goes here.<br><br>
+
+			<p>
+			</p>
+		</div>-->
+
+
+		<div class="content">
+			<h5 class="text-primary" id="research">Research</h5>
+
+			<div class="projects" style="margin-left: 1em; margin-right: 1em">
+				<div class="boxed">
+					<h5><strong>Useful Machine Learning</strong>
+					</h5>
+					<p>
+						A major theme of my research is creating machine learning models that are useful to humans.
+						That starts with developing effective annotation and evaluation practices grounded in the detailed understanding of a problem.
+						In my experience as a data scientist, I've written about 
+						how to incorporate expert knowledge during problem formulation and annotation <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/7310">[ICWSM 2020]</a>, 
+						how to evaluate models when very little data is available <a href="https://dl.acm.org/doi/10.1145/3490099.3511134">[IUI 2022]</a>,
+						and how to create metrics appropriate for particular user interfaces <a href="https://arxiv.org/abs/2209.04973">[arXiv 2022]</a>.
+					</p>
+					<p>
+						I am also a believer in open-sourcing research code: I've released Python packages 
+						for <a href="https://github.com/levon003/HealthBlogRec">multi-modal deep learning recommender systems</a>
+						and for <a href="https://github.com/levon003/ALSim">simulation experiments with active learning</a>.
+					</p>
+				</div>
+				
+				<div class="boxed">
+					<h5><strong>Social Support in Online Health Communities</strong>
+						<img hspace="10" src="images/haiwei_caringbridge_square.png" style="float: right;" margin="1em" alt="Haiwei Ma viewing CaringBridge on a laptop" width="145px">
+					</h5>
+					<p>
+						Online social support groups are important places for patients and caregivers to seek
+						information, express themselves, and exchange support.
+						I collaborated with <a href="https://www.caringbridge.org/">CaringBridge</a>, a prominent
+						online community for writing about and sharing personal health journeys, to study these online health
+						communities.
+						My most recent work investigated how to foster supportive relationships between CaringBridge authors
+						via peer-to-peer recommendation.
+						Our work has been cited in the <em>Star Tribune</em> [<a href="https://www.startribune.com/a-graceful-way-to-request-and-provide-help-in-a-health-crisis/600207554/">1</a>, <a href="https://www.startribune.com/caringbridge-starts-national-conversation-on-how-we-heal/459969393/">2</a>],
+						with publications accepted to <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/7310">[ICWSM 2020]</a>,
+						<a href="https://dl.acm.org/doi/abs/10.1145/3434184">[CSCW 2020]</a>, and <a href="https://dl.acm.org/doi/10.1145/3402855">[TOCHI 2020]</a>.
+					</p>
+				</div>
+				<!-- end boxed-->
+
+				<div class="boxed">
+					<!-- Royalty-free image source: https://www.storyblocks.com/stock-image/an-air-traffic-control-tower-at-an-airport-on-a-stormy-looking-day-btqxw0sjiskjprmu -->
+					<!--<p><a href="images/air-traffic-control-tower-small.jpg"><img border="1px" hspace="10"
+								src="images/air-traffic-control-tower-small.jpg" style="float: right;" vspace="5"
+								height="155px"></img></a>
+					</p>-->
+
+					<h5><strong>Automatic Speech Recognition for Aviation</strong>
+						<img hspace="10" src="images/air-traffic-control-tower-small.jpg" style="float: right;" margin="1em" alt="Haiwei Ma viewing CaringBridge on a laptop" height="155px">
+					</h5>
+
+					<p>I worked with a research team at <a href="https://www.mitre.org/">The MITRE Corporation</a>
+						to create real-time safety monitoring systems for air traffic
+						control towers. These systems use <b>automatic speech recognition</b>
+						to detect radio misunderstandings. We presented our work at
+						<a href="https://ieeexplore.ieee.org/document/7311392/">[DASC 2015]</a>
+						and <a href="https://www.atmseminar.org/12th-seminar/papers/">[ATM 2017]</a>.
+						I also received a fellowship through MITRE's Early Career Research Program to explore
+						<b>natural language understanding</b> of air traffic controller and pilot radio
+						transmissions.
+					</p>
+				</div>
+				<!-- end boxed-->
+
+			</div> <!-- End of projects div-->
+		</div>
+
+
+		<div class="content">
+			<h5 class="text-primary" id="publications">Publications</h5>
+			<a href="https://scholar.google.com/citations?user=t444uPcAAAAJ&amp;hl=en">Google Scholar profile</a>
+			<br>
+
+			<ul>
+				<li>
+					<a id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">"Thoughts
+						&amp; Prayers" or "❤️ &amp; 🙏": How the Release of New Reactions on CaringBridge Reshapes
+						Supportive Communication During Health Crises</a>
+					[preprint coming soon]
+					<br>
+					C. Estelle Smith, Hannah Miller Hillberg, Zachary Levonian<br>
+					Accepted to <em>Computer-Supported Cooperative Work - CSCW</em>. 2023.
+				</li>
+				<li>
+					<a href="https://dl.acm.org/doi/10.1145/3490099.3511134" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Trade-offs in Sampling and Search for
+						Early-stage Interactive Text Classification</a> <!-- put permalink here for posterity -->
+					[<a href="files/IUI2022_levonian_camera_ready.pdf">preprint</a>]
+					[<a href="https://github.com/levon003/ALSim">code</a>]
+					[<a href="https://www.youtube.com/watch?v=z5iXgVn1fNQ">video</a>]
+					[<a href="https://zwlevonian.medium.com/model-vs-modeler-trade-offs-designing-interactive-text-classification-interfaces-cda41c367e89">blog</a>]
+					<br>
+					Zachary Levonian, Chia-Jung Lee, Vanessa Murdock, F. Maxwell Harper<br>
+					<em>27th Annual Conference on Intelligent User Interfaces - IUI</em>. 2022.
+				</li>
+				<li>
+					<a href="https://z.umn.edu/connection2020" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Patterns of Patient and Caregiver Mutual
+						Support Connections in an Online Health Community</a>
+					<!-- https://dl.acm.org/doi/abs/10.1145/3434184 -->
+					[<a href="https://arxiv.org/abs/2007.16172">preprint</a>]
+					[<a href="https://z.umn.edu/connection2020code">code</a>]
+					[<a href="https://z.umn.edu/connection2020video">video</a>]<br>
+					Zachary Levonian, Marco Dow, Drew Erikson, Sourojit Ghosh, Hannah Miller Hillberg, Saumik Narayanan,
+					Loren Terveen, Svetlana Yarosh<br>
+					<em>23rd ACM Conference on Computer-Supported Cooperative Work and Social Computing - CSCW</em>.
+					2020.
+				</li>
+				<li>
+					<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/7310" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Bridging Qualitative and Quantitative Methods
+						for User Modeling: Tracing Cancer Patient Behavior in an Online Health Community</a>
+					[<a href="files/levonian_icwsm2020_preprint.pdf">preprint</a>] [<a href="https://github.com/levon003/icwsm-cancer-journeys">code</a>] [<a href="https://www.youtube.com/watch?v=kOtzl6mada0">video</a>] [<a href="https://z.umn.edu/bridging2020slides">slides</a>] [<a href="https://twitter.com/zwlevonian/status/1157300057596661761">summary</a>]<br>
+					Zachary Levonian, Drew Richard Erikson, Wenqi Luo, Saumik Narayanan, Sabirat Rubya, Prateek Vachher,
+					Loren Terveen, Svetlana Yarosh<br>
+					<em>Proceedings of the 14th International AAAI Conference on Web and Social Media - ICWSM</em>.
+					2020.
+					<!--<br>Acceptance rate: 24% -->
+				</li>
+				<li>
+					<a href="https://dl.acm.org/doi/10.1145/3402855" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">"I Cannot Do All of This Alone": Exploring
+						Instrumental and Prayer Support in Online Health Communities</a>
+					[<a href="https://arxiv.org/abs/2005.11884">preprint</a>]
+					[<a href="https://www.youtube.com/watch?v=nK26-O5XViQ">video</a>]<br>
+					C. Estelle Smith, Zachary Levonian, Haiwei Ma, Robert Giaquinto, Gemma Lein-Mcdonough, Zixuan Li,
+					Susan O'Conner-Von, Svetlana Yarosh<br>
+					ACM Transactions on Computer-Human Interaction (TOCHI). 2020.
+				</li>
+				<li>
+					<a href="https://dl.acm.org/citation.cfm?id=3274393" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">What I See is What You Don't Get: The Effects
+						of (Not) Seeing Emoji Rendering Differences across Platforms</a>
+					[<a href="http://www.brenthecht.com/publications/cscw2018_emojiimpact.pdf">preprint</a>]<br>
+					Hannah Miller Hillberg, Zachary Levonian, Daniel Kluver, Loren Terveen, Brent Hecht<br>
+					<em>Proceedings of the ACM on Human-Computer Interaction - CSCW</em>. Volume 2 Issue CSCW, November
+					2018
+				</li>
+
+				<li>
+					<a href="https://drive.google.com/file/d/1joseE5rOzYg_HZSKlE3pYH0yinOIa0ut/view?usp=sharing" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Readback
+						Error Detection using Automatic Speech Recognition</a>
+					[<a href="https://drive.google.com/file/d/1IVndFJ_ctNje36y6Cej89CJB3SxQyffQ/view?usp=sharing">slides</a>]<br>
+					Shuo Chen, Hunter Kopald, Ronald Chong, Yuan-Jun Wei, Zachary Levonian<br>
+					Air Traffic Management Research &amp; Development Seminar 2017
+				</li>
+
+				<!--<li>
+					https://web.archive.org/web/20230102083258/https://www.wlnjournal.org/archives/v41/41.3-4.pdf
+					<a href="https://wlnjournal.org/archives/v41/41.3-4.pdf" id="smt-simple" name="smt-simple"
+                    style="font-style: italic; text-decoration: none">
+					A Reflection on Reflective Writing Center Work</a><br>
+					Renata Fitzpatrick, Julia Kroll, Zachary Levonian<br>
+					WLN: A Journal of Writing Center Scholarship 2016
+				</li>-->
+
+				<li>
+					<a href="https://ieeexplore.ieee.org/document/7311392/" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Speech Inputs to Surface Safety Logic
+						Systems</a><br>
+					Shuo Chen, Hunter Kopald, Adel Elessawy, Zachary Levonian, Robert Tarakan <br>
+					Digital Avionics Systems Conference 2015
+				</li>
+			</ul>
+
+			<!-- Note: we override the <summary> display style because of a bug with Bootstrap. -->
+			<details>
+				<summary style="display: list-item">2 papers under review <em>[Click to expand]</em></summary>
+				<br>
+				<ul>
+					<li>
+						<a href="https://arxiv.org/abs/2209.04973" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">"Some other poor soul's problems": a peer
+							recommendation intervention for health-related social support</a>
+						[<a href="https://arxiv.org/abs/2209.04973">preprint</a>]
+						[<a href="https://github.com/levon003/HealthBlogRec">code</a>]
+						<br>
+						Zachary Levonian, Matthew Zent, Ngan Nguyen, Matthew McNamara, Loren Terveen, Svetlana
+						Yarosh<br>
+						<em>arXiv preprint / in submission</em>. 2022.
+					</li>
+					<li>
+						<a id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Digital
+							Trial Solutions eScreening: a software solution that ranks patients by their predicted
+							clinical trial eligibility using Real-World Data and Machine Learning</a>
+						<br>
+						Sudip Bhandari, Zachary Levonian, Robert Annand, Jo-Zahn Baxter, Jericho Cain, Jen Flach, Jiby
+						Joseph-Thomas, Judith Mueller<br>
+						<em>American Society of Clinical Oncology - ASCO</em> (Abstract). 2023.
+					</li>
+				</ul>
+			</details>
+			<br>
+		</div>
+
+
+		<div class="content">
+			<h5 class="text-primary" id="posters">Posters</h5>
+			Published by undergraduate and Master's students I have mentored.<br>
+			<ul>
+				<li>
+					<a href="https://dx.doi.org/10.1145/3406865.3418320" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">How much is a "like" worth? Engagement and
+						retention in an online health community</a>
+					[<a href="files/CSCW2020_wan_poster_camera_ready.pdf">preprint</a>]<br>
+					Ruyuan Wan, Zachary Levonian, Svetlana Yarosh<br>
+					Companion of the 23rd ACM Conference on Computer Supported Cooperative Work and Social Computing,
+					CSCW 2020
+				</li>
+				<li>
+					<a href="https://dx.doi.org/10.1145/3406865.3418307" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Grandtotem: Supporting International and
+						Intergenerational Relationships</a>
+					[<a href="https://z.umn.edu/grandtotemDesign">preprint</a>]
+					[<a href="https://z.umn.edu/grandtotemVideo">video</a>]<br>
+					Mark Butzer, Zachary Levonian, Yangyang Luo, Kathleen Watson, Ye Yuan, C. Estelle Smith, Svetlana
+					Yarosh<br>
+					Companion of the 23rd ACM Conference on Computer Supported Cooperative Work and Social Computing,
+					CSCW 2020
+				</li>
+				<li>
+					<a href="https://dx.doi.org/10.1145/3406865.3418311" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Understanding Community-Level Conflicts
+						Through Reddit r/place</a> [<a href="files/CSCW2020_vachher_poster_camera_ready.pdf">preprint</a>] [<a href="https://github.com/PrateekVachher/r-place-project">code</a>] [<a href="https://z.umn.edu/redditPlaceConflictVideo">demo video</a>]<br>
+					Prateek Vachher, Zachary Levonian, Hao-Fei Cheng, Svetlana Yarosh<br>
+					Companion of the 23rd ACM Conference on Computer Supported Cooperative Work and Social Computing,
+					CSCW 2020
+				</li>
+				<li>
+					<a href="https://dl.acm.org/citation.cfm?id=3274075" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">Condition Unknown: Predicting Patients' Health
+						Conditions in an Online Health Community</a>
+					[<a href="files/CSCW2018_li_poster_camera_ready.pdf">preprint</a>]<br>
+					Changye Li, Zachary Levonian, Haiwei Ma, Svetlana Yarosh<br>
+					Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing,
+					CSCW 2018
+				</li>
+			</ul>
+		</div>
+
+		<div class="content">
+			<h5 class="text-primary" id="blogposts">Other Writing</h5>
+			Most of my blog-style writings are on <a href="https://zwlevonian.medium.com/">Medium</a>.
+			<ul>
+				<li>
+					<a href="https://zwlevonian.medium.com/how-would-you-deal-with-an-ambiguous-problem-data-science-interview-question-891638470572" style="text-decoration: none">
+						How would you deal with an ambiguous problem?
+					</a><br>
+					May 2022. Conceptual workflow for scoping Data Science problems.
+				</li>
+				<li>
+					<a href="https://zwlevonian.medium.com/model-vs-modeler-trade-offs-designing-interactive-text-classification-interfaces-cda41c367e89" style="text-decoration: none">
+						Model vs Modeler: Trade-offs designing interactive text classification interfaces
+					</a><br>
+					March 2022. Accessible summary of my IUI 2022 paper.
+				</li>
+				<li>
+					<a href="https://nbviewer.org/github/levon003/ml-visualized/blob/master/_notebook/BoWLinRegTweets.ipynb" style="text-decoration: none">
+						Basics of machine learning with text data: bag-of-words for linear regression
+					</a><br>
+					October 2021. Twitter data workshop presented to undergraduate HCI researchers.
+				</li>
+				<li>
+					<a href="https://zwlevonian.medium.com/integer-linear-programming-with-pulp-optimizing-a-draftkings-nfl-lineup-5e7524dd42d3" style="text-decoration: none">
+						Integer Linear Programming with PuLP: Optimizing a DraftKings NFL lineup
+					</a><br>
+					November 2020. Basic introduction to ILP with Python.
+				</li>
+				<li>
+					<a href="nlpWorkshop.html" style="text-decoration: none">
+						NLP for Social Computing
+					</a>
+					[<a href="https://github.com/levon003/nlp-for-hci-workshop">code</a>]<br>
+					March 2019. Workshop on NLP covering classification, embeddings, language models, and topic modeling.
+				</li>
+				<li>
+					<a href="https://zwlevonian.medium.com/https-medium-com-zwlevonian-prototyping-a-handheld-with-the-omega2-fcc0545f06c2" style="text-decoration: none">
+						Prototyping a handheld with the Omega2: A complete beginner's guide
+					</a><br>
+					November 2018. Tutorial for making a battery-powered handheld.
+				</li>
+				<li>
+					Conference reading lists for <a href="https://zwlevonian.medium.com/my-chi-2022-reading-list-6595d5fa901e">CHI 2022</a> and <a href="https://zwlevonian.medium.com/21-cscw-2021-papers-to-read-b7b651f2e0a3">CSCW 2021</a><br>
+					Short summaries of recommended human-computer interaction papers.
+				</li>
+				<li>
+					Annotated source lists for <a href="https://zwlevonian.medium.com/why-not-use-linear-regression-for-star-ratings-58c0cd0e5dae">using linear regression for ordinal variables</a> and <a href="https://zwlevonian.medium.com/information-theory-crowdsourced-sources-15c1ec66ab3e">information theory</a><br>
+					Short lists of useful sources on a particular topic.
+				</li>
+			</ul>
+
+			<details>
+				<summary style="display: list-item">Other stuff <em>[Click to expand]</em></summary>
+				<br>
+				<ul>
+					<li>
+						<a href="https://grouplens.org/blog/are-bots-ravaging-online-encyclopedias/" style="text-decoration: none">
+						Are Bots Ravaging Online Encyclopedias?
+						</a>
+						[<a href="https://github.com/levon003/wiki-ores-feedback/tree/master/reu2021">code</a>]<br>
+						October 2021. Blog post written by Abby Newcomb and Sokona Mangane about our work together during the <a href="https://reu.cs.umn.edu/">UMN REU program</a>. (I was a research mentor.)
+					</li>
+					<li>
+						<a href="https://web.archive.org/web/20230102083258/https://www.wlnjournal.org/archives/v41/41.3-4.pdf" id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">
+						A Reflection on Reflective Writing Center Work (pdf)</a><br>
+						Renata Fitzpatrick, Julia Kroll, Zachary Levonian<br>
+						<em>WLN: A Journal of Writing Center Scholarship.</em> 2016.
+						I was a Lead Writing Consultant at the Carleton College Writing Center,
+						and we wrote this journal article about our experience.<br>
+					</li>
+					<li>
+						I created a few biographies on English Wikipedia.<br>
+						You can find links and read more about my editing on <a href="https://en.wikipedia.org/wiki/User:Suriname0">my user page</a>.
+					</li>
+					<li>
+						<a href="https://meta.wikimedia.org/wiki/Research:ORES_Inspect:_A_technology_probe_for_machine_learning_audits_on_enwiki">
+							ORES Inspect: A technology probe for machine learning audits on English Wikipedia
+						</a>
+						I'm working on a side-project to audit the vandalism detection classifiers used on Wikipedia.
+					</li>
+				</ul>
+			</details>
+			<br>
+		</div>
+
+		<div class="content">
+			<h5 class="text-primary" id="news">What's New</h5>
+
+			Recent research updates. I keep my professional updates <a href="https://www.linkedin.com/in/zachary-levonian-376b56a0/">on my LinkedIn</a>.
+
+			<ul>
+				<li style="list-style: none"><br>
+				</li>
+				<li>
+					March 2023, paper accepted to CSCW 2023! Preprint coming soon.
+				</li>
+				<li>December 2022, my dissertation is now <a href="https://www.proquest.com/docview/2747545402/6EF915C1F890441CPQ/1">available on
+						ProQuest</a>. (available open-access via the <a href="https://hdl.handle.net/11299/250412">UMN
+						Conservancy</a> and hosted <a href="files/zwlevonian_dissertation.pdf">here [pdf]</a>)
+				</li>
+				<li>November 2022, I was officially awarded my degree and started an industry job. I am a Senior Machine
+					Learning Engineer at <a href="https://www.concertai.com/">ConcertAI</a>.</li>
+				<li>July 2022, I defended my <a href="files/zwlevonian_dissertation.pdf">dissertation
+						(pdf)</a>.</li>
+				<li>January 2022, paper accepted to IUI 2022 based on work I conducted while with Amazon.</li>
+				<li>May 2021, I attended CHI 2021! Check out my colleague Estelle Smith's <a href="https://www.youtube.com/watch?v=nK26-O5XViQ">video presentation</a> of our TOCHI paper.
+				</li>
+				<li>April 2021, I received the University of Minnesota's <a href="https://cse.umn.edu/cs/news/three-phd-students-named-doctoral-dissertation-fellowships">Doctoral
+						Dissertation Fellowship</a> for Fall 2021 and Spring 2022.</li>
+				<li>October 2020, my advisee Ruyuan Wan's CSCW2020 poster received an <a href="https://cscw.acm.org/2020/awards/">Outstanding Poster award</a>. Check it out <a href="https://dx.doi.org/10.1145/3406865.3418320">here</a>.</li>
+				<li>August 2020, a Master's student I mentored, Marco Dow, successfully defended his thesis, which is
+					now <a href="https://www.proquest.com/openview/306bb03b6c152d786a8f6ebcf6b74bb4/1">available online</a>!</li>
+				<li>July 2020, I had 1 full paper (<a href="https://arxiv.org/abs/2007.16172">preprint</a>) and 3
+					posters accepted to CSCW 2020!</li>
+				<li>June 2020, I (virtually) attended ICWSM 2020. <a href="https://www.youtube.com/watch?v=kOtzl6mada0">You can
+						watch my pre-recorded presentation here.</a></li>
+				<li>January 2020, I passed my qualifying exam and am officially a PhD candidate!</li>
+				<li>July 2019, my first paper was accepted to <a href="https://www.icwsm.org/2020/">ICWSM</a> 2020. <a href="https://z.umn.edu/levonianIcwsm2020Preprint">Preprint link.</a></li>
+				<li>June 2019, I gave a guest lecture on "Why NLP matters to HCI researchers" in <a href="https://jmhessel.github.io/CS322-SP19/">CS322: Natural Language Processing</a> at Carleton
+					College. <a href="http://z.umn.edu/carletonNLP2019">Slides here.</a></li>
+				<li>March 2019, I presented a workshop on <a href="nlpWorkshop.html">NLP for social computing
+						researchers</a>.</li>
+				<!--<li>January 2019, I submitted work to <a href="https://www.icwsm.org/2020/">ICWSM</a>, my first primary-author full paper submission!</li>-->
+				<!--<li>November 2018, Work I contributed to (one paper, one poster) was presented at CSCW '18!</li>-->
+				<li>June 2018, Attended HCIC 2018 on AI + HCI! I presented a <a href="files/CaringBridge_HCIC2018_Poster.pdf">poster</a>
+					on some of my current work.</li>
+				<li>April 2018, Attended CHI'18, my first conference!
+					<!--<li>April 2018, Excited to be a coauthor on two submissions to CSCW, my first computer science publications!-->
+				<li>January 2018, I began a Teaching Assistant role for <i>CSCI1001: Overview of Computer Science</i>.
+				<li>August 2017, I joined the <a href="https://grouplens.org/">GroupLens</a> lab at the University of
+					Minnesota.
+				<li>June 2017, My work with a
+					<a href="https://www.mitre.org/centers/center-for-advanced-aviation-system-development/who-we-are">CAASD</a>
+					research group
+					was presented at the 2017 <a href="https://www.atmseminar.org/12th-seminar/papers/">ATM R&D;
+						Seminar</a>.
+				</li>
+
+			</ul>
+
+		</div>
+
+		<!--<div class="content">
+			<h5 class="text-primary" id="service">Professional Service</h5>
+
+			Workshop Chair:
+			&nbsp;&nbsp;<a href="http://acl2017.org">ACL (2017)</a> <br>
+			Area Chair:
+			&nbsp;&nbsp;<a href="http://www.emnlp2016.net/committees.html">EMNLP (2016)</a> <br>
+			Publicity Chair:
+			&nbsp;&nbsp;<a href="http://naacl.org/naacl-hlt-2016/org.html">NAACL (2016)</a> <br>
+
+			Organizer:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp; - <a href="http://noisy-text.github.io">ACL
+			2015, COLING 2016, EMNLP 2017 Workshop on Noisy User-generated Text (W-NUT)</a><br>
+			&nbsp;&nbsp;&nbsp;&nbsp; - <a href=
+			"http://alt.qcri.org/semeval2015/task1/"> SemEval 2015 shared-task: Paraphrases and Semantic Similarity in Twitter (PIT)</a><br>
+			&nbsp;&nbsp;&nbsp;&nbsp; - <a href=
+			"http://www.mascsll.org/"> 2016 Mid-Atlantic
+ Student Colloquium on Speech, Language and Learning</a><br>
+			Program Committee:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp; ACL (2017, 2015, 2014, 2013), NAACL (2015), EMNLP (2017, 2016, 2015, 2014), COLING (2016, 2014)<br>
+&nbsp;&nbsp;&nbsp;&nbsp; WWW (2016, 2015), AAAI (2016, 2015, 2012), KDD (2015)<br>
+
+			Journal Reviewer:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp; Transactions of the Association for Computational Linguistics (TACL)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp; Journal of Artificial Intelligence Research (JAIR) <br>
+			<p>
+			</p>
+		</div>-->
+
+		<!--<div class="content">
+			<h5 class="text-primary" id="collaborator">Collaborations</h5>
+			It has been my pleasure to work and research with:<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://twitter.com/hannahjean515">Hannah Miller Hillberg</a>
+			(UW Oshkosh)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://www.linkedin.com/in/shuo-chen-666888109">Shuo Chen</a>
+			(MITRE CAASD)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://www.linkedin.com/in/robert-tarakan-57908648">Robert Tarakan</a>
+			(MITRE CAASD)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://www.cs.montana.edu/mwittie/">Mike Wittie</a>
+			(Montana State University)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://apps.carleton.edu/profiles/sgoings/">Sherri Goings</a>
+			(Carleton College)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;<a href=
+			"https://apps.carleton.edu/profiles/rfitzpatrick/">Renata Fitzpatrick</a>
+			(Carleton College)<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;...and many others to follow!<br>
+			<br>
+
+			<p>
+			</p>
+		</div>-->
+
+		<div class="content">
+			<h5 class="text-primary" id="miscellaneous">Miscellaneous</h5>
+
+			<p>In my spare time I visit breweries, see weird indie shows, and try to predict the outcome of <em>The Bachelor</em>.
+				I have competed in exactly one curling tournament, where I was laughed at by a former olympian. 
+				I am an occasional editor on English Wikipedia (1500+ edits and counting).</p>
+
+			<p>I go by Zach or Zachary and my preferred pronouns are <i>he/his/him</i>.</p>
+
+			<p>
+				I am on <a rel="me" href="https://hci.social/@zwlevonian">Mastodon</a>, <a rel="me" href="https://twitter.com/zwlevonian">Twitter</a>, and <a href="https://www.linkedin.com/in/zachary-levonian-376b56a0/">LinkedIn</a>.
+			</p>
+		</div>
+
+		<p><small>This page last edited on October 10, 2023.</small>
+		</p>
+	</div>
+</body>
+
+</html>
