@@ -11,6 +11,12 @@
 }
 
 .title {
+	background-color: #eeeeee;
+	border-radius: 8px;
+}
+
+
+.title-deprecated {
 	clear: right;
 	padding-top: 10px;
 	padding-left: 20px;
@@ -63,8 +69,5 @@ ul.pub {
 .boxed {
     color: #171717;
     border:1px solid #dddddd;
-    margin-bottom: 15px;
     border-radius:25px;
-    padding-right: 15px;
-	padding-left: 15px;
 }
