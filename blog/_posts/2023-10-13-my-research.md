@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Research"
-date:   2023-10-13 16:00:00 -0700
-categories: jekyll update
+date:   2023-10-13 00:00:00 -0700
+categories: research
 ---
 This is a short post about my research interests.
 
