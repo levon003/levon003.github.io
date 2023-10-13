@@ -4,8 +4,6 @@
 
 layout: home
 ---
-<link href="{{ 'assets/main.css' | relative_url }}" rel="stylesheet">
-
 View most of my research and writing on my [homepage](https://levon003.github.io).
 
 This blog has {{ site.posts | size }} posts.
