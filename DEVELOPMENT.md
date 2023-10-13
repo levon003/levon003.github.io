@@ -9,8 +9,10 @@ https://jekyllrb.com/docs/
 homebrew install ruby
 echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
 gem install jekyll bundler
-gem install -n bin jekyll
-./jekyll new blog
+gem install -n gembin jekyll
+# then, add gembin to PATH
+# e.g. echo 'export PATH="/Users/levon003/repos/levon003.github.io/gembin:$PATH"' >> ~/.zshrc
+./gembin/jekyll new blog
 cd blog
 bundle add webrick
 ```
