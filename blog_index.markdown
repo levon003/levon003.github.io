@@ -10,7 +10,7 @@ View most of my research and writing on my [homepage](https://levon003.github.io
 
 This blog has {{ site.posts | size }} posts.
 
-## Posts:
+<!-- ## Posts:
 
 <ul>
   {% for post in site.posts %}
@@ -18,4 +18,4 @@ This blog has {{ site.posts | size }} posts.
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
