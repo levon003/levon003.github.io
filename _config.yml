@@ -22,6 +22,7 @@ title: Zachary Levonian's GitHub blog
 email: levon003@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Zachary Levonian's blog, for self-published writing.
+  Zach is a researcher and data scientist with a PhD in Human-computer Interaction.
 domain: levon003.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://levon003.github.io" # the base hostname & protocol for your site, e.g. http://example.com
