@@ -4,14 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Test edit to about page.
+This blog uses the [minima](https://github.com/jekyll/minima) theme for [Jekyll](https://github.com/jekyll/jekyll).
+The home page uses Bootstrap 5.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you're looking for an "About Me", visit the <a class="page-link" href="{{ site.baseurl }}">homepage</a>.

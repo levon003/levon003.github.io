@@ -27,15 +27,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://levon003.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zwlevonian
 github_username:  levon003
+linkedin_username: zachary-levonian-376b56a0
+mastodon:
+ - username: zwlevonian
+   instance: hci.social
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+# these pages will appear in the header
 header_pages:
  - blog_index.markdown
- - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
