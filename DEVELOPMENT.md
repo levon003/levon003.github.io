@@ -12,7 +12,7 @@ gem install jekyll bundler
 gem install -n gembin jekyll
 # then, add gembin to PATH
 # e.g. echo 'export PATH="/Users/levon003/repos/levon003.github.io/gembin:$PATH"' >> ~/.zshrc
-./gembin/jekyll new blog
+./gembin/jekyll new .
 cd blog
 bundle add webrick
 ```
