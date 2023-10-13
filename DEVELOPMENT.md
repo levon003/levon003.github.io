@@ -19,5 +19,12 @@ To build:
 ```
 cd blog
 bundle install
-bundle exec ../bin/jekyll serve
+bundle binstubs --all
+bin/jekyll serve
+# or bin/jekyll build
+```
+
+Why is a post not building?
+```
+jekyll build --verbose
 ```
