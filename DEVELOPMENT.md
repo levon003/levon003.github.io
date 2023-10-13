@@ -12,6 +12,12 @@ gem install jekyll bundler
 gem install -n bin jekyll
 ./jekyll new blog
 cd blog
-bundle exec ../bin/jekyll serve
+bundle add webrick
 ```
 
+To build:
+```
+cd blog
+bundle install
+bundle exec ../bin/jekyll serve
+```
