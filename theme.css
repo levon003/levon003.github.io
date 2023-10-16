@@ -1,3 +1,17 @@
+a {
+    color: #eb6864;
+    text-decoration: none;
+  
+    &:visited {
+      color: darken(#eb6864, 10%);
+    }
+  
+    &:hover {
+      color: #e22620;
+      text-decoration: underline;
+    }
+}
+
 .container-narrow {
 	width: 840px;
 	padding-right: 15px;
@@ -28,7 +42,8 @@
 	border-radius: 8px;
 }
 
-.text-primary {
+.section-header {
+	color: #eb6864;
 	font-size: 1.2em;
 }
 

@@ -1,0 +1,24 @@
+---
+---
+
+@import "minima";
+
+$brand-color: #eb6864;
+
+a {
+    color: $brand-color;
+    text-decoration: none;
+  
+    &:visited {
+      color: darken($brand-color, 10%);
+    }
+  
+    &:hover {
+      color: $text-color;
+      text-decoration: underline;
+    }
+
+    &.author-link {
+        color: $grey-color;
+    }
+}
