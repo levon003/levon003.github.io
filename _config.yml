@@ -32,6 +32,7 @@ linkedin_username: zachary-levonian-376b56a0
 mastodon:
  - username: zwlevonian
    instance: hci.social
+show_excerpts: true
 
 # Build settings
 theme: minima
