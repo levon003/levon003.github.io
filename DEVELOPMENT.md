@@ -3,7 +3,9 @@ Development notes
 
 ## Jekyll
 
-https://jekyllrb.com/docs/
+Jekyll docs: https://jekyllrb.com/docs/
+
+View the Minima 2.5 docs here: https://github.com/jekyll/minima/tree/2.5-stable
 
 ```
 homebrew install ruby
@@ -26,5 +28,5 @@ bin/jekyll serve
 
 Why is a post not building?
 ```
-jekyll build --verbose
+bin/jekyll build --verbose
 ```
