@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI2 Dolma Most Frequent Words: a derivative dataset of the most common words"
-date:   2023-08-21 00:00:00 -0700
+date:   2023-08-21
 categories: data
 ---
 
@@ -103,7 +103,7 @@ See the markdown table below.
 | 19 | it     |    23.3333  |           32 |   0.00214591 |               13 |       0.00797386 |               25 |       0.00284839 |
 
 ### Why did I make this word list?
-This blog post was made by [Zachary Levonian](https://www-users.cse.umn.edu/~levon003/), a computer science researcher interested in making ML-powered systems useful and accessible.
+I made this because I'm a computer science researcher interested in making ML-powered systems useful and accessible.
 I was primarily motivated by an interest in the ImpACT license, and I wanted to produce a quick Data Derivative.
 I also think [word counts are underrated](https://twitter.com/dmimno/status/1094658594262401026):
 a good way to quickly highlight the similarities and differences of the datasets that make up Dolma.

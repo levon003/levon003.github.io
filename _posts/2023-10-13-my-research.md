@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "My Research"
-date:   2023-10-13 01:00:00 -0700
+date:   2023-10-13
 categories: research
+published: false
 ---
 This is a short post about my research interests.
 
