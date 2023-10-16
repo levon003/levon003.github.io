@@ -4,6 +4,7 @@
 layout: home
 title: Blog Index
 permalink: /blog/
+list_all_posts: false
 ---
 View my peer-reviewed research and writing on my [homepage](https://levon003.github.io).
 
@@ -31,39 +32,44 @@ This page lists my self-published writings, including both posts hosted elsewher
 </ul>
 
 
-## Posts hosted on other sites
+## Posts on [Medium](https://zwlevonian.medium.com/)
 
-<ul>
+<ul class="post-list">
   <li>
-      <a href="https://zwlevonian.medium.com/how-would-you-deal-with-an-ambiguous-problem-data-science-interview-question-891638470572">
-          How would you deal with an ambiguous problem?
-      </a><br>
-      May 2022. Conceptual workflow for scoping Data Science problems.
+    <span class="post-meta">{{ "2022-05-09" | date: date_format }}</span>
+    <h3><a href="https://zwlevonian.medium.com/how-would-you-deal-with-an-ambiguous-problem-data-science-interview-question-891638470572" class="post-link">
+        How would you deal with an ambiguous problem?
+    </a></h3>
+    Conceptual workflow for scoping Data Science problems.
   </li>
   <li>
-      <a href="https://zwlevonian.medium.com/model-vs-modeler-trade-offs-designing-interactive-text-classification-interfaces-cda41c367e89">
-          Model vs Modeler: Trade-offs designing interactive text classification interfaces
-      </a><br>
-      March 2022. Accessible summary of my IUI 2022 paper.
+    <span class="post-meta">{{ "2022-03-09" | date: date_format }}</span>
+    <h3><a class="post-link" href="https://zwlevonian.medium.com/model-vs-modeler-trade-offs-designing-interactive-text-classification-interfaces-cda41c367e89">
+        Model vs Modeler: Trade-offs designing interactive text classification interfaces
+    </a></h3>
+    Accessible summary of my IUI 2022 paper.
   </li>
   <li>
-      <a href="https://nbviewer.org/github/levon003/ml-visualized/blob/master/_notebook/BoWLinRegTweets.ipynb">
-          Basics of machine learning with text data: bag-of-words for linear regression
-      </a><br>
-      October 2021. Twitter data workshop presented to undergraduate HCI researchers.
+    <span class="post-meta">{{ "2021-10-29" | date: date_format }}</span>
+    <h3><a class="post-link" href="https://nbviewer.org/github/levon003/ml-visualized/blob/master/_notebook/BoWLinRegTweets.ipynb">
+        Basics of machine learning with text data: bag-of-words for linear regression
+    </a></h3>
+    Twitter data workshop presented to undergraduate HCI researchers.
   </li>
   <li>
-      <a href="https://zwlevonian.medium.com/integer-linear-programming-with-pulp-optimizing-a-draftkings-nfl-lineup-5e7524dd42d3">
-          Integer Linear Programming with PuLP: Optimizing a DraftKings NFL lineup
-      </a><br>
-      November 2020. Basic introduction to ILP with Python.
+    <span class="post-meta">{{ "2020-11-01" | date: date_format }}</span>
+    <h3><a class="post-link" href="https://zwlevonian.medium.com/integer-linear-programming-with-pulp-optimizing-a-draftkings-nfl-lineup-5e7524dd42d3">
+        Integer Linear Programming with PuLP: Optimizing a DraftKings NFL lineup
+    </a></h3>
+    Basic introduction to ILP with Python.
   </li>
   <li>
-      <a href="https://zwlevonian.medium.com/https-medium-com-zwlevonian-prototyping-a-handheld-with-the-omega2-fcc0545f06c2"
-          style="text-decoration: none">
-          Prototyping a handheld with the Omega2: A complete beginner's guide
-      </a><br>
-      November 2018. Tutorial for making a battery-powered handheld.
+    <span class="post-meta">{{ "2018-11-06" | date: date_format }}</span>
+    <h3><a class="post-link" href="https://zwlevonian.medium.com/https-medium-com-zwlevonian-prototyping-a-handheld-with-the-omega2-fcc0545f06c2"
+        style="text-decoration: none">
+        Prototyping a handheld with the Omega2: A complete beginner's guide
+    </a></h3>
+    Tutorial for making a battery-powered handheld.
   </li>
 </ul>
 
@@ -99,9 +105,9 @@ This page lists my self-published writings, including both posts hosted elsewher
 </ul>
 
 
-## Short posts & other writing stuff hosted on other sites
+## Other writing stuff
 
-<ul>
+<ul class="post-list">
   <li>
       Conference reading lists for <a
           href="https://zwlevonian.medium.com/my-chi-2022-reading-list-6595d5fa901e">CHI 2022</a> and <a
@@ -129,21 +135,13 @@ This page lists my self-published writings, including both posts hosted elsewher
       <a href="https://web.archive.org/web/20230102083258/https://www.wlnjournal.org/archives/v41/41.3-4.pdf"
           id="smt-simple" name="smt-simple" style="font-style: italic; text-decoration: none">
           A Reflection on Reflective Writing Center Work [pdf]</a><br>
-      Renata Fitzpatrick, Julia Kroll, Zachary Levonian<br>
-      <em>WLN: A Journal of Writing Center Scholarship.</em> 2016.
-      I was a Lead Writing Consultant at the Carleton College Writing Center,
-      and we wrote this journal article about our experience.<br>
-  </li>
-  <li>
-      I created a few biographies on English Wikipedia.<br>
-      You can find links and read more about my editing on <a
-          href="https://en.wikipedia.org/wiki/User:Suriname0">my user page</a>.
+      November 2016. Journal article published in <em>WLN: A Journal of Writing Center Scholarship</em>, authored by Renata Fitzpatrick, Julia Kroll, and myself while I was a Lead Writing Consultant at the <a href="https://www.carleton.edu/writing-center/">Carleton College Writing Center</a>.
   </li>
   <li>
       <a
           href="https://meta.wikimedia.org/wiki/Research:ORES_Inspect:_A_technology_probe_for_machine_learning_audits_on_enwiki">
           ORES Inspect: A technology probe for machine learning audits on English Wikipedia
-      </a>
-      I'm working on a side-project to audit the vandalism detection classifiers used on Wikipedia.
+      </a><br>
+      2021-Present. I'm working on a side-project to audit the vandalism detection classifiers used on Wikipedia.
   </li>
 </ul>

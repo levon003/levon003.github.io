@@ -3,6 +3,7 @@ layout: post
 title:  "NLP for Social Computing Workshop"
 date:   2019-03-15
 tags: workshop
+excerpt: Workshop presented to graduate HCI researchers.
 ---
 
 On March 15th, 2019, I presented an "NLP for social computing researchers" workshop for my colleagues in the <a href="https://grouplens.org/">GroupLens</a> lab.

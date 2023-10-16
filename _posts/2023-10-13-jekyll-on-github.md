@@ -3,6 +3,7 @@ layout: post
 title:  "Jekyll on GitHub Pages"
 date:   2023-10-13
 tags: code short
+excerpt: How this blog is configured.
 ---
 I had some difficulty setting up Jekyll for this GitHub site, where a static index page exists alongside a Jekyll blog.
 
