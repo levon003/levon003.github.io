@@ -2,7 +2,7 @@
 layout: post
 title:  "AI2 Dolma Most Frequent Words: a derivative dataset of the most common words"
 date:   2023-08-21
-categories: data
+tags: data
 ---
 
 _Originally published [here](https://github.com/levon003/dolma-count-streamlit/blob/main/BLOGPOST.md). Best viewed [as a Streamlit app](https://dolma-count-levon003.streamlit.app/)._
