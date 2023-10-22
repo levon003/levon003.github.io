@@ -2,7 +2,7 @@
 layout: post
 title:  "“Wishful Mnemonics” in Machine Learning Research"
 date:   2023-10-17
-tags: research short
+tags: research
 excerpt: An always-relevant term from researcher Melanie Mitchell.
 ---
 {% include references.html %}
