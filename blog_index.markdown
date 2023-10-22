@@ -50,13 +50,6 @@ This page lists my self-published writings, including both posts hosted elsewher
     Accessible summary of my IUI 2022 paper.
   </li>
   <li>
-    <span class="post-meta">{{ "2021-10-29" | date: date_format }}</span>
-    <h3><a class="post-link" href="https://nbviewer.org/github/levon003/ml-visualized/blob/master/_notebook/BoWLinRegTweets.ipynb">
-        Basics of machine learning with text data: bag-of-words for linear regression
-    </a></h3>
-    Twitter data workshop presented to undergraduate HCI researchers.
-  </li>
-  <li>
     <span class="post-meta">{{ "2020-11-01" | date: date_format }}</span>
     <h3><a class="post-link" href="https://zwlevonian.medium.com/integer-linear-programming-with-pulp-optimizing-a-draftkings-nfl-lineup-5e7524dd42d3">
         Integer Linear Programming with PuLP: Optimizing a DraftKings NFL lineup
