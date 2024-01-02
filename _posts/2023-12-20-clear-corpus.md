@@ -14,6 +14,6 @@ In [the paper](https://link.springer.com/article/10.3758/s13428-022-01802-x), th
 They collected 111,347 pairwise judgments on about 4793 excerpts.
 These 4793 excerpts were the result of a somewhat complex filtering process. The primary inclusion criteria are (1) "likelihood of being used in a 3rd–12th grade classroom" and (2) "whether or not the topic was appropriate". 
 
-Based on the pairwise judgments, they compute readability scores for each excerpt using a [Bradley–Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model). 
+Based on the pairwise judgments, they compute readability scores for each excerpt using a [Bradley–Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model). (Here's a useful December 2023 preprint from Ian Hamilton, Nick Tawn, David Firth: ["The many routes to the ubiquitous Bradley-Terry model"](https://arxiv.org/abs/2312.13619))
 
 They appear not to have released the pairwise judgment data, which is disappointing. 
