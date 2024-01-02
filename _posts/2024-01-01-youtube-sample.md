@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Paper/dataset: A Random Sample of YouTube"
+title: "Research paper: A Random Sample of YouTube"
 date:   2024-01-01
 tags: research short
-excerpt: A random sample of YouTube.
+excerpt: "McGrady et al.'s 2023 paper \"Dialing for Videos: A Random Sample of YouTube\""
 ---
 
 Ethan Zuckerman [writes](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/):
