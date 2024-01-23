@@ -14,8 +14,8 @@ He makes several points, but he sums up a basic argument in this table of ranked
 
 |                | Win | Lose |
 |----------------|-----|------|
-| Speak my mind  | 4   | 2    |
-| Self-censor    | 3   | 1    |
+| Speak my mind  | 4 (Best)   | 2    |
+| Self-censor    | 3   | 1 (Worst)   |
 
 Most people would rather win than lose, and secondarily would rather speak their mind than self-censor (or follow "message discipline").
 So, if my speaking my mind won't substantially decrease the probability of my side losing, then I'm better off speaking my mind.
