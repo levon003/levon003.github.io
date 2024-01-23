@@ -26,3 +26,12 @@ a {
 .reference-block {
   font-size: 14px;
 }
+
+blockquote {
+  font-style: inherit;
+}
+
+img + em { 	
+  display: block; 
+  text-align: center; 
+}
