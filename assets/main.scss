@@ -35,3 +35,7 @@ img + em {
   display: block; 
   text-align: center; 
 }
+
+li > ol {
+  list-style-type: lower-alpha;
+}
