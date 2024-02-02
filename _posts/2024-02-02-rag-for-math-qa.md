@@ -11,7 +11,7 @@ _This blog post is adapted from a [talk I gave](https://www.ncme.org/events/even
 
 It's an exciting time for text generation in education.
 While there are applications in automated assessment, student feedback, and many other areas, I want to focus on **1-on-1 tutoring**, particularly as it’s implemented in intelligent tutoring systems (ITSs).
-Influenced by [the writings of Kurt VanLehn](https://dl.acm.org/doi/10.5555/1435351.1435353), I conceptualize ITSs as having two "loops": an outer loop where a student selects a task and an inner loop in which the student takes steps toward completing that task.
+Influenced by [the writings of Kurt VanLehn](https://dl.acm.org/doi/10.5555/1435351.1435353), I conceptualize ITSs as having two "loops": an outer loop where a student selects a task and an inner loop where the student takes steps toward completing that task.
 
 ![Inner and outer loops of intelligent tutoring systems](/images/rag-for-math-qa/its_loops.png)
 
@@ -245,7 +245,7 @@ That’s important, because we might want to use RAG even if it _did_ hurt respo
 If we care more about groundedness than about human preference, then we can use prompt engineering to make that trade-off.
 By the way, we can compare the human annotations to our automated groundedness metrics: the correlation is 0.52 between perceived groundedness and K-F1++, which seems pretty good to me. That should increase our trust a bit in using the automated metrics - although risks still exist, as the Cheater condition shows.
 
-**Sidebar: what determined perceived preference and groundedness for our respondents?** \\
+**Sidebar: does relevance affect respondents' preferences?** \\
 How relevant is the retrieved textbook section to the student’s question?
 Intuitively, we might think that the reason high guidance responses are ranked lower by survey respondents is because the retrieved text is low relevance. (After all, [large language models can be easily distracted by irrelevant context](http://proceedings.mlr.press/v202/shi23a.html).)
 We annotated for document relevance (using an existing 4-point scale), and we do see the expected relationship with groundedness: responses with more relevant textbook sections in the prompt are also perceived to be more grounded (_r_=0.56).
