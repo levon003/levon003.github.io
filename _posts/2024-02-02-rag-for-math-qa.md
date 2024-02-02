@@ -207,15 +207,15 @@ So I added a "Cheater" prompt that doubles our K-F1++ score.
 These responses are garbage! 
 I call this the “cheater” condition because it just updates the prompt to say: “Given a middle-school math student’s question, you will identify the most relevant section from the textbook.”
 This should make us concerned. 
-Not only do we need some other way to tell if we’re increasing groundedness in a “good” way, but also we might worry that there’s a trade-off with other things we care potentially more about, like the relevance of the response and its correctness.
+Not only do we need some other way to tell if we’re increasing groundedness in a “good” way, but also we might worry that there’s a trade-off with other things we might care more about, like the relevance of the response and its correctness.
 
-That [work from Alana AI](https://aclanthology.org/2023.findings-acl.60/) gives us a very useful perspective on groundedness by distinguishing it from a related construct that they call **faithfulness**.
+That [paper from Alana AI](https://aclanthology.org/2023.findings-acl.60/) gives us a very useful perspective on groundedness by distinguishing it from a related construct that they call **faithfulness**.
 They say that they “consider a response to be grounded when it (or a paraphrase of it) is found in the retrieved document. They consider a response to be faithful if, in addition to being grounded, it answers the question and follows from the dialogue.
 But we don’t have good automated metrics for faithfulness! In fact, we don’t even have good evaluation _processes_ for faithfulness.
 This is a great opportunity for future work and for interdisciplinary collaboration between the measurement people and the design people: give us surveys, rubrics, and taxonomies appropriate for assessing faithfulness!
 
 In the meantime, we can try to better understand how RAG affects response quality by asking people.
-We’ll have student data Soon™, but for this work we just asked educators.
+We’ll have student data Soon™, but for this work we just asked 9 educators to fill out a survey.
 
 ### Surveying educators about response quality
 
