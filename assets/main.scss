@@ -39,3 +39,13 @@ img + em {
 li > ol {
   list-style-type: lower-alpha;
 }
+
+.aside {
+  text-align: justify;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #483838;
+  padding: 13px;
+  margin: 5px;
+  margin-bottom: 15px;
+}
