@@ -6,7 +6,8 @@ tags: research short
 excerpt: Sources mentioned during the NeurIPS'23 Workshop on Generative AI for Education.
 ---
 
-I attended the [NeurIPS'23 Workshop on Generative AI for Education (GAIED)](https://gaied.org/neurips2023/index.html) in New Orleans. 
+I attended the [NeurIPS'23 Workshop on Generative AI for Education (GAIED)](https://gaied.org/neurips2023/index.html) in New Orleans.
+The organizers put together a nice [summary](https://arxiv.org/abs/2402.01580) of the research presented at the workshop; a lot of the work focused on using in-context learning with OpenAI models. ([My paper](https://arxiv.org/abs/2310.03184) followed that trend.)
 
 During the workshop, a number of interesting sources came up during presentations or in conversations.
 This is my list of those sources (alphabetical):
@@ -66,6 +67,6 @@ Elena Glassman's talk also introduced me to the idea of alignable differences:
  - Elena L. Glassman, Tianyi Zhang, Björn Hartmann, and Miryung Kim. 2018. Visualizing API Usage Examples at Scale. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ’18), April 21, 2018, New York, NY, USA. ACM, 1–12. <https://doi.org/10.1145/3173574.3174154>
  - Litao Yan, Miryung Kim, Bjoern Hartmann, Tianyi Zhang, and Elena L. Glassman. 2022. Concept-Annotated Examples for Library Comparison. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology, October 29, 2022, Bend OR USA. ACM, 1–16. <https://doi.org/10.1145/3526113.3545647>
 
-I presented a paper at the workshop as well:
+The paper I presented at the workshop:
 
 >Zachary Levonian, Chenglu Li, Wangda Zhu, Anoushka Gade, Owen Henkel, Millie-Ellen Postle, and Wanli Xing. 2023. [Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference](https://arxiv.org/abs/2310.03184). In _NeurIPS’23 Workshop on Generative AI for Education (GAIED)_, New Orleans, USA. DOI:<https://doi.org/10.48550/arXiv.2310.03184>
