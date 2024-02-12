@@ -3,7 +3,7 @@ layout: post
 title:  "Book: Black Software"
 date:   2024-02-05
 tags: book short
-excerpt: "Charlton D. McIlwain's book _Black Software_."
+excerpt: "Charlton D. McIlwain's book Black Software."
 ---
 
 I recommend Charlton D. McIlwain's academic-lite book [_Black Software_](https://global.oup.com/academic/product/black-software-9780190863845?cc=us&lang=en&), published in 2020.
