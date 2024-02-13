@@ -6,7 +6,7 @@ tags: statistics simulation reddit games code
 excerpt: "What's the probability of having exactly 111,111g in Stardew Valley?"
 ---
 
-What is the probability of having a particular amount of money in Stardew Valley?
+What is the probability of having a particular amount of money in [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley)?
 That's the question asked by [this Reddit post](https://reddit.com/r/StardewValley/comments/1amkxs3/what_are_the_odds/) on r/StardewValley.
 
 ![Screenshot of Reddit post (captioned in post)](/images/stardew_valley_reddit_post.png)
@@ -46,7 +46,6 @@ By looking at a few of the tables in Jupyter notebook, I wrote some simple parsi
 Now we have data that looks like this:
 
 ```
-...
 Corn [50, 62, 75]
 Hops [25, 31, 37]
 Pepper [40, 50, 60]
