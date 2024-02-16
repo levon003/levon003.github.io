@@ -32,7 +32,7 @@ That is useful, but LLMs are an appealing alternative: we can get (hopefully) fa
 
 Our research team was particularly interested in conceptual Q&A because we were collaborating with the developers of an intelligent tutoring system called [Rori](https://rori.ai/). Rori is focused on procedural support, but at the time didn’t have any built-in conceptual support for students.
 Rori is a smartphone-based chatbot math tutor used by students both in the classroom and at home.
-Rori is a project of the [Rising Academies](https://www.risingacademies.com/) private school system and a participant in the [Learning Engineering Virtual Institute (LEVI)](https://learning-engineering-virtual-institute.org/).
+Rori is a product being developed by [Rising Academies](https://www.risingacademies.com/), an Africa-based education company, school network, and a team in the [Learning Engineering Virtual Institute (LEVI)](https://learning-engineering-virtual-institute.org/).
 (I conducted this research at the [Digital Harbor Foundation](https://digitalharbor.org/), an education non-profit supporting the LEVI program.)
 
 ![Student working with Rori](/images/rag-for-math-qa/rori_student_usage.jpeg)
