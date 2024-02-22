@@ -6,7 +6,7 @@ tags: research
 excerpt: Humans prefer large language model responses to students' conceptual math questions when created with retrieval-augmented generation and "just the right amount" of prompting guidance.
 ---
 
-_This blog post is adapted from a [talk I gave](https://www.ncme.org/events/event-description?CalendarEventKey=641dfcb9-eba4-4958-8aa0-018c39b6d9a4&Home=%2fevents%2fcalendar) at the [NCME AI in Measurement and Education (AIME)](https://www.ncme-aime.org/events.html) speaker series that summarizes a [research paper](https://arxiv.org/abs/2310.03184) I presented at the [NeurIPS'23 Workshop on Generative AI for Education (GAIED)]({% post_url 2023-12-16-gaied-sources %})._
+_This blog post is adapted from a [talk I gave](https://youtu.be/t5sweFptyR4) at the [NCME AI in Measurement and Education (AIME)](https://www.ncme-aime.org/events.html) speaker series that summarizes a [research paper](https://arxiv.org/abs/2310.03184) I presented at the [NeurIPS'23 Workshop on Generative AI for Education (GAIED)]({% post_url 2023-12-16-gaied-sources %})._
 
 
 It's an exciting time for text generation in education.
