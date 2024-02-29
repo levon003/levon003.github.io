@@ -50,3 +50,16 @@ li > ol {
   margin: 5px;
   margin-bottom: 15px;
 }
+
+/* borrowed this from Minimal Mistakes, see https://cottascience.github.io/blog/about-this-website/ */
+.notice--general {
+  margin: 2em 0 !important;
+  padding: 1em;
+  color: #222831;
+  font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  font-size: .75em !important;
+  text-indent: initial;
+  background-color: #e9d8bf;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(214,127,5,0.25);
+}
