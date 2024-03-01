@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research paper: Label Sleuth"
-date:   2024-01-01
+date:   2024-03-01
 tags: research short
 excerpt: "Shnarch et al.'s EMNLP 2022 paper \"Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours\""
 ---
