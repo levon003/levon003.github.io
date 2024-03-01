@@ -8,7 +8,7 @@ excerpt: Tutorials and other useful materials
 
 This post keeps all of the tutorials and resources I find myself regularly sharing with others.
 
-For a longer and less discriminate list of resources, see [this list]({% post_url 2023-03-01-link-dump %}).
+For a longer and less discriminate list of resources, see [this list]({% post_url 2024-03-01-link-dump %}).
 
 Links:
 
