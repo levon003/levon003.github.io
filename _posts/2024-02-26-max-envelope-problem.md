@@ -49,3 +49,5 @@ In the real problem, we don't get to know the distribution from which the envelo
 If I draw my "decision value" (X) from the same (_matching_) distribution, I increase my success probability from 50% to 66%.
 (That implies Pr[min(A,B) < X < max(A,B)] ≈ 0.166 when A, B, and X are drawn from the standard normal distribution.)
 If the distribution I choose has a higher standard deviation (_wide_), my success probability will drop correspondingly (but still be above chance). Similarly, if I shift the distribution's mean (_shifted_) so that fewer decision values lie between A and B, my success probability will also drop. As described in the proof above, it's all about how likely it is that X falls between A and B.
+
+_The code for this simulation is [on GitHub](https://github.com/levon003/levon003.github.io/blob/main/notebooks/MaxTwoEnvelopesSimulation.ipynb)._
