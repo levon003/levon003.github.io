@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Academic writing: avoid ambiguous antecdents"
+title:  "Academic writing: avoid ambiguous antecedents"
 date:   2024-01-31
 tags: research short
-excerpt: Avoid ambiguous antecdenets, and a collection of academic writing tips from various people.
+excerpt: Avoid ambiguous antecedents, and a collection of academic writing tips from others.
 ---
 
 Jordan Boyd-Graber has a useful list of [tips for academic writing](https://users.umiacs.umd.edu/~jbg/static/style.html). Other useful discussion in [this Twitter thread](https://twitter.com/ashleylwatts/status/1740459900382376228).
