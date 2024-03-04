@@ -26,4 +26,9 @@ Here's another perspective on the workshop Helen Dudley was leading, from two-ti
 
 - Sara Evans, [_Tidal Wave: How Women Changed America at Century's End_](https://books.google.com/books/about/Tidal_Wave.html?id=tAy2AAAAIAAJ), 2003.
 
+Further reading: 
+ - [Allie Latimer's bio](https://www.womenofthehall.org/inductee/allie-b-latimer/) in the National Women's Hall of Fame
+ - [Bio and interview with Allie Latimer](https://www.thehistorymakers.org/biography/allie-b-latimer-38) from The Historymakers
+ - [Allie Latimer on Wikipedia](https://en.wikipedia.org/wiki/Allie_B._Latimer)
+
 (I learned about Allie Latimer from [Natan Last](https://natanlast.com/) in [the New York Times crossword](https://www.nytimes.com/2024/03/01/crosswords/daily-puzzle-2024-03-02.html).)
