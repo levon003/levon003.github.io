@@ -8,7 +8,7 @@ list_all_posts: false
 ---
 View my peer-reviewed research and writing on my [homepage](https://levon003.github.io).
 
-This page lists my self-published writings, including both posts hosted elsewhere and {{ site.posts | size }} posts hosted on this blog.
+This page lists my self-published writings, including {{ site.posts | size }} posts hosted on this blog, 4 hosted [on Medium](https://zwlevonian.medium.com/), and a few hosted elsewhere.
 
 ## Posts
 
