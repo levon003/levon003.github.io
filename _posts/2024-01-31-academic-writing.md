@@ -2,7 +2,7 @@
 layout: post
 title:  "Academic writing: avoid ambiguous antecedents"
 date:   2024-01-31
-tags: research short
+tags: research writing short
 excerpt: Avoid ambiguous antecedents, and a collection of academic writing tips from others.
 ---
 
