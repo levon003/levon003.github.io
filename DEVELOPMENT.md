@@ -30,3 +30,14 @@ Why is a post not building?
 ```
 bin/jekyll build --verbose
 ```
+
+## Other notes
+
+Get theme path: `bundle info --path minima`
+
+To override a layout, for example:
+
+```bash
+THEME_PATH=$(bundle info --path minima)
+cp $THEME_PATH/_layouts/default.html _layouts/default.html
+```
