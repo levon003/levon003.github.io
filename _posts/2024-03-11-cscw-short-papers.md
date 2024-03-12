@@ -2,7 +2,7 @@
 layout: post
 title:  "What makes a good short paper at CSCW?"
 date:   2024-03-11
-tags: research short
+tags: research reviewing writing short
 excerpt: Human-computer interaction and social computing contributions that make for good short papers
 ---
 
