@@ -23,3 +23,5 @@ This was hard to debug, because the posts were still accessible at the expected 
 The biggest indicator of the issue was that the blog was formatted with the Primer theme (the GitHub default, as of October 2023) while the `_config.yml` file specified the Minima theme (the Jekyll default).
 
 This code for this site is released under the MIT license; if it's useful, feel free to [build from it](https://github.com/levon003/levon003.github.io).
+
+This site is built on the Minima theme.
