@@ -20,6 +20,8 @@ They start with a provocation, in the form of questions about red-teaming exerci
 It will not surprise you to learn that different researchers answer the first four questions very differently; red-teaming exercises vary in their definition, scope, object of evaluation, model development lifecycle, assessed risks, evaluation criteria, evaluators, and outputs.
 "Our analysis reveals the lack of consensus around the scope, structure, and assessment criteria for AI red-teaming."
 
+### Feffer at al.'s case study analysis
+
 Based on an analysis of six red-teaming exercises as case studies, here's how they present their findings:
 
  - Considerable variation in red-teaming goals and processes across case studies.
@@ -37,10 +39,12 @@ Feffer et al.'s takeaways from these six case studies:
  2. Evaluation team composition introduces biases.
  3. Hesitancy to publicly release methods and results reduces utility of red-teaming.
 
+### Feffer at al.'s literature review
+
 Next, they conducted a literature review of 104 papers that they classify by type of risk and the vulnerability-detection approach used (manual vs algorithmic vs targeted).
 
 They introduce a distinction between _subjective risk_—risk that requires context to determine its threat level—and _subjective risk_—risk that does not require context to evaluate potential harms.
-I found this distinction confusing, since their examples of objective risk (divulging private information, leaking training data, writing insecure code, providing phishing assistance) all seem lke they require context to evaluate their potential harms. That's a point Arvind Narayanan and Sayash Kapoor made in ["AI safety is not a model property"](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property): safety depends on context.
+I found this distinction confusing, since their examples of objective risk (divulging private information, leaking training data, writing insecure code, providing phishing assistance) all seem like they require context to evaluate their potential harms. That's a point Arvind Narayanan and Sayash Kapoor made in ["AI safety is not a model property"](https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property): safety depends on context.
 
 >Safety depends to a large extent on the context and the environment in which the AI model or AI system is deployed. We have to specify a particular context before we can even meaningfully ask an AI safety question. As a corollary, fixing AI safety at the model level alone is unlikely to be fruitful.
 
@@ -52,15 +56,20 @@ From their literature review, Feffer et al. identified six high-level takeaways:
  - No consensus on who should perform red-teaming.
  - Unclear follow-ups to red-teaming activities.
 
+### Feffer at al.'s recommendations
+
 Overall, Feffer et al. argue the following (directly quotes of their recommendations):
  1. Red-teaming is _not_ a panacea.
- 2.  Red-teaming, as currently conducted, is _not_ well-scoped or structured.
+ 2. Red-teaming, as currently conducted, is _not_ well-scoped or structured.
  3. There are no standards concerning what should be reported.
  4. Mitigation steps initiated by red-teaming are often unclear and unrepresentative.
 
-Their final suggestion: use their set of question banks as an approach to scope red-teaming exercises. 
+Their final suggestion: use their set of questions as an approach to scope red-teaming exercises. 
 
 Before red-teaming, Feffer et al. suggest defining the following aspects of the activity: the artifact under evaluation, the threat model, the specific vulnerability, the criteria for assessing success, the team composition, what resources are made available, what instructions to give the team, what access the team is given to the model, and what methods the team can use. 
 You should also decide on what you'll produce after red-teaming: what specific documentation will be written, including a list of the resources consumed, a report on the success criteria, and which risk mitigations to implement.
 
 Overall, I think this is a great framework and a great list of suggestions. Overall, I agree with their provocations: red-teaming is primarily a vibe and it shouldn't be used as the basis for policy or for ensuring a particular standard of "safety".
+I like [this type of short paper]({% post_url 2024-03-11-cscw-short-papers %}): a focused analysis providing evidence for a common assumption and/or debunking a widely held belief.
+
+_We discussed this paper in our weekly [LEVI](https://learning-engineering-virtual-institute.org/) Engineering Hub meeting at the [Digital Harbor Foundation](https://digitalharbor.org/)._
