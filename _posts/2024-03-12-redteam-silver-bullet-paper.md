@@ -60,4 +60,7 @@ Overall, Feffer et al. argue the following (directly quotes of their recommendat
 
 Their final suggestion: use their set of question banks as an approach to scope red-teaming exercises. 
 
-Before red-teaming, Feffer et al. suggest defining the following aspects of the activity: the artifact under evaluation, the threat model, the specific vulnerability, the criteria for assessing success, and the team composition. 
+Before red-teaming, Feffer et al. suggest defining the following aspects of the activity: the artifact under evaluation, the threat model, the specific vulnerability, the criteria for assessing success, the team composition, what resources are made available, what instructions to give the team, what access the team is given to the model, and what methods the team can use. 
+You should also decide on what you'll produce after red-teaming: what specific documentation will be written, including a list of the resources consumed, a report on the success criteria, and which risk mitigations to implement.
+
+Overall, I think this is a great framework and a great list of suggestions. Overall, I agree with their provocations: red-teaming is primarily a vibe and it shouldn't be used as the basis for policy or for ensuring a particular standard of "safety".
