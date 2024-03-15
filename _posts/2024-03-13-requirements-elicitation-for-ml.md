@@ -4,6 +4,7 @@ title:  "Requirements elicitation for machine learning applications"
 date:   2024-03-13
 tags: research design short
 excerpt: "Requirements elicitation for ML-backed designs can be challenging, through the lens of Qian Yang et al.'s CHI paper."
+image: /images/yang_chi2020_fig1.png
 ---
 
 Here's Hilliard Holbrook writing in 1990 (!) about gathering requirements for design:
