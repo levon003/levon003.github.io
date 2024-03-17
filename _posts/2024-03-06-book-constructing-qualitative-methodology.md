@@ -2,7 +2,7 @@
 layout: post
 title:  "Book: Constructing Methodology for Qualitative Research"
 date:   2024-03-06
-tags: research short
+tags: research qualitative short
 excerpt: 2015 book about qualitative research.
 ---
 
