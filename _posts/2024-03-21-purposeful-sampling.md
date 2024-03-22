@@ -45,7 +45,7 @@ Patton quotes Guba and Lincoln's 1981 writings on generalization, suggesting to 
 
 >The degree of _transferability_ is a direct function of the _similarity_ between the two contexts, what we shall call "_fittingness_." Fittingness is defined as degree of congruence between sending and receiving contexts. If context A and context B are "sufficiently" congruent, then working hypotheses from the sending origining context may be applicable in the receiving context.
 
-Patton recommends _extrapolation_, a term he likes because the term "clearly connotes that one has gone beyond the narrow confines of the data to think about other applications of the findings".
+Patton recommends _extrapolation_, a term he likes because it "clearly connotes that one has gone beyond the narrow confines of the data to think about other applications of the findings".
 
 >Extrapolations are modest speculations on the likely applicability of dinings to toherh situation under similar, but not identical, conditions. Extrapolations are logical, thoughtful, case derived, and problem oriented rather than statistical and probabilistic.
 
