@@ -138,3 +138,5 @@ This page lists my self-published writings, including {{ site.posts | size }} po
       2021-Present. I'm working on a side-project to audit the vandalism detection classifiers used on Wikipedia.
   </li>
 </ul>
+
+The text contents of this site are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). In other words, feel free to use or reuse them (with attribution to Zach or a link to the original post).
