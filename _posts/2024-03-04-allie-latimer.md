@@ -2,7 +2,7 @@
 layout: post
 title:  "Interesting person: Allie Latimer"
 date:   2024-03-04
-tags: misc short
+tags: misc history short
 excerpt: Allie Latimer founded Federally Employed Women (FEW).
 ---
 
