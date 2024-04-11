@@ -7,7 +7,7 @@ excerpt: Inference with predicted data, including from text data.
 ---
 
 Inference with predicted data refers to making inferences (causal or otherwise) about a phenomena when some or all of the data we use to make inferences is the result of a predictive algorithm of some kind.
-The dream of using statistcal models to make data collection cheaper has intoxicated many researchers, although the use of predictive models introduces bias.
+The dream of using statistical models to make data collection cheaper has intoxicated many researchers over the years, although the use of predictive models introduces bias.
 Quantifying and correcting that bias remains a long-term open research question.
 
 I may clean this post up later, but here are a few sources discussing these issues:
@@ -21,3 +21,7 @@ In ["Causal Inference in Natural Language Processing: Estimation, Prediction, In
 >The main idea is to use NLP methods to extract confounding aspects from text and then adjust for those aspects in an estimation approach such as propensity score matching. However, how and when these methods violate causal assumptions are still open questions.
 
 My favorite example of this approach is the work of Koustuv Saha, e.g. ["A Social Media Study on the Effects of Psychiatric Medication Use"](https://ojs.aaai.org/index.php/ICWSM/article/view/3242).
+
+Open questions I have:
+ - I would love to see a good taxonomy of the different types of inference with predicted data, beyond Hoffman et al. There are huge bodies of work on, for example, missing data imputation and causal inference that could be united under a single framework.
+ - In what circumstances might using a predictive model reduce bias relative to alternative data collection instruments? Seems hard but valuable to try to quantify this.
