@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Research paper: TnT-LLM"
+title:  "Structuring research narratives"
 date:   2024-04-17
-tags: research paper short
-excerpt: "Short discussion of the 2024 paper \"TnT-LLM: Text Mining at Scale with Large Language Models\""
-image: /images/tntllm_figure1.png
+tags: research writing short
+excerpt: "How to structure research narratives for talks, papers, and posters"
+image: /images/appleton_openings.webp
 ---
 
 Maggie Appleton's notes on ["On Opening Essays, Conference Talks, and Jam Jars"](https://maggieappleton.com/openings).
@@ -16,3 +16,6 @@ A framework taught to me by [Mike Wittie](https://www.cs.montana.edu/mwittie/) d
  2. Technical Problem
  3. Technical Solution
  4. How the Solution Helps Society
+
+![](/images/appleton_openings.webp)
+*Maggie Appleton's beautiful figure adapting Joseph Williams' writing on problem structure.*
