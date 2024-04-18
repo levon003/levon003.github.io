@@ -13,7 +13,7 @@ In their recent work, [Anthropic provide](https://www.anthropic.com/research/man
 Anthropic, along with many others [including me]({% post_url 2024-02-02-rag-for-math-qa %}), find that in-context learning helps.
 In-context learning techniques have blown up in the last few years, including [retrieval augmented generation]({% post_url 2024-02-02-rag-for-math-qa %}), memory augmentation, few-shot learning, and more.
 Few-shot learning is a specific in-context learning technique that involves providing a discrete set of examples in the prompt: increasing the number of provided examples/"shots" will increase performance on a wide range of tasks (with [diminishing returns i.e. power-law performance increases](https://www.anthropic.com/research/many-shot-jailbreaking)).
-For in-context learning in general, many papers have found that benefits scale by power law, e.g. in [2020](https://arxiv.org/abs/2001.08361), [2023](https://arxiv.org/abs/2309.16039), and [2024](https://arxiv.org/abs/2402.00795).
+For in-context learning in general, many papers have found that benefits scale by power law, e.g. in [2020](https://arxiv.org/abs/2001.08361), [2023](https://arxiv.org/abs/2309.16039), and [2024](https://arxiv.org/abs/2402.00795). Many of the remarkable abilities of LLMs on custom tasks may be primarily attributable to in-context learning (see ["Are Emergent Abilities in Large Language Models just In-Context Learning?"](https://arxiv.org/abs/2309.01809)).
 
 But why does in-context learning "work"? It does seem to help, but our knowledge of why is still preliminary. I've been collecting works with something to say about that topic, and I'm actively interested in seeing more work along these lines. Please send me additional papers (on [Mastodon](https://hci.social/@zwlevonian) or [Twitter](https://twitter.com/zwlevonian)).
 
@@ -45,5 +45,7 @@ In ["The Power of Noise: Redefining Retrieval for RAG Systems"](https://arxiv.or
 In ["The Expressive Power of Transformers with Chain of Thought"](https://arxiv.org/abs/2310.07923), Merrill and Sabharwal argue:
 
 >Chain of thought (and similar prompting approaches that produce a "scratchpad" of intermediate results) enables transformers to solve sequential reasoning problems that they otherwise are incapable of.
+
+In ["The Learnability of In-Context Learning"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/73950f0eb4ac0925dc71ba2406893320-Abstract-Conference.html) at NeurIPS'23, Wies et al. derive thoeretical results that align with some of the empirical results described above: "in-context learning is more about identifying the task than about learning it, a result which is in line with a series of recent empirical findings".
 
 Again, these are work-in-progress notes. Please send me additional research with insights on why in-context learning works!
