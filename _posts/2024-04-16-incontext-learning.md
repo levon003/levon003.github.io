@@ -29,6 +29,13 @@ Here's Ruis et al. in ["The Goldilocks of Pragmatic Understanding: Fine-Tuning S
 
 Based on some experiments with randomizing the labels provided with in-context examples, Ruis et al. conclude that "for base models the content of the in-context prompt seems important, whereas for [example-level instruction-fine-tuned] models the in-context examples mainly serve as a primer for the task structure."
 
+In ["Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?"](https://arxiv.org/abs/2202.12837), Min et al. randomizing the labels provided during few-shot learning still produces in-context learning benefits. From the abstract:
+
+>We show that ground truth demonstrations are in fact not required—randomly replacing labels in the demonstrations barely hurts performance on a range of classification and multi-choce tasks, consistently over 12 different models including GPT-3. Instead, we find that other aspects of the demonstrations
+are the key drivers of end task performance, including the fact that they provide a few examples of (1) the label space, (2) the distribution of the input text, and (3) the overall format of the sequence.
+
+Min et al.'s finding is consistent with later work (like Ruis et al.'s discussed above) that format is a critical aspect of in-context learning. (An important implication of this work is that researchers are probably under-reporting *zero*-shot performance in cases where additional unlabeled data is available.)
+
 As [summarized](https://nlpnewsletter.substack.com/p/neurips-2023-primer) by Sebastian Ruder: Prystawski et al. "find that chain-of-thought reasoning is only useful when the training data is locally structured. In other words, when examples are about closely connected topics as is common in natural language. They find that chain-of-thought reasoning is helpful because it incrementally chains local statistical dependencies that are frequently observed in training." See ["Why think step by step? Reasoning emerges from the locality of experience"](https://arxiv.org/abs/2304.03843).
 
 Ruder also summarizes the findings in ["Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning"](https://arxiv.org/abs/2301.11916): "examples that are probable based on a latent concept of a task are useful demonstrations"
