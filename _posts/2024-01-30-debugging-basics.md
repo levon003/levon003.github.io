@@ -20,3 +20,5 @@ Let's assume we found the bug because of a failing unit test (a somewhat idealiz
  4. To understand exactly why the test is failing, you should trace through that specific test using the [VSCode debugger](https://code.visualstudio.com/docs/editor/debugging).
 
 If you fully hit a wall, that's a good time to ask another colleague for help.
+
+Edit (May 2024): Stas Bekman has been writing the ["The Art of Debugging"](https://github.com/stas00/the-art-of-debugging) with a variety of guidance on debugging software systems.
