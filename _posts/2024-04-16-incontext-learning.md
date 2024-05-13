@@ -4,11 +4,15 @@ title:  "In-context learning: why does it work?"
 date:   2024-04-16
 tags: research short
 excerpt: Why do prompting techniques based on in-context learning improve LLM performance?
+image: /images/icl_meme.png
 ---
 
 In their recent work, [Anthropic provide](https://www.anthropic.com/research/many-shot-jailbreaking) a succinct definition of in-context learning:
 
 >In-context learning is where an LLM learns using just the information provided within the prompt, without any later fine-tuning.
+
+![Drake meme that reads "Add examples to the model prompt" on top and "Condition the model through in-context learning with few-shot demonstrations" on bottom.](/images/icl_meme.png){:style="display:block; margin-left: auto; margin-right: auto;"}
+*From Jo Kristian Bergum [on Twitter](https://twitter.com/jobergum/status/1789197209340141837).*
 
 Anthropic, along with many others [including me]({% post_url 2024-02-02-rag-for-math-qa %}), find that in-context learning helps.
 In-context learning techniques have blown up in the last few years, including [retrieval augmented generation]({% post_url 2024-02-02-rag-for-math-qa %}), memory augmentation, few-shot learning, and more.
