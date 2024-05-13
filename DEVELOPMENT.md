@@ -42,10 +42,18 @@ THEME_PATH=$(bundle info --path minima)
 cp $THEME_PATH/_layouts/default.html _layouts/default.html
 ```
 
-## jekyll-seo-tag
+### jekyll-seo-tag
 
 The Minima theme includes the [`jekyll-seo-tag`](https://jekyll.github.io/jekyll-seo-tag/) plugin, which will generate [Open Graph](https://ogp.me/) metadata.
 
 Advanced usage: <https://jekyll.github.io/jekyll-seo-tag/advanced-usage/#customizing-image-output>
 
 To include an image in a post preview on social media, add `image: images/filename.png` to the front matter.
+
+### Python
+
+Virtual environment recommended for local development:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
