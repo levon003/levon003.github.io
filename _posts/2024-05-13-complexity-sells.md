@@ -2,9 +2,13 @@
 layout: post
 title:  "Complexity Sells"
 date:   2024-05-13
-tags: research short hci 
-excerpt: "Eugene Yan argues that complexity sells"
+tags: research short hci ml
+excerpt: "Eugene Yan argues that complexity sells. Not during AI winters!"
+image: /images/divisumma24.jpg
 ---
+
+![A photo of the Divisumma 24 with its cover removed, revealing complex internals.](/images/divisumma24.jpg){:style="display:block; margin-left: auto; margin-right: auto;"}
+*The complex Olivetti Divisumma 24. Photo credit: Hannes Grobe via [Wikimedia Commons (CC BY-SA 2.5)](https://commons.wikimedia.org/wiki/File:Calculator_divisumma24_hg.jpg)*
 
 In ["Simplicity is An Advantage but Sadly Complexity Sells Better"](https://eugeneyan.com/writing/simplicity/), Eugene Yan argues that "complexity sells", even when simplicity would do just as well (or better). He points out a few reasons for this dynamic:
 
