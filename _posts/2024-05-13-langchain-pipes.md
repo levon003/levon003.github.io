@@ -2,7 +2,7 @@
 layout: post
 title:  "Why can you use the pipe operator ('|') in LangChain?"
 date:   2024-05-13
-tags: code llm short
+tags: code python llm short
 excerpt: "LangChain lets you write chains using vertical pipes. How? By overriding __or__."
 ---
 
