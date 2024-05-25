@@ -12,7 +12,7 @@ When students are trying to solve a problem in a digital interface, presenting a
 For automated hints to be helpful, they have to contain some information about the problem.
 As Jean McKendree argued back in 1990, "receiving some information about the nature of the error is more useful than simply knowing that an error has been made" (McKendree, ["Effective Feedback Content for Tutoring Complex Skills"](https://www.tandfonline.com/doi/abs/10.1207/s15327051hci0504_2), 1990).
 
-However, designing iautomated hints is challenging. The effectiveness of hints is highly contextual (Inventado et al., ["Contextual factors affecting hint utility"](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0107-6), 2018), so we might need to create different "types" of hints that are useful for the specific topic, student, or problem.
+However, designing automated hints is challenging. The effectiveness of hints is highly contextual (Inventado et al., ["Contextual factors affecting hint utility"](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0107-6), 2018), so we might need to create different "types" of hints that are useful for the specific topic, student, or problem.
 
 Creating hints is a time-consuming human activity, partially because students can be stuck on a problem in diverse ways. 
 For this reason, it would be nice to use large language models (LLMs) to generate hints "on the fly" that incorporate a student's prior work on this problem or topic.
