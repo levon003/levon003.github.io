@@ -17,7 +17,7 @@ Influenced by [the writings of Kurt VanLehn](https://dl.acm.org/doi/10.5555/1435
 
 
 If we want to improve intelligent tutoring systems using large language models (LLMs), most design opportunities I've seen target the inner loop.
-For example, using LLMs to generate hints or hint sequences in response to students' work.
+For example, using LLMs to [generate hints or hint sequences]({% post_url 2024-05-24-math-hint-generation %}) in response to students' work.
 Question and answer sessions can fit this mold too.
 Q&A with human tutors is one of the most impactful learning interventions we know about, and I like to distinguish between two approaches to math Q&A:
  - **Procedural Q&A**: our goal is enhancing students’ procedural fluency using strategies like step-by-step problem solving for specific math topics. This is an "inner loop" intervention!
