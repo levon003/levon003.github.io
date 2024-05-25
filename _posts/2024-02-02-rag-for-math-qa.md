@@ -2,7 +2,7 @@
 layout: post
 title:  Using retrieval-augmented generation to improve math question-answering
 date:   2024-02-02
-tags: research
+tags: research llm education
 excerpt: Humans prefer large language model responses to students' conceptual math questions when created with retrieval-augmented generation and "just the right amount" of prompting guidance.
 ---
 

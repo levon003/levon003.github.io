@@ -20,6 +20,7 @@ Links:
  - Relational database indexing: <https://use-the-index-luke.com/>
  - Data analysis/regression: <https://stats.oarc.ucla.edu/other/dae/>
  - Topic modeling: <https://maria-antoniak.github.io/2022/07/27/topic-modeling-for-the-people.html>
+ - Linear algebra: <https://www.3blue1brown.com/topics/linear-algebra>
 
 Papers:
  -"Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice": <https://dl.acm.org/doi/abs/10.1145/3359174>
