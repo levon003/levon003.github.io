@@ -111,7 +111,7 @@ Tangibly, to do retrieval-augmented generation for conceptual Q&A, we need to ad
 And to do that, we need to make a lot of small decisions.
 Because the technique is so general—you can use it for any text generation task—learnings from one task context might not generalize to middle-school math conceptual Q&A.
 The theory of why RAG works to improve the quality of the generated responses is, unfortunately, somewhat unclear. 
-It’s basically the theory of why in-context learning works. 
+It’s basically the theory of [why in-context learning works]({% post_url 2024-04-16-incontext-learning %}). 
 That includes techniques like few-shot prompting, “think step by step”, and other prompt engineering stuff, as well as more complex approaches like tree of thought.
 The evidence is currently pretty unclear here, but including texts in the prompt is basically a very stupid way of approximating the posterior predictive distribution: it gets us into the right probability space.
 Intuitively, that means RAG will be useful for providing formatting and language that we want our answer to contain.
