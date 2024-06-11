@@ -4,6 +4,7 @@ title:  "Generating math hints with large language models"
 date:   2024-05-24
 tags: research education llm
 excerpt: "Large language models are pretty good at generating hints for students, given the right constraints."
+image: /images/levi_math_hint_streamlit_interface.png
 ---
 
 When a student gets a math problem wrong, teachers sometimes provide hints to get them on the right track. The core idea behind giving hints is to return the student to a place of “good friction” with the material by reducing their cognitive load enough for them not to be overwhelmed but not so much that no learning occurs.
@@ -44,6 +45,9 @@ I won't talk in detail about the technical approach I used; one technique I expl
 
 I created the [`llm-math-education`](https://github.com/DigitalHarborFoundation/llm-math-education) Python package to implement hint generation with OpenAI's GPT-3.5 LLM.
 In collaboration with [The Learning Agency](https://the-learning-agency.com/) and [Rising Academies](https://www.risingacademies.com/), we released the [Math Hint Generation Chatbot](https://levi-math-hints.streamlit.app/) ([press release](https://www.waltonfamilyfoundation.org/teachers-believe-ai-can-boost-classroom-creativity-and-support-learning-survey-finds)) to demonstrate the potential utility of hint generation.
+
+![Screenshot of demo interface for "Creating math hints with ChatGPT", featuring entries for a teaching objective and a practice problem to generate a hint for.](/images/levi_math_hint_streamlit_interface.png)
+*You can [try the demo](https://levi-math-hints.streamlit.app/), hosted on Streamlit.*
 
 The basic idea of the tool is to make it quick for teachers to write hints for math problems.
 For example, Rori has a variety of nicely-written hints (in the "hint sequence" style) delivered after multiple incorrect attempts at a problem.
