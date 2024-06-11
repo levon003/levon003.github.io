@@ -43,7 +43,7 @@ So, I did some preliminary work exploring hint generation for [Rori](https://ror
 I won't talk in detail about the technical approach I used; one technique I explored to improve the quality and relevance of hints to a student's work is retrieval augmented generation, which [I also applied to improve answers to students' conceptual math questions]({% post_url 2024-02-02-rag-for-math-qa %}). Read that post for more details.
 
 I created the [`llm-math-education`](https://github.com/DigitalHarborFoundation/llm-math-education) Python package to implement hint generation with OpenAI's GPT-3.5 LLM.
-In collaboration with [The Learning Agency](https://the-learning-agency.com/) and [Rising Academies](https://www.risingacademies.com/), we released the Math Hint Generation Chatbot tool (public release coming soon) to demonstrate the potential utility of hint generation.
+In collaboration with [The Learning Agency](https://the-learning-agency.com/) and [Rising Academies](https://www.risingacademies.com/), we released the [Math Hint Generation Chatbot](https://levi-math-hints.streamlit.app/) ([press release](https://www.waltonfamilyfoundation.org/teachers-believe-ai-can-boost-classroom-creativity-and-support-learning-survey-finds)) to demonstrate the potential utility of hint generation.
 
 The basic idea of the tool is to make it quick for teachers to write hints for math problems.
 For example, Rori has a variety of nicely-written hints (in the "hint sequence" style) delivered after multiple incorrect attempts at a problem.
@@ -76,6 +76,8 @@ But, with the right design approach, I'm confident that we can improve hint gene
 In the shorter term, I think it makes more sense to focus on helping teachers write lesson plans and worksheets.
 In putting together the Math Hint Generation Chatbot, I noticed that the hints are not yet consistently reliable enough to show directly to students, but after reading a generated hint I often found myself with a new idea about how I would engage a student about a problem.
 I hope the demo gets educators thinking about how or if these types of hints might be useful as first drafts that prompt new ideas and higher-quality interactions with students.
+
+_For more demos using LLMs to improve education technology, check out ["Five New Tools From The AI LEVI Lab"](https://learning-engineering-virtual-institute.org/introducing-five-tools-from-the-ai-levi-lab/)._
 
 ### Further Reading
 
