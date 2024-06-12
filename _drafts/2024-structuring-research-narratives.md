@@ -19,3 +19,7 @@ A framework taught to me by [Mike Wittie](https://www.cs.montana.edu/mwittie/) d
 
 ![](/images/appleton_openings.webp)
 *Maggie Appleton's beautiful figure adapting Joseph Williams' writing on problem structure.*
+
+### Other resources
+
+ - ["10 tips for academic talks"](https://matt.might.net/articles/academic-presentation-tips/). See the section on "Motivation" in particular.
