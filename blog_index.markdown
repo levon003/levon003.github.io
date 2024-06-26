@@ -130,13 +130,6 @@ This page lists my self-published writings, including {{ site.posts | size }} po
           A Reflection on Reflective Writing Center Work [pdf]</a><br>
       November 2016. Journal article published in <em>WLN: A Journal of Writing Center Scholarship</em>, authored by Renata Fitzpatrick, Julia Kroll, and myself while I was a Lead Writing Consultant at the <a href="https://www.carleton.edu/writing-center/">Carleton College Writing Center</a>.
   </li>
-  <li>
-      <a
-          href="https://meta.wikimedia.org/wiki/Research:ORES_Inspect:_A_technology_probe_for_machine_learning_audits_on_enwiki">
-          ORES Inspect: A technology probe for machine learning audits on English Wikipedia
-      </a><br>
-      2021-Present. I'm working on a side-project to audit the vandalism detection classifiers used on Wikipedia.
-  </li>
 </ul>
 
 The text contents of this site are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). In other words, feel free to use or reuse them (with attribution to Zach or a link to the original post).
