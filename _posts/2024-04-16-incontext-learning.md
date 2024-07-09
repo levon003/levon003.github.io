@@ -15,7 +15,7 @@ In their recent work, [Anthropic provide](https://www.anthropic.com/research/man
 *From Jo Kristian Bergum [on Twitter](https://twitter.com/jobergum/status/1789197209340141837).*
 
 Anthropic, along with many others [including me]({% post_url 2024-02-02-rag-for-math-qa %}), find that in-context learning helps.
-In-context learning techniques have blown up in the last few years, including [retrieval augmented generation]({% post_url 2024-02-02-rag-for-math-qa %}), memory augmentation, few-shot learning, and more.
+In-context learning techniques have blown up in the last few years, including [retrieval augmented generation]({% post_url 2024-02-02-rag-for-math-qa %}), memory augmentation, few-shot learning, [many-shot learning](https://arxiv.org/abs/2404.11018), and more.
 Few-shot learning is a specific in-context learning technique that involves providing a discrete set of examples in the prompt: increasing the number of provided examples/"shots" will increase performance on a wide range of tasks (with [diminishing returns i.e. power-law performance increases](https://www.anthropic.com/research/many-shot-jailbreaking)).
 For in-context learning in general, many papers have found that benefits scale by power law, e.g. in [2020](https://arxiv.org/abs/2001.08361), [2023](https://arxiv.org/abs/2309.16039), and [2024](https://arxiv.org/abs/2402.00795). Many of the remarkable abilities of LLMs on custom tasks may be primarily attributable to in-context learning (see ["Are Emergent Abilities in Large Language Models just In-Context Learning?"](https://arxiv.org/abs/2309.01809)).
 

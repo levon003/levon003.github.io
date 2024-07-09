@@ -53,7 +53,7 @@ I call the process the authors are describing here ["operationalizing"](https://
  The core observation of the paper is that these modeling choices admit many possibilities, and they suggest adopting a hypergraph perspective to capture some of the multiplicities involved in operationalizing data into a graph and analyzing that graph.
 
  In my own work {{ref3}}, I remember feeling very frustrated making decisions about how to construct a graph from online social interaction data. It was hard to tell which graph modeling decisions were consequential for my analysis and which were not.
- If I was going to do that study again, I would consider using some of the hypergraph modeling and visualization approaches described in the paper (and repleased in the [`hyperbard`](https://github.com/hyperbard/hyperbard) Python implementation).
+ If I was going to do that study again, I would consider using some of the hypergraph modeling and visualization approaches described in the paper (and released in the [`hyperbard`](https://github.com/hyperbard/hyperbard) Python implementation).
 
 The choice of a playful presentation format for a genuine research topic reminds me of publications in [alt.CHI](https://kieranbrowne.com/research/altchi-2020-a-readers-guide/); I wish more venues would be open to this kind of experimentation and [non-standard academic forms](https://osf.io/preprints/psyarxiv/2uxwk/) for publication. 
 (My favorite alt.CHI paper is McNutt et al.'s "Divining Insights" {{ref2}}, which doesn't mess much with form but is a lovely research provocation.)
