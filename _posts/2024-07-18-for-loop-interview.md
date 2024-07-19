@@ -16,7 +16,7 @@ An amazing anecote, and I was somewhat chagrined to realize that I would almost 
 
 Here are the programming languages I listed on the July 2024 version of my resume and my self-assesment of whether I could write a [`for` loop](https://en.wikipedia.org/wiki/For_loop) in that language.
 
-The current version of my resume lists the following languages
+The current version of my resume lists the following 13 languages:
 
 | Language | Can I write a `for` loop in this language? |
 | -- | --|
