@@ -21,3 +21,7 @@ Both my Apple M2 Pro and AWS Fargate systems use an OpenMP backend.
 ## Multi-processing vs multi-threading
 
 StackOverflow has a [useful answer](https://stackoverflow.com/a/19518207/4146714) explaining the distinction between threads and processes.
+
+## torch.compile
+
+["torch.compile, the missing manual"](https://docs.google.com/document/d/1y5CRfMLdwEoF1nTk9q8qEu1mgMUuUtvhklPKJ2emLU8/edit?usp=sharing) by Edward Yang
