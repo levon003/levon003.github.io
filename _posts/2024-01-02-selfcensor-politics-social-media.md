@@ -2,7 +2,7 @@
 layout: post
 title:  "Research idea: estimate the causal impact of sharing your true opinions on social media"
 date:   2024-01-02
-tags: research idea short
+tags: research politics idea short
 excerpt: A research/design opportunity for social media communication behaviors.
 ---
 Should leftists (or any political group) self-censor their true political views in order to appear less off-putting to other social media users?
