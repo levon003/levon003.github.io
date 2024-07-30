@@ -1,0 +1,6 @@
+Environment:
+
+```bash
+poetry install
+poetry run pip install torch --index-url https://download.pytorch.org/whl/cpu
+```
