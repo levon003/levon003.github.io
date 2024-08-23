@@ -43,7 +43,7 @@ Hullman's post also raises an important point about designing with algorithmic a
 >People sometimes resist the thought of formalizing the goals of some human-computer interaction, as if that automatically equates to taking agency from the human. .... When we leave things fully to the human at the highest level, that is also a design choice, one that usually makes problems harder to find because we're less clear on what we're looking for. So I tend to think that when the thought of formalizing or automating some task makes us prickly, it's probably something we could learn from thinking more about.
 
 A critic might respond that formalizing and designing with 'AI' might not _automatically_ equate to taking agency from the human, but - in the context of hegemonic algorithmic systems - it is the expected outcome (cf. Brian Merchant, ["Understanding the real threat generative AI poses to our jobs"](https://www.bloodinthemachine.com/p/understanding-the-real-threat-generative)).
-It is this risk that requires us to embrace conceptual work (like Nick Seavers's ethnographic research with [recommendation systems](https://press.uchicago.edu/ucp/books/book/chicago/C/bo183892298.html)) that enables us to understand where design can be useful and where it will merely enable more efficient harm.
+It is this risk that requires us to embrace conceptual work (like Nick Seaver's ethnographic research with [recommendation systems](https://press.uchicago.edu/ucp/books/book/chicago/C/bo183892298.html)) that enables us to understand where design can be useful and where it will merely enable more efficient harm.
 
 ### Designing is formalizing
 
