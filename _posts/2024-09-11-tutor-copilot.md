@@ -8,7 +8,7 @@ excerpt: "A project at PLUS using large language models for real-time support."
 
 I recently implemented a Tutor Co-pilot in collaboration with the team at Carnegie Mellon working on [PLUS](https://www.tutors.plus/en/). PLUS (Personalized Learning Squared) is training and management software for math tutors.
 
-I recently implemented Tutor Co-pilot with the PLUS team, a feature to provide real-time scaffolding for math problems.
+Tutor Co-pilot is a new feature for PLUS to provide real-time scaffolding for math problems.
 
 [According to instructor Rebecca Alber](https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber):
 
