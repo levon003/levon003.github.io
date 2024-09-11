@@ -17,3 +17,5 @@ A few related GitHub repositories:
 - [Generalized Optimal Sparse Decision Trees](https://github.com/ubc-systopia/gosdt-guesses) (Python package)
 - [FasterRisk](https://github.com/interpretml/FasterRisk) (Python package for sparse linear models with integer coefficients)
 - [Pycorels](https://github.com/corels/pycorels) (Python package, not maintained)
+
+Zachary Lipton's ["The Mythos of Model Interpretability"](https://arxiv.org/abs/1606.03490) was also hugely influential on my thinking about interpretability.
