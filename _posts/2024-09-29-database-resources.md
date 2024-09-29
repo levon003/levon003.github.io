@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Resources for building databases and data processing systems"
-date:   2024-09-26
-tags: code short
-excerpt: "DVC (Data Version Control) is a nifty tool."
+date:   2024-09-29
+tags: code data short
+excerpt: "A collection of links for learning about databases."
 ---
 
 On structuring and processing data:
