@@ -17,7 +17,6 @@ Books:
 
 Links:
  - Embeddings: <https://vickiboykis.com/what_are_embeddings/>
- - Relational database indexing: <https://use-the-index-luke.com/>
  - Data analysis/regression: <https://stats.oarc.ucla.edu/other/dae/>
  - Topic modeling: <https://maria-antoniak.github.io/2022/07/27/topic-modeling-for-the-people.html>
  - Linear algebra: <https://www.3blue1brown.com/topics/linear-algebra>
@@ -27,3 +26,6 @@ Papers:
 
 Paywalled links:
  - Linguistics: <https://link.springer.com/book/10.1007/978-3-031-02150-3>
+
+My own compilations of learning materials:
+ - [Databases and data processing]({% post_url 2024-09-29-database-resources %})
