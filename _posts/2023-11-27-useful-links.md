@@ -27,7 +27,7 @@ Papers:
 Paywalled links:
  - Linguistics: <https://link.springer.com/book/10.1007/978-3-031-02150-3>
 
-My own compilations of learning materials:
+My own compilations of learning materials. These are short lists of useful sources on a particular topic:
  - [Databases and data processing]({% post_url 2024-09-29-database-resources %})
  - [Asynchronous programming in Python]({% post_url 2024-09-30-python-async %})
  - [Using linear regression for ordinal variables](https://zwlevonian.medium.com/why-not-use-linear-regression-for-star-ratings-58c0cd0e5dae)

@@ -108,14 +108,6 @@ This page lists my self-published writings, including {{ site.posts | size }} po
       Short summaries of recommended human-computer interaction papers.
   </li>
   <li>
-      Annotated source lists for <a
-          href="https://zwlevonian.medium.com/why-not-use-linear-regression-for-star-ratings-58c0cd0e5dae">using
-          linear regression for ordinal variables</a> and <a
-          href="https://zwlevonian.medium.com/information-theory-crowdsourced-sources-15c1ec66ab3e">information
-          theory</a><br>
-      Short lists of useful sources on a particular topic.
-  </li>
-  <li>
       <a href="https://grouplens.org/blog/are-bots-ravaging-online-encyclopedias/"
           style="text-decoration: none">
           Are Bots Ravaging Online Encyclopedias?
