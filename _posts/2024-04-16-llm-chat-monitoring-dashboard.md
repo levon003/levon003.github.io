@@ -7,7 +7,7 @@ excerpt: Ensuring student safety with monitoring dashboards for students' LLM ch
 image: /images/llm-safety/moderation_report_teaser.png
 ---
 
-I've previously written about [my work with Rori]({% post_url 2024-02-02-rag-for-math-qa %}) designing educational and useful generative chat experiences for math students. We've launched a number of generative chats and initial results are promising (preprint coming soon). Here, I want to summarize our approach to monitoring student safety during generative chats.
+I've previously written about [my work with Rori]({% post_url 2024-02-02-rag-for-math-qa %}) designing educational and useful generative chat experiences for math students. We've launched a number of generative chats and initial results are promising (check out the [workshop paper](https://arxiv.org/abs/2407.04915) we presented at EDM 2024). Here, I want to summarize our approach to monitoring student safety during generative chats.
 
 Our key intuition about student safety during generative chats is that we can adapt behavior management techniques used in 1-on-1 tutoring sessions. Automated systems must define their behavior management approach ahead of time, which already has a more general name: automated content moderation.
 
