@@ -2,7 +2,7 @@
 layout: post
 title: "An interesting two envelopes problem"
 date:   2024-02-26
-tags: statistics algorithms short
+tags: statistics algorithms simulation short
 excerpt: "A probability question posted on Twitter."
 ---
 
@@ -34,6 +34,10 @@ The solution:
 >So your success probability is 0.5 + Pr[min(A,B) < X < max(A,B)] > 0.5. 
 
 I don't know if this problem or class of problems has a name. Intuitively, it seems related to the [two envelopes problem](https://en.wikipedia.org/wiki/Two_envelopes_problem).
+
+Edit September 2024: Thanks to [Vince Buffalo](https://twitter.com/vsbuffalo/status/1840543256712818822) on Twitter for pointing to two sources on this problem:
+ - Theodore Hill writes about the problem in ["Knowing When to Stop: How to gamble if you must—the mathematics of optimal stopping"](https://www.jstor.org/stable/27859299) [[pdf](https://hill.math.gatech.edu/publications/PAPER%20PDFS/AmSciKnowingWhenToStop_Online2009.pdf)] (_American Scientist_, 2009). Hill points out that this problem is the _n_=2 case of the [secretary problem](https://en.wikipedia.org/wiki/Secretary_problem).
+ - Pradeep Mutalik writes about the problem in ["Solution: ‘Information From Randomness?’"](https://www.quantamagazine.org/solution-information-from-randomness-20150722/) (_Quanta Magazine_, July 2015). Mutalik observes that Thomas Cover published a solution to this problem in 1987.
 
 ## Simulating the max two envelope problem
 

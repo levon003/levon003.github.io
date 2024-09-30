@@ -22,10 +22,13 @@ Links:
  - Linear algebra: <https://www.3blue1brown.com/topics/linear-algebra>
 
 Papers:
- -"Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice": <https://dl.acm.org/doi/abs/10.1145/3359174>
+ - "Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice": <https://dl.acm.org/doi/abs/10.1145/3359174>
 
 Paywalled links:
  - Linguistics: <https://link.springer.com/book/10.1007/978-3-031-02150-3>
 
 My own compilations of learning materials:
  - [Databases and data processing]({% post_url 2024-09-29-database-resources %})
+ - [Asynchronous programming in Python]({% post_url 2024-09-30-python-async %})
+ - [Using linear regression for ordinal variables](https://zwlevonian.medium.com/why-not-use-linear-regression-for-star-ratings-58c0cd0e5dae)
+ - [Information theory](https://zwlevonian.medium.com/information-theory-crowdsourced-sources-15c1ec66ab3e)
