@@ -3,12 +3,10 @@ layout: post
 title:  "Two approaches to statistical modeling?"
 date:   2024-09-30
 tags: research statistics
-excerpt: "Three papers that break down the goals and approaches of statistical modeling."
+excerpt: "Three papers that break down the goals of statistical modeling."
 ---
 
-This post is a quick summary of three papers that break down the goals and approaches of statistical modeling. I find myself returning to these papers often, and I heartily recommend reading all three.
-
-The three papers:
+This post is a quick summary of three papers that break down the goals and approaches of statistical modeling. I find myself returning to these papers often, and I heartily recommend reading all three:
 
  - Breiman's ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full) (2001)
  - ["On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes"](https://papers.nips.cc/paper_files/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html) (2001)
