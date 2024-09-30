@@ -34,17 +34,17 @@ on the data.
 
 I associate data modeling culture with an interest in [interpretable machine learning]({% post_url 2024-05-18-interpretable-ml %}).
 
- ### Interpretability
+#### Interpretability
 
- >Unfortunately, in prediction, accuracy and simplicity (interpretability) are in conflict. For instance, linear regression gives a fairly interpretable picture of the y, X relation. But its accurac is usually less than that of the less interpretable neural nets.
+>Unfortunately, in prediction, accuracy and simplicity (interpretability) are in conflict. For instance, linear regression gives a fairly interpretable picture of the y, X relation. But its accuracy is usually less than that of the less interpretable neural nets.
 
- Breiman calls this the _Occam dilemma_: "Accuracy generally requires more complex prediction methods. Simple and interpretable functions do not make the most accurate predictors."
+Breiman calls this the _Occam dilemma_: "Accuracy generally requires more complex prediction methods. Simple and interpretable functions do not make the most accurate predictors." He claims that "the models that best emulate nature in terms of predictive accuracy are also the most complex and inscrutable."
 
-"the models that best emulate nature in terms of predictive accuracy are also the most complex and inscrutable"
+>The point of a model is to get useful information about the relation between the response and predictor variables. Interpretability is a way of getting information.
 
->The point of a model is to get useful information about the relation between the response and pre dictor variables. Interpretabilityis a way of getting
-information.
+I like this re-framing of interpretability as a process for getting information about the variables. It's interesting that in the 20 years since this was published a whole field (mechanistic interpretability) arose using interpretability methods to understand the functioning of the _model_, which demonstrates how complex the models have gotten!
 
+#### Responses
 
 In 2021, the journal _Observational Studies_ published a [special issue with 28 commentaries](https://muse.jhu.edu/pub/56/issue/45147) on Breiman's essay. [Nandita Mitra](https://www.mitrastatslab.com/team) [summarizes the repsonses](https://muse.jhu.edu/pub/56/article/799740) as covering:
 
@@ -61,7 +61,7 @@ In 2021, the journal _Observational Studies_ published a [special issue with 28 
 ["On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes"](https://papers.nips.cc/paper_files/paper/2001/hash/7b7a53e239400a13bd6be6c91c4f6c4e-Abstract.html) is a famous paper by famous authors: Andrew Ng and Michael I. Jordan.
 It focuses on the distinction between _discriminative_ and _generative_ classifiers, providing a useful abstraction for thinking about modeling.
 
->Generative classifiers learn a model of the joint probability, _p(x,y)_, of the inputs _x_ and the label _y_, and make their predictions by using Bayes rules to calculate _p(y|x)_, and then picking the most likely label _y_. Discriminative classifiers model the posterior _p(y|x)_ directly, or learn a direct map from inputs _x_ to the class labels. There are several compelling reasons for using discriminative rather than generative classifiers, one of which, succinctly articulated by [Vapnik](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034), is that "one should solve the [classification] problem directly and never solve a more general problem as an intermediate step [such as modeling _p(x|y)_]."
+>Generative classifiers learn a model of the joint probability, _p(x,y)_, of the inputs _x_ and the label _y_, and make their predictions by using Bayes rules to calculate _p(y\|x)_, and then picking the most likely label _y_. Discriminative classifiers model the posterior _p(y\|x)_ directly, or learn a direct map from inputs _x_ to the class labels. There are several compelling reasons for using discriminative rather than generative classifiers, one of which, succinctly articulated by [Vapnik](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034), is that "one should solve the [classification] problem directly and never solve a more general problem as an intermediate step [such as modeling _p(x\|y)_]."
 
 I found this distinction hugely helpful when I was first learning about machine learning, although this distinction between the posterior and the joint probability is fairly tenuous for many modeling approaches.
 
@@ -80,6 +80,9 @@ They lay these four approaches to modeling in a 2x2 grid reflecting two primary 
  - Focusing on _specific features or causal effects_ vs _outcomes_
  - One dataset (no experimental intervention or distributional shift) vs multiple datasets (e.g. comparisons under intervention or under distributional shift)
 
+ Descriptive and explanatory modeling are mostly self-explanatory, but the distinction between predictive and integrative modeling is a little more subtle:
 
 >Whereas [predictive modeling] concerns itself with data that are out of sample, but still from the same (statistical) distribution, [for integrative modeling] the focus is on generalizing ‘out of distribution’ to a situation that might change either naturally, owing to some factor out of our control, or because of some intentional intervention such as an experiment or change in policy.
 
+While planning a new modeling project, I encourage researchers to think through the specific type of modeling they are trying to do.
+These days, many people I work with try to apply predictive modeling tools for explanatory or integrative modeling tasks. 
