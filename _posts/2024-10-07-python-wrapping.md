@@ -5,16 +5,16 @@ tags: python code short
 excerpt: "The Python package Langfuse uses Wrapt to intercept calls to module functions."
 ---
 
-The Python package Langfuse provides a [drop-in replacement for the `openai` module](https://langfuse.com/docs/integrations/openai/python/get-started). To use it, you can just update your import statements:
+The Python SDK for [Langfuse](https://langfuse.com/) provides a ["drop-in replacement" for the `openai` module](https://langfuse.com/docs/integrations/openai/python/get-started). To use it, you just update your import statements:
 
 ```diff
 - import openai
 + from langfuse.openai import openai
 ```
 
-Then, you use the `openai` module like normal and it monitors and logs your calls to a server for later analysis.
+Then, you use the `openai` module like normal and it monitors and logs your function calls to a server for later analysis.
 
-This approach uses a `import-from` statement, so there must be a module with the name `openai` assigned in the module `langfuse.openai`.
+This approach uses an `import-from` statement, so there must be a module with the name `openai` assigned in the module `langfuse.openai`.
 
 If we look at [the code](https://github.com/langfuse/langfuse-python/blob/37d0632b65a48803adfdba4c852a2b0b5dfd3d88/langfuse/openai.py#L39), we indeed see that the name is defined (via import):
 
@@ -29,8 +29,10 @@ So, `OpenAILangfuse.register_tracing()` must be overriding or wrapping the funct
 
 At a high level, they use Graham Dumpleton's [`wrapt`](https://wrapt.readthedocs.io/en/master/) package. Graham's blog post ["How you implemented your Python decorator is wrong"](https://github.com/GrahamDumpleton/wrapt/blob/develop/blog/01-how-you-implemented-your-python-decorator-is-wrong.md) articulates some of the motivation for `wrapt`.
 A later blog (["Safely applying monkey patches in Python"](https://github.com/GrahamDumpleton/wrapt/blob/develop/blog/11-safely-applying-monkey-patches-in-python.md)) is more relevant to our specific use-case here: monkey-patching a module's class methods.
-Graham points out that monkey patching is non uncommonly used "to add instrumentation to existing Python code in order to add performance monitoring capabilities".
+Graham points out that monkey patching is not uncommonly used "to add instrumentation to existing Python code in order to add performance monitoring capabilities".
 Langfuse isn't focused on performance, but it is trying to add monitoring capabilities to existing Python code.
+
+## How it works
 
 I implemented a slimmed down version of Langfuse's wrapping code. (See the whole `re_wrapper.py` file [on GitHub](https://github.com/levon003/levon003.github.io/blob/main/src/langfuse_wrapper/re_wrapper.py).) Instead of adding complex monitoring to a third-party module, I'll set my sights a little lower: adding monitoring to the built-in regex module `re`.
 
@@ -59,7 +61,7 @@ wrap_function_wrapper(
 )
 ```
 
-`get_monitor_singleton` is a method that retrieves a singleton class instance that will do whatever monitoring activities we need to do. The Langfuse implementation called the function that retrieves this singleton `initialize`. I think that's a bit confusing since all the function currently does is retrieve this singleton, but conceptually this function initializes a wrapped function invocation by retrieving the monitor object. For this demo, I just had the monitor object keep track of the function calls in a list:
+`get_monitor_singleton` is a method that retrieves a singleton class instance that will do whatever monitoring activities we need to do. The Langfuse implementation called the function that retrieves this singleton `initialize`. I think that's a bit confusing since all the function currently does is retrieve this singleton, but conceptually this function _initializes_ monitoring within the wrapped function invocation by retrieving the monitor object. For this demo, I just had the monitor object keep track of function calls in a list:
 
 ```python
 class ReMonitor:
@@ -88,14 +90,17 @@ def _wrap(function_name, get_monitor_singleton, wrapped, args, kwargs):
 There's a lot going on here, but we can start by looking at the arguments to `_wrap`:
  - `function_name` -  This is just the name of the function that is being wrapped, which allows our monitor to keep track of which function we wrapped with `wrap_function_wrapper` is being called.
  - `get_singleton_instance` - This is the function we passed to `wrap_function_wrapper`; it will enable `_wrap` to actually record monitoring results by retrieving the singleton `ReMonitor` instance.
- - `wrapped`, `args`, `kwargs` - Where did these three positional arguments come from? We didn't include them in the above call to `_wrap`. We can guess that these are being populated by the `@_re_wrapper` decorator, which we'll look at next. By looking at their usage in the function, we can further guess that `wrapped` is the wrapped function, that we need to execute with the positional (`args`) and keyword (`kwargs`) arguments passed to the wrapped function.
+ - `wrapped`, `args`, `kwargs` - Where did these three positional arguments come from? We didn't include them in the above call to `_wrap`. We can guess that these are being populated by the `@_re_wrapper` decorator, which we'll look at next. By looking at their usage in the function, we can further guess that `wrapped` is the wrapped function that we need to execute with the positional (`args`) and keyword (`kwargs`) arguments passed to the wrapped function.
 
 If we ignore the exception handling code, all `_wrap`'s implementation is really doing is:
 
 ```python
-monitor = get_monitor_singleton()  # get the monitor object
-result = wrapped(*args, **kwargs)  # invoke the function, retrieving a result
-monitor.do_something(args, kwargs, result)  # have the monitor do something with the arguments and/or result
+# get the monitor object
+monitor = get_monitor_singleton()
+# invoke the function, retrieving a result
+result = wrapped(*args, **kwargs)
+# have the monitor do something with the arguments and/or result
+monitor.do_something(args, kwargs, result)
 ```
 
 In the implementation above, I'm just saving all of that stuff into a dictionary and adding it to the monitor object's `memory` list.
@@ -128,15 +133,17 @@ It's easy to verify the behavior of our wrapper implementation (see [demo code](
 ```python
 from re_wrapper import re, modifier
 def main():
-    # note that to retrieve the monitor singleton we have to retrieve it from the wrapper package by calling get_singleton_monitor() ourselves
-    memory = modifier.get_singleton_monitor().memory
     match = re.search("a", "abcdef")
+    # we can retrieve the monitor singleton from the ReWrapped object
+    memory = modifier.get_singleton_monitor().memory
     assert memory[0]["result"] == match
-    print(memory)  # will print [{'function': 'search', 'args': ('a', 'abcdef'), 'kwargs': {}, 'result': <re.Match object; span=(0, 1), match='a'>}]
+    print(memory)
 ```
 
-In general, I would aim to be pretty careful using this kind of approach. 
+This demo will print `[{'function': 'search', 'args': ('a', 'abcdef'), 'kwargs': {}, 'result': <re.Match object; span=(0, 1), match='a'>}]`.
+
+In general, I would think hard before I chose to use this type of module monkey-patching. 
 For a monitoring library like Langfuse, it makes a lot of sense.
-But if I just wanted to monitor my own usage of a particular module's functions, I would just explicitly wrap those calls within a monitor object created for each of those invocations. That gives me the flexibility to choose which invocations I want to monitor and makes the monitoring process visible in the invoking code. But if I was trying to monitor a large codebase where making major changes was impossible or costly but I _could_ tweak the imports, I might consider using the `wrapt` monkey-patching approach to add monitoring without any other code changes.
+But if I just wanted to monitor my own usage of a particular module's functions, I would just explicitly wrap those calls within a monitor object created specifically for my monitoring use case. Creating a monitor object or monitoring function makes the monitoring process visible in my code and gives me the flexibility to choose which invocations I want to monitor. But if I was trying to monitor a large codebase where making major changes was impossible or costly but I _could_ tweak the imports, I might consider using the `wrapt` monkey-patching approach to add monitoring without any other code changes.
 
 _I don't write that much about Python, but I've previously written on [chaining with '\|' in LangChain]({% post_url 2024-05-13-langchain-pipes %})._

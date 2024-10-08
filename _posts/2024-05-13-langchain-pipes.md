@@ -127,3 +127,5 @@ assert e.invoke(1) == "value: 10"
 The downside to this approach is that we must have at least one Runnable in the chain or Python won't know we're expecting to produce a RunnableSequence, which could be unintuitive if you didn't understand how LangChain overrides the binary OR operator.
 
 Overall, I found myself surprised at how easy it is to achieve this complex bit of syntactic sugar. I'm not sure this is better than the more vanilla approach used by scikit-learn's [Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html), for example, but the approach is interesting and creates a unique feel to the core operation in LangChain: chaining together operations.
+
+_You might also be interested in reading about how Langfuse monitors function calls in the OpenAI Python library [with "drop-in replacement" imports]({% post_url 2024-10-07-python-wrapping %})._
