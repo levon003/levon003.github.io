@@ -1,20 +1,11 @@
-"""If you use the OpenAI Python SDK, you can use the Langfuse drop-in replacement to get full logging by changing only the import.
+"""This is a drop-in replacement for the `re` module.
+It enables monitoring of function calls with the re module by changing only the import.
 
 ```diff
-- import openai
-+ from langfuse.openai import openai
+- import re
++ from re_wrapper import re
 ```
-
-Langfuse automatically tracks:
-
-- All prompts/completions with support for streaming, async and functions
-- Latencies
-- API Errors
-- Model usage (tokens) and cost (USD)
-
-The integration is fully interoperable with the `observe()` decorator and the low-level tracing SDK.
-
-See docs for more details: https://langfuse.com/docs/integrations/openai
+See post for more details: https://levon003.github.io/2024/10/07/python-wrapping.html
 """
 
 from typing import Optional
@@ -25,6 +16,8 @@ import re
 
 
 class ReDefinition:
+    # I don't discuss this in the blog post, but ReDefinition is just a dataclass for the functions in re that will be replaced.
+    # We can store any other metadata we like about the wrapped functions in the ReDefinition, which will be available in the wrapper function.
     module: str
     function_name: str  # e.g. Completions.create
 
@@ -38,53 +31,23 @@ RE_METHODS = [
         module="re",
         function_name="search",
     )
+    # If we wanted to replace additional methods in re, we would just add them here.
+    # Note there's a subtle "gotcha": you can't wrap functions on immutable objects e.g. function_name "Pattern.search".
+    # This isn't a problem for Langfuse, since all the objects that openai creates are mutable.
 ]
 
 
-class WrapperClient:
+class ReMonitor:
     def __init__(self):
         self.memory = []
 
 
-"""
-OPENAI_METHODS_V1 = [
-    OpenAiDefinition(
-        module="openai.resources.chat.completions",
-        object="Completions",
-        method="create",
-        type="chat",
-        sync=True,
-    ),
-    OpenAiDefinition(
-        module="openai.resources.completions",
-        object="Completions",
-        method="create",
-        type="completion",
-        sync=True,
-    ),
-    OpenAiDefinition(
-        module="openai.resources.chat.completions",
-        object="AsyncCompletions",
-        method="create",
-        type="chat",
-        sync=False,
-    ),
-    OpenAiDefinition(
-        module="openai.resources.completions",
-        object="AsyncCompletions",
-        method="create",
-        type="completion",
-        sync=False,
-    ),
-]"""
-
-
 def _re_wrapper(func):
-    def _with_re(re_definitions, initialize):
-        # these are the arguments expected in a wrapt wrapper function
-        # see: https://wrapt.readthedocs.io/en/master/quick-start.html
+    def _with_re(re_definition: ReDefinition, get_singleton_monitor):
+        # These are the arguments expected in a wrapt wrapper function
+        # See: https://wrapt.readthedocs.io/en/master/quick-start.html
         def wrapper(wrapped, instance, args, kwargs):
-            return func(re_definitions, initialize, wrapped, args, kwargs)
+            return func(re_definition, get_singleton_monitor, wrapped, args, kwargs)
 
         return wrapper
 
@@ -92,9 +55,9 @@ def _re_wrapper(func):
 
 
 @_re_wrapper
-def _wrap(re_resource: ReDefinition, initialize, wrapped, args, kwargs):
-    new_langfuse: WrapperClient = initialize()
-    new_memory = {"args": args, "kwargs": kwargs}
+def _wrap(re_resource: ReDefinition, get_singleton_monitor, wrapped, args, kwargs):
+    monitor: ReMonitor = get_singleton_monitor()
+    new_memory = {"function": re_resource.function_name, "args": args, "kwargs": kwargs}
 
     try:
         result = wrapped(*args, **kwargs)
@@ -104,16 +67,16 @@ def _wrap(re_resource: ReDefinition, initialize, wrapped, args, kwargs):
         new_memory["error"] = str(ex)
         raise ex
     finally:
-        new_langfuse.memory.append(new_memory)
+        monitor.memory.append(new_memory)
 
 
 class ReWrapped:
-    _wrapper_client: Optional[WrapperClient] = None
+    _monitor_singleton: Optional[ReMonitor] = None
 
-    def initialize(self) -> WrapperClient:
-        if self._wrapper_client is None:
-            self._wrapper_client = WrapperClient()
-        return self._wrapper_client
+    def get_singleton_monitor(self) -> ReMonitor:
+        if self._monitor_singleton is None:
+            self._monitor_singleton = ReMonitor()
+        return self._monitor_singleton
 
     def register_tracing(self):
         resources = RE_METHODS
@@ -121,7 +84,7 @@ class ReWrapped:
             wrap_function_wrapper(
                 resource.module,
                 resource.function_name,
-                (_wrap(resource, self.initialize)),
+                (_wrap(resource, self.get_singleton_monitor)),
             )
 
 
