@@ -57,11 +57,11 @@ modifier.register_tracing()
 wrap_function_wrapper(
     re,
     "search",
-    _wrap("search", get_monitor_singleton),
+    _wrap("search", get_singleton_monitor),
 )
 ```
 
-`get_monitor_singleton` is a method that retrieves a singleton class instance that will do whatever monitoring activities we need to do. The Langfuse implementation called the function that retrieves this singleton `initialize`. I think that's a bit confusing since all the function currently does is retrieve this singleton, but conceptually this function _initializes_ monitoring within the wrapped function invocation by retrieving the monitor object. For this demo, I just had the monitor object keep track of function calls in a list:
+`get_singleton_monitor` is a method that retrieves a singleton class instance that will do whatever monitoring activities we need to do. The Langfuse implementation called the function that retrieves this singleton `initialize`. I think that's a bit confusing since all the function currently does is retrieve this singleton, but conceptually this function _initializes_ monitoring within the wrapped function invocation by retrieving the monitor object. For this demo, I just had the monitor object keep track of function calls in a list:
 
 ```python
 class ReMonitor:
@@ -73,8 +73,8 @@ It's the `_wrap` function that contains the complexity. `wrap_function_wrapper` 
 
 ```python
 @_re_wrapper
-def _wrap(function_name, get_monitor_singleton, wrapped, args, kwargs):
-    monitor: ReMonitor = get_monitor_singleton()
+def _wrap(function_name, get_singleton_monitor, wrapped, args, kwargs):
+    monitor: ReMonitor = get_singleton_monitor()
     new_memory = {"function": function_name, "args": args, "kwargs": kwargs}
     try:
         result = wrapped(*args, **kwargs)
@@ -89,14 +89,14 @@ def _wrap(function_name, get_monitor_singleton, wrapped, args, kwargs):
 
 There's a lot going on here, but we can start by looking at the arguments to `_wrap`:
  - `function_name` -  This is just the name of the function that is being wrapped, which allows our monitor to keep track of which function we wrapped with `wrap_function_wrapper` is being called.
- - `get_singleton_instance` - This is the function we passed to `wrap_function_wrapper`; it will enable `_wrap` to actually record monitoring results by retrieving the singleton `ReMonitor` instance.
+ - `get_singleton_monitor` - This is the function we passed to `wrap_function_wrapper`; it will enable `_wrap` to actually record monitoring results by retrieving the singleton `ReMonitor` instance.
  - `wrapped`, `args`, `kwargs` - Where did these three positional arguments come from? We didn't include them in the above call to `_wrap`. We can guess that these are being populated by the `@_re_wrapper` decorator, which we'll look at next. By looking at their usage in the function, we can further guess that `wrapped` is the wrapped function that we need to execute with the positional (`args`) and keyword (`kwargs`) arguments passed to the wrapped function.
 
 If we ignore the exception handling code, all `_wrap`'s implementation is really doing is:
 
 ```python
 # get the monitor object
-monitor = get_monitor_singleton()
+monitor = get_singleton_monitor()
 # invoke the function, retrieving a result
 result = wrapped(*args, **kwargs)
 # have the monitor do something with the arguments and/or result
