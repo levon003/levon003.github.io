@@ -2,7 +2,7 @@
 layout: post
 title:  "Destroy 'AI', but keep designing with ML"
 date:   2024-06-26
-tags: research hci design
+tags: research hci wikipedia design
 excerpt: "Ali Alkhatib argues in a blog post that we should destroy AI. I see a few glimmers of hope."
 ---
 
