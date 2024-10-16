@@ -2,7 +2,7 @@
 layout: post
 title:  Adding references to unreferenced Wikipedia articles
 date:   2024-02-28
-tags: wikipedia misc short
+tags: wikipedia short
 excerpt: A February 2024 "edit-a-thon" shows the variety in unreferenced Wikipedia articles.
 ---
 Did you know that 100,000+ articles on Wikipedia cite no sources? In February 2024, [a community edit-a-thon](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Unreferenced_articles/Backlog_drives/February_2024) aimed to reduce that number by finding and adding sources to articles.
