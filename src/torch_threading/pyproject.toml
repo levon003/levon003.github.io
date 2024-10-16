@@ -3,7 +3,7 @@ name = "torch-threading"
 version = "0.0.1"
 description = "Exploring the threading behavior of PyTorch"
 authors = [
-    "Zachary Levonian <levon003@umn.edu>",
+    "Zachary Levonian <zacharylevonian@gmail.com>",
 ]
 license = "MIT"
 repository = "https://github.com/levon003/levon003.github.io/tree/main/src/torch_threading"
