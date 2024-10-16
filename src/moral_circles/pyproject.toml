@@ -3,7 +3,7 @@ name = "moral-circles"
 version = "0.0.1"
 description = "Moral circles"
 authors = [
-    "Zachary Levonian <levon003@umn.edu>",
+    "Zachary Levonian <zacharylevonian@gmail.com>",
 ]
 license = "MIT"
 repository = "https://github.com/levon003/levon003.github.io/tree/main/src/moral_circles"
