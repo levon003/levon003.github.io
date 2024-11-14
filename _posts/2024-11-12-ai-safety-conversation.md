@@ -20,10 +20,16 @@ A few of my personal take-aways from the conversation and from reflecting on the
    - For example, is it possible to build a silicon mind? I have no idea. As someone with very little exposure to ideas like this, I find it essentially impossible to imagine "consciousness, but not human-like". But existential risk arguments seem to rely on non-human-like consciousness.
    - Generally, I agreed with Jeff and Eli about their empirical description of the current world.
  - Existential risk from AI is fundamentally about making predictions about the future, and I believe that humans are very bad forecasters.
+ - A lot of our conversation focused on group coordination.
+   - Humans have gotten a lot better at group coordination, but we notably don't seem to be improving our coordination exponentially.
+   - Could AI systems improve themselves exponentially through better coordination? I'd expect them to experience significant coordination friction (in the same sorts of ways that humans do), but maybe AI systems have qualities that will enable them to avoid coordination problems? For example:
+     - Access to your own and other's memories in a direct way
+     - Faster communication
+     - Shared goals, or at least communicable goals
  - It seems like getting a good signal for self-improvement is hard.
    - A system with a reliable self-improvement signal and sufficient resources could probably improve itself.
  - It seems like there's something distinct about the signal you get from "real life", as opposed to doing a lot of computing on data you already have, but it's hard to say what that is.
-    - A Zoom call is a real reward signal! An AI system could certainly improve itself by talking with humans via Zoom, in the same way that humans improve ourselves by talking with humans via Zoom. But, it's slow; intuitively, you're constrained by communication speed. Do these constraints apply 
+    - A Zoom call is a real reward signal! An AI system could certainly improve itself by talking with humans via Zoom, in the same way that humans improve ourselves by talking with humans via Zoom. But, it's slow; intuitively, you're constrained by communication speed.
 
 Resources recommended by Jeff and Eli at the conclusion of the call:
  - Robert Miles' [YouTube channel](https://www.youtube.com/@RobertMilesAI/featured)

@@ -6,7 +6,7 @@ excerpt: "Resources for prompt engineering with large language models."
 ---
 
 _Prompt engineering_ refers to tweaking a pre-written _prompt_ - the text context provided to a large language model (LLM) - in order to improve LLM response quality.
-I've used prompt engineering [to improve student math Q\&A]({% post_url 2024-02-02-rag-for-math-qa %}), for example.
+I've used prompt engineering [to improve student math Q&A]({% post_url 2024-02-02-rag-for-math-qa %}), for example.
 
 This post rounds up a few resources related to prompt engineering.
 
