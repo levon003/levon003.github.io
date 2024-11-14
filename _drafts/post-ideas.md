@@ -8,3 +8,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Proxy task: e.g. binary
     In language learning, they use Yes/No "is this a real word" as a validated CAT.
     [LexTALE](https://www.lextale.com/index.html) I scored 100% lol
+- open-source contributions
+    https://github.com/burnash/gspread/pull/1529
+    https://github.com/iterative/dvc.org/pull/5312
+    https://github.com/mediawiki-utilities/python-oresapi/pull/1

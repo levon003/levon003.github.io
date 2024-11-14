@@ -53,3 +53,8 @@ In ["The Expressive Power of Transformers with Chain of Thought"](https://arxiv.
 In ["The Learnability of In-Context Learning"](https://proceedings.neurips.cc/paper_files/paper/2023/hash/73950f0eb4ac0925dc71ba2406893320-Abstract-Conference.html) at NeurIPS'23, Wies et al. derive thoeretical results that align with some of the empirical results described above: "in-context learning is more about identifying the task than about learning it, a result which is in line with a series of recent empirical findings".
 
 Again, these are work-in-progress notes. Please send me additional research with insights on why in-context learning works!
+
+Edit (2024-11-13): In ["Bayesian scaling laws for in-context learning"](https://arxiv.org/abs/2410.16531), Arora et al. argue that ICL approximates a "Bayesian learner": "Prior work has established strong correlations between the number of in-context examples provided and the accuracy of the model's predictions. In this paper, we seek to explain this correlation by showing that ICL approximates a Bayesian learner. This perspective gives rise to a family of novel Bayesian scaling laws for ICL." They point to a number of other papers that make similar claims about the link between ICL and Bayesian perspetives.
+
+They define the Bayesian model of ICL using by conceptualizing ICL as an expectation maximization problem over tasks.
+That is, given a set of tasks {_T_<sub>1</sub>, _T_2, ..., _T_M} and a document consisting of a set of terms {σ1, σ2, ..., σ_n_}, the model estimates the probability that a document is a particular task _p_(_T_m | D) using Bayes rule.
