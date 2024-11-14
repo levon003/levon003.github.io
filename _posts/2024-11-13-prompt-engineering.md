@@ -15,4 +15,5 @@ Resources:
  - From Ethan Mollick:
    - "Innovation through prompting": <https://www.oneusefulthing.org/p/innovation-through-prompting>
    - "Prompts for Instructors": <https://www.moreusefulthings.com/instructor-prompts>
+   - "Stop Writing All Your AI Prompts from Scratch": <https://hbsp.harvard.edu/inspiring-minds/an-ai-prompting-template-for-teaching-tasks>
  

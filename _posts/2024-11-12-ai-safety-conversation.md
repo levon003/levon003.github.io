@@ -47,4 +47,5 @@ Other resources I've stumbled across:
  - Consciousness
    - "The Hard Problem of Consciousness": <https://iep.utm.edu/hard-problem-of-conciousness/>
    - "Consciousness": <https://plato.stanford.edu/entries/consciousness/>
-
+ - "Should AI Progress Speed Up, Slow Down, or Stay the Same?" by Miles Brundage: <https://milesbrundage.substack.com/p/should-ai-progress-speed-up-slow>
+   - Not specifically related to existential risks, but a good argument for the utility of building policy and governance structures capable of slowing the rate of AI progress (even if we choose not to use them).
