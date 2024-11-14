@@ -98,7 +98,7 @@ Ideally, we’d like to tune between these two extremes, and there is a long his
 But because we’re so enamored with large language models, and their fluency is so much better then the previous generation of models, we might want to lean as close to the ChatGPT side of things as we can.
 
 While there are many approaches we might use, the most prominent approach is to use **retrieval-augmented generation** (RAG).
-By retrieval-augmented generation, I mean a combination of prompt engineering and a retrieval system.
+By retrieval-augmented generation, I mean a combination of [prompt engineering]({% post_url 2024-11-13-prompt-engineering %}) and a retrieval system.
 Without RAG, we provide a textual prompt to condition the model’s generated response.
 In the basic use case, we’d do prompt engineering.
 We could incorporate the student’s question in the prompt in some way until the generated responses start looking good.

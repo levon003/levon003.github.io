@@ -30,5 +30,6 @@ Paywalled links:
 My own compilations of learning materials. These are short lists of useful sources on a particular topic:
  - [Databases and data processing]({% post_url 2024-09-29-database-resources %})
  - [Asynchronous programming in Python]({% post_url 2024-09-30-python-async %})
+ - [Prompt engineering]({% post_url 2024-11-13-prompt-engineering %})
  - [Using linear regression for ordinal variables](https://zwlevonian.medium.com/why-not-use-linear-regression-for-star-ratings-58c0cd0e5dae)
  - [Information theory](https://zwlevonian.medium.com/information-theory-crowdsourced-sources-15c1ec66ab3e)
