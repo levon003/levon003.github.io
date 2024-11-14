@@ -69,7 +69,7 @@ For each task _T*_, they define the scaling law for that task by defining a samp
 In other words, this expectation relates the number of in-context examples in D to the expected probability of the next example, asserting a direct relationship between n and _p_(σ | D).
 They assert the following Bayesian scaling law for the expectation:
 
->𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ | D) ] = ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n+1</sup> _p_(_T_) ⟯ / ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n</sup> _p_(_T_) ⟯ 
+>𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ \| D) ] = ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ \| _T_) ]<sup>n+1</sup> _p_(_T_) ⟯ / ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ \| _T_) ]<sup>n</sup> _p_(_T_) ⟯ 
 
 where _p_(_T_) is the prior probability of task _T_ and 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> is estimated using δ(_T_, σ).
 I'm quite confused by their notational choices, so some of those details may be wrong.
