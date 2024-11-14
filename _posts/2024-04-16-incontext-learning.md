@@ -61,5 +61,8 @@ That is, given a set of tasks τ = {_T_<sub>1</sub>, _T_<sub>2</sub>, ..., _T_<s
 _p_(_T_<sub>m</sub>) is assumed/given.
 _p_(D) can be computed as the sum of _p_(D | _T_<sub>m</sub>) _p_(_T_<sub>m</sub>) for all m ∈ τ.
 _p_(D | _T_<sub>m</sub>) can be estimated using each task's likelihood function δ(_T_<sub>m</sub>, σ), which is a probability distribution over the tokens for each task i.e. δ(_T_<sub>m</sub>, σ) = _p_(σ | _T_<sub>m</sub>).
-So, _p_(D | _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ) / |D|.
+So, _p_(D | _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ).
 
+For each task, they define the scaling law for that task by defining a sampling distribution λ over the terms that comprise examples from that task. In other words, they sample a document D from λ with n in-context examples, and compute the "next-example probability" 𝔼<sub>σ ~ λ</sub> [ _p_(σ | D) ].
+They assert the following Bayesian scaling law for the expectation:
+𝔼<sub>σ ~ λ</sub> [ _p_(σ | D) ] = ∑<sub><i>T</i> ∈ τ</sub>
