@@ -60,8 +60,8 @@ They define the Bayesian model of ICL using by conceptualizing ICL as an expecta
 That is, given a set of tasks τ = {_T_<sub>1</sub>, _T_<sub>2</sub>, ..., _T_<sub>M</sub>} and a document D consisting of a set of terms {σ<sub>1</sub>, σ<sub>2</sub>, ..., σ<sub>n</sub>}, the model estimates the probability that a document is a particular task _p_(_T_<sub>m</sub> | D) using Bayes rule: _p_(_T_<sub>m</sub> | D) = _p_(D | _T_<sub>m</sub>) _p_(_T_<sub>m</sub>) / _p_(D).
 
  - _p_(_T_<sub>m</sub>) is assumed/given.
- - _p_(D) can be computed as the sum of _p_(D | _T_<sub>m</sub>) _p_(_T_<sub>m</sub>) for all m ∈ τ.
- - _p_(D | _T_<sub>m</sub>) can be estimated using each task's likelihood function δ(_T_<sub>m</sub>, σ), which is a probability distribution over the tokens for each task i.e. δ(_T_<sub>m</sub>, σ) = _p_(σ | _T_<sub>m</sub>).
+ - _p_(D) can be computed as the sum of _p_(D \| _T_<sub>m</sub>) _p_(_T_<sub>m</sub>) for all m ∈ τ.
+ - _p_(D \| _T_<sub>m</sub>) can be estimated using each task's likelihood function δ(_T_<sub>m</sub>, σ), which is a probability distribution over the tokens for each task i.e. δ(_T_<sub>m</sub>, σ) = _p_(σ \| _T_<sub>m</sub>).
 
 So, _p_(D | _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ).
 
