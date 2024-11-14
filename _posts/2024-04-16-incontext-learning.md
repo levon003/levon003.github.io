@@ -64,6 +64,10 @@ _p_(D | _T_<sub>m</sub>) can be estimated using each task's likelihood function 
 So, _p_(D | _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ).
 
 For each task _T*_, they define the scaling law for that task by defining a sampling distribution λ<sub><i>T*</i></sub> over the terms that comprise examples from that task. In other words, they sample a document D from λ<sub><i>T*</i></sub> with n in-context examples, and compute the "next-example probability" as the expectation 𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ | D) ].
+In other words, this expectation relates the number of in-context examples in D to the expected probability of the next example, asserting a direct relationship between n and _p_(σ | D).
 They assert the following Bayesian scaling law for the expectation:
-𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ | D) ] = ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n+1</sup> _p_(_T_) ⟯ / ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n</sup> _p_(_T_) ⟯ where _p_(_T_) is the prior probability of task _T_ and 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> is estimated using δ(_T_, σ).
+
+>𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ | D) ] = ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n+1</sup> _p_(_T_) ⟯ / ⟮ ∑<sub><i>T</i> ∈ τ</sub> 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> [ _p_(σ | _T_) ]<sup>n</sup> _p_(_T_) ⟯ 
+
+where _p_(_T_) is the prior probability of task _T_ and 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> is estimated using δ(_T_, σ).
 I'm quite confused by their notational choices, so some of those details may be wrong.
