@@ -63,7 +63,7 @@ That is, given a set of tasks τ = {_T_<sub>1</sub>, _T_<sub>2</sub>, ..., _T_<s
  - _p_(D) can be computed as the sum of _p_(D \| _T_<sub>m</sub>) _p_(_T_<sub>m</sub>) for all m ∈ τ.
  - _p_(D \| _T_<sub>m</sub>) can be estimated using each task's likelihood function δ(_T_<sub>m</sub>, σ), which is a probability distribution over the tokens for each task i.e. δ(_T_<sub>m</sub>, σ) = _p_(σ \| _T_<sub>m</sub>).
 
-So, _p_(D | _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ).
+So, _p_(D \| _T_<sub>m</sub>) could be computed as ∏<sub>σ ∈ D</sub> δ(_T_<sub>m</sub>, σ).
 
 For each task _T*_, they define the scaling law for that task by defining a sampling distribution λ<sub><i>T*</i></sub> over the terms that comprise examples from that task. In other words, they sample a document D from λ<sub><i>T*</i></sub> with n in-context examples, and compute the "next-example probability" as the expectation 𝔼<sub>σ ~ λ<sub><i>T*</i></sub></sub> [ _p_(σ | D) ].
 In other words, this expectation relates the number of in-context examples in D to the expected probability of the next example, asserting a direct relationship between n and _p_(σ | D).
@@ -73,3 +73,10 @@ They assert the following Bayesian scaling law for the expectation:
 
 where _p_(_T_) is the prior probability of task _T_ and 𝔼<sub>σ ~ λ<sub><i>T</i></sub></sub> is estimated using δ(_T_, σ).
 I'm quite confused by their notational choices, so some of those details may be wrong.
+They play a little fast and loose with the distinction between a term and an in-context example (which is a sequence of terms) in this formulation; for example, they assume that a Bayesian update only occurs after each
+in-context _example_ is processed, not after each _term_ is processed. They resolve this confusion later in the paper by reformulating their law in terms of a scoring matrix.
+
+Ultimately, the work is still preliminary. Arora et al. summarize their view:
+
+>We believe that our results strengthen the claim that LLMs perform Bayesian inference, but do not necessarily prove it. We note that previous works claiming that LLMs are theoretically Bayesian prove their claims on toy models that vastly simplify the complexity of natural language and web-scale pretraining data; it’s possible that actual web-scale Bayesian reasoning is beyond the capacity of current LLMs, but they still may behave approximately Bayesian, explaining the success of our scaling law.
+
