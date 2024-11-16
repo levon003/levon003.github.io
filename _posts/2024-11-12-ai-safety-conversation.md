@@ -15,13 +15,13 @@ This discussion was interesting, because I've had pretty minimal exposure to AI 
 In general, I remain skeptical of existential risk arguments, but I'm interested in continuing to learn more.
 
 A few of my personal take-aways from the conversation and from reflecting on the conversation afterward:
- - The format was great. Compared to other interview studies I've been involved in, Jeffrey and Eli were more interested in posing specific arguments and hearing me respond to them. They seemed to be most interested in figuring out which of the many claims seemed plausible vs implausible to people who haven't thought deeply about them.
+ - The format was great. Compared to other interview studies I've been involved in, Jeffrey and Eli were more interested in posing specific arguments and hearing me respond to them. They seemed to be most interested in figuring out which of the many premises needed to support existential risk claims seemed plausible vs implausible to people like me who haven't thought deeply about them.
    - At the end of the call, I asked them for recommendations of learning resources (which I link below). My hope is that the data they collect from these conversations will inform more useful learning resources for people working adjacent to ML that are interested in learning more about AI safety.
  - Existential risk arguments rely fundamentaly on logical or philosophical arguments. There are relatively few empirical questions related to existential AI risk that can be answered in principle, and those that can be answered might only be easy to answer in hindsight.
    - In general, I've done almost no thinking about the relevant philosophical issues. For that reason, social consensus among the people I perceive to be experts (e.g. philosophers of AI, computer science researchers, etc.) is important to me.
    - For example, is it possible to build a silicon mind? I have no idea. As someone with very little exposure to ideas like this, I find it essentially impossible to imagine "consciousness, but not human-like". But existential risk arguments seem to rely on non-human-like consciousness.
-   - Similarly, I find "super intelligence" hard to reason about as a concept, and I was generally skeptical of claims about systems that meaningfully outperform existing groups of humans i.e. teams, corporations.
-   - Generally, I agreed with Jeff and Eli about their empirical description of the current world.
+   - Similarly, I find "super intelligence" hard to reason about as a concept, and I was generally skeptical of claims about systems that meaningfully outperform existing groups of humans (e.g. teams, corporations).
+   - Generally, I agreed with Jeffrey and Eli about their empirical description of the current world.
  - Existential risk from AI is fundamentally about making predictions about the future, and I believe that humans are very bad forecasters.
  - A lot of our conversation focused on group coordination.
    - Humans have gotten a lot better at group coordination, but we notably don't seem to be improving our coordination exponentially.
@@ -34,7 +34,7 @@ A few of my personal take-aways from the conversation and from reflecting on the
  - It seems like there's something distinct about the signal you get from "real life", as opposed to doing a lot of computing on data you already have, but it's hard to say what that is.
     - A Zoom call is a real reward signal! An AI system could certainly improve itself by talking with humans via Zoom, in the same way that humans improve ourselves by talking with humans via Zoom. But, it's slow; intuitively, you're constrained by communication speed.
 
-Resources recommended by Jeff and Eli at the conclusion of the call:
+Resources recommended by Jeffrey and Eli at the conclusion of the call:
  - Robert Miles' [YouTube channel](https://www.youtube.com/@RobertMilesAI/featured)
  - <https://aisafety.info/>
  - <https://www.aisafety.com/>
@@ -43,7 +43,7 @@ Other resources I've stumbled across:
  - "The implausibility of intelligence explosion" by François Chollet: <https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec>
    - This blog post from 2017 was very influential on my early thinking about AI safety risks, particularly the importance of coordination and communication problems.
  - "Beyond Preferences in AI Alignment" by Tan Zhi-Xuan, Micah Carroll, Matija Franklin, Hal Ashton: <https://arxiv.org/abs/2408.16984>
-   - This useful overview paper speaks to a diversity of philosophical perspectives for the value alignment problem.
+   - This useful overview paper speaks to a diversity of philosophical perspectives on the value alignment problem.
  - "The Compendium" by Connor Leahy, Gabriel Alfour, Chris Scammell, Andrea Miotti, Adam Shimi: <https://www.thecompendium.ai/>
    - "The Compendium aims to present a coherent worldview explaining the race to AGI and extinction risks and what to do about them, in a way that is accessible to non-technical readers who have no prior knowledge about AI."
    - I haven't really looked at this yet, so I'm not sure how useful it is.
@@ -60,4 +60,4 @@ Other resources I've stumbled across:
  - "Should AI Progress Speed Up, Slow Down, or Stay the Same?" by Miles Brundage: <https://milesbrundage.substack.com/p/should-ai-progress-speed-up-slow>
    - Not specifically related to existential risks, but a good argument for the utility of building policy and governance structures capable of slowing the rate of AI progress (even if we choose not to use them).
  - "Promotionalism, orthogonality, and instrumental convergence" by Nathaniel Sharadin: <https://link.springer.com/article/10.1007/s11098-024-02212-9>
-   - A philosophical critique of [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence)
+   - A philosophical critique of [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence).
