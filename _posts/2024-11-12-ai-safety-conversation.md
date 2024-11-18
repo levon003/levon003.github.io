@@ -23,6 +23,7 @@ A few of my personal take-aways from the conversation and from reflecting on the
    - Similarly, I find "super intelligence" hard to reason about as a concept, and I was generally skeptical of claims about systems that meaningfully outperform existing groups of humans (e.g. teams, corporations).
    - Generally, I agreed with Jeffrey and Eli about their empirical description of the current world.
  - Existential risk from AI is fundamentally about making predictions about the future, and I believe that humans are very bad forecasters.
+   - cf. Rodney Brooks' writing in _MIT Technology Review_: ["The Seven Deadly Sins of AI Predictions"](https://www.technologyreview.com/2017/10/06/241837/the-seven-deadly-sins-of-ai-predictions/) 
  - A lot of our conversation focused on group coordination.
    - Humans have gotten a lot better at group coordination, but we notably don't seem to be improving our coordination exponentially.
    - Could AI systems improve themselves exponentially through better coordination? I'd expect them to experience significant coordination friction (in the same sorts of ways that humans do), but maybe AI systems have qualities that will enable them to avoid coordination problems? For example:
@@ -40,13 +41,18 @@ Resources recommended by Jeffrey and Eli at the conclusion of the call:
  - <https://www.aisafety.com/>
 
 Other resources I've stumbled across:
+ - Introductions/summaries
+   - "The case for taking AI seriously as a threat to humanity" by Kelsey Piper: <https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment>
+   - "Preventing an AI-related catastrophe" by Benjamin Hilton: <https://80000hours.org/problem-profiles/artificial-intelligence/>
+   - "Intro to brain-like-AGI safety" by Steve Brynes: <https://www.alignmentforum.org/s/HzcM2dkCq7fwXBej8>
+   - "AGI safety from first principles" by Richard Ngo: <https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ>
+   - "The Compendium" by Connor Leahy, Gabriel Alfour, Chris Scammell, Andrea Miotti, Adam Shimi: <https://www.thecompendium.ai/>
+     - "The Compendium aims to present a coherent worldview explaining the race to AGI and extinction risks and what to do about them, in a way that is accessible to non-technical readers who have no prior knowledge about AI."
+     - I haven't really looked at this yet, so I'm not sure how useful it is.
  - "The implausibility of intelligence explosion" by François Chollet: <https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec>
    - This blog post from 2017 was very influential on my early thinking about AI safety risks, particularly the importance of coordination and communication problems.
  - "Beyond Preferences in AI Alignment" by Tan Zhi-Xuan, Micah Carroll, Matija Franklin, Hal Ashton: <https://arxiv.org/abs/2408.16984>
    - This useful overview paper speaks to a diversity of philosophical perspectives on the value alignment problem.
- - "The Compendium" by Connor Leahy, Gabriel Alfour, Chris Scammell, Andrea Miotti, Adam Shimi: <https://www.thecompendium.ai/>
-   - "The Compendium aims to present a coherent worldview explaining the race to AGI and extinction risks and what to do about them, in a way that is accessible to non-technical readers who have no prior knowledge about AI."
-   - I haven't really looked at this yet, so I'm not sure how useful it is.
  - "Debunking Robot Rights Metaphysically, Ethically, and Legally" by Abeba Birhane, Jelle van Dijk, Frank Pasquale: <https://arxiv.org/abs/2404.10072>
    - A useful overview of arguments for not accepting "robot rights" arguments, although the V1 draft appears pretty rough.
  - "Reclaiming AI as a Theoretical Tool for Cognitive Science" by Iris van Rooij, Olivia Guest, Federico Adolfi, Ronald de Haan, Antonina Kolokolova, Patricia Rich: <https://link.springer.com/article/10.1007/s42113-024-00217-5>
@@ -55,6 +61,7 @@ Other resources I've stumbled across:
    - "The Hard Problem of Consciousness": <https://iep.utm.edu/hard-problem-of-conciousness/>
    - "Consciousness": <https://plato.stanford.edu/entries/consciousness/>
    - "Linguistic Bodies: The Continuity between Life and Language" by Ezequiel A. Di Paolo, Elena Clare Cuffari, Hanne De Jaegher: <https://direct.mit.edu/books/monograph/4107/Linguistic-BodiesThe-Continuity-between-Life-and>
+   - "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI" by Jonathan Birch: <https://academic.oup.com/book/57949>
  - Coordination
    - "Exploring the Impact of Coordination in Human–Agent Teams": <https://journals.sagepub.com/doi/full/10.1177/15553434211010573>
  - "Should AI Progress Speed Up, Slow Down, or Stay the Same?" by Miles Brundage: <https://milesbrundage.substack.com/p/should-ai-progress-speed-up-slow>
