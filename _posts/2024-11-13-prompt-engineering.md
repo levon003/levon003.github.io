@@ -16,4 +16,7 @@ Resources:
    - "Innovation through prompting": <https://www.oneusefulthing.org/p/innovation-through-prompting>
    - "Prompts for Instructors": <https://www.moreusefulthings.com/instructor-prompts>
    - "Stop Writing All Your AI Prompts from Scratch": <https://hbsp.harvard.edu/inspiring-minds/an-ai-prompting-template-for-teaching-tasks>
+ - There are approaches beyond writing and refining a single prompt that we might use in the future: ["You probably don't know how to do Prompt Engineering"](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf) by Allen Roush
  
+Example prompts:
+ - LangIndex prompts: <https://github.com/run-llama/llama_index/blob/main/llama-index-core/llama_index/core/prompts/default_prompts.py>
