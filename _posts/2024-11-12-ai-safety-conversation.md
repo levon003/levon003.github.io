@@ -35,10 +35,16 @@ A few of my personal take-aways from the conversation and from reflecting on the
  - It seems like there's something distinct about the signal you get from "real life", as opposed to doing a lot of computing on data you already have, but it's hard to say what that is.
     - A Zoom call is a real reward signal! An AI system could certainly improve itself by talking with humans via Zoom, in the same way that humans improve ourselves by talking with humans via Zoom. But, it's slow; intuitively, you're constrained by communication speed.
 
+## Resources
+
+### Recommended by others
+
 Resources recommended by Jeffrey and Eli at the conclusion of the call:
  - Robert Miles' [YouTube channel](https://www.youtube.com/@RobertMilesAI/featured)
  - <https://aisafety.info/>
  - <https://www.aisafety.com/>
+
+### Found 
 
 Other resources I've stumbled across:
  - Introductions/summaries
@@ -47,8 +53,7 @@ Other resources I've stumbled across:
    - "Intro to brain-like-AGI safety" by Steve Brynes: <https://www.alignmentforum.org/s/HzcM2dkCq7fwXBej8>
    - "AGI safety from first principles" by Richard Ngo: <https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ>
    - "The Compendium" by Connor Leahy, Gabriel Alfour, Chris Scammell, Andrea Miotti, Adam Shimi: <https://www.thecompendium.ai/>
-     - "The Compendium aims to present a coherent worldview explaining the race to AGI and extinction risks and what to do about them, in a way that is accessible to non-technical readers who have no prior knowledge about AI."
-     - I haven't really looked at this yet, so I'm not sure how useful it is.
+     - "The Compendium aims to present a coherent worldview explaining the race to AGI and extinction risks and what to do about them, in a way that is accessible to non-technical readers who have no prior knowledge about AI." From a quick look, seems too vague and one-sided to be useful beyond a high-level exposure to one perspective. 
  - "The implausibility of intelligence explosion" by François Chollet: <https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec>
    - This blog post from 2017 was very influential on my early thinking about AI safety risks, particularly the importance of coordination and communication problems.
  - "Beyond Preferences in AI Alignment" by Tan Zhi-Xuan, Micah Carroll, Matija Franklin, Hal Ashton: <https://arxiv.org/abs/2408.16984>
@@ -68,3 +73,21 @@ Other resources I've stumbled across:
    - Not specifically related to existential risks, but a good argument for the utility of building policy and governance structures capable of slowing the rate of AI progress (even if we choose not to use them).
  - "Promotionalism, orthogonality, and instrumental convergence" by Nathaniel Sharadin: <https://link.springer.com/article/10.1007/s11098-024-02212-9>
    - A philosophical critique of [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence).
+
+## Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
+
+I'm finding Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ) to be a useful and even-handed introduction.
+
+In the chapter on Superintelligence, Ngo makes several claims that I found surprising or non-obvious.
+
+>I think it’s difficult to deny that in principle it’s possible to build individual generalisation-based AGIs which are superintelligent, since human brains are constrained by [many factors](https://intelligenceexplosion.com/2011/plenty-of-room-above-us/) which will be much less limiting for AIs.
+
+I don't think it's at all obvious that this is true. There may be many factors that constrain humans that won't constrain hypothetical AGIs, but if those constraints aren't the primary bottleneck to greater-than-human intelligence then AGIs may not be qualitatively different in their capabilities than humans.
+For example, I suspect I would be _more_ capable if I could think 100x "faster" than I currently do, but it's not at all clear to me how _much_ more capable I would be.
+
+>There is little reason to believe that [humans] have reached the peak of [the ability to coordinate and benefit from cultural learning], or that AGIs couldn’t have a much larger advantage over a human than that human has over a chimp, in acquiring knowledge from other agents.
+
+This seems like an empirical claim about group dynamics and hypothetical limits on coordination.
+Because I don't know what the practical barriers are to improving _human_ coordination, it's not clear to me if silicon agents would or wouldn't be substantially more effective at this.
+
+For both of these claims, I would like to better understand the relevant human dynamics before assuming that AGIs can easily overcome those dynamics.
