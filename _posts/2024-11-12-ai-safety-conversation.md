@@ -20,6 +20,7 @@ A few of my personal take-aways from the conversation and from reflecting on the
  - Existential risk arguments rely fundamentaly on logical or philosophical arguments. There are relatively few empirical questions related to existential AI risk that can be answered in principle, and those that can be answered might only be easy to answer in hindsight.
    - In general, I've done almost no thinking about the relevant philosophical issues. For that reason, social consensus among the people I perceive to be experts (e.g. philosophers of AI, computer science researchers, etc.) is important to me.
    - For example, is it possible to build a silicon mind? I have no idea. As someone with very little exposure to ideas like this, I find it essentially impossible to imagine "consciousness, but not human-like". But existential risk arguments seem to rely on non-human-like consciousness.
+     - I learned after the call that Bostrom and Yudkowsky have referred to these as ["minds with exotic properties"](https://nickbostrom.com/ethics/artificial-intelligence.pdf).
    - Similarly, I find "super intelligence" hard to reason about as a concept, and I was generally skeptical of claims about systems that meaningfully outperform existing groups of humans (e.g. teams, corporations).
    - Generally, I agreed with Jeffrey and Eli about their empirical description of the current world.
  - Existential risk from AI is fundamentally about making predictions about the future, and I believe that humans are very bad forecasters.
@@ -37,14 +38,10 @@ A few of my personal take-aways from the conversation and from reflecting on the
 
 ## Resources
 
-### Recommended by others
-
 Resources recommended by Jeffrey and Eli at the conclusion of the call:
  - Robert Miles' [YouTube channel](https://www.youtube.com/@RobertMilesAI/featured)
  - <https://aisafety.info/>
  - <https://www.aisafety.com/>
-
-### Found 
 
 Other resources I've stumbled across:
  - Introductions/summaries
@@ -73,8 +70,9 @@ Other resources I've stumbled across:
    - Not specifically related to existential risks, but a good argument for the utility of building policy and governance structures capable of slowing the rate of AI progress (even if we choose not to use them).
  - "Promotionalism, orthogonality, and instrumental convergence" by Nathaniel Sharadin: <https://link.springer.com/article/10.1007/s11098-024-02212-9>
    - A philosophical critique of [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence).
+   - See Bostrom's ["The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents"](https://nickbostrom.com/superintelligentwill.pdf) for more on instrumental convergence.
 
-## Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
+### Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
 
 I'm finding Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ) to be a useful and even-handed introduction.
 
