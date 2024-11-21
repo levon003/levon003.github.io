@@ -2,15 +2,15 @@
 layout: post
 title:  "Tutor Co-pilot: real-time scaffolding for math tutors"
 date:   2024-09-11
-tags: research llm education short
+tags: research llm education design short
 excerpt: "A project at PLUS using large language models for real-time support."
 image: /images/tutor-copilot/interface_answer.png
 ---
 
 ![](/images/tutor-copilot/interface_blank.png)
-*Prototype interface to assist math tutors*
+*Tutor Co-pilot: a prototype interface to assist math tutors.*
 
-I recently implemented a Tutor Co-pilot in collaboration with the team at Carnegie Mellon working on [PLUS](https://www.tutors.plus/en/). PLUS (Personalized Learning Squared) is training and management software for math tutors.
+I recently implemented a tutor "copilot" in collaboration with the team at Carnegie Mellon working on [PLUS](https://www.tutors.plus/en/). PLUS (Personalized Learning Squared) is training and management software for math tutors.
 
 Tutor Co-pilot is a new feature for PLUS to provide real-time scaffolding for math problems.
 
