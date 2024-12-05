@@ -19,3 +19,16 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Identifying text from vectors
     https://github.com/jxmorris12/vec2text/
     Could connect it to the cool "sentence embeddings" blog post from a million years ago
+- tips for new Wikipedia editors
+    Dos:
+    Edit in your interest areas
+    Start small
+    Read Talk pages if you like drama
+    There are lots of cool starter tasks
+    Add pages to your Watchlist
+    Don'ts:
+    Avoid contentious topic areas
+        American politics
+        Israel/Palestine
+        MEDRS: this is a shortcut to a bad time!
+    Avoid stuff related to images
