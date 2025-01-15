@@ -26,9 +26,11 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Read Talk pages if you like drama
     There are lots of cool starter tasks
     Add pages to your Watchlist
+    Short descriptions!
     Don'ts:
     Avoid contentious topic areas
         American politics
         Israel/Palestine
         MEDRS: this is a shortcut to a bad time!
     Avoid stuff related to images
+    Avoid categories (edit list articles instead)
