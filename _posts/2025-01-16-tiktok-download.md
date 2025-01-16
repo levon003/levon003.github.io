@@ -24,7 +24,7 @@ Here's how I was able to download all the videos I liked as a TikTok user:
           outfile.write(like["link"] + "\n")
   ```
 
-3. I installed [yt-dlp](https://github.com/yt-dlp/yt-dlp) and ran it to download all videos in the folder:
+3. I installed [yt-dlp](https://github.com/yt-dlp/yt-dlp) and ran it to download all videos listed in the `liked_videos.txt` file to the specified folder:
 
   ```bash
   yt-dlp \
