@@ -41,6 +41,6 @@ For each `.mp4` video file, a corresponding `.info.json` file is created with th
 I was pretty shocked by the deletion rate of TikTok videos. Of my 3,837 TikTok likes, only 1,915 of those videos were available to download: that's a 50.1% loss. Many American uploaders may have deleted their accounts or cleared out their older videos. However, this is an extremely non-random sample collected at a single moment in time, so it's hard to speculate what the true loss rate is.
 
 In general, some video deletions should be expected: people and platforms delete social media posts all the time.
-A [2010 study](https://ojs.aaai.org/index.php/ICWSM/article/view/14270) conducted by Zeynep Tufekci found that 81% of sruveyed Facebook users (_n_=328) deleted info from their profile "because of a privacy or visibility concern".
+A [2010 study](https://ojs.aaai.org/index.php/ICWSM/article/view/14270) conducted by Zeynep Tufekci found that 81% of surveyed Facebook users (_n_=328) deleted info from their profile "because of a privacy or visibility concern".
 A [2013 study](https://arxiv.org/abs/1309.2648) of Twitter by Hany SalahEldeen and Michael Nelson found that 11% of tweets are deleted within a year of their creation.
-[Brennan Schaffner et al.](https://dl.acm.org/doi/abs/10.1145/3555142) looked at account deletion on several platforms including TikTok in 2022, but didn't attempt to estimate deletion rates by platform.
+[Brennan Schaffner et al.](https://dl.acm.org/doi/abs/10.1145/3555142) looked at account deletion on several platforms (including TikTok) in 2022, but didn't attempt to estimate deletion rates by platform.
