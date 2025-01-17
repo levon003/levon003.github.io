@@ -21,7 +21,7 @@ Breiman argues that there are two goals in analyzing data:
  - **Prediction**: To be able to predict what the responses (y) are going to be to future input variables (X).
 - **Information**: To extract some information about how nature is associating the response variables (y) to the input variables (X).
 
-Breiman is using the common analogy of a black box data-generating process that receives a vector of independent variables (X) and produces repsonse variables (y).
+Breiman is using the common analogy of a black box data-generating process that receives a vector of independent variables (X) and produces response variables (y).
 
 The **data modeling** culture assume "a stochastic data model for the inside of the black box". Think linear regression.
 
@@ -44,7 +44,7 @@ I like this re-framing of interpretability as a process for getting information 
 
 #### Responses
 
-In 2021, the journal _Observational Studies_ published a [special issue with 28 commentaries](https://muse.jhu.edu/pub/56/issue/45147) on Breiman's essay. [Nandita Mitra](https://www.mitrastatslab.com/team) [summarizes the repsonses](https://muse.jhu.edu/pub/56/article/799740) as covering:
+In 2021, the journal _Observational Studies_ published a [special issue with 28 commentaries](https://muse.jhu.edu/pub/56/issue/45147) on Breiman's essay. [Nandita Mitra](https://www.mitrastatslab.com/team) [summarizes the responses](https://muse.jhu.edu/pub/56/article/799740) as covering:
 
  1. The blending and cross-fertilization of modeling cultures (not just two distinct ones) under historical, foundational, and flexible paradigms 
  2. The importance of interpretable algorithms, understanding the data, outcome reasoning, modeling based on scientific theory, and social responsibility
