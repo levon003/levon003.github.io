@@ -14,25 +14,25 @@ Here's how I was able to download all the videos I liked as a TikTok user:
 
 2. I extracted the liked video links into a .txt file using a snippet of Python: (See Jupyter [notebook](https://github.com/levon003/levon003.github.io/blob/main/src/tiktok_download/TikTokUserDataExploration.ipynb).)
 
-  ```python
-  import json
-  with open("user_data_tiktok.json") as infile, open("liked_videos.txt", "w") as outfile:
-      user_data = json.load(infile)
-      activity = user_data["Activity"]
-      likes = activity["Like List"]["ItemFavoriteList"]
-      for like in likes:
-          outfile.write(like["link"] + "\n")
-  ```
+```python
+import json
+with open("user_data_tiktok.json") as infile, open("liked_videos.txt", "w") as outfile:
+    user_data = json.load(infile)
+    activity = user_data["Activity"]
+    likes = activity["Like List"]["ItemFavoriteList"]
+    for like in likes:
+        outfile.write(like["link"] + "\n")
+```
 
 3. I installed [yt-dlp](https://github.com/yt-dlp/yt-dlp) and ran it to download all videos listed in the `liked_videos.txt` file to the specified folder:
 
-  ```bash
-  yt-dlp \
-      -P ~/Downloads/liked_tiktok_videos \
-      -a liked_videos.txt \
-      -o "%(uploader)s_%(upload_date)s_%(id)s.%(ext)s" \
-      --write-info-json
-  ```
+```bash
+yt-dlp \
+    -P ~/Downloads/liked_tiktok_videos \
+    -a liked_videos.txt \
+    -o "%(uploader)s_%(upload_date)s_%(id)s.%(ext)s" \
+    --write-info-json
+```
 
 For each `.mp4` video file, a corresponding `.info.json` file is created with the uploader's display name and video description along with other metadata about the video file.
 
