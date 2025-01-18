@@ -1,0 +1,25 @@
+[project]
+name = "stochtree-exploration"
+version = "0.0.1"
+description = "Stochtree Exploration"
+readme = "README.md"
+license = "MIT"
+authors = [
+  {name = "Zachary Levonian", email = "zacharylevonian@gmail.com"},
+]
+repository = "https://github.com/levon003/levon003.github.io/tree/main/src/stochtree"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "numpy>=2.2.1",
+    "pandas>=2.2.3",
+    "pybind11>=2.13.6",
+    "pytest>=8.3.4",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.1",
+    "seaborn>=0.13.2",
+    "stochtree>=0.0.1",
+]
+
+[tool.uv.sources]
+foo = { path = "../../../stochtree" }
