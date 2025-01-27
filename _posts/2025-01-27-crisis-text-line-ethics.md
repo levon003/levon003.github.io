@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Data sharing ethics at Crisis Text Line"
-tags: research code short
+tags: research ethics short
 excerpt: "Crisis Text Line is a non-profit."
 ---
 
-Back in 2019, a group of scholars published a [paper](https://www.jmir.org/2019/1/e11507/) in the _Journal of Medical Internet Research_ discussing the ethics of sharing data from [Crisis Text Line](https://en.wikipedia.org/wiki/Crisis_Text_Line) users for noncommercial purposes - such as research.
+Back in 2019, a group of scholars published a [paper](https://www.jmir.org/2019/1/e11507/) in the _Journal of Medical Internet Research_ (JMIR) discussing the ethics of sharing data from [Crisis Text Line](https://en.wikipedia.org/wiki/Crisis_Text_Line) users for noncommercial purposes - such as research.
 
 Tim Reierson argues that there were undisclosed conflicts of interest, prompting a small [correction](https://www.jmir.org/2024/1/e67880/) from the journal:
 
@@ -17,9 +17,11 @@ Tim Reierson argues that there were undisclosed conflicts of interest, prompting
 >
 >The _Journal of Medical Internet Research_ editors do not think that this revised conflicts of interest statement affected the peer review process or the validity of this viewpoint article. Consequently, the noted issue of concern regarding undisclosed conflicts of interest, given the information currently available, did not appear to meet criteria for further action, such as a notice of editorial concern or retraction.
 
-Four commentaries:
+The correction was followed this week by four commentaries in _JMIR_:
  - [Reierson's commentary](https://www.jmir.org/2024/1/e42144) (and [Bluesky thread](https://bsky.app/profile/holdspacefree.bsky.social/post/3lgp2j7eks22w))
  - [JMIR editor commentary](https://jmir.org/2025/1/e67878)
  - [Author's reply](https://www.jmir.org/2025/1/e59734)
  - [Crisis Text Line reply](https://jmir.org/2025/1/e64015)
  
+ Reierson [argues](https://bsky.app/profile/holdspacefree.bsky.social/post/3lgp2jaggrl2w) that the authors focus on the commercial/noncommercial distinction elides the importance of speaking out against commercial data sharing: "by not calling Crisis Text Line out they fail the moment."
+
