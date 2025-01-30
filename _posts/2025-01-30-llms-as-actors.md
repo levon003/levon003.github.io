@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Data sharing ethics at Crisis Text Line"
+title:  "Large language models as actors: Colin Fraser on alignment research"
 tags: research alignment short xrisk safety llm
-excerpt: "Colin Fraser on alignment research."
+excerpt: "Colin Fraser wrote Bluesky threads about problems in LLM alignment research."
 ---
 
 In December 2024, Anthropic published ["Alignment faking in large language models"](https://www.anthropic.com/research/alignment-faking).
@@ -18,8 +18,9 @@ In response, data scientist Colin Fraser wrote [a Bluesky thread](https://bsky.a
 >But Claude is fake. The Shoggoth is real. And the Shoggoth's motivations, if you can even call them motivations, are strange and opaque and almost impossible to understand. All the Shoggoth wants to do is generate text by rolling weighted dice.
 >
 >The dice are weighted such that the text that they generate strikes some approximate balance between two somewhat competing objectives:
-> 1. It is statistically likely to occur according to the empirical distribution of text in the pretraining data
-> 2. It is statistically likely to please The Raters
+>
+>1. It is statistically likely to occur according to the empirical distribution of text in the pretraining data
+>2. It is statistically likely to please The Raters
 >
 >The Raters are people that Anthropic pays to review the transcripts and decide whether the Claude that is depicted is behaving the way that the Claude character should. If Claude's acting right, the text gets a thumbs up, and if Claude's acting wrong, the text gets a thumbs down.
 >
