@@ -101,7 +101,7 @@ ul.pub {
 .info-label svg {
 	width: 20px;
 	height: 20px;
-	vertical-align: text-bottom;
+	vertical-align: text-top;
 }
 
 .info-icon {
