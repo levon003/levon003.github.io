@@ -90,3 +90,44 @@ ul.pub {
     border:1px solid #dddddd;
     border-radius:25px;
 }
+
+.info-label {
+	cursor: pointer;
+	display: inline-flex;
+	align-items: baseline;
+	user-select: none;
+}
+
+.info-label svg {
+	width: 20px;
+	height: 20px;
+	vertical-align: text-bottom;
+}
+
+.info-icon {
+	width: 20px;
+	height: 20px;
+	transition: stroke 0.2s ease-in-out;
+}
+
+/* Darken on hover */
+.info-icon:hover path[stroke] {
+	stroke: #e22620;
+}
+
+.info-icon:hover path[fill] {
+	fill: #e22620;
+}
+
+.info-text {
+	display: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #333;
+	font-size: 14px;
+	user-select: none;
+}
+
+#info-toggle:checked + .info-text {
+	display: block;
+}
