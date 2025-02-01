@@ -5,7 +5,7 @@ tags: research resources short "reinforcement learning" rl
 excerpt: "A few resources on reinforcement learning."
 ---
 
-THe classic recommendation for learning about [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is Sutton and Barto's ["Reinforcement Learning: An Introduction"](http://incompleteideas.net/book/the-book-2nd.html)
+The classic recommendation for learning about [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) is Sutton and Barto's ["Reinforcement Learning: An Introduction"](http://incompleteideas.net/book/the-book-2nd.html)
 
 On Bluesky recently, a few people [recommended reinforcement learning resources](https://bsky.app/profile/juand-r.bsky.social/post/3lgz67v5b322t). Here are a few of the suggestions:
 
