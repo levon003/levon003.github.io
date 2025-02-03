@@ -32,5 +32,6 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
         American politics
         Israel/Palestine
         MEDRS: this is a shortcut to a bad time!
+        Avoid current events - although articles related to current events are fine/good!
     Avoid stuff related to images
     Avoid categories (edit list articles instead)
