@@ -41,7 +41,7 @@ With a basic sweep over 24 hyperparameter configurations, the best published mod
 
 Even in this highly-simplified environment, overestimating tue performance is common. I repeated the same simulation 600 times, and on average the benchmark performance after computing the best model performance after "publishing" 24 models with different hyperparameter configurations overestimates the true performance by 1.5 percentage points (95% CI 1.2pp-1.7pp). The figure below shows the difference in accuracy for all 600 simulations.
 
-![Histogram of 600 benchmarking simulations; a somewhat normal distribution.](/src/overfitting/overfitting_sim_n600.svg)
+![Histogram of 600 benchmarking simulations; a somewhat normal distribution.](/images/overfitting_sim_hist_n600.svg)
 *Difference between benchmark accuracy and "true" accuracy for 600 simulations.*
 
 73% of the simulations produce an overestimate of true performance; 43% overestimate true accuracy by 2 percentage points or more.
