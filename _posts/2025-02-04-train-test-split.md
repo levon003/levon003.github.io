@@ -39,7 +39,7 @@ I've seen this process referred to as [graduate student descent](https://arxiv.o
 
 With a basic sweep over 24 hyperparameter configurations, the best published model on my benchmark achieves 93% accuracy. But because I know the data-generating function, I can compute the "true" accuracy of the model by just sampling 10,000 new data unseen during training or testing. Unfortunately, the true accuracy is lower: only 91%!
 
-Even in this highly-simplified environment, overestimating tue performance is common. I repeated the same simulation 600 times, and on average the benchmark performance after computing the best model performance after "publishing" 24 models with different hyperparameter configurations overestimates the true performance by 1.5 percentage points (95% CI 1.2%-1.7%). The figure below shows the difference in accuracy for all 600 simulations.
+Even in this highly-simplified environment, overestimating tue performance is common. I repeated the same simulation 600 times, and on average the benchmark performance after computing the best model performance after "publishing" 24 models with different hyperparameter configurations overestimates the true performance by 1.5 percentage points (95% CI 1.2pp-1.7pp). The figure below shows the difference in accuracy for all 600 simulations.
 
 ![Histogram of 600 benchmarking simulations; a somewhat normal distribution.](/src/overfitting/overfitting_sim_n600.svg)
 *Difference between benchmark accuracy and "true" accuracy for 600 simulations.*
@@ -47,9 +47,9 @@ Even in this highly-simplified environment, overestimating tue performance is co
 73% of the simulations produce an overestimate of true performance; 43% overestimate true accuracy by 2 percentage points or more.
 This simulation demonstrates the pattern that Recht et al. observe, and it means we should be skeptical of long-standing benchmark performance as a valid estimate of true model performance on the task... even when there is _zero_ shift in the true distribution!
 
-The true situation is likely much worse, as researchers get trapped in local minima, explore modeling configurations non-systematically, and avoid publishing negative results. That's why updated versions of benchmarks is one of the most valuable and under-appreciated tasks in machine learning research.
+The reality of overestimating true model performance from benchmarks is likely much worse, as researchers get trapped in local minima, explore modeling configurations non-systematically, and avoid publishing negative results. That's why publishing updated versions of benchmarks is one of the most valuable (but under-appreciated) tasks in machine learning research.
 
-Ben Recht [would likely deny](https://www.argmin.net/p/flavors-of-overfitting) that we should call the observations of this simulation overfitting. He identifies three kinds of overfitting:
+The results of this simulation demonstrate the same negative impact on external validity that Recht et al. found, but Ben Recht [would likely deny](https://www.argmin.net/p/flavors-of-overfitting) that we should call this "overfitting". He identifies three kinds of overfitting:
 > 1. _Statistical overfitting_. This occurs because a test set gives a nonzero, though unbiased, estimate of prediction error.
 > 2. _Adaptive overfitting_. This occurs because we look at the test set too much and then perform poorly on a new iid sample.
 > 3. _Contextual overfitting_. This occurs because the new data differs in some way from the data we use to train our model.
@@ -57,8 +57,8 @@ Ben Recht [would likely deny](https://www.argmin.net/p/flavors-of-overfitting) t
 I personally find this taxonomy useful, and I would argue that what we observe in this simulation is a combination of statistical overfitting and adaptive overfitting.
 By repeating our simulation with a larger test set, the impact of statistical overfitting would decrease and the impact of adaptive overfitting would increase. 
 Similarly, exploring more hyperparameters/model improvements before stopping would increase the impact of adaptive overfitting.
-Recht might argue that the difference between true and benchmarked performance revealed in my simulation shouldn't be called even adaptive overfitting because although the performance decreases as more models are explored, the relative ranking of the 24 models I train in each simulation won't change.
-Recht is probably right that [overfitting has no consistent definition](https://www.argmin.net/p/thou-shalt-not-overfit).
+However, Recht might argue that the difference between true and benchmarked performance revealed in my simulation shouldn't be called even adaptive overfitting because although the performance decreases as more models are explored, the relative ranking of the 24 models I train in each simulation won't change.
+Recht is certainly right that [overfitting has no consistent definition](https://www.argmin.net/p/thou-shalt-not-overfit), which is why it's probably better to describe what the simulation is actually telling us (the negative impact of repeated benchmark usage on external validity) rather than lazily referring to it as "overfitting".
 
 Further reading:
 
