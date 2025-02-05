@@ -2,6 +2,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
 - my favorite papers from my phd ("10 papers worth reading")
 - scoping a data science project (draft already exists for this)
 - how I review papers
+    Jeff Leek's ["Reviewing academic papers"](https://github.com/jtleek/reviews)
 - why not a computer-adaptive test that uses free-response options?
     LLM for generating questions on the fly
     Claim: 5-minute conversation with a tutor beats a 30-minute CAT
