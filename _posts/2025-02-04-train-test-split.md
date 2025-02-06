@@ -39,9 +39,11 @@ I've seen this process referred to as [graduate student descent](https://arxiv.o
 
 With a basic sweep over 24 hyperparameter configurations, the best published model on my benchmark achieves 93% accuracy. But because I know the data-generating function, I can compute the "true" accuracy of the model by just sampling 10,000 new data unseen during training or testing. Unfortunately, the true accuracy is lower: only 91%!
 
-Even in this highly-simplified environment, overestimating tue performance is common. I repeated the same simulation 600 times, and on average the benchmark performance after computing the best model performance after "publishing" 24 models with different hyperparameter configurations overestimates the true performance by 1.5 percentage points (95% CI 1.2pp-1.7pp). The figure below shows the difference in accuracy for all 600 simulations.
+Even in this highly-simplified environment, overestimating tue performance is common. I repeated the same simulation 600 times, and on average the benchmark performance overestimates the true performance by 1.5 percentage points (95% CI 1.2pp-1.7pp).
+Benchmark performance is computed as the best model performance of the 24 unique hyperparameter configurations.
+The figure below shows the difference in accuracy for all 600 simulations.
 
-![Histogram of 600 benchmarking simulations; a somewhat normal distribution.](/images/overfitting_sim_hist_n600.svg)
+![Histogram of 600 benchmarking simulations; a somewhat normal distribution.](/images/overfitting_sim_hist_n600.svg){:style="display:block; margin-left: auto; margin-right: auto;"}
 *Difference between benchmark accuracy and "true" accuracy for 600 simulations.*
 
 73% of the simulations produce an overestimate of true performance; 43% overestimate true accuracy by 2 percentage points or more.
