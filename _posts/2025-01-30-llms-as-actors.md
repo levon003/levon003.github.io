@@ -47,3 +47,6 @@ In response, data scientist Colin Fraser wrote [a Bluesky thread](https://bsky.a
 >A very strange and interesting kind of thing happens here. But I don't think that it resembles anything that is described by most "alignment" research.
 
 Fraser continues the thread in a [part 2](https://bsky.app/profile/colin-fraser.net/post/3ldpbpnoe6m2x) (on the specific Anthropic alignment study that motivated the thread) and a [part 3](https://bsky.app/profile/colin-fraser.net/post/3ldrhbvjnkc2o) (on goal seeking). Thread also [reblogged by Simon Willison](https://simonwillison.net/2025/Jan/4/colin-fraser/).
+
+Further reading:
+ - ["Role-Play with Large Language Models"](https://arxiv.org/abs/2305.16367) by Murray Shanahan, Kyle McDonell, Laria Reynolds
