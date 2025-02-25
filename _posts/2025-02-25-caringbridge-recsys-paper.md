@@ -12,7 +12,7 @@ I [wrote a paper](https://arxiv.org/abs/2209.04973) exploring this question.
 In the last few years I noticed a bunch of papers that: 
  - Study an online health community
  - Find some really interesting things
- - Identify design implications for online health communities
+ - Identify design implications
 
 Ridiculously often, one of their design implications is improving peer recommendation systems. I even [wrote a paper](https://arxiv.org/abs/2007.16172) like that too!
 
@@ -29,6 +29,8 @@ We've got:
  - The real impacts of actually using a peer recommendation system
  - A qualitative investigation of how peers interacted with the complete strangers we recommended
 
->Zachary Levonian, Matthew Zent, Ngan Nguyen, Matthew McNamara, Loren Terveen, and Svetlana Yarosh. 2025. Peer Recommendation Interventions for Health-related Social Support: a Feasibility Assessment. _Proc. ACM Hum.-Comput. Interact._ 9, 2, Article CSCW146 (April 2025), 59 pages. https://doi.org/10.1145/3711044
+Here's the full citation:
+
+>Zachary Levonian, Matthew Zent, Ngan Nguyen, Matthew McNamara, Loren Terveen, and Svetlana Yarosh. 2025. Peer Recommendation Interventions for Health-related Social Support: a Feasibility Assessment. _Proc. ACM Hum.-Comput. Interact._ 9, 2, Article CSCW146 (April 2025), 59 pages. <https://doi.org/10.1145/3711044>
 
 A preprint is also available on arXiv: <http://arxiv.org/abs/2209.04973>
