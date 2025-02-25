@@ -67,3 +67,4 @@ Further reading:
  - Ben Recht's ["Thou Shalt Not Overfit"](https://www.argmin.net/p/thou-shalt-not-overfit)
  - Ben Recht's ["Flavors of overfitting"](https://www.argmin.net/p/flavors-of-overfitting)
  - My own work has looked at cross validation for estimating performance on datasets constructed iteratively, rather than for static benchmarks. ["Trade-offs in Sampling and Search for Early-stage Interactive Text Classification"](https://dl.acm.org/doi/10.1145/3490099.3511134)
+ - Ben Recht's ["The Adaptivity Paradox"](https://www.argmin.net/p/the-adaptivity-paradox)
