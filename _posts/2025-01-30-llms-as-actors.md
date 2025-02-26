@@ -50,3 +50,5 @@ Fraser continues the thread in a [part 2](https://bsky.app/profile/colin-fraser.
 
 Further reading:
  - ["Role-Play with Large Language Models"](https://arxiv.org/abs/2305.16367) by Murray Shanahan, Kyle McDonell, Laria Reynolds
+ - [Steve Brynes](https://bsky.app/profile/stevebyrnes.bsky.social/post/3lizdexhzss2m) shares the LessWrong post ["Microsoft and OpenAI, stop telling chatbots to roleplay as AI"](https://www.lesswrong.com/posts/tAtp4odpziBDdvdXL/microsoft-and-openai-stop-telling-chatbots-to-roleplay-as-ai)
+ - Nathan Lambert writes about LLM character training in ["Character training: Understanding and crafting a language model's personality"](https://www.interconnects.ai/p/character-training) - "Character training is the subset of post-training designed around crafting traits within the model in _the manner_ of its response, rather than the content."
