@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Zachary Levonian's Blog — Index
+header_title: Blog Index
 permalink: /blog/
 list_all_posts: false
 ---
