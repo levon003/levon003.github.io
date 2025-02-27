@@ -6,7 +6,7 @@ title: Blog Index
 permalink: /blog/
 list_all_posts: false
 ---
-View my peer-reviewed research and writing on my [homepage](https://levon003.github.io).
+View all my peer-reviewed research on my [homepage](https://levon003.github.io). The peer-reviewed paper that gives the best overview of who I am as a researcher is ["Peer Recommendation Interventions for Health-related Social Support: a Feasibility Assessment"](https://arxiv.org/abs/2209.04973), published in the _Computer Supported Cooperative Work_ conference in 2025.
 
 This page lists my self-published writings, including {{ site.posts | size }} posts hosted on this blog, 4 hosted [on Medium](https://zwlevonian.medium.com/), and a few hosted elsewhere.
 
