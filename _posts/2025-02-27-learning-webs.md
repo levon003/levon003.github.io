@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning webs"
+title:  "Learning webs: Ivan Illich & education technology"
 tags: research education illich short
 excerpt: "Ivan Illich is a controversial writer, but only if you consider destroying all schools controversial."
 ---
@@ -46,4 +46,3 @@ Further reading:
  - The arguments reminded me in some ways of Paul Lockhart's _A Mathematician's Lament_ ([pdf](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)).
  - I've previously posted about [Doug Lemov's writings about education]({% post_url 2023-11-01-llm-tutor-understanding-checks %}).
  - C. Thomas Christie's test of [OpenAI's Deep Research](https://chatgpt.com/share/67c0ad39-d30c-8004-a806-7f09137cbc56) output, which introduced me to Illich.
- 
