@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "New paper: \"Peer Recommendation Interventions for Health-related Social Support\""
-tags: research caringbridge short
+title:  "Research paper: \"Peer Recommendation Interventions for Health-related Social Support\""
+tags: research caringbridge hci cscw short
 excerpt: "Can recommendation systems help people find health-related peer support online? I wrote a research paper exploring this question."
 ---
 
