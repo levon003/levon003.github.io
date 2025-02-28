@@ -2,7 +2,7 @@
 layout: post
 title:  "Research paper: When the implication is not to design (technology)"
 date:   2024-07-19
-tags: research design short
+tags: research design hci short
 excerpt: "2011 CHI paper from Eric P.S. Baumer and Six Silberman."
 ---
 

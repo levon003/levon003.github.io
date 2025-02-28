@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Introduction to Human–computer Interaction (HCI)"
-date:   2024-06-26
 tags: research hci short
 excerpt: "Resources for gaining familiarity with HCI."
 ---
