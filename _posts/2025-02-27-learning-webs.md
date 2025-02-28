@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Learning webs"
-date:   2024-06-26
 tags: research education illich short
 excerpt: "Ali Alkhatib argues in a blog post that we should destroy AI. I see a few glimmers of hope."
 ---
