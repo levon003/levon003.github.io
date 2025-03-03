@@ -71,6 +71,8 @@ Other resources I've stumbled across:
  - "Promotionalism, orthogonality, and instrumental convergence" by Nathaniel Sharadin: <https://link.springer.com/article/10.1007/s11098-024-02212-9>
    - A philosophical critique of [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence).
    - See Bostrom's ["The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents"](https://nickbostrom.com/superintelligentwill.pdf) for more on instrumental convergence.
+ - ["The Maverick Nanny with a Dopamine Drip: Debunking Fallacies in the Theory of AI Motivation"](https://aaai.org/papers/07752-7752-the-maverick-nanny-with-a-dopamine-drip-debunking-fallacies-in-the-theory-of-ai-motivation/) by Richard Loosemore.
+   - 2014 AAAI paper attacking the plausibility of some AI doom scenarios as a product of assumptions about the strucutre of AGI.
 
 ### Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
 
