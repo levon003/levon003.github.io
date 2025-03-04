@@ -73,6 +73,8 @@ Other resources I've stumbled across:
    - See Bostrom's ["The Superintelligent Will: Motivation and Instrumental Rationality in Advanced Artificial Agents"](https://nickbostrom.com/superintelligentwill.pdf) for more on instrumental convergence.
  - ["The Maverick Nanny with a Dopamine Drip: Debunking Fallacies in the Theory of AI Motivation"](https://aaai.org/papers/07752-7752-the-maverick-nanny-with-a-dopamine-drip-debunking-fallacies-in-the-theory-of-ai-motivation/) by Richard Loosemore.
    - 2014 AAAI paper attacking the plausibility of some AI doom scenarios as a product of assumptions about the strucutre of AGI.
+   - See also Loosemore's 2006 paper ["Complex Systems, Artificial Intelligence and
+Theoretical Psychology"](https://richardloosemore.com/wp-content/uploads/2017/05/2007_ComplexSystems_rpwl.pdf)
 
 ### Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
 
