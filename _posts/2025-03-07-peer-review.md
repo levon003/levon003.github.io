@@ -16,39 +16,56 @@ Non-students should generally review at the same workload they "generate" in sub
 I write reviews using the following structure:
 
 >===Paper summary and intended contribution===
+>
 >...
 >
 >===Reasons to accept===
+>
 >-...
 >
 >===Reasons to reject===
+>
 >-...
 >
 >===Originality of work and potential impact of results===
+>
 >...
 >
 >===Quality of execution===
+>
 >-Quality of execution seems {high,low,uneven,etc}.
+>
 >-...
 >
 >===Quality of presentation===
+>
 >-Quality of presentation seems {high,low,uneven,etc}.
+>
 >-...
 >
 >===Adequacy of citations===
+>
 >Citations are adequate to my knowledge, ...
 >
 >===Ethical concerns===
+>
 >...
 >
 >===Comments for authors===
+>
 >Thank you for your submission to {venue name}!  More detail-oriented comments below, in no particular order.
->- ...
+>
+>-...
+>
 >
 >===References===
->COI Disclosure: I am not a co-author or colleague of any of the authors of the papers I cite in this >review.
+>
+>COI Disclosure: I am not a co-author or colleague of any of the authors of the papers I cite in this review.
+>
 >[1] ...
+>
 >[2] ...
+>
 >...
 
 I include comments to the committee (that will not be visible to authors) at the end.
