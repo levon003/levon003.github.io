@@ -88,4 +88,5 @@ In [human-computer interaction]({% post_url 2025-02-26-intro-to-hci %}) specific
 
 I've written other blog posts that touch on reviewing:
  - [What makes a good short paper at CSCW?]({% post_url 2024-03-11-cscw-short-papers %})
- - [Complexity Sells]({% 2024-05-13-complexity-sells %})
+ - [Complexity Sells]({% post_url 2024-05-13-complexity-sells %})
+ - [Things before theory]({% post_url 2025-03-20-things-before-theory %})
