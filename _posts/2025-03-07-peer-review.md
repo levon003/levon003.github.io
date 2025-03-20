@@ -84,4 +84,8 @@ See Jeff Leek's ["Reviewing academic papers"](https://github.com/jtleek/reviews)
 Many journals and conferences provide an explicit reviewing guide. (For example, [CHI 2024](https://chi2024.acm.org/submission-guides/guide-to-reviewing-papers/) has a nice reviewing guide.)
 When in doubt, following the review guide is a good idea.
 
-In [human-computer interaction]({% post_url 2025-02-26-intro-to-hci %}) specifically, I find Jacob Wobbrock and Julie Kientz's 2016 paper ["Research contributions in human-computer interaction"](https://courses.cs.washington.edu/courses/cse510/16wi/readings/wobbrock_7contributions_submitted.pdf) to be a useful guide.
+In [human-computer interaction]({% post_url 2025-02-26-intro-to-hci %}) specifically, I find Jacob Wobbrock and Julie Kientz's 2016 paper ["Research contributions in human-computer interaction"](https://courses.cs.washington.edu/courses/cse510/16wi/readings/wobbrock_7contributions_submitted.pdf) to be a useful guide. About systems papers specifically, see Tessa Lau's 2010 blog post [Rethinking the Systems Review Process](https://cacm.acm.org/blogcacm/rethinking-the-systems-review-process/).
+
+I've written other blog posts that touch on reviewing:
+ - [What makes a good short paper at CSCW?]({% post_url 2024-03-11-cscw-short-papers %})
+ - [Complexity Sells]({% 2024-05-13-complexity-sells %})
