@@ -10,3 +10,4 @@ Here are a few articles I've found useful on this topic:
 
  1. Michael Liebreich. ["Generative AI – The Power and the Glory"](https://about.bnef.com/blog/liebreich-generative-ai-the-power-and-the-glory/). _BloombergNEF_. December 2024.
  2. Sophia Chen. ["How much energy will AI really consume? The good, the bad and the unknown"](https://www.nature.com/articles/d41586-025-00616-z). _Nature_ News Feature. March 2025.
+ 3. Andy Masley. ["Using ChatGPT is not bad for the environment"](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for). _Substack_. January 2025.
