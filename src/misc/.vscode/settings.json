@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/src/misc/.venv/bin/python",
+    "search.useIgnoreFiles": true,
+    "python.testing.pytestArgs": [
+        "uv",
+        "run",
+        "pytest",
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
