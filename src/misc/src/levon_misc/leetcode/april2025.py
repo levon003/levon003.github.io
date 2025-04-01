@@ -37,9 +37,11 @@ def rotate2(nums: List[int], k: int) -> None:
     curr_index = 0
     curr_value = nums[0]
     n_replaced = 0
+    # TODO this is the right idea, but it rotates to the left...
     while n_replaced < n:
         target_index = curr_index - k
         next_value = nums[target_index]
         nums[target_index] = curr_value
         curr_value = next_value
+        curr_index = target_index
         n_replaced += 1
