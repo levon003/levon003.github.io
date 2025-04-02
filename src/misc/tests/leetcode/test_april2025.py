@@ -1,3 +1,5 @@
+import bisect
+
 from levon_misc.leetcode import april2025
 
 import pytest
@@ -13,3 +15,21 @@ def test_rotate(rotate_func):
     k = 3
     rotate_func(nums, k)
     assert nums == [5, 6, 7, 1, 2, 3, 4]
+
+
+@pytest.mark.parametrize(
+    ("bisect_left", "bisect_right"),
+    [
+        (bisect.bisect_left, bisect.bisect_right),
+    ],
+)
+def test_bisect(bisect_left, bisect_right):
+    a = [1, 2, 3, 3, 3, 4, 5]
+    assert bisect_left(a, 3) == 2
+    assert bisect_right(a, 3) == 5
+    assert bisect_left(a, 0) == 0
+    assert bisect_right(a, 0) == 0
+    assert bisect_left(a, 6) == 7
+    assert bisect_right(a, 6) == 7
+    assert bisect_left(a, 3.5) == 5
+    assert bisect_right(a, 3.5) == 5
