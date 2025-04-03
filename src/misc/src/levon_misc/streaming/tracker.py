@@ -75,3 +75,31 @@ class PositiveCountTracker:
             if self.max_count not in self.content_ids:
                 # there's no other content ID at this value
                 self.max_count = new_count
+
+
+class AllPositiveCountTracker(PositiveCountTracker):
+    """
+    What if we wanted to add a get_largest_k(k: int) method?
+
+    Probably, the most efficient thing to do is use a Red-Black tree implementation.
+    That would give us:
+    - insert/delete: O(log n)
+    - largest k: O(k + log n)
+
+    We could use the same data structure as in PositiveCountTracker,
+    and just commit to sorting the counts and retrieving the k largest.
+    That would give us:
+    - insert/delete: O(1)
+    - largest k: O(n log n)
+    Note the largest k is actually slightly better than O(n log n), as we only need to sort the *counts*,
+    not all of the unique content IDs, and # counts <= # content IDs.
+    """
+
+    def get_largest_k(self, k: int) -> list[int]:
+        sorted_counts = sorted(self.content_ids.keys(), reverse=True)
+        result = []
+        for count in sorted_counts:
+            result.extend(self.content_ids[count])
+            if len(result) >= k:
+                break
+        return result[:k]
