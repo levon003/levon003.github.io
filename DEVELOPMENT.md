@@ -18,6 +18,31 @@ gem install -n gembin jekyll
 bundle add webrick
 ```
 
+Using RVM:
+
+```bash
+# install rvm
+\curl -sSL https://get.rvm.io | bash -s stable
+# install older version of Ruby that works with Jekyll
+rvm install 3.1.7 --with-openssl-dir=$(brew --prefix openssl@1.1)
+# use that version of ruby
+rvm use 3.1.7
+# set that version of ruby as the default
+echo "3.1.7" > .ruby-version
+# use this ruby version to install bundler
+gem install bundler
+# install from Gemfile
+bundle install
+# generate jekyll executable
+bundle binstubs --all
+```
+
+To update:
+
+```bash
+bundle update github-pages
+```
+
 To build:
 ```
 bundle install
