@@ -60,9 +60,13 @@ def test_behavior():
         for value in shuffled_input[1:]:
             tree.insert(value)
         assert tree.root.to_list() == expected_output
+        assert tree.root.check_uniqueness()
 
         expected_reduction = expected_output[:]
         for value in shuffled_input[: n // 2]:
             tree.delete(value)
             expected_reduction.remove(value)
+            assert (
+                tree.root.check_uniqueness()
+            ), f"Dupes present: {tree.root.to_list()}, expected {expected_reduction}"
             assert tree.root.to_list() == expected_reduction

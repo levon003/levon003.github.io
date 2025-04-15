@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+import logging
+
+logger = logging.getLogger(__name__)
+
 
 class EmptyTree(Exception):
     pass
@@ -28,7 +32,8 @@ class TreeNode:
     def _to_list_recursive(self, lst: list[int]):
         if self.left is not None:
             self.left._to_list_recursive(lst)
-        lst.append(self.value)
+        for _ in range(self.counter):
+            lst.append(self.value)
         if self.right is not None:
             self.right._to_list_recursive(lst)
 
@@ -44,17 +49,13 @@ class TreeNode:
         elif value < self.value:
             if self.left is None:
                 self.left = TreeNode(value, parent=self)
-                self.left_height += 1
             else:
                 self.left.insert(value)
-                self.left_height = self.left.height
         elif value > self.value:
             if self.right is None:
                 self.right = TreeNode(value, parent=self)
-                self.right_height += 1
             else:
                 self.right.insert(value)
-                self.right_height = self.right.height
         self._refresh_heights()
 
     def _replace_child(self, child: TreeNode, new_child: TreeNode | None):
@@ -72,6 +73,7 @@ class TreeNode:
         self.left = new_node.left
         self.right = new_node.right
         self.value = new_node.value
+        self.counter = new_node.counter
         self.left_height = new_node.left_height
         self.right_height = new_node.right_height
         self._refresh_heights()
@@ -84,7 +86,7 @@ class TreeNode:
             if self.parent is not None:
                 self.parent._replace_child(self, None)
             else:
-                self.counter += 1
+                self.counter = 1  # weird, but necessary if the tree continues to be used after EmptyTree is thrown
                 raise EmptyTree()
         elif has_left and not has_right:
             # promote left child
@@ -102,7 +104,9 @@ class TreeNode:
             # promote the "in-order predecessor"
             iop = self.left.get_largest_node()
             self.value = iop.value
-            iop.parent._replace_child(iop, None)
+            self.counter = iop.counter
+            iop._delete()
+            # iop.parent._replace_child(iop, None)
             iop.parent._bubble_up_heights()
         self._refresh_heights()
 
@@ -124,6 +128,25 @@ class TreeNode:
         if self.right is None:
             return self
         return self.right.get_largest_node()
+
+    def check_uniqueness(self) -> bool:
+        values = set()
+        duplicates = set()
+        nodes = [self]
+        while len(nodes) > 0:
+            node = nodes.pop(0)
+            if node.value in values:
+                duplicates.add(node.value)
+            values.add(node.value)
+            for child in [node.left, node.right]:
+                if child is not None:
+                    nodes.append(child)
+        if len(duplicates) > 0:
+            logger.warning(
+                f"Identified {len(duplicates)} duplicates in tree: {duplicates}"
+            )
+            return False
+        return True
 
     def __str__(self):
         return f"TreeNode(value={self.value}, height={self.height}[l={self.left_height},r={self.right_height}])"
