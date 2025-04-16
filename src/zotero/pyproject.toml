@@ -1,0 +1,28 @@
+[project]
+name = "zotero-slack-integration"
+version = "0.0.1"
+description = ""
+readme = "README.md"
+license = "MIT"
+authors = [
+  {name = "Zachary Levonian", email = "zacharylevonian@gmail.com"},
+]
+repository = "https://github.com/levon003/levon003.github.io/"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "pytest>=8.3.5",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/zotero"]
