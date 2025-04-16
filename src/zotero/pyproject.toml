@@ -10,6 +10,7 @@ authors = [
 repository = "https://github.com/levon003/levon003.github.io/"
 requires-python = ">=3.13"
 dependencies = [
+    "python-dotenv>=1.1.0",
     "requests>=2.32.3",
     "tqdm>=4.67.1",
 ]
