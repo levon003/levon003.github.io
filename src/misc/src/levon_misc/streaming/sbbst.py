@@ -106,6 +106,7 @@ class TreeNode:
             self.value = iop.value
             self.counter = iop.counter
             iop._delete()
+            # assert self.check_uniqueness()
             # iop.parent._replace_child(iop, None)
             iop.parent._bubble_up_heights()
         self._refresh_heights()

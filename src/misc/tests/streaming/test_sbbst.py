@@ -17,7 +17,7 @@ def test_insert():
         assert tree.root.to_list() == expected_list
 
 
-def test_remove():
+def test_delete():
     tree = sbbst.SelfBalancingBinarySearchTree(1)
     with pytest.raises(sbbst.EmptyTree):
         tree.delete(1)
@@ -49,6 +49,67 @@ def test_remove():
     assert tree.root.right.value == 1
     assert tree.root.right.right.value == 3
 
+    # test more complex removals
+    """
+        6
+      4   7
+     2 5
+    """
+    tree = sbbst.SelfBalancingBinarySearchTree(6)
+    tree.insert(4)
+    tree.insert(3)
+    tree.insert(5)
+    tree.insert(7)
+    assert tree.root.to_list() == [3, 4, 5, 6, 7]
+    tree.delete(6)
+    assert tree.root.to_list() == [3, 4, 5, 7]
+    """
+           6
+        3     7
+       2 4
+          5
+    """
+    tree = sbbst.SelfBalancingBinarySearchTree(6)
+    tree.insert(3)
+    tree.insert(2)
+    tree.insert(4)
+    tree.insert(5)
+    tree.insert(7)
+    assert tree.root.to_list() == [2, 3, 4, 5, 6, 7]
+    tree.delete(6)
+    assert tree.root.to_list() == [2, 3, 4, 5, 7]
+    """
+           6
+        2     7
+       1 4
+        3 5
+    """
+    tree = sbbst.SelfBalancingBinarySearchTree(6)
+    tree.insert(2)
+    tree.insert(1)
+    tree.insert(4)
+    tree.insert(3)
+    tree.insert(5)
+    tree.insert(7)
+    assert tree.root.to_list() == [1, 2, 3, 4, 5, 6, 7]
+    tree.delete(6)
+    assert tree.root.to_list() == [1, 2, 3, 4, 5, 7]
+
+    tree = sbbst.SelfBalancingBinarySearchTree(5)
+    for value in [2, 4, 1, 0, 3]:
+        tree.insert(value)
+    assert tree.root.to_list() == [0, 1, 2, 3, 4, 5]
+    tree.delete(5)
+    assert tree.root.to_list() == [0, 1, 2, 3, 4]
+    tree.delete(2)
+    assert tree.root.to_list() == [0, 1, 3, 4]
+    tree.delete(4)
+    assert tree.root.to_list() == [0, 1, 3]
+    tree.delete(1)
+    assert tree.root.to_list() == [0, 3]
+    tree.delete(0)
+    assert tree.root.to_list() == [3]
+
 
 def test_behavior():
     n = 5
@@ -68,5 +129,5 @@ def test_behavior():
             expected_reduction.remove(value)
             assert (
                 tree.root.check_uniqueness()
-            ), f"Dupes present: {tree.root.to_list()}, expected {expected_reduction}"
+            ), f"Dupes present: {tree.root.to_list()}, expected {expected_reduction} (from {shuffled_input})"
             assert tree.root.to_list() == expected_reduction
