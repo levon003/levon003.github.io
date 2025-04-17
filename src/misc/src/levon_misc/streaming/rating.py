@@ -72,6 +72,18 @@ class RatingTracker:
             This degrades to the naive approach when m == n,
             but as m decreases relative to n the total cost approaches O(n).
 
+        I would genuinely be interested in understanding what characteristics impact the performance of each of these approaches!
+        A few axes to consider:
+        - Total number of tracked entities
+        - Total number of ratings between report generations
+        - Number of entities with a rating change between report generations
+        - How big the change in score is for each entity that changes
+
+        Empirically, it would be nice to demonstrate that the expected performance regimes exist:
+        - When ratings change but rankings don't, should be no meaningful difference between approaches.
+        - When a small number of entities change rank, I would guess that approach (2) will dominate.
+        - When a large number of entities change rank, I would guess that approach (1) will dominate.
+
         Returns:
             list[tuple[str, float]]: Entity names and average ratings.
         """
