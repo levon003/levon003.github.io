@@ -51,9 +51,25 @@ class RatingTracker:
         self.entities: dict[str, NamedRateableEntity] = {}
 
     def get_sorted_ratings(self) -> list[tuple[str, float]]:
-        """This method can be improved.
+        """This method can be improved. In particular, we have to sort the entities we are tracking every time.
 
-        In particular, we have to sort the entitys we are tracking every time.
+        A few options:
+        1.  Maintain a cached sorted list in self.sorted_entities.
+            If few entities change their ratings, then the sort should empirically be faster, though still O(n log n).
+        2.  Keep track of "dirty" entities and sort them separately.
+         a. Extract m dirty_entities and clean_entities from self.sorted_entities. - O(n)
+            (or, build clean_entities on the fly and build dirty_entities iteratively as add_rating is called.)
+            Sort dirty_entities. (clean_entities is already sorted.) - O(m log m)
+            Sort dirty_entities + clean_entities - O(n log n), but potentially much faster. Why?
+            Because the Timsort implementation that Python uses should be effective at recognizing sorted regions,
+            this should approach O(n) for sorting as m decreases.
+            Total time complexity: O(m log m + n) for small m.
+         b. Extract m dirty_entities and clean_entities from self.sorted_entities - O(n)
+            Sort dirty_entities. (clean_entities is already sorted.) - O(m log m)
+            Do a linear-time merge of dirty_entities and clean_entities - O(n)
+            Total time complexity: O(m log m + n)
+            This degrades to the naive approach when m == n,
+            but as m decreases relative to n the total cost approaches O(n).
 
         Returns:
             list[tuple[str, float]]: Entity names and average ratings.
