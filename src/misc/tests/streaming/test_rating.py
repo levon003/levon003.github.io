@@ -28,26 +28,26 @@ class TestRatingScale:
         ).all()
 
 
-class TestCustomerSupportAgent:
+class TestNamedRateableEntity:
     def test_add_rating(self):
-        agent = NamedRateableEntity("Zach")
-        agent.add_rating(1)
-        assert agent.total_rating == 1
+        entity = NamedRateableEntity("Zach")
+        entity.add_rating(1)
+        assert entity.total_rating == 1
 
     def test_get_average_rating(self):
-        agent = NamedRateableEntity("Zach")
-        agent.add_rating(1)
+        entity = NamedRateableEntity("Zach")
+        entity.add_rating(1)
 
         try:
-            agent = NamedRateableEntity("Zach")
-            agent.get_average_rating()
+            entity = NamedRateableEntity("Zach")
+            entity.get_average_rating()
             assert False, "Expected exception."
         except ValueError:
             assert True
 
 
 class TestRatingTracker:
-    def test_get_agent_ratings(self):
+    def test_get_entity_ratings(self):
         scale = RatingScale(-2, 2, 1)
         tracker = RatingTracker(scale)
         tracker.add_entity(NamedRateableEntity("Heeba"))

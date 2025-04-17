@@ -53,27 +53,27 @@ class RatingTracker:
     def get_sorted_ratings(self) -> list[tuple[str, float]]:
         """This method can be improved.
 
-        In particular, we have to sort the agents we are tracking every time.
+        In particular, we have to sort the entitys we are tracking every time.
 
         Returns:
-            list[tuple[str, float]]: Agent names and average ratings.
+            list[tuple[str, float]]: Entity names and average ratings.
         """
         sorted_entities = sorted(
             self.entities.values(),
-            key=lambda agent: agent.get_average_rating(),
+            key=lambda entity: entity.get_average_rating(),
             reverse=True,
         )
         return ReportGenerator.get_entity_report(sorted_entities)
 
-    def add_entity(self, new_agent: NamedRateableEntity) -> None:
-        if new_agent.name in self.entities:
-            raise ValueError("Already an agent with that name!")
-        self.entities[new_agent.name] = new_agent
+    def add_entity(self, new_entity: NamedRateableEntity) -> None:
+        if new_entity.name in self.entities:
+            raise ValueError("Already an entity with that name!")
+        self.entities[new_entity.name] = new_entity
 
-    def remove_entity(self, agent: NamedRateableEntity) -> None:
-        if agent.name not in self.entities:
-            raise ValueError("Agent does not exist in our tracker!")
-        del self.entities[agent.name]
+    def remove_entity(self, entity: NamedRateableEntity) -> None:
+        if entity.name not in self.entities:
+            raise ValueError("Entity does not exist in our tracker!")
+        del self.entities[entity.name]
 
     def remove_entity_by_name(self, entity_name: str) -> None:
         if entity_name not in self.entities:
