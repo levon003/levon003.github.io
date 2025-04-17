@@ -56,7 +56,8 @@ class RatingTracker:
         A few options:
         1.  Maintain a cached sorted list in self.sorted_entities.
             If few entities change their ratings, then the sort should empirically be faster, though still O(n log n).
-        2.  Keep track of "dirty" entities and sort them separately.
+        2.  Keep track of "dirty" entities and sort them separately
+            (either by creating a dirty_set or adding a boolean flag to NamedRateableEntity).
          a. Extract m dirty_entities and clean_entities from self.sorted_entities. - O(n)
             (or, build clean_entities on the fly and build dirty_entities iteratively as add_rating is called.)
             Sort dirty_entities. (clean_entities is already sorted.) - O(m log m)
