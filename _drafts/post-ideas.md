@@ -1,6 +1,7 @@
 this isn't a real draft, it's just a collection of post ideas I want to flesh out:
 - my favorite papers from my phd ("10 papers worth reading")
 - scoping a data science project (draft already exists for this)
+  related: why topic modeling is rarely the right choice
 - how I review papers
     Jeff Leek's ["Reviewing academic papers"](https://github.com/jtleek/reviews)
 - why not a computer-adaptive test that uses free-response options?
@@ -36,3 +37,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
         Avoid current events - although articles related to current events are fine/good!
     Avoid stuff related to images
     Avoid categories (edit list articles instead)
+ - ANN for vector search
+    pgvector's two options
+    How much slower the exact approach is than the approximation
+    What are the actual costs of the approximation? How much will this hurt retrieval performance, and is this exacerbated at particular values of k (number of highest-similarity entries retrieved)?
