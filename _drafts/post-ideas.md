@@ -41,3 +41,8 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     pgvector's two options
     How much slower the exact approach is than the approximation
     What are the actual costs of the approximation? How much will this hurt retrieval performance, and is this exacerbated at particular values of k (number of highest-similarity entries retrieved)?
+
+
+Interesting question:
+https://x.com/its_vayishu/status/1915389208790712466
+>You're working with high-dimensional data (e.g., neural net embeddings). How do you test for multivariate normality? Why do tests like Shapiro-Wilk or KS break in high dims? And how do these assumptions affect models like PCA or GMMs?
