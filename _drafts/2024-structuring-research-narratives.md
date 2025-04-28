@@ -37,7 +37,8 @@ As Casey Fiesler [writes on Bluesky](https://bsky.app/profile/cfiesler.bsky.soci
 ### Other resources
 
  - ["10 tips for academic talks"](https://matt.might.net/articles/academic-presentation-tips/). See the section on "Motivation" in particular.
- - [](https://www.biorxiv.org/content/10.1101/088278v5.full)
+ - ["Ten simple rules for structuring papers"](https://www.biorxiv.org/content/10.1101/088278v5.full)
+ - Eugene Yan's ["Frequently Asked Questions about My Writing Process"](https://eugeneyan.com/writing/writing-faq/) – Includes a nice set of resources related to writing at the bottom of the post
 
 ### Related posts
  -  [Peer reviewing]({% post_url 2025-03-07-peer-review %})
