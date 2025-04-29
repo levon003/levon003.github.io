@@ -20,10 +20,11 @@ Lars Kellogg-Stedman describes that approach in his blog post ["Managing contain
 
 If you don't want to use the Docker SDK directly, a number of libraries have been built specifically to manage Docker containers during testing of Python modules:
 
-1. [pytest-docker](https://github.com/avast/pytest-docker)
-2. [testcontainers-python](https://testcontainers-python.readthedocs.io/en/latest/)
+1. [testcontainers-python](https://testcontainers-python.readthedocs.io/en/latest/)
+2. [pytest-docker](https://github.com/avast/pytest-docker)
 3. [pytest-docker-tools](https://github.com/Jc2k/pytest-docker-tools)
 
-I haven't explored these tools in depth yet, although pytest-docker looks the most mature.
-Notably, unlike the others, pytest-docker relies on `docker compose` rather than base Docker. 
+pytest-docker implements an approach similar to Kellogg-Stedman's blog post, but specifically designed for `docker compose`.
+
+testcontainers-python looks the most mature, and does integrate with Docker Compose as well.
 In an environment that already defines a `compose.yaml`, that may be particularly appealing.
