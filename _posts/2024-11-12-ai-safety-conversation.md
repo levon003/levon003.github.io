@@ -65,6 +65,7 @@ Other resources I've stumbled across:
    - "Linguistic Bodies: The Continuity between Life and Language" by Ezequiel A. Di Paolo, Elena Clare Cuffari, Hanne De Jaegher: <https://direct.mit.edu/books/monograph/4107/Linguistic-BodiesThe-Continuity-between-Life-and>
    - "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI" by Jonathan Birch: <https://academic.oup.com/book/57949>
      - See [review](https://confidenceinterval.substack.com/p/sentience-part-2-the-edge-of-sentience) by Shane Horan.
+   - "The End of Consciousness" by Hakwan Lau: <https://osf.io/preprints/psyarxiv/gnyra_v1>
  - Coordination
    - "Exploring the Impact of Coordination in Human–Agent Teams": <https://journals.sagepub.com/doi/full/10.1177/15553434211010573>
  - "Should AI Progress Speed Up, Slow Down, or Stay the Same?" by Miles Brundage: <https://milesbrundage.substack.com/p/should-ai-progress-speed-up-slow>
