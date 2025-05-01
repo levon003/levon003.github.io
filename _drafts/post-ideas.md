@@ -1,10 +1,10 @@
 this isn't a real draft, it's just a collection of post ideas I want to flesh out:
-- my favorite papers from my phd ("10 papers worth reading")
-- scoping a data science project (draft already exists for this)
+- my favorite papers from my phd ("10 papers worth reading", draft already exists in my email for this)
+- scoping a data science project (draft already exists in my email for this)
   related: why topic modeling is rarely the right choice
-- how I review papers
-    Jeff Leek's ["Reviewing academic papers"](https://github.com/jtleek/reviews)
 - why not a computer-adaptive test that uses free-response options?
+    ["Computer-Adaptive Testing: A Methodology Whose Time Has Come"] by Mike Linacre
+    (And textbook [Invariant Measurement Using Rasch Models in the Social, Behavioral, and Health Sciences ](https://www.routledge.com/Invariant-Measurement-Using-Rasch-Models-in-the-Social-Behavioral-and-Health-Sciences/EngelhardJr-Wang/p/book/9781032603391))
     LLM for generating questions on the fly
     Claim: 5-minute conversation with a tutor beats a 30-minute CAT
     Proxy task: e.g. binary
@@ -20,7 +20,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
 - vec2text:
     Identifying text from vectors
     https://github.com/jxmorris12/vec2text/
-    Could connect it to the cool "sentence embeddings" blog post from a million years ago
+    Could connect it to the cool "sentence embeddings" blog post from a million years ago: https://www.robinsloan.com/notes/voyages-in-sentence-space/
 - tips for new Wikipedia editors
     Dos:
     Edit in your interest areas
@@ -34,15 +34,16 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
         American politics
         Israel/Palestine
         MEDRS: this is a shortcut to a bad time!
-        Avoid current events - although articles related to current events are fine/good!
+        Avoid current events - although articles _related_ to current events are fine/good!
     Avoid stuff related to images
     Avoid categories (edit list articles instead)
  - ANN for vector search
     pgvector's two options
     How much slower the exact approach is than the approximation
     What are the actual costs of the approximation? How much will this hurt retrieval performance, and is this exacerbated at particular values of k (number of highest-similarity entries retrieved)?
-
-
-Interesting question:
+ - Interesting question:
 https://x.com/its_vayishu/status/1915389208790712466
 >You're working with high-dimensional data (e.g., neural net embeddings). How do you test for multivariate normality? Why do tests like Shapiro-Wilk or KS break in high dims? And how do these assumptions affect models like PCA or GMMs?
+ - number of individual Pokemon articles on Wikipedia over time
+    Would need to figure out how to run a script on Toolforge/Cloud VPS these days
+    See: https://wikitech.wikimedia.org/wiki/Help:Shared_storage
