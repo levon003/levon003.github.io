@@ -101,7 +101,7 @@ The needed environment variables can be defined in a `.env`. Here's `tests/integ
 ```
 MYSQL_DATABASE="db_name"
 MYSQL_ROOT_PASSWORD="inttest"
-MYSQL_DATABASE_URL="mysql+pymysql://root:inttest@localhost:3307/db_name"
+MYSQL_DATABASE_URL="mysql+pymysql://root:inttest@localhost:3306/db_name"
 ```
 
 Using Docker Compose, you could create the test database like this:
@@ -119,12 +119,8 @@ import testcontainers.compose
 
 
 @pytest.fixture(scope="session")
-def docker_compose_filepath(pytestconfig):
-    return pytestconfig.rootpath / "tests" / "integration" / "compose.yaml"
-
-
-@pytest.fixture(scope="session")
 def docker_mysql_db(docker_compose_filepath, pytestconfig):
+    docker_compose_filepath = pytestconfig.rootpath / "tests" / "integration" / "compose.yaml"
     env_file = pytestconfig.rootpath / "tests" / "integration" / "test.env"
     with testcontainers.compose.DockerCompose(
         str(pytestconfig.rootpath),
@@ -135,9 +131,6 @@ def docker_mysql_db(docker_compose_filepath, pytestconfig):
         env_file=str(env_file),
         services=["sql", "db_creator", "db_ready"],
     ) as compose:
-        settings.set_dotenv_path(str(env_file))
-        settings.set_current_command("integration-test")
-        settings.load_settings(override_env=True)
         yield compose
 ```
 
