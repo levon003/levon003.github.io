@@ -28,7 +28,7 @@ Illich proposes four networking approaches for students to gain access to those 
  3. **Peer-Matching** — A forum for describing a learning activity and finding a "partner for the inquiry".
  4. **Reference Services to Educators-at-large** — A directory of professionals with "conditions of access to their services".
 
-Certainly, it's easy to think of example education and social technologies that have incorporated these approaches.
+Certainly, it's easy to think of education and social technologies that have incorporated these approaches.
 I'm a big fan of [peer matching technologies](https://arxiv.org/abs/2209.04973), for example.
 Doroudi and Ahmad list several examples.
 
@@ -36,7 +36,7 @@ Illich imagines that the existence of these networks would faciliate a "web" of 
 
 >If the networks I have described could emerge, the educational path of each student would be his own to follow, and only in retrospect would it take on the features of a recognizable program.
 
-I can imagine why this was so controversial!
+These are definitely controversial ideas!
 Check out Doroudi and Ahmad's paper for useful discussion of how these ideas are relevant in the contemporary world of education technology and the design tensions they highlight.
 They conclude:
 
