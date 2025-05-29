@@ -27,6 +27,8 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Start small
     Read Talk pages if you like drama
     There are lots of cool starter tasks
+        Citation Hunt: https://citationhunt.toolforge.org
+        Pages with no sources:
         Can even search by category, e.g. [computing-related pages with no sources](https://en.wikipedia.org/w/index.php?sort=random&search=articletopic%3Acomputing+incategory%3A%22All+articles+lacking+sources%E2%80%8E%22&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
     Add pages to your Watchlist
     Short descriptions!
@@ -38,6 +40,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
         Avoid current events - although articles _related_ to current events are fine/good!
     Avoid stuff related to images
     Avoid categories (edit list articles instead)
+         but do play Catfishing
  - ANN for vector search
     pgvector's two options
     How much slower the exact approach is than the approximation
