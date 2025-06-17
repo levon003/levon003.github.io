@@ -40,4 +40,4 @@ All of these have at least some existing research on the modeling or design side
 
 ## Further Reading
 
- - In June 2025, I stumbled about Will Schulz's dissertation ["Warped Words: How Online Speech Misrepresents Opinion](https://willschulz.com/wp-content/uploads/2024/06/Schulz-Dissertation.pdf). Chapter 3 is quite relevant to political self-censorship online; Schulz presented a version of chapter 3 as ["Political Catchphrases Reveal Polarizing Self-Censorship on Facebook and Twitter"](https://willschulz.com/wp-content/uploads/2024/10/Schulz_WWYS_Online.pdf) at ICA 2025.
+ - In June 2025, I stumbled about Will Schulz's dissertation _[Warped Words: How Online Speech Misrepresents Opinion](https://willschulz.com/wp-content/uploads/2024/06/Schulz-Dissertation.pdf)_. Chapter 3 is quite relevant to political self-censorship online; Schulz presented a version of that chapter as ["Political Catchphrases Reveal Polarizing Self-Censorship on Facebook and Twitter"](https://willschulz.com/wp-content/uploads/2024/10/Schulz_WWYS_Online.pdf) at ICA 2025.
