@@ -37,3 +37,7 @@ I see many plausible research opportunities here:
  - Automated coordination mechanisms. Ex: a rephrasing interface where I publish two versions of my post (one true to my beliefs, one closer to mainstream opinions) into a delayed pool. Then, the mainstream tweet is published when another user submits their own post pair into the pool, thus ensuring that my own choice to moderate my posting influenced the content of another person's post as well.
 
 All of these have at least some existing research on the modeling or design side, but it seems like there are good opportunities to bridge modeling and design in a single interface to see how the availability of new information changes people's social media posting behaviors.
+
+## Further Reading
+
+ - In June 2025, I stumbled about Will Schulz's dissertation ["Warped Words: How Online Speech Misrepresents Opinion](https://willschulz.com/wp-content/uploads/2024/06/Schulz-Dissertation.pdf). Chapter 3 is quite relevant to political self-censorship online; Schulz presented a version of chapter 3 as ["Political Catchphrases Reveal Polarizing Self-Censorship on Facebook and Twitter"](https://willschulz.com/wp-content/uploads/2024/10/Schulz_WWYS_Online.pdf) at ICA 2025.
