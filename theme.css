@@ -131,3 +131,21 @@ ul.pub {
 #info-toggle:checked + .info-text {
 	display: block;
 }
+
+.note-toggle {
+  display: none;
+}
+
+.note-label {
+  cursor: pointer;
+  margin-left: 0.3em;
+}
+
+.note-text {
+  display: none;
+  margin-left: 0.3em;
+}
+
+.note-toggle:checked ~ .note-text {
+  display: inline;
+}
