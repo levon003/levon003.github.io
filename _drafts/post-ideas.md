@@ -17,6 +17,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     https://github.com/burnash/gspread/pull/1529
     https://github.com/iterative/dvc.org/pull/5312
     https://github.com/mediawiki-utilities/python-oresapi/pull/1
+    https://github.com/prosegrinder/python-cmudict/pull/121
 - vec2text:
     Identifying text from vectors
     https://github.com/jxmorris12/vec2text/
