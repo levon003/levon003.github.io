@@ -19,3 +19,9 @@ A few related GitHub repositories:
 - [Pycorels](https://github.com/corels/pycorels) (Python package, not maintained)
 
 Zachary Lipton's ["The Mythos of Model Interpretability"](https://arxiv.org/abs/1606.03490) was also hugely influential on my thinking about interpretability.
+
+### Interpretability (added 2025-07-11)
+
+Other papers I like on the subject of interpretability:
+ - ["Interpreting Interpretability: Understanding Data Scientists' Use of Interpretability Tools for Machine Learning"](https://dl.acm.org/doi/10.1145/3313831.3376219) – This paper is one of the main reasons I'm skeptical of SHAP and similar "opening the black box" interpretability methods.
+
