@@ -18,6 +18,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     https://github.com/iterative/dvc.org/pull/5312
     https://github.com/mediawiki-utilities/python-oresapi/pull/1
     https://github.com/prosegrinder/python-cmudict/pull/121
+    https://github.com/jupyter/jupyter-sphinx/pull/286
 - vec2text:
     Identifying text from vectors
     https://github.com/jxmorris12/vec2text/
@@ -52,3 +53,5 @@ https://x.com/its_vayishu/status/1915389208790712466
  - number of individual Pokemon articles on Wikipedia over time
     Would need to figure out how to run a script on Toolforge/Cloud VPS these days
     See: https://wikitech.wikimedia.org/wiki/Help:Shared_storage
+ - No import side-effects in Python!!! Just stop it!!!!
+ - Draw rate at various Chess ELOs and time controls

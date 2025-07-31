@@ -1,0 +1,465 @@
+<!-- Jekyll Quiz Include Template - created by Claude Sonnet 4 -->
+<!-- Usage: { % include quiz.html quiz=page.quiz % } -->
+
+<div class="quiz-container" id="quiz-{{ include.quiz.id | default: 'main' }}">
+  {% assign quiz_data = include.quiz %}
+  
+  <!-- Quiz Sections -->
+  {% for section in quiz_data.sections %}
+  <div class="quiz-section" data-section="{{ forloop.index0 }}">
+    <div class="section-header">
+      <h3>{% if section.name %}{{ section.name }}{% else %}Section {{ forloop.index }}{% endif %}</h3>
+      <div class="section-score" style="display: none;">
+        <span class="score-text">Score: <span class="score-value">0</span>/<span class="score-total">{{ section.questions.size }}</span></span>
+      </div>
+    </div>
+
+    {% if section.preamble %}
+    <div class="section-preamble">
+        {{ section.preamble }}
+    </div>
+    {% endif %}
+    
+    <div class="questions-container">
+      {% for question in section.questions %}
+      <div class="question" data-question="{{ forloop.index0 }}" data-type="{{ question.type }}">
+        <div class="question-text">
+          <span class="question-number">{{ forloop.index }}.</span>
+          {{ question.text }}
+        </div>
+        
+        <div class="question-input">
+          {% if question.type == 'multiple-choice' %}
+            <div class="multiple-choice-options">
+              {% for answer in question.answers %}
+              <label class="option">
+                <input type="radio" name="q{{ forloop.parentloop.parentloop.index0 }}_{{ forloop.parentloop.index0 }}" value="{{ forloop.index0 }}">
+                <span class="option-text">{{ answer.text }}</span>
+              </label>
+              {% endfor %}
+            </div>
+          {% elsif question.type == 'numeric-range' %}
+            <input type="number" class="numeric-input" placeholder="Enter a number">
+          {% elsif question.type == 'exact-match' %}
+            <input type="text" class="text-input" placeholder="Enter your answer">
+          {% endif %}
+        </div>
+        
+        <div class="question-feedback" style="display: none;">
+          <div class="correct-answer">
+            {% if question.type == 'multiple-choice' %}
+              {% for answer in question.answers %}
+                {% if answer.correct %}
+                  <strong>Correct answer:</strong> {{ answer.text }}
+                  {% if answer.explanation %}<br>{{ answer.explanation }}{% endif %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            {% elsif question.type == 'numeric-range' %}
+              <strong>Correct range:</strong> {{ question.min }} - {{ question.max }}
+              {% if answer.explanation %}<br>{{ answer.explanation }}{% endif %}
+            {% elsif question.type == 'exact-match' %}
+              <strong>Accepted answers:</strong> {{ question.valid_answers | join: ', ' }}
+            {% endif %}
+          </div>
+          {% if question.explanation %}
+          <div class="explanation">{{ question.explanation }}</div>
+          {% endif %}
+        </div>
+        
+        <!-- Store question data as JSON for JavaScript -->
+        <script type="application/json" class="question-data">
+          {
+            "type": "{{ question.type }}",
+            {% if question.type == 'multiple-choice' %}
+            "answers": [
+              {% for answer in question.answers %}
+              {
+                "text": "{{ answer.text | escape }}",
+                "correct": {{ answer.correct | default: false }},
+                "explanation": "{{ answer.explanation | escape }}"
+              }{% unless forloop.last %},{% endunless %}
+              {% endfor %}
+            ]
+            {% elsif question.type == 'numeric-range' %}
+            "min": {{ question.min }},
+            "max": {{ question.max }},
+            "explanation": "{{ question.explanation | escape }}"
+            {% elsif question.type == 'exact-match' %}
+            "valid_answers": {{ question.valid_answers | jsonify }},
+            "explanation": "{{ question.explanation | escape }}"
+            {% endif %}
+          }
+        </script>
+      </div>
+      {% endfor %}
+    </div>
+    
+    <button class="submit-section-btn" data-section="{{ forloop.index0 }}">Submit Section</button>
+  </div>
+  {% endfor %}
+  
+  <!-- Final Results -->
+  <div class="quiz-results" style="display: none;">
+    <h3>Final Results</h3>
+    <div class="final-score">
+      <span class="final-score-text">Your Score: <span class="final-score-value">0</span>/<span class="final-score-total">0</span></span>
+      <div class="score-percentage">(<span class="percentage-value">0</span>%)</div>
+    </div>
+    <div class="score-descriptor"></div>
+  </div>
+  
+  <!-- Store quiz configuration -->
+  <script type="application/json" class="quiz-config">
+    {
+      "score_descriptors": {{ quiz_data.score_descriptors | jsonify }},
+      "sections_count": {{ quiz_data.sections.size }}
+    }
+  </script>
+</div>
+
+<style>
+.quiz-container {
+  max-width: 800px;
+  margin: 20px 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.quiz-section {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.section-header h3 {
+  margin: 0;
+  color: #495057;
+}
+
+.section-preamble {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.section-score {
+  background: #e3f2fd;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-weight: bold;
+  color: #1976d2;
+}
+
+.question {
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+.question-text {
+  font-weight: 500;
+  margin-bottom: 15px;
+  color: #343a40;
+}
+
+.question-number {
+  color: #6c757d;
+  margin-right: 8px;
+}
+
+.multiple-choice-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 2px solid #e9ecef;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.option:hover {
+  background: #f8f9fa;
+  border-color: #ced4da;
+}
+
+.option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.option.selected {
+  border-color: #007bff;
+  background: #e3f2fd;
+}
+
+.numeric-input, .text-input {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  border: 2px solid #e9ecef;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.numeric-input:focus, .text-input:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+.question-feedback {
+  margin-top: 15px;
+  padding: 15px;
+  background: #f8f9fa;
+  border-left: 4px solid #28a745;
+  border-radius: 0 4px 4px 0;
+}
+
+.question-feedback.incorrect {
+  border-left-color: #dc3545;
+}
+
+.correct-answer {
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #495057;
+}
+
+.explanation {
+  color: #6c757d;
+}
+
+.submit-section-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.submit-section-btn:hover {
+  background: #0056b3;
+}
+
+.submit-section-btn:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+}
+
+.quiz-results {
+  background: #e8f5e8;
+  border: 2px solid #28a745;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+.final-score {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #155724;
+}
+
+.score-percentage {
+  font-size: 18px;
+  color: #6c757d;
+}
+
+.score-descriptor {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 15px;
+  color: #495057;
+}
+
+.question.locked {
+  opacity: 0.8;
+  pointer-events: none;
+}
+
+.question.correct .question-feedback {
+  border-left-color: #28a745;
+}
+
+.question.incorrect .question-feedback {
+  border-left-color: #dc3545;
+}
+</style>
+
+<script>
+(function() {
+  // Initialize quiz functionality
+  document.addEventListener('DOMContentLoaded', function() {
+    const quizContainer = document.querySelector('.quiz-container');
+    if (!quizContainer) return;
+    
+    const config = JSON.parse(quizContainer.querySelector('.quiz-config').textContent);
+    const sections = quizContainer.querySelectorAll('.quiz-section');
+    let completedSections = 0;
+    let totalScore = 0;
+    let totalQuestions = 0;
+    
+    // Count total questions
+    sections.forEach(section => {
+      totalQuestions += section.querySelectorAll('.question').length;
+    });
+    
+    // Handle section submissions
+    sections.forEach((section, sectionIndex) => {
+      const submitBtn = section.querySelector('.submit-section-btn');
+      const questions = section.querySelectorAll('.question');
+      
+      submitBtn.addEventListener('click', function() {
+        if (this.disabled) return;
+        
+        let sectionScore = 0;
+        let allAnswered = true;
+        
+        // Check each question in the section
+        questions.forEach((question, questionIndex) => {
+          const questionData = JSON.parse(question.querySelector('.question-data').textContent);
+          const type = questionData.type;
+          let isCorrect = false;
+          let userAnswer = null;
+          
+          // Get user answer based on question type
+          if (type === 'multiple-choice') {
+            const selectedOption = question.querySelector('input[type="radio"]:checked');
+            if (selectedOption) {
+              const answerIndex = parseInt(selectedOption.value);
+              userAnswer = questionData.answers[answerIndex].text;
+              isCorrect = questionData.answers[answerIndex].correct;
+            } else {
+              allAnswered = false;
+            }
+          } else if (type === 'numeric-range') {
+            const input = question.querySelector('.numeric-input');
+            const value = parseFloat(input.value);
+            if (!isNaN(value)) {
+              userAnswer = value;
+              isCorrect = value >= questionData.min && value <= questionData.max;
+            } else {
+              isCorrect = false;
+            }
+          } else if (type === 'exact-match') {
+            const input = question.querySelector('.text-input');
+            userAnswer = input.value.trim();
+            if (userAnswer) {
+              isCorrect = questionData.valid_answers.some(valid => 
+                valid.toLowerCase() === userAnswer.toLowerCase()
+              );
+            } else {
+              allAnswered = false;
+            }
+          }
+          
+          // Update question state
+          if (userAnswer !== null) {
+            if (isCorrect) {
+              sectionScore++;
+              question.classList.add('correct');
+            } else {
+              question.classList.add('incorrect');
+            }
+            
+            // Show feedback
+            const feedback = question.querySelector('.question-feedback');
+            feedback.style.display = 'block';
+            
+            // Lock the question
+            question.classList.add('locked');
+          }
+        });
+                
+        // Update section score display
+        const scoreDisplay = section.querySelector('.section-score');
+        const scoreValue = scoreDisplay.querySelector('.score-value');
+        const scoreTotal = scoreDisplay.querySelector('.score-total');
+        
+        scoreValue.textContent = sectionScore;
+        scoreTotal.textContent = questions.length;
+        scoreDisplay.style.display = 'block';
+        
+        // Disable submit button
+        this.disabled = true;
+        this.textContent = 'Section Complete';
+        
+        // Update totals
+        totalScore += sectionScore;
+        completedSections++;
+        
+        // Check if all sections are complete
+        if (completedSections === config.sections_count) {
+          showFinalResults();
+        }
+      });
+    });
+    
+    function showFinalResults() {
+      const resultsDiv = quizContainer.querySelector('.quiz-results');
+      const finalScoreValue = resultsDiv.querySelector('.final-score-value');
+      const finalScoreTotal = resultsDiv.querySelector('.final-score-total');
+      const percentageValue = resultsDiv.querySelector('.percentage-value');
+      const descriptorDiv = resultsDiv.querySelector('.score-descriptor');
+      
+      const percentage = Math.round((totalScore / totalQuestions) * 100);
+      
+      finalScoreValue.textContent = totalScore;
+      finalScoreTotal.textContent = totalQuestions;
+      percentageValue.textContent = percentage;
+      
+      // Find appropriate descriptor
+      let descriptor = 'Good effort!';
+      if (config.score_descriptors) {
+        for (let i = 0; i < config.score_descriptors.length; i++) {
+          if (percentage >= config.score_descriptors[i].min) {
+            descriptor = config.score_descriptors[i].text;
+            break;
+          }
+        }
+      }
+      
+      descriptorDiv.textContent = descriptor;
+      resultsDiv.style.display = 'block';
+      
+      // Scroll to results
+      resultsDiv.scrollIntoView({ behavior: 'smooth' });
+    }
+    
+    // Handle option selection styling for multiple choice
+    quizContainer.addEventListener('change', function(e) {
+      if (e.target.type === 'radio') {
+        // Remove selected class from all options in this question
+        const question = e.target.closest('.question');
+        question.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
+        
+        // Add selected class to chosen option
+        e.target.closest('.option').classList.add('selected');
+      }
+    });
+  });
+})();
+</script>
