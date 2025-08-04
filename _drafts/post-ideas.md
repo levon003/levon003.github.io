@@ -54,4 +54,7 @@ https://x.com/its_vayishu/status/1915389208790712466
     Would need to figure out how to run a script on Toolforge/Cloud VPS these days
     See: https://wikitech.wikimedia.org/wiki/Help:Shared_storage
  - No import side-effects in Python!!! Just stop it!!!!
+    https://luminousmen.com/post/the-ultimate-python-style-guidelines/
+    https://softwareengineering.stackexchange.com/questions/454069/what-side-effects-if-any-are-okay-when-importing-a-python-module
+    https://chrismorgan.info/blog/say-no-to-import-side-effects-in-python/
  - Draw rate at various Chess ELOs and time controls
