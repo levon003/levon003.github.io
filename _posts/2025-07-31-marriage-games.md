@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marriage Games"
+title:  "Marriage games"
 tags: marriage quiz short
 excerpt: "A crossword and trivia game for my marriage."
 quiz:
@@ -67,7 +67,7 @@ quiz:
               correct: false
             - text: "California"
               correct: true
-              explanation: "Boysenberries were first created in California. Oregon is the US state that grows the most boysenberries, New Zealand is the country that grows the most boysenberries, and Washington is"
+              explanation: "Boysenberries were first created in California. Oregon is the US state that grows the most boysenberries, New Zealand is the country that grows the most boysenberries, and Washington is where Zach and Sunita got married."
             - text: "New Zealand"
               correct: false
         
@@ -156,6 +156,6 @@ We created a wedding crossword, which you can complete [on Crosshare](https://cr
 
 ### Trivia
 
-We also designed a 5-round trivia. The first two rounds required specific knowledge of us as a couple, so we're not sharing them publicly here. But the rest are general trivia rounds, so feel free to give them a go below!
+We also designed five rounds of trivia. The first two rounds required specific knowledge of us as a couple, so we're not sharing them publicly here. But the rest are general trivia rounds, so feel free to give them a go below!
 
 {% include quiz.html quiz=page.quiz %}
