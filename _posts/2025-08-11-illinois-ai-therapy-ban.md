@@ -5,7 +5,7 @@ tags: llm therapy law "peer support" "social support"
 excerpt: "Legislation around application-specific LLM use is here."
 ---
 
-Illinois just passed [Public Act 104-0054](https://www.ilga.gov/Legislation/PublicActs/View/104-0054), the "Wellness and Oversight for Psychological Resources Act". See [_StateScoop_ summary](https://statescoop.com/illinois-bans-ai-mental-health-services/) and [Margaret Mitchell's Bluesky thread](https://bsky.app/profile/mmitchell.bsky.social/post/3lw5erptbrs25).
+Illinois just passed [Public Act 104-0054](https://www.ilga.gov/Legislation/PublicActs/View/104-0054), the "Wellness and Oversight for Psychological Resources Act". See [_StateScoop_ summary](https://statescoop.com/illinois-bans-ai-mental-health-services/), [Margaret Mitchell's Bluesky thread](https://bsky.app/profile/mmitchell.bsky.social/post/3lw5erptbrs25), and [the governor's press release](https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/news/2025/2025-08-04-idfpr-press-release-hb1806.pdf).
 
 <small>Obligatory: this post discusses a public law, but I am not a lawyer and any interpretations may be horribly wrong.</small>
 
