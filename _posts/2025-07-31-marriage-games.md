@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marriage games"
-tags: marriage quiz short
+tags: marriage quiz crossword games short
 excerpt: "A crossword and trivia game for my marriage."
 quiz:
   quiz:
@@ -153,6 +153,8 @@ Of course, we needed to torment our friends and family with activities.
 ### Crossword
 
 We created a wedding crossword, which you can complete [on Crosshare](https://crosshare.org/crosswords/ZbnQobmwr3i50mzBEK6K/zachsunita-wedding).
+
+We built the crossword using [Ingrid](https://ingrid.cx/), which we found to be very useful.
 
 ### Trivia
 
