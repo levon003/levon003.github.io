@@ -76,3 +76,7 @@ I appreciate that it's focused on a particular _application_, rather than prohib
 I generally have mixed feelings about licensing requirements, but that's largely a separate issue.
 
 I will be very curious to see if other states pass similar legislation.
+
+## Further reading
+
+- Jared Moore, Declan Grabb, William Agnew, Kevin Klyman, Stevie Chancellor, Desmond C. Ong, and Nick Haber. 2025. [Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers](https://dl.acm.org/doi/10.1145/3715275.3732039). In _Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25)_. Association for Computing Machinery, New York, NY, USA, 599–627.
