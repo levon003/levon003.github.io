@@ -13,17 +13,20 @@ This page lists my self-published writings, including {{ site.posts | size }} po
 
 ## Posts
 
-<div>
+<div class="invisible">
 {%- assign popular_tags_string = "" -%}
+{%- assign denylist = "short" | split: "," -%}
 {%- for tag in site.tags -%}
   {%- assign tag_name = tag[0] -%}
   {%- assign posts_with_tag = tag[1] -%}
   {%- assign post_count = posts_with_tag | size -%}
-  {%- if post_count >= 3 -%}
-    {%- if popular_tags_string != "" -%}
-      {%- assign popular_tags_string = popular_tags_string | append: "," -%}
-    {%- endif -%}
-    {%- assign popular_tags_string = popular_tags_string | append: tag_name -%}
+  {%- if post_count >= 3  -%}
+    {%- unless denylist contains tag -%}
+      {%- if popular_tags_string != "" -%}
+        {%- assign popular_tags_string = popular_tags_string | append: "," -%}
+      {%- endif -%}
+      {%- assign popular_tags_string = popular_tags_string | append: tag_name -%}
+    {%- endunless -%}
   {%- endif -%}
 {%- endfor -%}
 {%- assign popular_tags = popular_tags_string | split: "," -%}
@@ -41,7 +44,7 @@ This page lists my self-published writings, including {{ site.posts | size }} po
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
+        <div class="post-excerpt">{{ post.excerpt }}</div>
       {%- endif -%}
       <div class="tags">
       {%- for tag in post.tags -%}
@@ -67,21 +70,54 @@ This page lists my self-published writings, including {{ site.posts | size }} po
     <h3><a href="https://zwlevonian.medium.com/how-would-you-deal-with-an-ambiguous-problem-data-science-interview-question-891638470572" class="post-link">
         How would you deal with an ambiguous problem?
     </a></h3>
-    Conceptual workflow for scoping Data Science problems.
+    <div class="post-excerpt">Conceptual workflow for scoping Data Science problems.</div>
+    {%- assign medium_tags = "data science,interview" | split: "," -%}
+    <div class="tags">
+      {%- for tag in medium_tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
   </li>
   <li>
     <span class="post-meta">{{ "2022-03-09" | date: date_format }}</span>
     <h3><a class="post-link" href="https://zwlevonian.medium.com/model-vs-modeler-trade-offs-designing-interactive-text-classification-interfaces-cda41c367e89">
         Model vs Modeler: Trade-offs designing interactive text classification interfaces
     </a></h3>
-    Accessible summary of my IUI 2022 paper.
+    <div class="post-excerpt">Accessible summary of my IUI 2022 paper.</div>
+    {%- assign medium_tags = "nlp,ml,research" | split: "," -%}
+    <div class="tags">
+      {%- for tag in medium_tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
   </li>
   <li>
     <span class="post-meta">{{ "2020-11-01" | date: date_format }}</span>
     <h3><a class="post-link" href="https://zwlevonian.medium.com/integer-linear-programming-with-pulp-optimizing-a-draftkings-nfl-lineup-5e7524dd42d3">
         Integer Linear Programming with PuLP: Optimizing a DraftKings NFL lineup
     </a></h3>
-    Basic introduction to ILP with Python.
+    <div class="post-excerpt">Basic introduction to ILP with Python.</div>
+    {%- assign medium_tags = "ilp,code,python" | split: "," -%}
+    <div class="tags">
+      {%- for tag in medium_tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
   </li>
   <li>
     <span class="post-meta">{{ "2018-11-06" | date: date_format }}</span>
@@ -89,7 +125,18 @@ This page lists my self-published writings, including {{ site.posts | size }} po
         style="text-decoration: none">
         Prototyping a handheld with the Omega2: A complete beginner's guide
     </a></h3>
-    Tutorial for making a battery-powered handheld.
+    <div class="post-excerpt">Tutorial for making a battery-powered handheld.</div>
+    {%- assign medium_tags = "design,tutorial,prototype,code" | split: "," -%}
+    <div class="tags">
+      {%- for tag in medium_tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
   </li>
 </ul>
 
@@ -117,8 +164,18 @@ This page lists my self-published writings, including {{ site.posts | size }} po
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
+        <div class="post-excerpt">{{ post.excerpt }}</div>
       {%- endif -%}
+      <div class="tags">
+      {%- for tag in post.tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+      </div>
     </li>
     {%- endif -%}
   {%- endfor -%}

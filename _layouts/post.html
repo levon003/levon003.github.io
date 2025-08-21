@@ -3,6 +3,22 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
+  <div class="invisible">
+  {%- assign popular_tags_string = "" -%}
+  {%- for tag in site.tags -%}
+    {%- assign tag_name = tag[0] -%}
+    {%- assign posts_with_tag = tag[1] -%}
+    {%- assign post_count = posts_with_tag | size -%}
+    {%- if post_count >= 3  -%}
+      {%- if popular_tags_string != "" -%}
+        {%- assign popular_tags_string = popular_tags_string | append: "," -%}
+      {%- endif -%}
+      {%- assign popular_tags_string = popular_tags_string | append: tag_name -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- assign popular_tags = popular_tags_string | split: "," -%}
+  </div>
+
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -21,6 +37,16 @@ layout: default
             </span>
           </span>
       {%- endif -%}</p>
+      <div class="tags">
+      {%- for tag in page.tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+      </div>
       <!--{%- if page.tags -%}
         <p class="post-tags">
           <strong>Tags: </strong>

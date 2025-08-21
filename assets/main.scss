@@ -94,8 +94,8 @@ li > ol {
   background-color: #fafafa;
   color: #333;
   &:visited { /* this is somewhat unreasonable; not sure what the design guidelines are around visited links */
-      color: lighten(#242020, 20%);
-      background-color: darken(#fafafa, 1%);
+      color: lighten(#242020, 5%);
+      background-color: darken(#fafafa, 0.1%);
     }
   text-decoration: none;     /* remove underline */
   transition: all 0.2s ease;
@@ -109,4 +109,16 @@ li > ol {
 
 .tag-count {
   padding-bottom: 0.25em;
+}
+
+.invisible {
+  display: none;
+}
+
+.post-excerpt {
+  padding-bottom: 0.25em;
+}
+
+.post-list > li {
+  margin-bottom: 0.75em;
 }
