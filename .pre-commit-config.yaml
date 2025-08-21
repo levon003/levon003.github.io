@@ -1,0 +1,8 @@
+repos:
+-   repo: local
+    hooks:
+    -   id: create-tags
+        name: create-tags
+        entry: python -c "print('hello world')"
+        language: python
+
