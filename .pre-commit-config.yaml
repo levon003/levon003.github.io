@@ -1,8 +1,9 @@
 repos:
 -   repo: local
     hooks:
-    -   id: create-tags
-        name: create-tags
+    -   id: create-jekyll-tags
+        name: create-jekyll-tags
         entry: python scripts/create_jekyll_tag_stubs.py
         language: python
+        files: _posts/.*
 
