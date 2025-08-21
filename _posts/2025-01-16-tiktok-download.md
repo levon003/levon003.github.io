@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Downloading TikTok videos is easy with yt-dlp"
-tags: tiktok "social media" short
+tags: [tiktok, "social media", short]
 excerpt: "TikTok's data export tool combined with yt-dlp makes it easy to download TikTok videos and metadata."
 ---
 

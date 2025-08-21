@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Log-normal distributions in human behavioral data"
-tags: research stats short
-excerpt: "Log-normal distrubitons appear a lot when measuring the time between human activities."
+tags: research statistics short
+excerpt: "Log-normal distributions appear a lot when measuring the time between human activities."
 image: /images/caringbridge_author_tenure_powerlaw.png
 ---
 

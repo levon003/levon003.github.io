@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thing precedes theory: motivating the design of new systems"
-tags: research reviewing hci design short
+tags: research reviewing hci design theory short
 excerpt: "Research through design, unmet needs, and other writing about system-building in human–computer interaction."
 ---
 

@@ -13,6 +13,22 @@ This page lists my self-published writings, including {{ site.posts | size }} po
 
 ## Posts
 
+<div>
+{%- assign popular_tags_string = "" -%}
+{%- for tag in site.tags -%}
+  {%- assign tag_name = tag[0] -%}
+  {%- assign posts_with_tag = tag[1] -%}
+  {%- assign post_count = posts_with_tag | size -%}
+  {%- if post_count >= 3 -%}
+    {%- if popular_tags_string != "" -%}
+      {%- assign popular_tags_string = popular_tags_string | append: "," -%}
+    {%- endif -%}
+    {%- assign popular_tags_string = popular_tags_string | append: tag_name -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign popular_tags = popular_tags_string | split: "," -%}
+</div>
+
 <ul class="post-list">
   {%- for post in site.posts -%}
     {%- unless post.tags contains "short" -%}
@@ -27,6 +43,16 @@ This page lists my self-published writings, including {{ site.posts | size }} po
       {%- if site.show_excerpts -%}
         {{ post.excerpt }}
       {%- endif -%}
+      <div class="tags">
+      {%- for tag in post.tags -%}
+        {%- if popular_tags contains tag -%}
+          {%- capture tag_url -%}/tags/{{ tag | slugify }}/{%- endcapture -%}
+          <a class="tag" href="{{ tag_url | relative_url }}">
+            {{ tag }}
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+      </div>
     </li>
     {%- endunless -%}
   {%- endfor -%}

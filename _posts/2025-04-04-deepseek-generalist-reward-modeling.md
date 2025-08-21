@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research paper: \"Inference-Time Scaling for Generalist Reward Modeling\""
-tags: ml llms research short
+tags: ml llm research short
 excerpt: "DeepSeek paper introducing Self-Principled Critique Tuning for Generative Reward Modeling"
 ---
 

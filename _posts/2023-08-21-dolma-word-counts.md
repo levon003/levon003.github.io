@@ -2,7 +2,7 @@
 layout: post
 title:  "AI2 Dolma Most Frequent Words: a derivative dataset of the most common words"
 date:   2023-08-21
-tags: data
+tags: [data, ai2, licenses]
 excerpt: A dataset of word counts in Dolma.
 ---
 

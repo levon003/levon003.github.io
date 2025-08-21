@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Energy use of machine learning"
-tags: ml energy ethics short llms
+tags: ml energy ethics short llm
 excerpt: "Link round-up about the energy use of machine learning and large language models."
 ---
 

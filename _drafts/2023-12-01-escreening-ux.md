@@ -2,7 +2,7 @@
 layout: post
 title:  User experience for a clinical trials screening interface
 date:   2023-12-04
-tags: research
+tags: [research, "peer support"]
 excerpt: Pushing qualitative perspectives in a data science team
 ---
 

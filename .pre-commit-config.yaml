@@ -1,9 +1,14 @@
+# reminder: pre-commit install
+# run all: pre-commit run --all-files
 repos:
 -   repo: local
     hooks:
     -   id: create-jekyll-tags
         name: create-jekyll-tags
+        description: Generates Jekyll tags from the posts in _posts.
         entry: python scripts/create_jekyll_tag_stubs.py
         language: python
-        files: _posts/.*
+        files: _posts/.*md
+        additional_dependencies:
+            - PyYAML
 

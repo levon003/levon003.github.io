@@ -2,7 +2,7 @@
 layout: post
 title:  "Monitoring student safety during generative chats"
 date:   2024-04-16
-tags: research safety llms
+tags: research safety llm
 excerpt: Ensuring student safety with monitoring dashboards for students' LLM chats.
 image: /images/llm-safety/moderation_report_teaser.png
 ---

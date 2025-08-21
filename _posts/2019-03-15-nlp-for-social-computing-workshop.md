@@ -2,7 +2,7 @@
 layout: post
 title:  "NLP for Social Computing Workshop"
 date:   2019-03-15
-tags: workshop
+tags: [workshop, nlp, ml, "social computing", hci]
 excerpt: Workshop presented to graduate HCI researchers.
 ---
 

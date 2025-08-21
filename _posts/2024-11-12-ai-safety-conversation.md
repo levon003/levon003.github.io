@@ -77,6 +77,8 @@ Other resources I've stumbled across:
    - 2014 AAAI paper attacking the plausibility of some AI doom scenarios as a product of assumptions about the strucutre of AGI.
    - See also Loosemore's 2006 paper ["Complex Systems, Artificial Intelligence and
 Theoretical Psychology"](https://richardloosemore.com/wp-content/uploads/2017/05/2007_ComplexSystems_rpwl.pdf)
+ - ["AI as Normal Technology"](https://knightcolumbia.org/content/ai-as-normal-technology) by 
+   - Characterizes "catastrophic misalignment" as a "speculative risk"
 
 ### Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
 

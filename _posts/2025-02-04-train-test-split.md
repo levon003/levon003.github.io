@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overfitting to train/test splits"
-tags: research ml overfitting stats benchmarks
+tags: research ml overfitting statistics benchmarks
 excerpt: "Ben Recht writes in a 2023 blog post that train-test splits are shockingly effective for evaluating machine learning models."
 ---
 

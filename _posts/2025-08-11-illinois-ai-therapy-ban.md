@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Illinois AI therapy ban – exempting peer support and religious counseling"
-tags: llm therapy law "peer support" "social support"
+tags: [llm, therapy, law, "peer support", "social support"]
 excerpt: "Legislation around application-specific LLM use is here."
 ---
 
