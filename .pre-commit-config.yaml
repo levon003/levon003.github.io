@@ -3,6 +3,6 @@ repos:
     hooks:
     -   id: create-tags
         name: create-tags
-        entry: python -c "print('hello world')"
+        entry: python scripts/create_jekyll_tag_stubs.py
         language: python
 
