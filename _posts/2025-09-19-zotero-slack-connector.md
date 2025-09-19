@@ -12,16 +12,18 @@ Inevitably, group libraries receive uneven usage; some people on a team will use
 
 I wanted to increase the visibility of Zotero usage for every member of the team, so I created a Slack bot that would keep a channel updated with newly-added papers.
 
-You can find the `zotero-slack-connector` [on GitHub](https://github.com/DigitalHarborFoundation/zotero-slack-connector): <github.com/DigitalHarborFoundation/zotero-slack-connector>
+You can find the `zotero-slack-connector` [on GitHub](https://github.com/DigitalHarborFoundation/zotero-slack-connector): <https://github.com/DigitalHarborFoundation/zotero-slack-connector>
 
 The Slack bot sends two kinds of messages:
  - Recent papers: a list of the most recent papers added to a Zotero group
  - Papers added since last message: a list of the papers added to a Zotero group since the Slack bot's last message in a particular Slack channel
 
+By default, it will show you up to three of the most recently-added papers.
+
 ![Example recent papers report.](/images/zotero_slack_connector_report.png){:style="display:block; margin-left: auto; margin-right: auto;"}
 *An example recent papers report.*
 
-If you want to use the Zotero Slack bot, it's easy to set up yourself.
+If you want to use the Zotero Slack bot, it's straightforward to set up yourself.
  - Clone or download [the repository](https://github.com/DigitalHarborFoundation/zotero-slack-connector).
  - Build the Docker image – and optionally push it a container registry of some kind.
  - Set credentials appropriately in a `.env` file:
