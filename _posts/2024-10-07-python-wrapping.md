@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wrapping Python modules with Wrapt"
-tags: python code short
+tags: python code
 excerpt: "The Python package Langfuse uses Wrapt to intercept calls to module functions."
 ---
 
