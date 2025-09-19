@@ -3,6 +3,7 @@ layout: post
 title:  "Zotero Slack Connector: a Slack bot for notifications about new papers"
 tags: [zotero, slack, python, code, short]
 excerpt: "I created a small open-source tool for notifying a Slack channel when new papers are added to a Zotero group."
+image: /images/zotero_slack_connector_report.png
 ---
 
 I love [Zotero](https://www.zotero.org/), an open-source citation management tool.
