@@ -26,10 +26,10 @@ By default, it will show you up to three of the most recently-added papers.
 
 If you want to use the Zotero Slack bot, it's straightforward to set up yourself.
  - Clone or download [the repository](https://github.com/DigitalHarborFoundation/zotero-slack-connector).
- - Build the Docker image – and optionally push it a container registry of some kind.
+ - Build the Docker image – and optionally push it to a container registry of some kind.
  - Set credentials appropriately in a `.env` file:
    - Slack app: [create a new app](https://docs.slack.dev/quickstart/) with the appropriate credentials. I recommend the following Bot Token Scopes: `channels:{history,join,manage,read}`, `chat:write`, `groups:{history,read}`, `im:{history,read}`, `links:write`, `mpim:history`, `users:read`. Set `SLACK_BOT_TOKEN` to the Bot User OAuth Token generated when you install the App in your workspace.
-   - Slack channels: add the bot to a channel (or group message or IM). Retrieve the channel ID and store it in `SLACK_CHANNEL_IDS`. Multiple channels are not currently supported, but would be a trivial extension of the current implementation.
+   - Slack channels: add the bot to a channel (or group message or IM). Retrieve the channel ID and store it in `SLACK_CHANNEL_IDS`. Multiple channels are not currently supported, but it would be a trivial extension of the current implementation.
    - Zotero API: If pulling from a private group, follow the instructions [here](https://www.zotero.org/support/dev/web_api/v3/basics) to generate an API key and set `ZOTERO_API_KEY`.
    - Zotero group: set `ZOTERO_GROUP_ID` to the integers in [the group's](https://www.zotero.org/groups/) URL.
  - Run the Docker image on a regular interval.
