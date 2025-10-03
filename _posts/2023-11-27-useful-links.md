@@ -24,6 +24,7 @@ Links:
 
 Papers:
  - "Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice": <https://dl.acm.org/doi/abs/10.1145/3359174>
+ - "Probabilistic forecasts, calibration and sharpness": <https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jrssb.pdf>
 
 Paywalled links:
  - Linguistics: <https://link.springer.com/book/10.1007/978-3-031-02150-3>
