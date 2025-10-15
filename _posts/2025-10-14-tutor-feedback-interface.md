@@ -12,7 +12,7 @@ The _educator feedback interface_ is an increasingly common research and product
 
 Sometimes the educators in question are teachers, but they can also be trained tutors, peer tutors, counselors, or coaches.
 
-There are many options for analyzing recordings:
+There are many options for analyzing recordings. Here are a few outputs I've seen:
  - Positive or negative interactions _e.g._ student break-through moments
  - Quantitative metrics for particular educator behaviors _e.g._ percentage of questions that are open-ended, educator:student talk-time ratio
  - Quantitative metrics for particular student behaviors _e.g._ verbal expressions of frustration
@@ -33,7 +33,7 @@ However, I've noticed that design proposals for new educator feedback interfaces
 It doesn't have to be this way! 
 While I'm not aware of detailed case studies examining educator feedback interfaces, there is a growing body of research describing experiences with and ideas for educator feedback interfaces.
 This post is a quick round-up of papers that address the design and implementation of educator feedback interfaces.
-If you're going to start implementing your own educator feedback interface, I suggest looking at 
+If you're going to start implementing your own educator feedback interface, I suggest looking at some of these sources; you might find some useful inspiration.
 
 Here's a quick source round-up:
 
