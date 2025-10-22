@@ -102,6 +102,8 @@ The goal of a feasibility study is to surface useful insights, so we also did a 
 
 
 We threw up a recruitment banner and got CaringBridge authors to take a survey. 
+We got 79 people to sign up for 12 weeks of emails.
+Then we collected data for 3 months after the study so we could estimate efficacy over a slightly longer term.
 
 <div class="aside" markdown="1">
 
@@ -120,10 +122,6 @@ We got a bunch of interesting data in the recruitment survey. The table below sh
 | Something else                      | 9%        | Something else                | 8%        |
 
 </div>
-
-We got some really interesting data on what motivates people to seek out peers and what makes a good peer recommendation, so check that out in the paper.
-We get 79 people to sign up for 12 weeks of emails.
-Then we collected data for 3 months after the study so we can do some efficacy estimates.
 
 
 Here are our results, condensed to one image: 
