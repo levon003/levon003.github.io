@@ -5,7 +5,7 @@ tags: [research, caringbridge, hci, cscw, recsys, "peer support", health]
 excerpt: "Using recommendations to help people find peer support online. Adaptation of a talk at CSCW 2025."
 ---
 
-_This post is an adaptation of my CSCW 2025 presentation, which is available [on YouTube](https://youtu.be/Mq-BPlyFlmk). A shorter summary was previously published [here]({% post_url 2025-02-25-caringbridge-recsys-paper %})._
+_This post is an adaptation of my CSCW 2025 presentation, which is available [on YouTube](https://youtu.be/Mq-BPlyFlmk). A shorter summary was previously published [here]({% post_url 2025-02-25-caringbridge-recsys-paper %}). This post was mirrored [on the GroupLens blog](https://grouplens.org/blog/health-blog-recommender-peer-recommendation-interventions-for-online-social-support/)._
 
 Back in 2021, I did a study looking at the feasibility of peer recommendation interventions for health-related social support.
 The [published paper](https://arxiv.org/abs/2209.04973) just won a [Best Paper award](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3) at CSCW 2025.

@@ -48,7 +48,7 @@ We probably shouldn't be surprised by this predictability, as Wikipedia articles
 Perhaps Wikipedia is just serving as a crude proxy for the amount of coverage a player gets: more coverage = better Wikipedia article = more likely to get picked in the first round.
 It would be interesting to attempt to control for the amount of non-Wikipedia coverage available for a player to isolate out the impact of Wikipedia article quality specifically on event outcomes.
 
-I suspect we would only find a substantial effect in cases where Wikipedia article quality is much lower than it could be. For example, in that [tourism research](https://www.econstor.eu/handle/10419/173092) I mentioned above, the authors mention that most of the effect on tourism was the result of bringing low-quality articles up to par; turning good articles into great articles may be less important than turing bad articles into good articles.
+I suspect we would only find a substantial effect in cases where Wikipedia article quality is much lower than it could be. For example, in that [tourism research](https://www.econstor.eu/handle/10419/173092) I mentioned above, the authors mention that most of the effect on tourism was the result of bringing low-quality articles up to par; turning good articles into great articles may be less important than turning bad articles into good articles.
 
 If true, that would give us some comfort that Wikipedia itself is not having a major impact on future events that attract lots of attention already, like elections.
 However, we might still see big causal impacts of Wikipedia editing on smaller, regional elections or for events where a single motivated editor can have an outsized impact on the information presented on Wikipedia.
