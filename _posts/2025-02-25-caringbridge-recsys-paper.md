@@ -34,3 +34,5 @@ Here's the full citation:
 >Zachary Levonian, Matthew Zent, Ngan Nguyen, Matthew McNamara, Loren Terveen, and Svetlana Yarosh. 2025. Peer Recommendation Interventions for Health-related Social Support: a Feasibility Assessment. _Proc. ACM Hum.-Comput. Interact._ 9, 2, Article CSCW146 (April 2025), 59 pages. <https://doi.org/10.1145/3711044>
 
 A preprint is also available on arXiv: <http://arxiv.org/abs/2209.04973>
+
+Edit (October 2025): I published a longer summary [here]({% post_url 2025-10-22-caringbridge-recsys-talk %}).
