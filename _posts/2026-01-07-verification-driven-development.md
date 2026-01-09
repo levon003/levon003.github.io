@@ -25,10 +25,10 @@ Here's my understanding of verification-driven development:
  2. Implementation – LLM uses the goal decomposition to create the codebase and a set of unit and integration tests.
  2. Verification – A human iteratively refines the software interface and the unit/integration tests until satisfied.
  3. Refinement
- 
-    a. Adversarial critique – A separate LLM with a fresh context window generates a critique of the codebase.
-    b. Feedback integration – The LLM software agent selectively incorporates accurate feedback.
-    c. Exit criteria – If the software agent determines that 75% of the issues in the critique are false positives, we exit the refinement loop.
+    {:type="a"}
+    1. Adversarial critique – A separate LLM with a fresh context window generates a critique of the codebase.
+    2. Feedback integration – The LLM software agent selectively incorporates accurate feedback.
+    3. Exit criteria – If the software agent determines that 75% of the issues in the critique are false positives, we exit the refinement loop.
 
 As I read it, the basic intuition behind this approach is:
 
