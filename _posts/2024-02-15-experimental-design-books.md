@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimental design: Crowdsourced sources"
 date:   2024-02-15
-tags: research roundup short
+tags: research statistics roundup short
 excerpt: Crowdsourced experimental design book recommendations.
 ---
 

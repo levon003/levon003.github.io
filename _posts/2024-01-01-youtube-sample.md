@@ -2,7 +2,7 @@
 layout: post
 title: "Research paper: A Random Sample of YouTube"
 date:   2024-01-01
-tags: research short
+tags: [research, data, "social media", youtube, short]
 excerpt: "McGrady et al.'s 2023 paper \"Dialing for Videos: A Random Sample of YouTube\""
 ---
 

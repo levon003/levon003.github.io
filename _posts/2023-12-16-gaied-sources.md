@@ -2,7 +2,7 @@
 layout: post
 title:  NeurIPS'23 GAIED Source Round-up
 date:   2023-12-16
-tags: research short
+tags: research short roundup
 excerpt: Sources mentioned during the NeurIPS'23 Workshop on Generative AI for Education.
 ---
 

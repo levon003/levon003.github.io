@@ -2,7 +2,7 @@
 layout: post
 title:  "Annotation, disagreement, and consensus"
 date:   2024-05-17
-tags: research short
+tags: research short roundup
 excerpt: "Collection of research related to annotator disagreement and consensus."
 ---
 
