@@ -2,7 +2,7 @@
 layout: post
 title:  "Research paper: \"Red-Teaming for Generative AI: Silver Bullet or Security Theater?\""
 date:   2024-03-12
-tags: research short
+tags: research ml redteaming safety ethics short
 excerpt: "A 2024 position paper on red-teaming from Michael Feffer and others at CMU."
 image: images/redteam-silver-bullet-paper.png
 ---

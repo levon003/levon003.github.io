@@ -2,7 +2,7 @@
 layout: post
 title:  Designing LLM tutors to check for student understanding
 date:   2023-11-01
-tags: research
+tags: research education llm
 excerpt: What can Doug Lemov teach us about designing LLM tutors?
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reinforcement Learning Resources"
-tags: [research, resources, "reinforcement learning", rl, short]
+tags: [research, resources, "reinforcement learning", rl, roundup, short]
 excerpt: "A few resources on reinforcement learning."
 ---
 

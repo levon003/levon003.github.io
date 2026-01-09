@@ -2,7 +2,7 @@
 layout: post
 title:  The CommonLit Ease of Readability (CLEAR) Corpus
 date:   2023-12-20
-tags: research short
+tags: research data short
 excerpt: A dataset for advancing readability research.
 ---
 The [CLEAR corpus](https://www.commonlit.org/blog/introducing-the-clear-corpus-an-open-dataset-to-advance-research-28ff8cfea84a/) is a cool dataset of teacher ratings of texts.
