@@ -54,3 +54,4 @@ Further reading:
  - Nathan Lambert writes about LLM character training in ["Character training: Understanding and crafting a language model's personality"](https://www.interconnects.ai/p/character-training) - "Character training is the subset of post-training designed around crafting traits within the model in _the manner_ of its response, rather than the content."
  - Kevin Roose summarizing "Shoggoth" discourse in the _New York Times_: ["Why an Octopus-like Creature Has Come to Symbolize the State of A.I."](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html)
  - ["Large Language Models Do Not Simulate Human Psychology"](https://arxiv.org/abs/2508.06950) by Sarah Schröder, Thekla Morgenroth, Ulrike Kuhl, Valerie Vaquet, Benjamin Paaßen
+ - ["the void"](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void) by nostalgebraist
