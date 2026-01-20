@@ -40,7 +40,7 @@ However, inferring mental states may include some intent detection algorithms, s
 I suspect there are other unintended consequences associated with this specific ban, although none immediately jump to mind.
 A likely _intended_ consequence is the prohibition of some automated analysis tools for patient notes or session recordings.
 Any system that attempts to infer a patient's mental state – such as from a session transcript – is prohibited by this act.
-That could rule out the use of some training or "assistant" tools.
+That could rule out the use of some [training or "assistant" tools]({% post_url 2025-10-14-tutor-feedback-interface %}).
 
 ## Permissible uses
 
