@@ -29,5 +29,7 @@ Hopefully, I'll look back on this post in a few years and laugh at my fears. (LL
 ### On agentic coding
 
  - ["10 things I learned from burning myself out with AI coding agents"](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/) by Benj Edwards (January 2026)
+ - ["Use Agents or Be Left Behind? A Personal Guide to Automating Your Own Work"](https://timdettmers.com/2026/01/13/use-agents-or-be-left-behind/) by Tim Dettmers (January 2026)
  - [Verification-driven development]({% post_url 2026-01-07-verification-driven-development %}) (January 2026)
  - ["My week with opencode"](https://deadsimpletech.com/blog/week_with_opencode) by Iris Meredith (January 2026)
+ 

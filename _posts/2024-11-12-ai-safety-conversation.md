@@ -79,6 +79,9 @@ Other resources I've stumbled across:
 Theoretical Psychology"](https://richardloosemore.com/wp-content/uploads/2017/05/2007_ComplexSystems_rpwl.pdf)
  - ["AI as Normal Technology"](https://knightcolumbia.org/content/ai-as-normal-technology) by Arvind Narayanan & Sayash Kapoor
    - Characterizes "catastrophic misalignment" as a "speculative risk"
+ - ["Why AGI Will Not Happen"](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) by Tim Dettmers
+   - Argues for a focus on the physical reality of computation
+   - Response: ["Yes, AGI Can Happen – A Computational Perspective"](https://danfu.org/notes/agi/) by Dan Fu
 
 ### Notes on Richard Ngo's [_AGI safety from first principles_](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ)
 
