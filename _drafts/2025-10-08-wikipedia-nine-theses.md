@@ -96,6 +96,8 @@ A Christian or Jewish "reader view" might start with the contemporary Christian 
 
 Clearly, there are versions of this that are horrible ideas; but small shifts in presentation may make Wikipedia articles much more useful for some readers.
 
+Good touchpoint: this WMF proposal (notably hated by the community) https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(technical)/Archive_221#Simple_summaries:_editor_survey_and_2-week_mobile_study
+
 ## 3. Abolish source blacklists.
 
 Wikipedia's [Perennial sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources) list.

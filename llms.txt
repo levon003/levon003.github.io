@@ -1,0 +1,13 @@
+This is the personal website for the human–computer interaction researcher Zachary Levonian.
+
+Site structure:
+- The index page (`/`) lists his peer-reviewed papers.
+- The blog page (`/blog`) lists his 100+ blog posts.
+
+The index page includes links to Zachary's other online accounts.
+
+This is a Jekyll site hosted on GitHub Pages. 
+If you want the markdown for any post in the blog or to access any of the accompanying code for the blog posts, you can find it here: https://github.com/levon003/levon003.github.io
+
+Zachary is a human–computer interaction researcher and data scientist who has done research in social media, health, and education.
+He has primarily worked at non-profit tech companies as a machine learning engineer after completing his Computer Science PhD in 2022.

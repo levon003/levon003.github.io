@@ -43,6 +43,7 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Avoid stuff related to images
     Avoid categories (edit list articles instead)
          but do play Catfishing
+    Tips here: https://en.wikipedia.org/wiki/User:Asilvering
  - ANN for vector search
     pgvector's two options
     How much slower the exact approach is than the approximation
@@ -58,4 +59,6 @@ https://x.com/its_vayishu/status/1915389208790712466
     https://luminousmen.com/post/the-ultimate-python-style-guidelines/
     https://softwareengineering.stackexchange.com/questions/454069/what-side-effects-if-any-are-okay-when-importing-a-python-module
     https://chrismorgan.info/blog/say-no-to-import-side-effects-in-python/
- - Draw rate at various Chess ELOs and time controls
+    Common cases: import_dotenv()
+    
+ - Draw rate at various Chess ELOs and time controls (I started this analysis in a notebook and never wrote it up... I think because I wanted to do some LOESS curves or something?)
