@@ -62,3 +62,5 @@ https://x.com/its_vayishu/status/1915389208790712466
     Common cases: import_dotenv()
     
  - Draw rate at various Chess ELOs and time controls (I started this analysis in a notebook and never wrote it up... I think because I wanted to do some LOESS curves or something?)
+ - Good AI classroom policy: https://www.cs.unh.edu/~dietz/teaching/ai-classroom-policy.html
+   Relevant to considerations about how to use LLMs in the classroom.
