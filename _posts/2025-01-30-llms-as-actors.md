@@ -55,3 +55,4 @@ Further reading:
  - Kevin Roose summarizing "Shoggoth" discourse in the _New York Times_: ["Why an Octopus-like Creature Has Come to Symbolize the State of A.I."](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html)
  - ["Large Language Models Do Not Simulate Human Psychology"](https://arxiv.org/abs/2508.06950) by Sarah Schröder, Thekla Morgenroth, Ulrike Kuhl, Valerie Vaquet, Benjamin Paaßen
  - ["the void"](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void) by nostalgebraist
+ - ["The assistant axis: situating and stabilizing the character of large language models"](https://www.anthropic.com/research/assistant-axis) by Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey
