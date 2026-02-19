@@ -24,7 +24,8 @@ Hopefully, I'll look back on this post in a few years and laugh at my fears. (LL
  - ["A Matter of Words"](https://thepointmag.com/examined-life/a-matter-of-words/) by Megan Fritts (May 2025)
  - ["AlphaGolem"](https://aeon.co/essays/imagine-if-we-didnt-fear-the-machines-of-our-own-making) by John Cornwell (November 2018)
  - ["Gödel, Escher, Bach author Doug Hofstadter on the state of AI today"](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai) (June 2023)
- 
+  - ["Developers say AI coding tools work—and that’s precisely what worries them"](https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/) by Benj Edwards (January 2026)
+  - ["Deep Blue"](https://simonwillison.net/2026/Feb/15/deep-blue/) by Simon Willison (February 2026)
 
 ### On agentic coding
 
@@ -33,4 +34,3 @@ Hopefully, I'll look back on this post in a few years and laugh at my fears. (LL
  - [Verification-driven development]({% post_url 2026-01-07-verification-driven-development %}) (January 2026)
  - ["My week with opencode"](https://deadsimpletech.com/blog/week_with_opencode) by Iris Meredith (January 2026)
  - ["How AI Is Transforming Work at Anthropic"](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic) by Saffron Huang, Bryan Seethor, Esin Durmus, Kunal Handa, Miles McCain, Michael Stern, Deep Ganguli (December 2025)
- - ["Developers say AI coding tools work—and that’s precisely what worries them"](https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/) by Benj Edwards (January 2026)
