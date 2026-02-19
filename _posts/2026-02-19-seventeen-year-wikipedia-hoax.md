@@ -44,7 +44,7 @@ Shockingly, I got back a reply within the hour from Matt Eaton himself:
 >
 >My apologies for putting my fictions on Wikipedia, it's a resource I love and very occasionally donate to.
 
-Straight from the horse's mouth! 
+Straight from the horse's mouth!
 
 Thanks very much to Matt for resolving this mystery. It was fun to notice the connections between Isaacson and Pram and I'm pleased that we are able to clean up Wikipedia and get a good story out of it at the same time.
 
@@ -53,7 +53,7 @@ It also shows how much Wikipedia's policies have changed: an article like that w
 
 There are still tens of thousands of unsourced Wikipedia articles created more than ten years ago.
 A few might be hoaxes like Jacob Isaacson, but most just need attention and care.
-If you want to help, [WikiProject Unreferenced articles](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Unreferenced_articles) is running its [March 2026](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Unreferenced_articles/Backlog_drives/March_2026) drive soon, and it's a great way to jump in as a new Wikipedia editor and immediately feel like you're making the world a better place.
+If you want to help, [WikiProject Unreferenced articles](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Unreferenced_articles) is running its [March 2026 drive](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Unreferenced_articles/Backlog_drives/March_2026) soon, and it's a great way to jump in as a new Wikipedia editor and immediately feel like you're making the world a better place.
 
 ## Further reading
 
