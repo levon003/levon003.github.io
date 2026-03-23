@@ -71,3 +71,9 @@ https://x.com/its_vayishu/status/1915389208790712466
     - More independent journalism (without editors; editorial oversight is one of the key reliability indicators)
     - More independent research (peer review is used as a reliability filter)
     - No journalism (destruction of media covering things people care about)
+    https://en.wikipedia.org/wiki/User:Barkeep49/Death_of_Wikipedia
+
+- Ways to improve Wikipedia
+ - Processes around merging are a mess
+ - WP:NLIST is extremely confusing - list articles sit at a weird place in Wikipedia, often being useful. But the boundaries with NOTCATALOG are extremely unclear.
+ 

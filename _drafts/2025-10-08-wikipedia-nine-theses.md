@@ -134,3 +134,7 @@ Isaac Johnson at the Wikimedia Foundation has been developing some research on [
 [taxonomy](https://meta.wikimedia.org/wiki/Research:Wikipedia_Edit_Types/Python_package#Edit_Types_Taxonomy)
 
 [`mwedittypes`](https://gitlab.wikimedia.org/repos/research/edit-types)
+
+## Further reading
+
+* Zach Weissmueller, ["Can You Trust Wikipedia?"](https://reason.com/video/2026/02/23/can-you-trust-wikipedia/), _Reason_ (February 2026)
