@@ -137,7 +137,7 @@ Resolving the technical problem should recognizably move us closer to solving th
 
 The line between the societal problem and the technical problem is necessarily fuzzy. In general, you should start with a problem recognizable to any member of your audience and take argumentative steps toward a concrete technical problem specific to your discipline.
 
-The societal problem and technical problem together are your strongest motivations for conducting this research. There may be other motivations that you mention incidentally or while discussing how your research relates to prior work, but you should start by laying out your strongest argument first in the progression from societal problem to technical problem.
+The societal problem and technical problem together are your strongest motivations for conducting this research. There may be other motivations that you mention incidentally or while discussing how your research relates to prior work, but lead with your strongest argument and ensure that addressing the technical problem clearly addresses the societal problem.
 
 ### Technical solution
 
@@ -145,9 +145,9 @@ The **technical solution** is how our research fixes the identified technical pr
 
 Your solution should correspond clearly to the points you raised in the technical problem. If your technical solution seems to respond to a broader or more narrow problem than your technical problem suggests, that's a good indicator that you should rework the technical problem or consider presenting less of the work.
 
-For in-progress work, it works well for the technical solution to be tentative or half-way; by explicitly characterizing the technical problem you're trying to solve, you make it obvious where the holes are in your solution.
+For in-progress work, it works fine for the technical solution to be tentative or incomplete; by explicitly characterizing the technical problem you're trying to solve, you make it obvious where the holes are in your solution.
 
-It can be appropriate for the technical solution to include only a brief teaser of your research work, or to include additional details about the methods you used and your results.
+It can be appropriate for the technical solution to include only a brief teaser of your research work. In longer formats, it is fine to include additional details about the methods you used and your results alongside the technical solution.
 
 ### How the solution helps society
 
@@ -155,7 +155,7 @@ It can be appropriate for the technical solution to include only a brief teaser 
 
 If you discussed specific results while describing your technical solution, you should link those results to specific changes for researchers or practitioners who are facing the same societal problem.
 
-Describing the societal benefit can be very brief, but you must do it: remind your reader where you started to complete the narrative.
+Describing the societal benefit can be very brief, but you must do it: remind your reader where you started, or you'll be left with an incomplete narrative.
 
 ## Arguments to avoid
 
