@@ -277,6 +277,7 @@ When you start to diverge from the structure I present above, ask yourself: does
  - Eugene Yan's ["Frequently Asked Questions about My Writing Process"](https://eugeneyan.com/writing/writing-faq/) – Includes a nice set of resources related to writing at the bottom of the post
 
 ## Related posts
+
  -  [Peer reviewing]({% post_url 2025-03-07-peer-review %})
  -  [Common academic writing pitfalls]({% post_url 2024-01-31-academic-writing %})
 
