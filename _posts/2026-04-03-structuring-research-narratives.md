@@ -30,6 +30,10 @@ The framework has four components:
 
 The **societal problem** tells us how the world is lacking.
 
+The society in question can be as broad as you choose, from all of humanity to a small group of researchers, engineers, or practitioners trying to accomplish something.
+
+A problem must – in principle – be solveable.
+
 ### Technical problem
 
 The **technical problem** is why we can't just _fix_ the societal problem.
@@ -42,9 +46,9 @@ The **technical solution** is how our research fixes the identified technical pr
 
 For in-progress work, it works well for the technical solution to be tentative or half-way; by explicitly characterizing the technical problem you're trying to solve, you make it obvious where holes are in your solution.
 
- ### How the solution helps society
+### How the solution helps society
 
- **How the solution helps society** draws us back from the specifics of your solution to the new state of the societal problem following your research.
+**How the solution helps society** draws us back from the specifics of your solution to the new state of the societal problem following your research.
 
 ## Other frameworks
 
