@@ -234,7 +234,15 @@ Overall, I think this abstract is _okay_.
 - My description of the technical solution is vague, although I think that's mostly okay in an abstract.
 - My description of how the solution helps society is too vague. I should tie it back to the problems I identified more explicitly: "Our process creates quantitative user models that are both useful and valid."
 
-If I had used this framework more explicitly, I would have produced a stronger abstract!
+If I had used this framework more explicitly, I would have produced a stronger abstract! Here's a revised version:
+
+<blockquote class="annotated-abstract">
+    <span class="cat-society"><span class="label">Societal problem</span> <span class="sentence">Quantitative models of social media users without valid conceptual categories can produce misunderstandings and lead to ineffective designs.</span></span>
+    <span class="cat-techproblem"><span class="label">Technical problem</span> <span class="sentence">In many contexts, useful category taxonomies can be defined via the incorporation of qualitative findings, a mixed-methods approach that offers the ability to create qualitatively-informed user models. But operationalizing taxonomies from the themes described in qualitative work requires a process that can bridge from the thematic to the concrete.</span></span>
+    <span class="cat-techsolution"><span class="label">Technical solution</span> <span class="sentence">We propose a process and explore challenges bridging qualitative themes to user models, for both operationalization of themes to taxonomies and the use of these taxonomies in constructing classification models.</span></span>
+    <span class="cat-details"><span class="label">Method details</span><span class="sentence">For classification of new data, we compare common keyword-based approaches to machine learning models. We demonstrate our process through an example in the health domain, constructing two user models tracing cancer patient experience over time in an online health community.</span></span>
+    <span class="cat-benefit"><span class="label">How the solution helps society</span> <span class="sentence">Our process produces user models with qualitatively-grounded categories that better capture user behavior and are more useful for researchers.</span></span>
+</blockquote>
 
 ## Using this framework
 
