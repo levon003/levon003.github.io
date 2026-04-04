@@ -27,3 +27,8 @@ Or alternately: (noun phrase)
 >Wang et al. found X. This finding implies Y.
 
 Even where the reader can resolve the antecedent of "this" with a high degree of certainty, it still adds unneeded cognitive load for readers! And the ambiguity of "this" allows it to function as a weasel word that can hide lack of clarity or gaps in an argument.
+
+## Further reading
+
+ -  [Structuring research narratives]({% post_url 2026-04-03-structuring-research-narratives %})
+ -  [Peer reviewing]({% post_url 2025-03-07-peer-review %})
