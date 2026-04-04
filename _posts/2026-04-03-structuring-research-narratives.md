@@ -246,14 +246,14 @@ If I had used this framework more explicitly, I would have produced a stronger a
 
 ## Using this framework
 
-I find it's useful to use this framework as early as possible in a research project. I'll write four high-level bullet points and see if I find the narrative compelling even without detail. Each month, I return to my bullet points, revising them to be more specific and to see how my thinking about the research I've conducted has changed.
+I try to use this framework as early as possible in a research project. I'll write four high-level bullet points and see if I find the narrative compelling even without detail. Each month, I return to my bullet points, revising them to be more specific and to see how my thinking about the research has changed.
 
 Research abstracts lend themselves well to this framework, since an abstract should usually serve as a brief summary of the research narrative. But abstracts can include other details as well (listings of results, calls to action, important related work), so I like to keep a "clean" version of the narrative for any research project I'm working on.
 
 In longer formats, such as a research talk or an Introduction section, you might choose to include more or less detail in each component of this framework. 
-It can be fine to start with a smaller "abstract" version of your research narrative, essentially functioning as a roadmap, or to introduce only the societal problem initially.
+It can be fine to start with a smaller "abstract" version of your research narrative – essentially functioning as a roadmap – or to introduce only the societal problem initially.
 Highly conceptual work might require significant exposition before the audience can even understand the technical problem. 
-For example, many pure mathematics talks are 80% "technical problem", with a sliver of higher-level context at the start and a final theorem presented at the end, with details left to a longer-form write-up.
+For example, many pure math talks are 80% "technical problem", with a sliver of higher-level context at the start and a final theorem presented at the end, with details left to a longer-form write-up.
 
 ## Other frameworks
 
@@ -268,7 +268,7 @@ The framework above aligns with researcher expectations that are highly applicab
 
 >A good abstract tells a story. Furthermore, the parts of the story appear in a sensible order, one commonly seen by its (limited) audience. It, therefore, meets its readers' expectations. When writing my own abstracts or helping others, I find that stating the purpose(s) of each sentence helps me see the story's flow from a reader's point of view, and readily find flaws in the story. If you think of an abstract as telling a story, then of course only some content and orderings are effective, and you can judge when content and order works or doesn't.
 
-When you start to diverge from the structure I present above, just ask yourself: does this meet my readers' expectations? Does my story 'work'?
+When you start to diverge from the structure I present above, ask yourself: does this meet my readers' expectations? Does my story 'work'?
 
 ## Other resources
 
