@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MIT course: Generative Artificial Intelligence in K12 Education"
+title:  "MIT course (2023): Generative Artificial Intelligence in K12 Education"
 tags: [education, llm, course, roundup, short]
 excerpt: "List of readings from an AI in education undergraduate course."
 ---
@@ -19,7 +19,6 @@ Dillenbourg, P. (1999). What do you mean by collaborative learning? In *Collabor
 - *In-Person Approaches* — Education Endowment Foundation. [Collaborative learning approaches](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/collaborative-learning-approaches). EEF Teaching and Learning Toolkit.
 - *Technology Support Approaches* — Collaborative Learning Models and Support Technologies in the Future Classroom. (2011). *International Journal for Educational Media and Technology*, *5*(1). [ijemt.org](https://ijemt.org/index.php/journal/article/view/133)
 - *Collaborative or Cooperative Learning?* — Brandon, D. P., & Hollingshead, A. B. (2004). Collaborative learning and computer-supported groups. In T. S. Roberts (Ed.), *Online collaborative learning: Theory and practice*. Information Science Publishing. [DOI:10.4018/978-1-59140-174-2.ch009](https://doi.org/10.4018/978-1-59140-174-2.ch009)
----
  
 ## Topic 2: Reciprocal Peer Tutoring (RPT)
  
@@ -31,7 +30,6 @@ Allen, A. R., & Boraks, N. (1978). Peer tutoring: Putting it to the test. *The R
 - *Research Paper #1* — Cheng, Y.-C., & Ku, H.-Y. (2009). An investigation of the effects of reciprocal peer tutoring. *Computers in Human Behavior*, *25*(1), 40–49. [DOI:10.1016/j.chb.2008.06.001](https://doi.org/10.1016/j.chb.2008.06.001)
 - *Research Paper #2* — Walker, E., Rummel, N., & Koedinger, K. R. (2014). Adaptive intelligent support to improve peer tutoring in algebra. *International Journal of Artificial Intelligence in Education*, *24*(1), 33–61. [DOI:10.1007/s40593-013-0001-9](https://doi.org/10.1007/s40593-013-0001-9)
 - *Preliminary Research in Technology-enhanced RPT* — Oikarinen, R. M., Oikarinen, J. K., Havu-Nuutinen, S., & Pöntinen, S. (2022). Students' collaboration in technology-enhanced reciprocal peer tutoring as an approach towards learning mathematics. *Education and Information Technologies*, *27*(6), 7519–7548. [DOI:10.1007/s10639-021-10799-3](https://doi.org/10.1007/s10639-021-10799-3)
----
  
 ## Topic 3: Heterogeneous Grouping
  
@@ -41,7 +39,6 @@ Gillies, R. M. (2007). Group composition (Chapter 5). In *Cooperative learning: 
 **Optional additional reading:**
  
 - *Review of the literature* — Education Endowment Foundation. (2018). [Best practice in mixed attainment grouping (pilot)](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/best-practice-in-mixed-attainment-grouping).
----
  
 ## Topic 4: Ubiquitous Feedback
  
