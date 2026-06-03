@@ -5,7 +5,7 @@ tags: [research, education, psychology, "growth mindset", short]
 excerpt: "May 2026 NBER working paper finds null results for nudge-style mindset interventions."
 ---
 
-A new NBER working paper finds null results for social belonging and growth mindset interventions for first-year college students.
+A new NBER working paper finds null results for [social belonging](https://en.wikipedia.org/wiki/Belongingness) and [growth mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindsets) interventions for first-year college students.
 The paper is ["The (Lack of) Efficacy of Social Belonging and Growth Mindset Interventions Among College Students"](https://www.nber.org/papers/w35230) by Abid Alam, Philip Oreopoulos, and Uros Petronijevic. Here's the abstract:
 
 >Using four large-scale experiments across two major Canadian universities, we experimentally evaluate the effects of growth mindset and social belonging interventions on student outcomes. In a sample of nearly 12,000 students, we find no immediate or dynamic effects on student grades and no effect on persistence through university. We further combine survey and administrative data with machine learning methods to explore treatment effect heterogeneity, finding no evidence of meaningful variation in treatment effects across student subgroups. Despite the recent promise of these light-touch interventions, our findings indicate further research is required to identify the contexts in which their benefits generalize.
@@ -26,11 +26,11 @@ The growth mindset intervention:
 
 Again, this is a small nudge: 30-60 minutes of eductional readings and written reflection.
 
-### What affect did this have on students?
+### What effect did this have on students?
 
-They used information about students grades and enrollment status to track students during their subsequent time as a student.
+The authors used information about students' grades and enrollment status to track students during their subsequent years in college.
 
-First of all, the big outcome: did the interventions affect student graduation rates? No, the pooled treatment effect across both interventions was very close to zero and swamped by a large standard error.
+First of all, the big outcome: did the interventions affect 5-year student graduation rates? No, the pooled treatment effect across both interventions was very close to zero and swamped by a large standard error.
 
 Well, maybe that's not so surprising. What about for shorter-term academic outcomes? Did the interventions improve student grades in the semester they received the intervention? Also no. The intervention *slightly* improved final course grade (by 0.1 percentage points... out of 100!), but the effect is again indistinguishable from zero.
 
@@ -46,4 +46,4 @@ If I wanted to keep investigating mindset interventions, I would probably attemp
 
 >Another possible explanation for our results is that the targeted psychological constraints are not sufficiently present or binding in our setting. These interventions are designed to address specific barriers—such as fixed beliefs about intelligence or uncertainty about belonging—and may not be effective unless such barriers exist and constrain performance. When these constraints are weak or absent the scope for improvement is limited ([McPartlan et al., "Testing Basic Assumptions Reveals When (Not) to Expect Mindset and Belonging Interventions to Succeed"](https://eric.ed.gov/?id=EJ1280132)).
 
-I wish that the initial survey had asked students about their existing mindsets. That would let you explicitly measure the impact of the intervention in the most favorable possible case: does the intervention help students who *start* with a fixed mindset? In other words, do students *with fixed mindsets* who *subsequently increase their growth mindset attitudes* do better academically? If so, there might be something to salvage here. If not... then we may be mistaken about the relevance of a fixed mindset for many academic outcomes we care about.
+I wish that the initial survey had asked students about their existing mindset. That would let you explicitly measure the impact of the intervention in the most favorable possible case: does the intervention help students who *start* with a fixed mindset? In other words, do students *with fixed mindsets* who *subsequently increase their growth mindset attitudes* do better academically? If so, there might be something to salvage here. If not... then we may be mistaken about the relevance of a fixed mindset for many academic outcomes we care about.
