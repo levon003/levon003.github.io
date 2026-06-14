@@ -1,0 +1,292 @@
+<!-- Sortable / filterable table of Tacoma's preapproved street trees.
+     Data is extracted from the city PDFs by files/tacoma_trees/extract_trees.py
+     into files/tacoma_trees/trees.json, which this widget fetches at runtime.
+     Self-contained vanilla JS; include from a post with the Jekyll include tag. -->
+<div class="tt-widget" id="tt-widget">
+  <div class="tt-controls">
+    <input type="search" id="tt-search" class="tt-search" placeholder="Search name or genus… (e.g. maple, Acer, dogwood)" aria-label="Search trees">
+
+    <div class="tt-filtergroup" id="tt-size" data-key="size_class">
+      <span class="tt-filterlabel">Size</span>
+      <button class="tt-pill" data-val="small">Small</button>
+      <button class="tt-pill" data-val="medium">Medium</button>
+      <button class="tt-pill" data-val="large">Large</button>
+      <button class="tt-pill" data-val="fruit">Fruit</button>
+    </div>
+
+    <div class="tt-filtergroup" id="tt-traits">
+      <span class="tt-filterlabel">Traits</span>
+      <button class="tt-pill" data-trait="evergreen">🌲 Evergreen</button>
+      <button class="tt-pill" data-trait="deciduous">🍂 Deciduous</button>
+      <button class="tt-pill" data-trait="ornamental">✿ Ornamental</button>
+      <button class="tt-pill" data-trait="utility_friendly">⚡ Okay under power lines</button>
+      <button class="tt-pill" data-trait="native">🏔 PNW Native</button>
+      <button class="tt-pill" data-trait="food_producing">🍎 Fruit</button>
+    </div>
+
+    <button class="tt-clear" id="tt-clear">Clear filters</button>
+  </div>
+
+  <div class="tt-count" id="tt-count"></div>
+
+  <div class="tt-scroll">
+    <table class="tt-table" id="tt-table">
+      <thead>
+        <tr id="tt-head"></tr>
+      </thead>
+      <tbody id="tt-body"></tbody>
+    </table>
+  </div>
+  <p class="tt-note" id="tt-status">Loading tree data…</p>
+
+  <details class="tt-credits" id="tt-credits" hidden>
+    <summary>Image credits</summary>
+    <p class="tt-note">Thumbnails are from Wikimedia Commons, each linked to its source. Credited below by photographer and license.</p>
+    <ul id="tt-credits-body"></ul>
+  </details>
+</div>
+
+<style>
+.tt-widget{margin:24px 0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#2d2d2d;font-size:14px}
+.tt-controls{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-bottom:10px}
+.tt-search{flex:1 1 240px;min-width:200px;padding:8px 12px;border:1.5px solid #d0d5dd;border-radius:8px;font-size:14px}
+.tt-search:focus{outline:none;border-color:#5e7ce0;box-shadow:0 0 0 3px rgba(94,124,224,.15)}
+.tt-filtergroup{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.tt-filterlabel{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:#9aa0a6;font-weight:600;margin-right:2px}
+.tt-pill{background:#fff;border:1.5px solid #d0d5dd;border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer;transition:all .12s ease;white-space:nowrap;color:#444}
+.tt-pill:hover{border-color:#5e7ce0;background:#f3f6ff}
+.tt-pill.on{background:#5e7ce0;border-color:#5e7ce0;color:#fff}
+.tt-clear{background:none;border:none;color:#5e7ce0;cursor:pointer;font-size:13px;text-decoration:underline;padding:4px}
+.tt-clear:hover{color:#4a6ad6}
+.tt-count{font-size:12px;color:#9aa0a6;margin-bottom:6px}
+.tt-scroll{overflow-x:auto;border:1px solid #ececf0;border-radius:8px}
+.tt-table{border-collapse:collapse;width:100%;min-width:680px}
+.tt-table th,.tt-table td{padding:8px 10px;text-align:left;border-bottom:1px solid #f0f0f3;vertical-align:top}
+.tt-table thead th{position:sticky;top:0;background:#fbfbfc;border-bottom:2px solid #e4e4ea;font-size:12px;text-transform:uppercase;letter-spacing:.03em;color:#6b7280;cursor:pointer;user-select:none;white-space:nowrap}
+.tt-table thead th:hover{color:#5e7ce0}
+.tt-table thead th .tt-arrow{opacity:.35;font-size:10px}
+.tt-table thead th.tt-sorted .tt-arrow{opacity:1;color:#5e7ce0}
+.tt-table tbody tr:hover{background:#f7f9ff}
+.tt-num{text-align:right;font-variant-numeric:tabular-nums}
+.tt-namecell{display:flex;gap:9px;align-items:flex-start}
+.tt-thumb{flex:0 0 auto;display:block;width:48px;height:60px}
+.tt-thumb img{width:48px;height:60px;object-fit:cover;border-radius:4px;background:#f0f0f3;display:block}
+.tt-thumb-empty{background:#f3f4f6;border-radius:4px}
+.tt-nametext{min-width:0}
+.tt-name{font-weight:600;color:#2d2d2d}
+.tt-name a{color:inherit;text-decoration:none}
+.tt-name a:hover{text-decoration:underline}
+.tt-credits{margin-top:16px;font-size:13px}
+.tt-credits summary{cursor:pointer;color:#5e7ce0;font-weight:500}
+.tt-credits ul{margin:8px 0 0;padding-left:20px;color:#6b7280;font-size:11.5px;line-height:1.7}
+.tt-credits a{color:#5e7ce0;text-decoration:none}
+.tt-credits a:hover{text-decoration:underline}
+.tt-sci{font-style:italic;color:#6b7280;font-size:12.5px}
+.tt-cv{color:#9aa0a6;font-size:11.5px;margin-top:2px}
+.tt-cv-rest{display:none}
+.tt-cv.open .tt-cv-rest{display:inline}
+.tt-cv-toggle{color:#5e7ce0;text-decoration:none;white-space:nowrap}
+.tt-cv-toggle:hover{text-decoration:underline}
+.tt-cv.open .tt-cv-toggle{margin-left:3px}
+.tt-badge{display:inline-block;padding:2px 7px;border-radius:5px;font-size:11px;font-weight:600;text-transform:capitalize}
+.tt-sz-small{background:#e7f5ec;color:#2f8a4e}
+.tt-sz-medium{background:#fff4e0;color:#b7791f}
+.tt-sz-large{background:#fde8e8;color:#c0392b}
+.tt-sz-fruit{background:#f0e9fb;color:#7c4dca}
+.tt-traits{font-size:15px;white-space:nowrap;line-height:1.3}
+.tt-traits span{cursor:default}
+.tt-links a{display:block;color:#5e7ce0;text-decoration:none;font-size:12px;white-space:nowrap;line-height:1.7}
+.tt-links a:hover{text-decoration:underline}
+.tt-note{font-size:12px;color:#9aa0a6;margin-top:8px}
+@media(max-width:620px){
+  .tt-col-width,.tt-col-canopy,.tt-col-strip{display:none}
+}
+</style>
+
+<script>
+(function(){
+  var widget=document.getElementById('tt-widget');
+  if(!widget||widget.dataset.ready)return; widget.dataset.ready='1';
+
+  var DATA_URL={{ '/files/tacoma_trees/trees.json' | relative_url | jsonify }};
+  var THUMBS_URL={{ '/files/tacoma_trees/thumbnails.json' | relative_url | jsonify }};
+  var THUMB_BASE={{ '/files/tacoma_trees/thumbs/' | relative_url | jsonify }};
+  var THUMBS={};
+  var GROWTH={1:'Slow',2:'Medium',3:'Fast'};
+
+  // column definitions: key, label, optional class, value accessor, sort accessor
+  var COLS=[
+    {key:'name',  label:'Tree',   cls:'',            sort:function(r){return r.common_name.toLowerCase();}},
+    {key:'size',  label:'Size',   cls:'',            sort:function(r){return ['small','medium','large','fruit'].indexOf(r.size_class);}},
+    {key:'height',label:'Ht (ft)',cls:'tt-num',                sort:function(r){return r.height_ft;}},
+    {key:'width', label:'W (ft)', cls:'tt-num tt-col-width',   sort:function(r){return r.width_ft;}},
+    {key:'growth',label:'Growth', cls:'',            sort:function(r){return r.growth_rate;}},
+    {key:'canopy',label:'Canopy', cls:'tt-num tt-col-canopy',  sort:function(r){return r.canopy_factor==null?-1:r.canopy_factor;}},
+    {key:'strip', label:'Min strip (ft)',cls:'tt-num tt-col-strip',sort:function(r){return r.min_strip_ft;}},
+    {key:'traits',label:'Traits', cls:'',            sort:function(r){return -((r.evergreen?8:0)+(r.ornamental?4:0)+(r.utility_friendly?2:0)+(r.native?1:0));}},
+    {key:'links', label:'Look up',cls:'',            sort:null}
+  ];
+
+  var rows=[], sortKey='name', sortDir=1;
+  var state={text:'', sizes:new Set(), traits:new Set()};
+
+  var elBody=document.getElementById('tt-body'),
+      elHead=document.getElementById('tt-head'),
+      elCount=document.getElementById('tt-count'),
+      elStatus=document.getElementById('tt-status'),
+      elSearch=document.getElementById('tt-search');
+
+  function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+  function cap(s){return s?s.charAt(0).toUpperCase()+s.slice(1):s;}
+  function q(r){return encodeURIComponent((r.genus+' '+r.species).replace(/[^\w .×-]/g,'').trim());}
+
+  function linksHtml(r){
+    var term=q(r);
+    return '<span class="tt-links">'+
+      '<a href="https://en.wikipedia.org/w/index.php?search='+term+'" target="_blank" rel="noopener">Wikipedia</a>'+
+      '<a href="https://commons.wikimedia.org/w/index.php?search='+term+'&title=Special:MediaSearch&type=image" target="_blank" rel="noopener">Commons Photos</a>'+
+      '<a href="https://www.google.com/search?tbm=isch&q='+term+'" target="_blank" rel="noopener">Google Images</a>'+
+    '</span>';
+  }
+
+  function thumbHtml(r){
+    var t=THUMBS[r.genus+' '+r.species];
+    if(!t)return '<span class="tt-thumb tt-thumb-empty"></span>';
+    return '<a class="tt-thumb" href="'+t.source+'" target="_blank" rel="noopener" title="'+esc(t.artist+' · '+t.license)+'">'+
+      '<img src="'+THUMB_BASE+t.file+'" loading="lazy" decoding="async" width="48" height="60" alt="'+esc(cap(r.common_name))+'"></a>';
+  }
+
+  function renderCredits(){
+    var keys=Object.keys(THUMBS); if(!keys.length)return;
+    var nameFor={};
+    rows.forEach(function(r){var k=r.genus+' '+r.species; if(!nameFor[k])nameFor[k]=cap(r.common_name);});
+    keys.sort(function(a,b){return (nameFor[a]||a).localeCompare(nameFor[b]||b);});
+    document.getElementById('tt-credits-body').innerHTML=keys.map(function(k){
+      var t=THUMBS[k];
+      return '<li><a href="'+t.source+'" target="_blank" rel="noopener">'+esc(nameFor[k]||k)+'</a> '+
+        '<em>('+esc(k)+')</em> — '+esc(t.artist)+', '+esc(t.license)+'</li>';
+    }).join('');
+    document.getElementById('tt-credits').hidden=false;
+  }
+
+  function cvHtml(cv){
+    if(!cv)return '';
+    var parts=cv.split(/,\s*/);
+    if(parts.length<=3)return '<div class="tt-cv">cv. '+esc(cv)+'</div>';
+    return '<div class="tt-cv">cv. '+esc(parts.slice(0,3).join(', '))+
+      '<span class="tt-cv-rest">, '+esc(parts.slice(3).join(', '))+'</span>'+
+      ' <a href="#" class="tt-cv-toggle" data-n="'+(parts.length-3)+'">+'+(parts.length-3)+' more</a>'+
+    '</div>';
+  }
+
+  function traitsHtml(r){
+    var t=[];
+    if(r.evergreen)t.push('<span title="Evergreen">🌲</span>');
+    else if(!r.food_producing)t.push('<span title="Deciduous">🍂</span>');
+    if(r.ornamental)t.push('<span title="Ornamental">✿</span>');
+    if(r.utility_friendly)t.push('<span title="Overhead-utility friendly">⚡</span>');
+    if(r.native)t.push('<span title="West Coast native">🏔</span>');
+    if(r.food_producing)t.push('<span title="Food-producing">🍎</span>');
+    return '<div class="tt-traits">'+(t.join(' ')||'—')+'</div>';
+  }
+
+  function cell(col,r){
+    switch(col.key){
+      case 'name': return '<div class="tt-namecell">'+thumbHtml(r)+
+                          '<div class="tt-nametext">'+
+                          '<div class="tt-name"><a href="https://en.wikipedia.org/w/index.php?search='+q(r)+'" target="_blank" rel="noopener">'+esc(cap(r.common_name))+'</a></div>'+
+                          '<div class="tt-sci">'+esc((r.genus+' '+r.species).trim())+'</div>'+
+                          cvHtml(r.cultivars)+'</div></div>';
+      case 'size': return '<span class="tt-badge tt-sz-'+r.size_class+'">'+r.size_class+'</span>';
+      case 'height':return r.height_label||r.height_ft;
+      case 'width': return r.width_label||r.width_ft;
+      case 'growth':return GROWTH[r.growth_rate]||'—';
+      case 'canopy':return r.canopy_factor==null?'—':r.canopy_factor;
+      case 'strip': return r.min_strip_ft==null?'—':r.min_strip_ft;
+      case 'traits':return traitsHtml(r);
+      case 'links': return linksHtml(r);
+    }
+  }
+
+  function passes(r){
+    if(state.sizes.size && !state.sizes.has(r.size_class))return false;
+    for(var t of state.traits){
+      if(t==='deciduous'){ if(r.evergreen||r.food_producing)return false; }
+      else if(!r[t])return false;
+    }
+    if(state.text){
+      var hay=(r.common_name+' '+r.genus+' '+r.species+' '+r.cultivars).toLowerCase();
+      if(hay.indexOf(state.text)===-1)return false;
+    }
+    return true;
+  }
+
+  function render(){
+    var col=COLS.find(function(c){return c.key===sortKey;});
+    var view=rows.filter(passes);
+    if(col&&col.sort){
+      view.sort(function(a,b){
+        var x=col.sort(a),y=col.sort(b);
+        if(x==null)x=-Infinity; if(y==null)y=-Infinity;
+        if(x<y)return -1*sortDir; if(x>y)return 1*sortDir;
+        return a.common_name.localeCompare(b.common_name);
+      });
+    }
+    elBody.innerHTML=view.map(function(r){
+      return '<tr>'+COLS.map(function(c){
+        return '<td class="'+c.cls+'">'+cell(c,r)+'</td>';
+      }).join('')+'</tr>';
+    }).join('');
+    elCount.textContent=view.length+' of '+rows.length+' trees';
+  }
+
+  function buildHead(){
+    elHead.innerHTML=COLS.map(function(c){
+      var arrow=c.sort?'<span class="tt-arrow"> ↕</span>':'';
+      var sorted=c.key===sortKey?' tt-sorted':'';
+      if(c.key===sortKey)arrow='<span class="tt-arrow"> '+(sortDir>0?'▲':'▼')+'</span>';
+      return '<th class="'+c.cls+sorted+'" data-key="'+c.key+'"'+(c.sort?'':' style="cursor:default"')+'>'+c.label+arrow+'</th>';
+    }).join('');
+    elHead.querySelectorAll('th').forEach(function(th){
+      var key=th.dataset.key, col=COLS.find(function(c){return c.key===key;});
+      if(!col||!col.sort)return;
+      th.onclick=function(){
+        if(sortKey===key)sortDir*=-1; else {sortKey=key;sortDir=1;}
+        buildHead(); render();
+      };
+    });
+  }
+
+  // wire filters
+  elSearch.oninput=function(){state.text=elSearch.value.trim().toLowerCase();render();};
+  document.querySelectorAll('#tt-size .tt-pill').forEach(function(b){
+    b.onclick=function(){ b.classList.toggle('on');
+      b.classList.contains('on')?state.sizes.add(b.dataset.val):state.sizes.delete(b.dataset.val); render(); };
+  });
+  document.querySelectorAll('#tt-traits .tt-pill').forEach(function(b){
+    b.onclick=function(){ b.classList.toggle('on');
+      b.classList.contains('on')?state.traits.add(b.dataset.trait):state.traits.delete(b.dataset.trait); render(); };
+  });
+  document.getElementById('tt-clear').onclick=function(){
+    state={text:'',sizes:new Set(),traits:new Set()}; elSearch.value='';
+    widget.querySelectorAll('.tt-pill.on').forEach(function(b){b.classList.remove('on');}); render();
+  };
+  // expand/collapse long cultivar lists (delegated, survives re-render)
+  elBody.addEventListener('click',function(e){
+    var a=e.target.closest('.tt-cv-toggle'); if(!a)return;
+    e.preventDefault();
+    var box=a.parentNode, open=box.classList.toggle('open');
+    a.textContent=open?'less':'+'+a.dataset.n+' more';
+  });
+
+  Promise.all([
+    fetch(DATA_URL).then(function(r){return r.json();}),
+    fetch(THUMBS_URL).then(function(r){return r.json();}).catch(function(){return {};})
+  ]).then(function(res){
+    rows=res[0]; THUMBS=res[1];
+    elStatus.style.display='none'; buildHead(); render(); renderCredits();
+  }).catch(function(e){
+    elStatus.textContent='Could not load tree data ('+e+').';
+  });
+})();
+</script>
