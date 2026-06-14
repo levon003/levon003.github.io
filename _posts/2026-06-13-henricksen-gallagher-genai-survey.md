@@ -3,7 +3,7 @@ layout: post
 title:  "Research paper: Undergraduate usage of generative AI in spring 2026"
 tags: [research, education, llm, short]
 excerpt: "A survey of how undergrad students use, trust, and write with GenAI."
-image: /images/henricksen_genai_usage_by_discipline.svg
+image: /images/henricksen_genai_usage_by_discipline.png
 ---
 
 Eleanor Henricksen and John Gallagher have just released a pre-print on SSRN: ["Students still think they write better than GenAI, but not equally: Disciplinary differences in usage, trust, and writing practices with artificial intelligence"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869641)
