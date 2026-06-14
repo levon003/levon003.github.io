@@ -44,3 +44,11 @@ In general, some video deletions should be expected: people and platforms delete
 A [2010 study](https://ojs.aaai.org/index.php/ICWSM/article/view/14270) conducted by Zeynep Tufekci found that 81% of surveyed Facebook users (_n_=328) deleted info from their profile "because of a privacy or visibility concern".
 A [2013 study](https://arxiv.org/abs/1309.2648) of Twitter by Hany SalahEldeen and Michael Nelson found that 11% of tweets are deleted within a year of their creation.
 [Brennan Schaffner et al.](https://dl.acm.org/doi/abs/10.1145/3555142) looked at account deletion on several platforms (including TikTok) in 2022, but didn't attempt to estimate deletion rates by platform.
+
+## Like limits (Edit May 2026)
+
+Three more notes:
+
+- Since I originally wrote this post, the format of the user data export has changed slightly.
+- If you have liked videos on private accounts or videos that can only be viewed while logged in (basically, videos that trip a "mature content" moderation filter), you can still access them by logging in on your browser and passing `--cookies-from browser firefox` to `yt-dlp`.
+- It appears there is a hard cap of 6,000 likes in the personal data export. You'll only get your most recent 6,000 liked videos.
