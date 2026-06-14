@@ -1,6 +1,22 @@
 Development notes
 ===
 
+## Quick start: run the dev server locally
+
+```bash
+rvm use 3.1.7      # uses the version pinned in .ruby-version
+bin/jekyll serve   # serves at http://127.0.0.1:4000/
+```
+
+If `bin/jekyll` is missing (e.g. a fresh checkout), regenerate it first:
+
+```bash
+bundle install
+bundle binstubs --all
+```
+
+See [Jekyll](#jekyll) below for full first-time setup.
+
 ## Jekyll
 
 Jekyll docs: https://jekyllrb.com/docs/
@@ -18,7 +34,7 @@ gem install -n gembin jekyll
 bundle add webrick
 ```
 
-Using RVM:
+Using RVM (this is probably the better way):
 
 ```bash
 # install rvm
