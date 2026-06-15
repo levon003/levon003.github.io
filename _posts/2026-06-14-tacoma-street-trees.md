@@ -45,4 +45,5 @@ You can also download the extracted and structured data as JSON [here](/files/ta
 </ul>
 </details>
 
+<br>
 If you spot any additional errors, please do let me know!

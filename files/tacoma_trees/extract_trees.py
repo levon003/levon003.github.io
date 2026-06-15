@@ -134,6 +134,18 @@ def pole_dark(px, y0, y1, x0, x1, scale):
     return dark
 
 
+def native_check(px, y0, y1, x0, x1, scale):
+    """Dark-pixel count in the West Coast Native cell. The medium/large lists
+    draw the checkmark in a way pdfplumber can't read as text (it's antialiased
+    grey), so we read it off the raster; present ~50px, absent 0."""
+    dark = 0
+    for yy in range(int((y0 + 2) * scale), int((y1 - 2) * scale)):
+        for xx in range(int((x0 + 2) * scale), int((x1 - 2) * scale)):
+            if max(px[xx, yy]) < 140:
+                dark += 1
+    return dark
+
+
 def extract_standard(size_class, path):
     """12-column layout (small / medium / large)."""
     plumb = pdfplumber.open(path)
@@ -150,6 +162,10 @@ def extract_standard(size_class, path):
         # y-origin; add this offset to text y's before sampling the raster.
         y_off = -page.mediabox[1]
         sc_x0, sc_x1 = bounds[11], bounds[12]  # special-characteristics cell
+        nat_x0, nat_x1 = bounds[9], bounds[10]  # West Coast Native cell
+        # the small list marks native with a font glyph; medium/large draw it
+        # only in the raster, so pick the detection method per page.
+        uses_glyph = any(c["text"] == CHECK for c in page.chars)
         for i in range(len(seps) - 1):
             y0, y1 = seps[i], seps[i + 1]
             if not (8 < y1 - y0 < 40):
@@ -162,6 +178,11 @@ def extract_standard(size_class, path):
             icons = classify_icons(px, y0 + y_off, y1 + y_off, sc_x0, sc_x1, RENDER_SCALE)
             dark = pole_dark(px, y0 + y_off, y1 + y_off, sc_x0, sc_x1, RENDER_SCALE)
             evergreen = icons["green"] > 300 and icons["green"] >= icons["brown"]
+            if uses_glyph:
+                native = CHECK in cols.get(9, "")
+            else:
+                native = native_check(px, y0 + y_off, y1 + y_off,
+                                       nat_x0, nat_x1, RENDER_SCALE) > 20
             rows.append({
                 "size_class": size_class,
                 "genus": genus,
@@ -173,7 +194,7 @@ def extract_standard(size_class, path):
                 "growth_rate": num(cols.get(6, "")),
                 "canopy_factor": num(cols.get(7, "")),
                 "min_strip_ft": num(cols.get(8, "")),
-                "native": CHECK in cols.get(9, ""),
+                "native": native,
                 "evergreen": evergreen,
                 "ornamental": icons["pink"] > 300,
                 "utility_friendly": dark > POLE_THRESHOLD,
