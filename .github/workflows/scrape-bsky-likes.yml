@@ -34,7 +34,8 @@ jobs:
       - name: Scrape likes
         working-directory: src/bsky_link_history
         env:
-          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          # Handle is public, so it's a repo variable; only the app password is a secret.
+          BSKY_HANDLE: ${{ vars.BSKY_HANDLE }}
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: uv run python scrape_likes.py
 
