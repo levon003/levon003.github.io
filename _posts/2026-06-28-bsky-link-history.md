@@ -8,6 +8,9 @@ excerpt: "A vibe-coded pipeline to extract a reading list from my like history o
 I had Claude Opus 4.8 vibe-code a nightly CI job to maintain a [list of every link I've liked on Bluesky](/bsky-links/).
 My goal here was to make a reading list I can consult and search even if people delete later their posts, and I also have the benefit of additional metadata for articles and papers courtesy of [Citoid](https://www.mediawiki.org/wiki/Citoid).
 
+![Most-liked domains and Bluesky accounts](/images/bsky_reading_list_summary.png){:style="display:block; height: auto; max-width: 50%; margin-left: auto; margin-right: auto;"}
+*My most-liked domains and Bluesky accounts, as of June 2026. Updated nightly on [the list](/bsky-links/).*
+
 Claude's solution was a few Python scripts:
 
 1. Scrape liked posts using [`getActorLikes`](https://atproto.blue/en/latest/atproto/atproto_client.models.app.bsky.feed.get_actor_likes.html). To capture "new paper" threads better, I capture any links in the whole thread, not just the specific post I liked. I also capture links in quote posts.
