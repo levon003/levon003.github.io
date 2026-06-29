@@ -12,9 +12,9 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: astral-sh/setup-uv@v5
+      - uses: astral-sh/setup-uv
         with:
           enable-cache: true
 
@@ -22,7 +22,7 @@ jobs:
       # runs here to keep enrich/check_links incremental. A unique key always saves a
       # fresh entry; the restore-keys prefix restores the most recent one.
       - name: Restore enrichment caches
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             src/bsky_link_history/citoid_cache.json
