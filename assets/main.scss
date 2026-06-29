@@ -135,6 +135,10 @@ li > ol {
   margin-bottom: 1em;
   line-height: 1.4;
 
+  /* Bare URLs (links with no title) have no spaces to break on; let them break
+     mid-string rather than overflow narrow (mobile) viewports. */
+  overflow-wrap: anywhere;
+
   /* Long list (thousands of entries): skip layout/paint for off-screen items.
      `auto` caches each entry's real height after first render; the fallback
      estimate just prevents scrollbar jump before that happens. */
@@ -189,6 +193,12 @@ li > ol {
 .bsky-source {
   margin-left: 0.4em;
   color: $grey-color;
+}
+
+/* The source tag ([thread], [↑ parent], …) is short — keep it on one line.
+   The meta block, by contrast, must be allowed to wrap: a long handle plus two
+   dates overflows narrow (mobile) viewports if forced onto a single line. */
+.bsky-source {
   white-space: nowrap;
 }
 
