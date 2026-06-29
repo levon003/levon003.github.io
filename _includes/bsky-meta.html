@@ -1,0 +1,9 @@
+{%- comment -%}
+  Renders the bracketed [bsky · by @handle · posted date · liked date] metadata.
+  Params:
+    like        — the full like record
+    with_author — "true" to include the "by @handle" poster link (omitted where the
+                  surrounding context already names the author, e.g. the thread header)
+    author_label — verb before the handle; defaults to "by" (e.g. "quoted by" for quotes)
+{%- endcomment -%}
+<small class="bsky-meta">[<a href="{{ include.like.post_url | escape }}" target="_blank" rel="noopener">bsky</a>{%- if include.with_author and include.like.author_handle and include.like.author_handle != "" %} · {{ include.author_label | default: "by" }} <a href="https://bsky.app/profile/{{ include.like.author_did | escape }}" target="_blank" rel="noopener">@{{ include.like.author_handle | escape }}</a>{%- endif -%}{%- if include.like.post_date %} · posted {{ include.like.post_date | date: "%b %-d, %Y" }}{%- endif -%}{%- if include.like.liked_at %} · liked {{ include.like.liked_at | date: "%b %-d, %Y" }}{%- endif -%}]</small>

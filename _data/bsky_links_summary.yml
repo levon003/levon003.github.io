@@ -1,0 +1,55 @@
+entries_with_links: 2073
+total_links: 2574
+unique_domains: 877
+top_domains:
+- domain: arxiv.org
+  count: 223
+- domain: substack.com
+  count: 147
+- domain: github.com
+  count: 79
+- domain: simonwillison.net
+  count: 72
+- domain: github.io
+  count: 71
+- domain: doi.org
+  count: 52
+- domain: acm.org
+  count: 49
+- domain: nytimes.com
+  count: 36
+- domain: huggingface.co
+  count: 33
+- domain: youtube.com
+  count: 33
+top_accounts:
+- handle: simonwillison.net
+  did: did:plc:kft6lu4trxowqmter2b6vg6z
+  count: 62
+- handle: davidcrespo.bsky.social
+  did: did:plc:ctphcgyhnllfluywokibtrgb
+  count: 56
+- handle: beenwrekt.bsky.social
+  did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
+  count: 31
+- handle: tedunderwood.com
+  did: did:plc:565ebob5f6hw33hjdkxty6qj
+  count: 29
+- handle: emollick.bsky.social
+  did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  count: 28
+- handle: gracekind.net
+  did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  count: 27
+- handle: dingdingpeng.the100.ci
+  did: did:plc:gz53felr7btxgmbxae5aooxi
+  count: 27
+- handle: timkellogg.me
+  did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  count: 24
+- handle: mariaa.bsky.social
+  did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  count: 23
+- handle: lastpositivist.bsky.social
+  did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  count: 21

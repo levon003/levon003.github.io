@@ -1,0 +1,9 @@
+# Local API-response caches — regenerable, not committed
+citoid_cache.json
+liveness_cache.json
+
+# Bluesky credentials
+.env
+
+__pycache__/
+.venv/

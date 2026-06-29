@@ -1,0 +1,59 @@
+{%- comment -%}
+  Renders a single extracted link.
+  Params:
+    link     — the link dict (url, source, card_title, card_description, citoid, dead, archive_url)
+    like     — the parent like record (for post_url, post_date, liked_at, post_text)
+    in_thread — "true" when rendering inside a multi-link thread list
+{%- endcomment -%}
+{%- assign title = nil -%}
+{%- if include.link.citoid.title and include.link.citoid.title != "None" -%}
+  {%- assign title = include.link.citoid.title -%}
+{%- endif -%}
+{%- if title == nil or title == "" -%}
+  {%- if include.link.card_title and include.link.card_title != "None" -%}
+    {%- assign title = include.link.card_title -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if title and title != "" -%}
+  {%- assign link_text = title -%}
+{%- else -%}
+  {%- assign link_text = include.link.url | truncate: 80 -%}
+{%- endif -%}
+{%- if include.link.dead -%}
+  <a href="{{ include.link.url | escape }}" target="_blank" rel="noopener" class="bsky-dead-link" title="This link appears to be dead">{{ link_text | escape }}</a>
+  {%- if include.link.archive_url -%}
+  <a href="{{ include.link.archive_url | escape }}" target="_blank" rel="noopener" class="bsky-archive-link" title="Archived copy from the Wayback Machine">[archived]</a>
+  {%- else -%}
+  <span class="bsky-dead-tag" title="No archived copy found">[dead link]</span>
+  {%- endif -%}
+{%- else -%}
+  <a href="{{ include.link.url | escape }}" target="_blank" rel="noopener">{{ link_text | escape }}</a>
+{%- endif -%}
+{%- if include.link.citoid.authors -%}
+  {%- capture authors_str -%}{%- include bsky-authors.html authors=include.link.citoid.authors -%}{%- endcapture -%}
+  {%- assign authors_str = authors_str | strip -%}
+  {%- if authors_str != "" -%}
+<span class="bsky-link-authors"> — {{ authors_str | escape }}</span>
+  {%- endif -%}
+{%- endif -%}
+{%- if include.link.card_description and include.link.card_description != "" and include.link.card_description != "None" -%}
+<span class="bsky-link-desc"> — {{ include.link.card_description | truncate: 160 | escape }}</span>
+{%- elsif title == nil or title == "" -%}
+  {%- if include.like.post_text and include.like.post_text != "" -%}
+<span class="bsky-post-excerpt"> — {{ include.like.post_text | truncate: 140 | escape }}</span>
+  {%- endif -%}
+{%- endif -%}
+{%- assign url_parts = include.link.url | split: "/" -%}
+{%- assign link_host = url_parts[2] -%}
+{%- assign host_prefix = link_host | slice: 0, 4 -%}
+{%- if host_prefix == "www." -%}{%- assign link_host = link_host | remove_first: "www." -%}{%- endif -%}
+{%- if link_host and link_host != "" -%}
+<span class="bsky-link-domain"> — {{ link_host | escape }}</span>
+{%- endif -%}
+{%- if include.in_thread -%}
+<small class="bsky-source">[{%- if include.link.source == "thread" -%}thread{%- elsif include.link.source contains "thread_parent" -%}↑ parent{%- elsif include.link.source contains "thread_reply" -%}↓ reply{%- elsif include.link.source contains "quoted" -%}quoted{%- else -%}main post{%- endif -%}]</small>
+{%- else -%}
+{%- assign author_label = "by" -%}
+{%- if include.link.source contains "quoted" -%}{%- assign author_label = "quoted by" -%}{%- endif -%}
+{%- include bsky-meta.html like=include.like with_author="true" author_label=author_label -%}
+{%- endif -%}

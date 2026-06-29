@@ -1,0 +1,26 @@
+{%- comment -%}
+  Formats a list of Citoid authors as "First Last, First Last et al.".
+  Each author is either {first, last} or {literal}. Caps at 3 names.
+  Params: authors (the citoid.authors list)
+{%- endcomment -%}
+{%- assign names = "" -%}
+{%- for a in include.authors -%}
+  {%- if forloop.index > 3 -%}{%- break -%}{%- endif -%}
+  {%- if a.literal and a.literal != "" and a.literal != "None" -%}
+    {%- assign nm = a.literal | strip -%}
+  {%- else -%}
+    {%- capture nm -%}{{ a.first }} {{ a.last }}{%- endcapture -%}
+    {%- assign nm = nm | strip -%}
+  {%- endif -%}
+  {%- if nm != "" -%}
+    {%- if names == "" -%}
+      {%- assign names = nm -%}
+    {%- else -%}
+      {%- assign names = names | append: ", " | append: nm -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if names != "" and include.authors.size > 3 -%}
+  {%- assign names = names | append: " et al." -%}
+{%- endif -%}
+{{- names -}}

@@ -1,0 +1,64 @@
+name: Scrape Bluesky Likes
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 6am UTC daily
+  workflow_dispatch:      # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      # citoid_cache.json / liveness_cache.json are gitignored, so persist them across
+      # runs here to keep enrich/check_links incremental. A unique key always saves a
+      # fresh entry; the restore-keys prefix restores the most recent one.
+      - name: Restore enrichment caches
+        uses: actions/cache@v4
+        with:
+          path: |
+            src/bsky_link_history/citoid_cache.json
+            src/bsky_link_history/liveness_cache.json
+          key: bsky-caches-${{ github.run_id }}
+          restore-keys: |
+            bsky-caches-
+
+      - name: Scrape likes
+        working-directory: src/bsky_link_history
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+        run: uv run python scrape_likes.py
+
+      # Both hit only public APIs (Citoid, Wayback) — no secrets needed.
+      - name: Enrich links with Citoid metadata
+        working-directory: src/bsky_link_history
+        run: uv run python enrich.py
+
+      - name: Check for dead links
+        working-directory: src/bsky_link_history
+        run: uv run python check_links.py
+
+      - name: Build summary tables
+        working-directory: src/bsky_link_history
+        run: uv run python summarize.py
+
+      - name: Commit updated likes data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/bsky_likes.yml _data/bsky_links_summary.yml
+          if git diff --cached --quiet; then
+            echo "No new likes, skipping commit"
+          else
+            git commit -m "chore: update bsky likes data"
+            git push
+          fi

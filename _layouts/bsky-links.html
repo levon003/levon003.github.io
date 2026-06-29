@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<article class="bsky-links">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- assign summary = site.data.bsky_links_summary -%}
+    {%- if summary -%}
+    <p class="post-description">I've liked a lot of articles <a href="https://bsky.app/profile/did:plc:fi73esdhzesw3xdqtzfsmt3g">on Bluesky</a>. This is my reading and watch list: all {{ summary.entries_with_links }} of my likes on posts with links, threads with links, and quote posts of posts with links. Here are my {{ summary.top_domains | size }} most-liked domains:</p>
+    <ol class="bsky-top-domains bsky-top-list">
+      {%- for d in summary.top_domains -%}
+      <li><span class="bsky-top-domain-name">{{ d.domain | escape }}</span> <span class="bsky-domain-count">{{ d.count }}</span></li>
+      {%- endfor -%}
+    </ol>
+    {%- if summary.top_accounts and summary.top_accounts.size > 0 -%}
+    <p class="post-description">…and the {{ summary.top_accounts | size }} accounts whose links I've liked the most:</p>
+    <ol class="bsky-top-accounts bsky-top-list">
+      {%- for a in summary.top_accounts -%}
+      <li><a href="https://bsky.app/profile/{{ a.did | escape }}" target="_blank" rel="noopener">@{{ a.handle | escape }}</a> <span class="bsky-domain-count">{{ a.count }}</span></li>
+      {%- endfor -%}
+    </ol>
+    {%- endif -%}
+    Title and author metadata for links is provided by the <a href="https://www.mediawiki.org/wiki/Citoid">Citoid</a> service or the Bluesky preview card.
+    {%- elsif page.description -%}
+    <p class="post-description">{{ page.description }}</p>
+    {%- endif -%}
+  </header>
+
+  <h2>Bluesky links:</h2>
+
+  <ol class="bsky-links-list">
+    {%- assign likes_with_links = site.data.bsky_likes | where_exp: "like", "like.links.size > 0" -%}
+    {%- for like in likes_with_links -%}
+      {%- assign links = like.links -%}
+      {%- if links.size == 1 -%}
+        {%- assign solo_link = links | first -%}
+        <li class="bsky-entry bsky-single">
+          {%- include bsky-link-item.html link=solo_link like=like -%}
+        </li>
+      {%- else -%}
+        <li class="bsky-entry bsky-multi">
+          <span class="bsky-thread-header">
+            Thread by <a href="{{ like.post_url | escape }}" target="_blank" rel="noopener">{{ like.author_handle | escape }}</a>
+            {%- include bsky-meta.html like=like -%}
+          </span>
+          <ul class="bsky-thread-links">
+            {%- for link in links -%}
+            <li>
+              {%- include bsky-link-item.html link=link like=like in_thread="true" -%}
+            </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ol>
+</article>

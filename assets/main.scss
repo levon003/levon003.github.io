@@ -122,3 +122,106 @@ li > ol {
 .post-list > li {
   margin-bottom: 0.75em;
 }
+
+/* Bluesky liked-links page */
+.bsky-links-list {
+  list-style: decimal;
+  /* room for a 4-digit ordinal (~2k+ entries) so markers don't clip */
+  margin-left: 3em;
+  padding-left: 0;
+}
+
+.bsky-entry {
+  margin-bottom: 1em;
+  line-height: 1.4;
+
+  /* Long list (thousands of entries): skip layout/paint for off-screen items.
+     `auto` caches each entry's real height after first render; the fallback
+     estimate just prevents scrollbar jump before that happens. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 60px;
+
+  &::marker {
+    color: $grey-color;
+    font-size: 0.85em;
+  }
+}
+
+.bsky-link-desc {
+  color: $grey-color;
+}
+
+.bsky-link-authors {
+  color: $grey-color;
+}
+
+.bsky-link-domain {
+  color: $grey-color;
+  font-size: 0.85em;
+}
+
+/* Top domains / accounts summaries in the page header */
+.bsky-top-list {
+  list-style: decimal;
+  margin: 0.5em 0 1em 1.5em;
+  padding-left: 0;
+  color: $grey-color;
+
+  .bsky-top-domain-name {
+    color: $text-color;
+  }
+
+  .bsky-domain-count {
+    color: $grey-color;
+    font-size: 0.85em;
+  }
+
+  .bsky-domain-count::before { content: "("; }
+  .bsky-domain-count::after { content: ")"; }
+}
+
+.bsky-post-excerpt {
+  color: $grey-color;
+  font-style: italic;
+}
+
+.bsky-meta,
+.bsky-source {
+  margin-left: 0.4em;
+  color: $grey-color;
+  white-space: nowrap;
+}
+
+.bsky-thread-header {
+  font-weight: 600;
+}
+
+.bsky-thread-links {
+  list-style: disc;
+  margin: 0.25em 0 0 1.5em;
+  padding-left: 0;
+
+  > li {
+    margin-bottom: 0.25em;
+    font-weight: normal;
+  }
+}
+
+/* Dead links: keep the original (struck through) and offer an archive */
+.bsky-dead-link {
+  text-decoration: line-through;
+  color: $grey-color;
+
+  &:visited { color: $grey-color; }
+  &:hover { color: $text-color; }
+}
+
+.bsky-archive-link,
+.bsky-dead-tag {
+  margin-left: 0.3em;
+  font-size: 0.8em;
+}
+
+.bsky-dead-tag {
+  color: $grey-color;
+}
