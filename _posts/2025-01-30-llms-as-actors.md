@@ -49,10 +49,11 @@ In response, data scientist Colin Fraser wrote [a Bluesky thread](https://bsky.a
 Fraser continues the thread in a [part 2](https://bsky.app/profile/colin-fraser.net/post/3ldpbpnoe6m2x) (on the specific Anthropic alignment study that motivated the thread) and a [part 3](https://bsky.app/profile/colin-fraser.net/post/3ldrhbvjnkc2o) (on goal seeking). Thread also [reblogged by Simon Willison](https://simonwillison.net/2025/Jan/4/colin-fraser/).
 
 Further reading:
- - ["Role-Play with Large Language Models"](https://arxiv.org/abs/2305.16367) by Murray Shanahan, Kyle McDonell, Laria Reynolds
+ - ["Role-Play with Large Language Models"](https://arxiv.org/abs/2305.16367) by Murray Shanahan, Kyle McDonell, Laria Reynolds (published later in [''Nature Perspectives''](https://www.nature.com/articles/s41586-023-06647-8))
  - [Steve Brynes](https://bsky.app/profile/stevebyrnes.bsky.social/post/3lizdexhzss2m) shares the LessWrong post ["Microsoft and OpenAI, stop telling chatbots to roleplay as AI"](https://www.lesswrong.com/posts/tAtp4odpziBDdvdXL/microsoft-and-openai-stop-telling-chatbots-to-roleplay-as-ai)
  - Nathan Lambert writes about LLM character training in ["Character training: Understanding and crafting a language model's personality"](https://www.interconnects.ai/p/character-training) - "Character training is the subset of post-training designed around crafting traits within the model in _the manner_ of its response, rather than the content."
  - Kevin Roose summarizing "Shoggoth" discourse in the _New York Times_: ["Why an Octopus-like Creature Has Come to Symbolize the State of A.I."](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html)
  - ["Large Language Models Do Not Simulate Human Psychology"](https://arxiv.org/abs/2508.06950) by Sarah Schröder, Thekla Morgenroth, Ulrike Kuhl, Valerie Vaquet, Benjamin Paaßen
  - ["the void"](https://nostalgebraist.tumblr.com/post/785766737747574784/the-void) by nostalgebraist
  - ["The assistant axis: situating and stabilizing the character of large language models"](https://www.anthropic.com/research/assistant-axis) by Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey
+ - ["A Theory of Prompt Injection (and why you should study roles)"](https://role-confusion.github.io/)
