@@ -10,7 +10,6 @@
       <div class="ctc-panellabel">6 cards<span>as a stack</span></div>
       <div class="ctc-stage" id="ctc-stack"></div>
     </div>
-    <div class="ctc-arrow" aria-hidden="true">≡</div>
     <div class="ctc-panel ctc-ringpanel">
       <div class="ctc-panellabel">6 cards<span>as a ring</span></div>
       <div class="ctc-stage" id="ctc-ring"></div>
@@ -170,7 +169,6 @@
       renderStack(); highlightRing(); buildChips();
       if(k===0){ busy=false; buildChips();
         caption('<strong>0 cuts.</strong> The pointer sits on card 1, the top of the stack.'); return; }
-      caption('Cutting: top card to the bottom, '+k+' time'+(k>1?'s':'')+' — the pointer follows one step per cut.');
       var done=0;
       function step(){
         if(id!==runId) return;
@@ -178,7 +176,7 @@
           busy=false; buildChips();
           var top=deck[0];
           caption('<strong>'+k+' cut'+(k>1?'s':'')+'.</strong> '+capsCardName(top)+' is now the top of the stack — and the ring pointer landed on '
-            +cardName(top)+'. '+(k===N?'Right back where it started.':''));
+            +cardName(top)+'. '+(k===N?'Right back where we started.':''));
           return;
         }
         done++;

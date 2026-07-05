@@ -131,8 +131,8 @@
       Object.keys(els).forEach(function(key){ els[key].classList.remove('win','lost'); });
       verd.forEach(function(v){ v.innerHTML=''; });
       freshState(); render(); buildChips();
-      caption(k===0?'No cuts — straight into the down-under deal.'
-                   :'Cutting: top card to the bottom, '+k+' time'+(k>1?'s':'')+', in all three piles at once.');
+      //caption(k===0?'No cuts — straight into the down-under deal.'
+      //             :'Cutting: top card to the bottom, '+k+' time'+(k>1?'s':'')+', in all three piles at once.');
       var cutsDone=0, dealUnder=true;
       function step(){
         if(id!==runId) return;

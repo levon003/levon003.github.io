@@ -64,11 +64,11 @@ In other words, the trick is just obfuscation around a simple procedure: put the
   - If you had 6 cards left, the comparison card is now in the fifth position.
 - Step 11 asks us to "down-under deal" (one card dealt to the bottom, the next is discarded) until one survives.
 
-The 7 in Step 10 is not arbitrary: it's the only choice that makes the bottom card survive for all three possible stack sizes at once. You can test this yourself below: pick a number of times to cut the top card to the bottom and see what card remains after down-under dealing. The ♥ marks each stack's bottom card.
+The 7 in Step 10 is not arbitrary: it's the only choice that makes the bottom card survive for all three possible stack sizes at once. You can test this yourself below: pick any other number of times to cut the top card to the bottom and see which cards are selected at each possible deck size. The ♥ marks each stack's bottom card.
 
 {% include card-trick/card-trick-deal.html %}
 
-Only 7 cuts works to choose the bottom card regardless of whether 4, 5, or 6 cards remained after step 9. That does explain how the ending works, but it doesn't explain _why_ the ending works. To understand that, we can think of the ending as a _Josephus problem_.
+Only 7 cuts works to choose the bottom card regardless of whether 4, 5, or 6 cards remained after step 9. That does explain _how_ the ending works, but it doesn't explain _why_ the ending works. To understand that, we can notice that the ending of the trick is the _Josephus problem_.
 
 ### The Josephus problem
 
@@ -77,19 +77,19 @@ Imagine that the stack of remaining cards after step 9 was laid out in a circle.
 {% include card-trick/card-trick-cut.html %}
 
 The number of cuts only changes which card is the top card, which we keep track of in the ring using an orange ▶ pointer. 
-In the six-card stack, 6 cuts moves the pointer marking the top of the stack all the way around the ring and back to your starting point, leaving the stack completely unchanged.
+In the 6-card stack, 6 cuts moves the pointer marking the top of the stack all the way around the ring and back to your starting point, leaving the stack completely unchanged.
 
 In the actual trick, we do 7 cuts, which for the 6-card stack is equivalent to 6 cuts followed by 1 cut. We already know 6 cuts leaves the stack unchanged, so 7 cuts must be equivalent to just doing 1 cut.
 We can figure out the actual number of cuts you need to do by dividing the number of cuts by the number of cards in the stack and looking only at the _remainder_.
 
-If I tell you to cut the 6-card stack 36 times, you could recognize that (# of cuts / # of cards) = 36 / 6 = 0, so you don't need to do any cuts! 36 cuts is equivalent to doing 0 cuts, 6 cuts, 12 cuts, and so on. (The mathematical way to describe this equivalence is to use [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic), writing 36 ≡ 0 (mod 6).)
+If I tell you to cut the 6-card stack 36 times, you could recognize that (# of cuts / # of cards) = 36 / 6 = 0, so you don't need to do any cuts! 36 cuts is equivalent to doing 0 cuts, 6 cuts, 12 cuts, etc. (The mathematical way to describe this equivalence is to use [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic), writing 36 ≡ 0 (mod 6).)
 
 Ultimately, that means the number of cuts is just a way of choosing a new top card – the selected card in the ring.
 
 Why is it useful to think about the problem this way? Because the repeated down-under deal in step 11 is a [Josephus problem](https://en.wikipedia.org/wiki/Josephus_problem).
 Given a ring of a particular size and starting from a particular point in that ring, the Josephus problem involves discarding and sparing every other card until we have one card remaining.
 
-Here's the Josephus procedure applied to the six-card stack. 
+Here's the Josephus procedure applied to a 6-card stack.
 
 {% include card-trick/card-trick-josephus.html %}
 

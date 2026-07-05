@@ -6,7 +6,7 @@ excerpt: "A vibe-coded pipeline to extract a reading list from my like history o
 ---
 
 I had Claude Opus 4.8 vibe-code a nightly CI job to maintain a [list of every link I've liked on Bluesky](/bsky-links/).
-My goal here was to make a reading list I can consult and search even if people delete later their posts, and I also have the benefit of additional metadata for articles and papers courtesy of [Citoid](https://www.mediawiki.org/wiki/Citoid).
+My goal here was to make a reading list I can consult and search even if people later delete their posts, and I also wanted to capture additional metadata for articles and papers by using [Citoid](https://www.mediawiki.org/wiki/Citoid).
 
 ![Most-liked domains and Bluesky accounts](/images/bsky_reading_list_summary.png){:style="display:block; height: auto; max-width: 50%; margin-left: auto; margin-right: auto;"}
 *My most-liked domains and Bluesky accounts, as of June 2026. Updated nightly on [the list](/bsky-links/).*
@@ -14,7 +14,7 @@ My goal here was to make a reading list I can consult and search even if people 
 Claude's solution was a few Python scripts:
 
 1. Scrape liked posts using [`getActorLikes`](https://atproto.blue/en/latest/atproto/atproto_client.models.app.bsky.feed.get_actor_likes.html). To capture "new paper" threads better, I capture any links in the whole thread, not just the specific post I liked. I also capture links in quote posts.
-2. Use Wikimedia's [Citoid](https://www.mediawiki.org/wiki/Citoid) service to attempt to get better title and author metadata for each link. Citoid fails quite regularly, so we "fall back" to the title and description in Bluesky's preview card, or just display the actual URL if no preview card was created. That means we fail to get the title and author from links like [https://users.eecs.northwestern.edu/~jhullman/AI_metascience_position.pdf](https://users.eecs.northwestern.edu/~jhullman/AI_metascience_position.pdf), even though a PDF-parsing service like Zotero would be able to infer title, author, and date.
+2. Use Wikimedia's [Citoid](https://www.mediawiki.org/wiki/Citoid) service to attempt to get better title and author metadata for each link. Citoid fails quite regularly, so we "fall back" to the title and description in Bluesky's preview card, or just display the actual URL if no preview card was created. For example, we fail to get the title and author from links like [https://users.eecs.northwestern.edu/~jhullman/AI_metascience_position.pdf](https://users.eecs.northwestern.edu/~jhullman/AI_metascience_position.pdf), which is [not supported](https://github.com/zotero/translation-server/issues/70) by the Zotero translation server that Citoid uses. A PDF metadata-parsing library could be used to try to infer title, author, and date from PDFs like that.
 3. Check for dead links, attaching a [Wayback Machine](https://web.archive.org/) link if the link seems dead (404, 410, SSL error, connection refused, or DNS failure).
 
 The output is a [YAML file](https://github.com/levon003/levon003.github.io/blob/main/_data/bsky_likes.yml) versioned in this blog's public GitHub repository, which a Jekyll template consumes as site data. GitHub Actions runs nightly to refresh the YAML file.
