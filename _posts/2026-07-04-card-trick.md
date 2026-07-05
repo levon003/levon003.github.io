@@ -46,7 +46,7 @@ In other words, the trick is just obfuscation around a simple procedure: put the
 
 - In the initial stack of half cards, the two halves of each full card – including the comparison card – are exactly 4 positions apart. (The "which half-stack goes on top" choice doesn't matter at all; it's a false choice.)
 - Steps 3 and 4 (moving 1, then 2 cards from top to bottom) don't change this structure for the comparison card, and now the two halves of the comparison card are forth and eighth in the stack.
-- Step 5 removes the top 3 cards as a block and buries them somewhere in the middle. Before you decide where to bury those 3 cards, notice that the 5 remaining cards have a key property: their top card and their bottom card are the **two halves of the same card**.
+- Step 5 removes the top 3 cards as a block and buries them somewhere in the middle. Before you decide where to bury those 3 cards, notice that the top and bottom card of the 5 remaining cards are **two halves of the same card**.
 - Step 6 takes the top card as the comparison card — so its partner is sitting at the bottom of the stack before any of the subsequent choices are made.
 
 
