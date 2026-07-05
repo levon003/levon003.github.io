@@ -115,3 +115,7 @@ We can now run the ending from differing numbers of cuts, confirming that 7 cuts
 (If you're familiar with modular arithmetic, you'll note that 7 ≡ 3 (mod 4), 2 (mod 5), and 1 (mod 6) – the right top card for all three stack sizes simultaneously.)
 
 I thought this was a neat trick. I had Claude Opus create the visualizations for me so I could understand the trick better (although I wrote the text in the animations and in the rest of the post). I guess that's another use of large language models... removing a little magic from the world!
+
+## Further reading
+
+ - [The Josephus Problem](https://www.youtube.com/watch?v=uCsD3ZGzMgE) by Numberphile (YouTube)
