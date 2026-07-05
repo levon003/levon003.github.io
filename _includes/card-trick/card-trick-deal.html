@@ -1,0 +1,192 @@
+<!-- "Ending machine" for the torn-card trick: three piles (4, 5, 6 cards) run the ending
+     simultaneously — k cuts, then the down-under deal. The ♥ half marks each pile's bottom
+     card (the comparison card's partner). Click a cut count to run it; only 7 works for all
+     three pile sizes. Self-contained; include this file from a post. -->
+<div class="ctd-widget" id="ctd-widget">
+  <div class="ctd-stage-wrap">
+    <div class="ctd-stage" id="ctd-stage">
+      <!-- column labels, verdicts, and card elements injected here -->
+    </div>
+  </div>
+
+  <div class="ctd-prompt" id="ctd-prompt"></div>
+
+  <div class="ctd-chiprow"><span class="ctd-chiplabel">Cuts:</span><span class="ctd-chips" id="ctd-chips"></span></div>
+  <div class="ctd-hint">Choose a number to deal that many cards to the bottom, then run the down-under deal on all three piles at once. The trick uses <strong>7</strong>.</div>
+</div>
+
+<style>
+.ctd-widget{max-width:560px;margin:24px auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#2d2d2d}
+.ctd-stage-wrap{width:100%;display:flex;justify-content:center;overflow:hidden}
+.ctd-stage{position:relative;flex:none;width:460px;height:272px;transform-origin:top center}
+.ctd-card{position:absolute;width:40px;height:29px;transition:transform .38s cubic-bezier(.22,.61,.36,1),opacity .4s ease,filter .4s ease;z-index:2;will-change:transform;filter:drop-shadow(0 2px 2.5px rgba(0,0,0,.28))}
+.ctd-noanim .ctd-card{transition:none!important}
+.ctd-card .ctd-face{width:100%;height:100%;box-sizing:border-box;position:relative;overflow:hidden;
+  background:#3a4a8f;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.10) 0 4px,transparent 4px 8px),repeating-linear-gradient(-45deg,rgba(255,255,255,.10) 0 4px,transparent 4px 8px);
+  border:2px solid #2c3a73;border-bottom:none;border-radius:6px 6px 0 0;
+  clip-path:polygon(0 0,100% 0,100% 74%,87% 100%,75% 76%,62% 98%,50% 74%,37% 100%,25% 78%,12% 96%,0 72%)}
+.ctd-card.ctd-hrt .ctd-face{background:#fff;border:1px solid #d8a7ad;border-bottom:none;color:#e2293f}
+.ctd-card .ctd-heart{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);font-size:16px;line-height:1}
+.ctd-card.discarded{opacity:.4;filter:grayscale(.7) brightness(1.12)}
+.ctd-card.lost{opacity:.8}
+.ctd-card.lost::before{content:"";position:absolute;inset:-3px;border:2px solid #e2293f;border-radius:8px;z-index:1}
+.ctd-card.win::after{content:"";position:absolute;inset:-4px;border:3px solid #2ecc71;border-radius:9px;animation:ctd-glow 1.1s ease infinite;z-index:3;pointer-events:none}
+@keyframes ctd-glow{0%,100%{box-shadow:0 0 3px rgba(46,204,113,.5)}50%{box-shadow:0 0 13px rgba(46,204,113,1)}}
+.ctd-collabel{position:absolute;transform:translateX(-50%);text-align:center;font-size:12px;line-height:1.3;font-weight:700;color:#2d2d2d;white-space:nowrap}
+.ctd-collabel span{display:block;font-size:10px;font-weight:600;color:#9aa0a6;letter-spacing:.04em}
+.ctd-verdict{position:absolute;transform:translateX(-50%);text-align:center;font-size:12px;font-weight:600;color:#555;white-space:nowrap}
+.ctd-verdict b{font-size:15px;margin-right:3px}
+.ctd-verdict b.ok{color:#2ecc71}
+.ctd-verdict b.bad{color:#e2293f}
+.ctd-prompt{min-height:2.6em;background:#f6f7f9;border-left:4px solid #3a4a8f;border-radius:0 6px 6px 0;padding:10px 14px;margin:6px 0 12px;font-size:15px;line-height:1.5;transition:background .25s ease,border-color .25s ease}
+.ctd-prompt.win{background:#eafaf0;border-left-color:#2ecc71;font-weight:500}
+.ctd-prompt.fail{background:#fdeef0;border-left-color:#e2293f}
+.ctd-chiprow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.ctd-chiplabel{font-size:13px;font-weight:600;color:#555}
+.ctd-chips{display:inline-flex;gap:5px;flex-wrap:wrap}
+.ctd-chip{min-width:28px;padding:6px 0;border-radius:6px;border:1.5px solid #d0d5dd;background:#fff;font-size:13px;font-weight:600;cursor:pointer;transition:all .15s ease}
+.ctd-chip:hover:not(:disabled){border-color:#e6932f}
+.ctd-chip:disabled{opacity:.5;cursor:not-allowed}
+.ctd-chip.ok{background:#eafaf0;border-color:#2ecc71;color:#1a7a43}
+.ctd-chip.bad{background:#fdeef0;border-color:#e2a4ad;color:#a5192c}
+.ctd-chip.sel{background:#e6932f;border-color:#e6932f;color:#fff}
+.ctd-chip.sel.ok{background:#2ecc71;border-color:#2ecc71;color:#fff}
+.ctd-chip.sel.bad{background:#e2293f;border-color:#e2293f;color:#fff}
+.ctd-hint{font-size:12.5px;color:#6b7280;margin-top:8px;line-height:1.5}
+</style>
+
+<script>
+(function(){
+  function init(){
+    var W=document.getElementById('ctd-widget');
+    if(!W||W.dataset.ready)return; W.dataset.ready='1';
+
+    var SIZES=[4,5,6], THREW=[3,2,1];
+    var STAGE_W=460, STAGE_H=272, CARD_W=40;
+    var COL_X=[64,204,344], BASE_Y=206, PITCH=33;   // stacks are bottom-aligned: the ♥ never moves until touched
+    var DISC_DX=48, DISC_Y0=68, DISC_PITCH=13;
+    var STEP=270;
+
+    var stage=document.getElementById('ctd-stage'), prompt=document.getElementById('ctd-prompt'),
+        chipsEl=document.getElementById('ctd-chips');
+    stage.classList.add('ctd-noanim');
+
+    var els={}, verd=[];
+    SIZES.forEach(function(n,ci){
+      var h=document.createElement('div'); h.className='ctd-collabel';
+      h.style.left=(COL_X[ci]+CARD_W/2)+'px'; h.style.top='4px';
+      h.innerHTML=n+' cards<span>threw '+THREW[ci]+' away</span>';
+      stage.appendChild(h);
+      var v=document.createElement('div'); v.className='ctd-verdict';
+      v.style.left=(COL_X[ci]+CARD_W/2)+'px'; v.style.top=(BASE_Y+36)+'px';
+      stage.appendChild(v); verd.push(v);
+      for(var i=0;i<n;i++){
+        var el=document.createElement('div'); el.className='ctd-card'+(i===n-1?' ctd-hrt':'');
+        var f=document.createElement('div'); f.className='ctd-face';
+        if(i===n-1) f.innerHTML='<span class="ctd-heart">♥</span>';
+        el.appendChild(f); stage.appendChild(el); els[ci+':'+i]=el;
+      }
+    });
+
+    var decks, discards, busy=false, runId=0, sel=null, results={};
+    function rot(s){ return s.slice(1).concat([s[0]]); }
+    function freshState(){
+      decks=SIZES.map(function(n){ var a=[]; for(var i=0;i<n;i++)a.push(i); return a; });
+      discards=SIZES.map(function(){ return []; });
+    }
+    function place(el,x,y,z){ el.style.transform='translate('+x+'px,'+y+'px)'; el.style.zIndex=z; }
+    function render(movers){
+      movers=movers||[];
+      SIZES.forEach(function(n,ci){
+        decks[ci].forEach(function(idx,i){
+          var el=els[ci+':'+idx]; el.classList.remove('discarded');
+          var y=BASE_Y-(decks[ci].length-1-i)*PITCH;
+          place(el, COL_X[ci], y, movers.indexOf(ci+':'+idx)>-1?30:2);
+        });
+        discards[ci].forEach(function(idx,di){
+          var el=els[ci+':'+idx]; el.classList.add('discarded');
+          place(el, COL_X[ci]+DISC_DX, DISC_Y0+di*DISC_PITCH, 2+di);
+        });
+      });
+    }
+    function caption(html,cls){ prompt.innerHTML=html; prompt.className='ctd-prompt'+(cls?' '+cls:''); }
+
+    function buildChips(){
+      chipsEl.innerHTML='';
+      for(var k=0;k<=12;k++){
+        (function(k){
+          var b=document.createElement('button'); b.className='ctd-chip'; b.textContent=k;
+          if(k===sel) b.classList.add('sel');
+          if(results[k]===true) b.classList.add('ok');
+          if(results[k]===false) b.classList.add('bad');
+          b.disabled=busy;
+          b.addEventListener('click',function(){ if(!busy) run(k); });
+          chipsEl.appendChild(b);
+        })(k);
+      }
+    }
+
+    function run(k){
+      runId++; var id=runId; sel=k; busy=true;
+      Object.keys(els).forEach(function(key){ els[key].classList.remove('win','lost'); });
+      verd.forEach(function(v){ v.innerHTML=''; });
+      freshState(); render(); buildChips();
+      caption(k===0?'No cuts — straight into the down-under deal.'
+                   :'Cutting: top card to the bottom, '+k+' time'+(k>1?'s':'')+', in all three piles at once.');
+      var cutsDone=0, dealUnder=true;
+      function step(){
+        if(id!==runId) return;
+        if(cutsDone<k){
+          cutsDone++;
+          var movers=decks.map(function(d,ci){ return ci+':'+d[0]; });
+          decks=decks.map(rot); render(movers);
+          caption('Cut '+cutsDone+' of '+k+': top card to the bottom.');
+          setTimeout(step,STEP); return;
+        }
+        if(decks.some(function(d){ return d.length>1; })){
+          if(dealUnder){
+            var movers=[];
+            decks=decks.map(function(d,ci){ if(d.length>1){ movers.push(ci+':'+d[0]); return rot(d); } return d; });
+            render(movers);
+            caption('Down-under deal: one card under, the next dealt off — until one is left in each pile.');
+          } else {
+            decks.forEach(function(d,ci){ if(d.length>1){ discards[ci].push(d.shift()); } });
+            render();
+          }
+          dealUnder=!dealUnder;
+          setTimeout(step,STEP+40); return;
+        }
+        finish(k);
+      }
+      setTimeout(step,420);
+    }
+
+    function finish(k){
+      var fails=[];
+      SIZES.forEach(function(n,ci){
+        var s=decks[ci][0], ok=(s===n-1);
+        if(ok){ els[ci+':'+s].classList.add('win'); }
+        else { els[ci+':'+(n-1)].classList.add('lost'); fails.push(n); }
+        verd[ci].innerHTML= ok ? '<b class="ok">✓</b>♥ survived' : '<b class="bad">✗</b>♥ dealt off';
+      });
+      results[k]=(fails.length===0); busy=false; buildChips();
+      if(fails.length===0){
+        caption('<strong>'+k+' cuts:</strong> the bottom card survives in all three piles. 🎉','win');
+      } else {
+        var where = fails.length===3 ? 'in all three piles' : 'in the '+fails.join('- and ')+'-card pile'+(fails.length>1?'s':'');
+        caption('<strong>'+k+' cuts:</strong> the ♥ gets dealt off '+where+' — the ending breaks.','fail');
+      }
+    }
+
+    freshState(); render(); buildChips();
+    caption('Each stack\'s bottom card — the <strong style="color:#e2293f">♥</strong> — is the partner of the comparison card. How many cuts before the deal?');
+    setTimeout(function(){ stage.classList.remove('ctd-noanim'); },60);
+
+    // responsive
+    var wrap=stage.parentNode;
+    function fit(){ var s=Math.min(1, wrap.clientWidth/STAGE_W); stage.style.transform='scale('+s+')'; wrap.style.height=(STAGE_H*s)+'px'; }
+    window.addEventListener('resize',fit); fit();
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',init); else init();
+})();
+</script>

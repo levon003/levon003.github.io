@@ -1,0 +1,411 @@
+<!-- Performer's-eye view of the "Love Ritual" torn-card trick. Faithful to every move and
+     spectator choice; identical face-down halves; history-backed so Back always works.
+     The opening tear is fully illustrated: square up -> rip (animated clip-path) -> two
+     half-stacks -> drop one on the other -> fan into a row. After the tear, every card is
+     rendered as a half-height torn piece. Self-contained; include this file from a post. -->
+<div class="ctp-widget" id="ctp-widget">
+  <div class="ctp-stage-wrap">
+    <div class="ctp-stage" id="ctp-stage">
+      <div class="ctp-zone-label ctp-aside-label" id="ctp-aside-label">your&nbsp;card</div>
+      <div class="ctp-zone-label ctp-discard-label" id="ctp-discard-label">discarded</div>
+      <div class="ctp-pile-label" id="ctp-pl-top">top halves</div>
+      <div class="ctp-pile-label" id="ctp-pl-bot">bottom halves</div>
+      <div class="ctp-gaps" id="ctp-gaps"></div>
+      <!-- card elements injected here -->
+    </div>
+  </div>
+
+  <div class="ctp-prompt" id="ctp-prompt"></div>
+
+  <div class="ctp-controls" id="ctp-controls">
+    <button class="ctp-btn" id="ctp-back">◀ Back</button>
+    <span class="ctp-advance" id="ctp-advance"></span>
+    <button class="ctp-btn ctp-ghost" id="ctp-reset">↻ Restart</button>
+  </div>
+  <label class="ctp-toggle"><input type="checkbox" id="ctp-hl"> Highlight the comparison card's two halves</label>
+</div>
+
+<style>
+.ctp-widget{max-width:560px;margin:24px auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:#2d2d2d}
+.ctp-stage-wrap{width:100%;display:flex;justify-content:center;overflow:hidden}
+.ctp-stage{position:relative;flex:none;width:440px;height:280px;transform-origin:top center}
+.ctp-gaps{position:absolute;inset:0;z-index:40;pointer-events:none}
+.ctp-gap{position:absolute;width:22px;height:44px;transform:translate(-50%,-50%);border-radius:5px;border:2px dashed #c7a14a;background:rgba(244,194,13,.12);cursor:pointer;pointer-events:auto;transition:background .12s ease,transform .12s ease}
+.ctp-gap:hover{background:rgba(244,194,13,.4);transform:translate(-50%,-50%) scale(1.12)}
+.ctp-gap::after{content:"▾";position:absolute;top:-16px;left:50%;transform:translateX(-50%);color:#c7a14a;font-size:13px}
+.ctp-card{position:absolute;width:40px;height:29px;transition:transform .42s cubic-bezier(.22,.61,.36,1),opacity .4s ease,filter .4s ease;z-index:2;will-change:transform}
+.ctp-noanim .ctp-card{transition:none!important}
+.ctp-card .ctp-face{width:100%;height:100%;box-sizing:border-box;position:relative;overflow:hidden;
+  background:#3a4a8f;background-image:repeating-linear-gradient(45deg,rgba(255,255,255,.10) 0 4px,transparent 4px 8px),repeating-linear-gradient(-45deg,rgba(255,255,255,.10) 0 4px,transparent 4px 8px);
+  border:2px solid #2c3a73;transition:clip-path .5s ease}
+/* each card is two half-elements: .th (top half) + .bh (bottom half), flush = one whole card */
+.ctp-card.th .ctp-face{border-radius:6px 6px 0 0;border-bottom:none;
+  clip-path:polygon(0 0,100% 0,100% 100%,87% 100%,75% 100%,62% 100%,50% 100%,37% 100%,25% 100%,12% 100%,0 100%)}
+.ctp-card.bh .ctp-face{border-radius:0 0 6px 6px;border-top:none;background-position:0 -29px;
+  clip-path:polygon(0 0,12% 0,25% 0,37% 0,50% 0,62% 0,75% 0,87% 0,100% 0,100% 100%,0 100%)}
+/* torn: the flat edge becomes a jagged rip (same vertex count, so it animates) */
+.ctp-card.torn.th .ctp-face{clip-path:polygon(0 0,100% 0,100% 74%,87% 100%,75% 76%,62% 98%,50% 74%,37% 100%,25% 78%,12% 96%,0 72%)}
+.ctp-card.torn.bh .ctp-face{clip-path:polygon(0 28%,12% 4%,25% 26%,37% 0,50% 26%,62% 2%,75% 24%,87% 0,100% 26%,100% 100%,0 100%)}
+/* clip-path clips box-shadow, so cast shadows via drop-shadow (follows the jagged shape) */
+.ctp-card.bh,.ctp-card.torn,.ctp-card.rv{filter:drop-shadow(0 2px 2.5px rgba(0,0,0,.28))}
+.ctp-card.lifted{filter:drop-shadow(0 7px 7px rgba(0,0,0,.28))}
+.ctp-card.lifted::before{content:"";position:absolute;inset:-3px;border:2px solid #f4c20d;border-radius:8px;z-index:1}
+.ctp-card.discarded{opacity:.4;filter:grayscale(.7) brightness(1.12)}
+.ctp-card.hint::after{content:"";position:absolute;inset:-2px;border:2px dashed #8fa0e0;border-radius:8px;pointer-events:none}
+.ctp-card.cmp::before{content:"";position:absolute;inset:-3px;border:3px solid #11a39b;border-radius:9px;box-shadow:0 0 7px rgba(17,163,155,.75);z-index:1}
+@keyframes ctp-rip{0%{transform:rotate(0) translate(0,0)}22%{transform:rotate(-6deg) translate(-2px,-2px)}48%{transform:rotate(5deg) translate(2px,2px)}74%{transform:rotate(-3deg) translate(-1px,1px)}100%{transform:rotate(0) translate(0,0)}}
+.ctp-card.tearing .ctp-face{animation:ctp-rip .42s ease both}
+/* reveal styling: white face + heart, jagged edge from the torn clip */
+.ctp-card.rv .ctp-face{background:#fff;border:1px solid #d8a7ad;border-radius:6px;color:#e2293f}
+.ctp-card.rv.rv-top .ctp-face{clip-path:polygon(0 0,100% 0,100% 74%,87% 100%,75% 76%,62% 98%,50% 74%,37% 100%,25% 78%,12% 96%,0 72%)}
+.ctp-card.rv.rv-bot .ctp-face{clip-path:polygon(0 28%,12% 4%,25% 26%,37% 0,50% 26%,62% 2%,75% 24%,87% 0,100% 26%,100% 100%,0 100%)}
+.ctp-card.rv .ctp-heart{position:absolute;left:50%;transform:translateX(-50%);font-size:42px;line-height:1}
+.ctp-card.rv.rv-top .ctp-heart{top:8px}
+.ctp-card.rv.rv-bot .ctp-heart{top:-21px}
+.ctp-card.rv .ctp-corner{position:absolute;font-size:9px;font-weight:800;line-height:.85;text-align:center}
+.ctp-card.rv.rv-top .ctp-corner{top:2px;left:3px}
+.ctp-card.rv.rv-bot .ctp-corner{bottom:2px;right:3px;transform:rotate(180deg)}
+.ctp-card.match::after{content:"";position:absolute;inset:-4px;border:3px solid #2ecc71;border-radius:9px;animation:ctp-glow 1.1s ease infinite;z-index:3;pointer-events:none}
+@keyframes ctp-glow{0%,100%{box-shadow:0 0 3px rgba(46,204,113,.5)}50%{box-shadow:0 0 13px rgba(46,204,113,1)}}
+.ctp-zone-label{position:absolute;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#9aa0a6;font-weight:600;opacity:0;transition:opacity .3s}
+.ctp-zone-label.show{opacity:1}
+.ctp-aside-label{right:8px;top:0}
+.ctp-discard-label{left:12px;top:192px}
+.ctp-pile-label{position:absolute;font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:#9aa0a6;font-weight:600;opacity:0;transition:opacity .3s;transform:translateX(-50%);white-space:nowrap}
+.ctp-pile-label.show{opacity:1}
+.ctp-prompt{min-height:3.2em;background:#f6f7f9;border-left:4px solid #3a4a8f;border-radius:0 6px 6px 0;padding:12px 14px;margin:6px 0 12px;font-size:15.5px;line-height:1.5;transition:background .25s ease,border-color .25s ease}
+.ctp-prompt.choose{background:#fff6e5;border-left-color:#e6932f}
+.ctp-prompt.win{background:#eafaf0;border-left-color:#2ecc71;font-weight:500}
+.ctp-controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;min-height:42px}
+.ctp-advance{display:inline-flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ctp-btn{background:#fff;border:1.5px solid #d0d5dd;border-radius:6px;padding:9px 15px;font-size:14px;cursor:pointer;transition:all .15s ease;font-weight:500}
+.ctp-btn:hover:not(:disabled){border-color:#3a4a8f;background:#eef1fb}
+.ctp-btn:disabled{opacity:.4;cursor:not-allowed}
+.ctp-btn.ctp-primary{background:#3a4a8f;color:#fff;border-color:#3a4a8f}
+.ctp-btn.ctp-primary:hover:not(:disabled){background:#2f3d78}
+.ctp-btn.ctp-ghost{margin-left:auto;color:#6b7280}
+.ctp-choicetray{display:inline-flex;align-items:center;gap:8px;background:#fff6e5;border:1px solid #f0cf99;border-radius:8px;padding:5px 10px 5px 12px}
+.ctp-choice-label{font-size:13px;color:#9a6a16;font-weight:600}
+.ctp-btn.ctp-choice{min-width:42px;font-size:15px;font-weight:800;padding:8px 6px;background:#e6932f;border-color:#e6932f;color:#fff}
+.ctp-btn.ctp-choice:hover{background:#d4811f;border-color:#d4811f}
+.ctp-hintmsg{font-size:13px;color:#9a6a16;font-style:italic}
+.ctp-toggle{display:inline-flex;align-items:center;gap:6px;margin-top:10px;font-size:13px;color:#555;cursor:pointer}
+@media (max-width:480px){.ctp-prompt{font-size:14.5px}.ctp-btn{padding:8px 12px}}
+</style>
+
+<script>
+(function(){
+  function init(){
+    var W=document.getElementById('ctp-widget');
+    if(!W||W.dataset.ready)return; W.dataset.ready='1';
+
+    var STAGE_W=440, STAGE_H=280, CARD_W=40, HALF=29;
+    var DECK_S=46, DECK_Y=128, LIFT_Y=62, ASIDE_X=STAGE_W-CARD_W-6, ASIDE_Y=14, DISC_Y=204, DISC_S=22;
+    var STEP_MS=240;            // per-card pace for cuts / dealing
+    var WHOLE_Y=94;             // y of the 4 whole cards (each = th + bh flush, 58px tall)
+    var PACK_X=(STAGE_W-CARD_W)/2, PACK_Y=94;          // squared packet
+    var PILE_LX=142, PILE_RX=258, PILE_Y=118;          // the two half-stacks after tearing
+
+    // 8 half-cards. card(uid)=uid%4; uid<4 = top half, uid+4 = its bottom half.
+    var cards=[]; for(var u=0;u<8;u++) cards.push({uid:u});
+    var BASE_TOPS=[0,1,2,3,4,5,6,7];   // top halves on top
+    var BASE_BOTS=[4,5,6,7,0,1,2,3];   // bottom halves on top
+    var CMP_PAIR=[2,6];                // the two halves that become comparison + survivor (either base)
+
+    function rot(s,k){k=((k%s.length)+s.length)%s.length;return s.slice(k).concat(s.slice(0,k));}
+    function toMiddle(s,m,p){var b=s.slice(0,m),r=s.slice(m);return r.slice(0,p).concat(b,r.slice(p));}
+
+    // DOM
+    var stage=document.getElementById('ctp-stage'), els={};
+    stage.classList.add('ctp-noanim');   // no fly-in on first paint
+    cards.forEach(function(c){
+      var el=document.createElement('div'); el.className='ctp-card'; el.dataset.uid=c.uid;
+      el.appendChild(Object.assign(document.createElement('div'),{className:'ctp-face'}));
+      stage.appendChild(el); els[c.uid]=el;
+    });
+    var gapsLayer=document.getElementById('ctp-gaps'),
+        asideLabel=document.getElementById('ctp-aside-label'), discardLabel=document.getElementById('ctp-discard-label'),
+        plTop=document.getElementById('ctp-pl-top'), plBot=document.getElementById('ctp-pl-bot'),
+        prompt=document.getElementById('ctp-prompt'), advance=document.getElementById('ctp-advance'),
+        bBack=document.getElementById('ctp-back'), bReset=document.getElementById('ctp-reset'), cbHL=document.getElementById('ctp-hl');
+    plTop.style.left=(PILE_LX+CARD_W/2+2)+'px'; plTop.style.top=(PILE_Y+HALF+13)+'px';
+    plBot.style.left=(PILE_RX+CARD_W/2+2)+'px'; plBot.style.top=(PILE_Y+HALF+13)+'px';
+
+    function deckX(i,n){return (STAGE_W-((n-1)*DECK_S+CARD_W))/2 + i*DECK_S;}
+
+    // ---- phase metadata ----
+    function phaseInfo(st){
+      switch(st.phase){
+        case 'start':  return {prompt:'Four cards, face down. First, <strong>square them up</strong> into a stack.',ctrl:'next',act:'gather',btn:'Begin ▶'};
+        case 'packet': return {prompt:'Grip the whole stack and <strong>tear the cards in half</strong>.',ctrl:'next',act:'tear',btn:'Tear ✂'};
+        case 'stack':  return {prompt:'You now have a stack of <strong>top halves</strong> and a stack of <strong>bottom halves</strong>. Drop one stack onto the other — <strong>which goes on top?</strong>',ctrl:'binary'};
+        case 'cut1':   return {prompt:'Eight half-cards. Next: <strong>put the top card on the bottom</strong>.',ctrl:'next',hint:1,act:'rot1'};
+        case 'cut2':   return {prompt:'Next: <strong>put the top two cards on the bottom</strong>, one at a time.',ctrl:'next',hint:2,act:'rot2'};
+        case 'block5': return {prompt:'Take the <strong>top three cards together</strong> and slot them <strong>somewhere in the middle</strong>. Choose a gap.',ctrl:'pos',m:3,choose:true};
+        case 'aside':  return {prompt:'Next: <strong>pull the top card aside</strong> — that\'s the comparison card.',ctrl:'next',hint:1,act:'setaside'};
+        case 'take7c': return {prompt:'<strong>Your decision:</strong> take <strong>1, 2, or 3</strong> cards from the top…',ctrl:'count',which:7,choose:true};
+        case 'take7p': return {prompt:'…and slot those '+st.k7+' card'+(st.k7>1?'s':'')+' <strong>somewhere in the middle</strong>. Choose a gap.',ctrl:'pos',m:st.k7,choose:true};
+        case 'top8':   return {prompt:'Next: <strong>put the top card somewhere in the middle</strong>. Choose a gap.',ctrl:'pos',m:1,choose:true};
+        case 'disc9':  return {prompt:'<strong>Your decision:</strong> <strong>throw away 1, 2, or 3</strong> cards from the top.',ctrl:'count',which:9,choose:true};
+        case 'cut7':   return {prompt:'Next: <strong>put the top card on the bottom</strong> seven times.',ctrl:'next',hint:1,act:'rot7'};
+        case 'under':  return {prompt:'Deal <strong>down-under</strong>: top card under (to the bottom), next card discarded. '+(st.deck.length)+' cards left.',ctrl:'deal',hint:1};
+        case 'reveal': return {prompt:'One card remains. Match it with the card you set aside.',ctrl:'reveal'};
+        case 'end':    return {prompt:'Your card and the lone survivor are the <strong>two halves of the same card</strong>. 🎉',ctrl:'end',reveal:true};
+      }
+    }
+
+    // ---- rendering ----
+    function reset(u){ var el=els[u]; el.className='ctp-card '+(u<4?'th':'bh');
+      var f=el.querySelector('.ctp-face'); f.innerHTML=''; f.style.transitionDelay=''; }
+    function place(el,x,y,rotDeg,z){
+      el.style.transform='translate('+x+'px,'+y+'px)'+(rotDeg?' rotate('+rotDeg+'deg)':'');
+      el.style.opacity='1'; el.style.zIndex=(z==null?2:z); }
+    function dressReveal(el,top){ el.classList.add('rv',top?'rv-top':'rv-bot','match');
+      el.querySelector('.ctp-face').innerHTML='<span class="ctp-heart">♥</span><span class="ctp-corner">A<br>♥</span>'; }
+    function showPiles(b){ plTop.classList.toggle('show',b); plBot.classList.toggle('show',b); }
+    function cmpRings(pred){ if(!cbHL.checked) return;
+      CMP_PAIR.forEach(function(u){ if(!pred||pred(u)) els[u].classList.add('cmp'); }); }
+
+    // 4 whole cards in a row (each = top half + bottom half, flush)
+    function rowWhole(){
+      cards.forEach(function(c){ reset(c.uid); });
+      var sx=(STAGE_W-(3*66+CARD_W))/2;
+      for(var id=0;id<4;id++){ var x=sx+id*66;
+        place(els[id], x, WHOLE_Y, 0, 3); place(els[id+4], x, WHOLE_Y+HALF, 0, 3); }
+      cmpRings();
+    }
+    // 4 whole cards squared into one packet (small offsets suggest thickness)
+    function packetLayout(moveOnly){
+      if(!moveOnly) cards.forEach(function(c){ reset(c.uid); });
+      for(var id=0;id<4;id++){ var x=PACK_X+id*1.6, y=PACK_Y+id*1.6, z=30-id;
+        place(els[id], x, y, 0, z); place(els[id+4], x, y+HALF, 0, z); }
+      if(!moveOnly) cmpRings();
+    }
+    // two half-stacks side by side
+    function pilesLayout(moveOnly){
+      if(!moveOnly) cards.forEach(function(c){ reset(c.uid); els[c.uid].classList.add('torn'); });
+      for(var i=0;i<4;i++){
+        place(els[i],   PILE_LX+i*1.5, PILE_Y+i*1.5, 0, 30-i);
+        place(els[4+i], PILE_RX+i*1.5, PILE_Y+i*1.5, 0, 30-i);
+      }
+      if(!moveOnly) cmpRings();
+    }
+
+    // position all cards for a (possibly transient) deck-phase display state
+    function positionCards(st, info){
+      if(info && info.reveal){
+        cards.forEach(function(c){ reset(c.uid); });
+        st.discard.forEach(function(u,di){ var el=els[u]; el.classList.add('torn','discarded');
+          place(el,(STAGE_W-((st.discard.length-1)*DISC_S+CARD_W))/2+di*DISC_S, DISC_Y, 0, 2+di); });
+        dressReveal(els[st.deck[0]], true); dressReveal(els[st.aside], false);
+        place(els[st.deck[0]], STAGE_W/2-CARD_W/2, DECK_Y, 0, 5);
+        place(els[st.aside],  STAGE_W/2-CARD_W/2, DECK_Y+HALF, 0, 5);
+        asideLabel.classList.remove('show');
+        discardLabel.classList.toggle('show', st.discard.length>0);
+        return;
+      }
+      var isPos = info && info.ctrl==='pos';
+      var m = isPos ? info.m : 0;
+      var deck=st.deck, n=deck.length, rest=isPos?deck.slice(m):deck, L=rest.length;
+      cards.forEach(function(c){ reset(c.uid); els[c.uid].classList.add('torn'); });
+      // lifted block (only in position phases)
+      if(isPos){ deck.slice(0,m).forEach(function(u,j){ var el=els[u]; el.classList.add('lifted');
+        place(el, deckX(j,m), LIFT_Y, 0, 10+j); }); }
+      // the deck row (rest, or whole deck)
+      rest.forEach(function(u,i){ place(els[u], deckX(i,L), DECK_Y, 0, 2); });
+      // hint outline on the top cards about to move
+      if(info && info.hint && !isPos){ for(var i=0;i<info.hint && i<n;i++) els[deck[i]].classList.add('hint'); }
+      if(st.aside!=null){ place(els[st.aside], ASIDE_X, ASIDE_Y, 0, 2); }
+      st.discard.forEach(function(u,di){ var el=els[u]; el.classList.add('discarded');
+        place(el,(STAGE_W-((st.discard.length-1)*DISC_S+CARD_W))/2+di*DISC_S, DISC_Y, 0, 2+di); });
+      cmpRings(function(u){ return st.discard.indexOf(u)<0; });
+      asideLabel.classList.toggle('show', st.aside!=null);
+      discardLabel.classList.toggle('show', st.discard.length>0);
+    }
+
+    function drawGaps(st,info){
+      gapsLayer.innerHTML='';
+      if(!(info && info.ctrl==='pos')) return;
+      var m=info.m, L=st.deck.length-m;
+      for(var p=1;p<=L-1;p++){                 // interior gaps only = "in the middle"
+        var cL=deckX(p-1,L)+CARD_W/2, cR=deckX(p,L)+CARD_W/2, gx=(cL+cR)/2;
+        var g=document.createElement('div'); g.className='ctp-gap';
+        g.style.left=gx+'px'; g.style.top=(DECK_Y+HALF/2)+'px';
+        (function(pp){ g.addEventListener('click',function(){ if(!busy) choosePos(pp); }); })(p);
+        gapsLayer.appendChild(g);
+      }
+    }
+
+    // ---- history + controller ----
+    var hist=[], ptr=0, busy=false;
+    function curState(){ return hist[ptr]; }
+    function push(st){ hist=hist.slice(0,ptr+1); hist.push(st); ptr++; }
+    function clone(st){ return {deck:st.deck.slice(),aside:st.aside,discard:st.discard.slice(),phase:st.phase,k7:st.k7}; }
+
+    function render(){
+      var st=curState(), info=phaseInfo(st);
+      gapsLayer.innerHTML='';
+      if(st.phase==='start'||st.phase==='packet'||st.phase==='stack'){
+        showPiles(st.phase==='stack');
+        if(st.phase==='start') rowWhole(); else if(st.phase==='packet') packetLayout(); else pilesLayout();
+        asideLabel.classList.remove('show'); discardLabel.classList.remove('show');
+      } else {
+        showPiles(false);
+        positionCards(st,info); drawGaps(st,info);
+      }
+      prompt.innerHTML=info.prompt;
+      prompt.classList.toggle('choose', !!info.choose);
+      prompt.classList.toggle('win', !!info.reveal);
+      buildControls(info);
+    }
+    // transient render during a multi-card animation (no control/gap changes)
+    function renderT(st){ positionCards(st,{}); }
+
+    function btn(label,cls,fn){ var b=document.createElement('button'); b.className='ctp-btn'+(cls?' '+cls:'');
+      b.innerHTML=label; b.addEventListener('click',function(){ if(!busy) fn(); }); return b; }
+
+    function buildControls(info){
+      advance.innerHTML='';
+      bBack.disabled = busy || ptr===0;
+      bReset.disabled = busy;
+      cbHL.disabled = busy;
+      if(busy){ advance.appendChild(Object.assign(document.createElement('span'),{className:'ctp-hintmsg',textContent:'…'})); return; }
+      if(info.ctrl==='binary'){
+        var tray=document.createElement('span'); tray.className='ctp-choicetray';
+        tray.appendChild(Object.assign(document.createElement('span'),{className:'ctp-choice-label',textContent:'On top:'}));
+        tray.appendChild(btn('Top halves','ctp-choice',function(){ chooseBase(BASE_TOPS); }));
+        tray.appendChild(btn('Bottom halves','ctp-choice',function(){ chooseBase(BASE_BOTS); }));
+        advance.appendChild(tray);
+      } else if(info.ctrl==='count'){
+        var t=document.createElement('span'); t.className='ctp-choicetray';
+        t.appendChild(Object.assign(document.createElement('span'),{className:'ctp-choice-label',textContent:'Pick a number:'}));
+        [1,2,3].forEach(function(k){ t.appendChild(btn(String(k),'ctp-choice',function(){ chooseCount(info.which,k); })); });
+        advance.appendChild(t);
+      } else if(info.ctrl==='pos'){
+        advance.appendChild(Object.assign(document.createElement('span'),{className:'ctp-hintmsg',textContent:'↑ click a gap to drop the lifted card'+(info.m>1?'s':'')}));
+      } else if(info.ctrl==='deal'){
+        advance.appendChild(btn('Deal one ▶','ctp-primary',dealOne));
+      } else if(info.ctrl==='reveal'){
+        advance.appendChild(btn('Reveal ✨','ctp-primary',doReveal));
+      } else if(info.ctrl==='end'){
+        advance.appendChild(btn('↻ Play again','ctp-primary',function(){ start(); }));
+      } else { // next
+        advance.appendChild(btn(info.btn||'Next ▶','ctp-primary',doNext));
+      }
+    }
+
+    // ---- actions ----
+    function start(){ hist=[{deck:BASE_TOPS.slice(),aside:null,discard:[],phase:'start',k7:null}]; ptr=0; busy=false; render(); }
+    function back(){ if(!busy && ptr>0){ ptr--; render(); } }
+
+    function doNext(){
+      var info=phaseInfo(curState());
+      if(info.act==='gather') return gatherAnim();
+      if(info.act==='tear') return tearAnim();
+      if(info.act==='rot1') return animateRot(1,'cut2');
+      if(info.act==='rot2') return animateRot(2,'block5');
+      if(info.act==='rot7') return animateRot(7,'under');
+      if(info.act==='setaside') return setAside();
+    }
+
+    // start -> packet: the four cards slide together and square up
+    function gatherAnim(){
+      var st=clone(curState()); busy=true; buildControls(phaseInfo(st));
+      packetLayout(true);
+      setTimeout(function(){ var ns=clone(st); ns.phase='packet'; push(ns); busy=false; render(); },500);
+    }
+
+    // packet -> stack: strain, rip apart (jagged clip animates in), settle into two half-stacks
+    function tearAnim(){
+      var st=clone(curState()); busy=true; buildControls(phaseInfo(st));
+      cards.forEach(function(c){ var el=els[c.uid], f=el.querySelector('.ctp-face');
+        el.classList.remove('tearing'); void f.offsetWidth; el.classList.add('tearing'); });
+      setTimeout(function(){
+        cards.forEach(function(c){ var el=els[c.uid], f=el.querySelector('.ctp-face');
+          el.classList.remove('tearing');
+          f.style.transitionDelay=((c.uid%4)*55)+'ms';   // the rip propagates through the packet
+          el.classList.add('torn'); });
+        for(var i=0;i<4;i++){
+          place(els[i],   138+i*1.5,  40+i*1.5, -8, 30-i);   // top halves pull up-left
+          place(els[4+i], 260+i*1.5, 154+i*1.5,  6, 30-i);   // bottom halves pull down-right
+        }
+        setTimeout(function(){
+          cards.forEach(function(c){ els[c.uid].querySelector('.ctp-face').style.transitionDelay=''; });
+          pilesLayout(true); showPiles(true);                 // square up the two half-stacks
+          setTimeout(function(){
+            var ns=clone(st); ns.phase='stack'; push(ns); busy=false; render();
+          },430);
+        },600);
+      },430);
+    }
+
+    // stack -> cut1: lift the chosen half-stack, drop it on the other, fan into a row
+    function chooseBase(base){
+      var st=clone(curState()); busy=true; buildControls(phaseInfo(st));
+      var chosen=base.slice(0,4), topsChosen=(chosen[0]===0);
+      var fromX = topsChosen?PILE_LX:PILE_RX, toX = topsChosen?PILE_RX:PILE_LX;
+      chosen.forEach(function(u,i){ place(els[u], fromX+i*1.5, PILE_Y-32+i*1.5, 0, 40-i); });
+      setTimeout(function(){
+        showPiles(false);
+        base.forEach(function(u,j){ place(els[u], toX+j*1.2, PILE_Y-4+j*1.2, 0, 40-j); });
+        setTimeout(function(){
+          base.forEach(function(u,j){ place(els[u], deckX(j,8), DECK_Y, 0, 2); });
+          setTimeout(function(){
+            var ns=clone(st); ns.deck=base.slice(); ns.phase='cut1'; push(ns); busy=false; render();
+          },500);
+        },480);
+      },300);
+    }
+
+    function animateRot(k,nextPhase){
+      var st=clone(curState()); busy=true; buildControls(phaseInfo(st));
+      var deck=st.deck.slice(), i=0;
+      (function one(){
+        if(i>=k){ var ns=clone(st); ns.deck=deck; ns.phase=nextPhase; push(ns); busy=false; render(); return; }
+        deck=rot(deck,1); i++; renderT({deck:deck,aside:st.aside,discard:st.discard,phase:st.phase,k7:st.k7});
+        setTimeout(one,STEP_MS);
+      })();
+    }
+    function setAside(){
+      var st=clone(curState()); var c=st.deck[0];
+      var ns=clone(st); ns.aside=c; ns.deck=st.deck.slice(1); ns.phase='take7c'; push(ns); render();
+    }
+    function chooseCount(which,k){
+      var st=clone(curState());
+      if(which===7){ var ns=clone(st); ns.k7=k; ns.phase='take7p'; push(ns); render(); }
+      else { var d=st.deck.slice(0,k); var ns2=clone(st); ns2.deck=st.deck.slice(k); ns2.discard=st.discard.concat(d); ns2.phase='cut7'; push(ns2); render(); }
+    }
+    function choosePos(p){
+      var st=clone(curState()), info=phaseInfo(st), m=info.m;
+      var ns=clone(st); ns.deck=toMiddle(st.deck,m,p);
+      ns.phase = st.phase==='block5' ? 'aside' : st.phase==='take7p' ? 'top8' : 'disc9';
+      push(ns); render();
+    }
+    function dealOne(){
+      var st=clone(curState()); if(st.deck.length<=1) return;
+      busy=true; buildControls(phaseInfo(st));
+      var under=st.deck.slice(1).concat(st.deck[0]);          // top under to bottom
+      renderT({deck:under,aside:st.aside,discard:st.discard,phase:'under',k7:st.k7});
+      setTimeout(function(){
+        var off=under[0], d2=under.slice(1), disc=st.discard.concat([off]);
+        var ns=clone(st); ns.deck=d2; ns.discard=disc; ns.phase = d2.length>1?'under':'reveal';
+        push(ns); busy=false; render();
+      }, STEP_MS+60);
+    }
+    function doReveal(){ var ns=clone(curState()); ns.phase='end'; push(ns); render(); }
+
+    bBack.addEventListener('click',back);
+    bReset.addEventListener('click',function(){ if(!busy) start(); });
+    cbHL.addEventListener('change',function(){ if(!busy) render(); });
+
+    start();
+    setTimeout(function(){ stage.classList.remove('ctp-noanim'); },60);
+
+    // responsive
+    var wrap=stage.parentNode;
+    function fit(){ var s=Math.min(1, wrap.clientWidth/STAGE_W); stage.style.transform='scale('+s+')'; wrap.style.height=(STAGE_H*s)+'px'; }
+    window.addEventListener('resize',fit); fit();
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',init); else init();
+})();
+</script>
