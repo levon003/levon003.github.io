@@ -30,7 +30,7 @@ First, try the trick yourself. Step through the moves and make the choices to ge
 
 {% include card-trick/card-trick-play.html %}
 
-You can check "highlight comparison card" and run the trick again to visualize how both halves move through the deck.
+You can check "highlight comparison card" and run the trick again to visualize how both halves move through the stack.
 
 ## Why does the trick work?
 
@@ -108,10 +108,10 @@ As we've already seen, this is exactly what 7 total cuts accomplishes.
 - In the 5-card stack, 7 cuts is equivalent to 2 cuts, moving the comparison card from the bottom to the 3rd position.
 - In the 4-card stack, 7 cuts is equivalent to 3 cuts, moving the comparison card from the bottom to the 1st position.
 
-We can now run the ending from differing numbers of cuts, confirming that 7 cuts is the only option to move the comparison card to the appropriate position in the deck at all three possible deck sizes.
+We can now run the ending from differing numbers of cuts, confirming that 7 cuts is the only option to move the comparison card to the appropriate position in the stack at all three possible stack sizes.
 
 {% include card-trick/card-trick-ring.html %}
 
 (If you're familiar with modular arithmetic, you'll note that 7 ≡ 3 (mod 4), 2 (mod 5), and 1 (mod 6) – the right top card for all three stack sizes simultaneously.)
 
-I thought this was a neat trick. I'll note that I had Claude Opus create the visualizations for me so I could understand the trick better (although I wrote the text in the animations and in the rest of the post). I guess that's another use of large language models... removing a little magic from the world!
+I thought this was a neat trick. I had Claude Opus create the visualizations for me so I could understand the trick better (although I wrote the text in the animations and in the rest of the post). I guess that's another use of large language models... removing a little magic from the world!
