@@ -8,7 +8,7 @@ image: images/josephus_card_trick.png
 
 Penn and Teller performed a "self-working" card trick on [_Penn & Teller: Fool Us_](https://en.wikipedia.org/wiki/Penn_%26_Teller:_Fool_Us). You can watch the trick [on YouTube](https://youtu.be/K9vEYyBwgp4?t=2040).
 
-The trick is themed around finding love and and the presentation has several good gags. But the basis of the trick is just executing a series of steps:
+The trick is themed around finding love and the presentation has several good gags. But the basis of the trick is just executing a series of steps:
 
 1. Shuffle 4 randomly-selected playing cards into a stack.
 2. Tear the stack in half, placing one half on top of the other, producing a new stack of 8 half-cards.
@@ -46,8 +46,8 @@ In other words, the trick is just obfuscation around a simple procedure: put the
 ### The initial steps put the partner of the comparison card on the bottom
 
 - In the initial stack of half cards, the two halves of each full card – including the comparison card – are exactly 4 positions apart. (The "which half-stack goes on top" choice doesn't matter at all; it's a false choice.)
-- Steps 3 and 4 (moving 1, then 2 cards from top to bottom) don't change this structure, and now the two halves of the comparison card are forth and eighth in the stack.
-- Step 5 removes the top 3 cards as a block and buries them somewhere in the middle. Before you decide where to bury those 3 cards, notice that the top and bottom card of the 5 remaining cards are **two halves of the same card**.
+- Steps 3 and 4 (moving 1, then 2 cards from top to bottom) don't change this structure, and now the two halves of the comparison card are fourth and eighth in the stack.
+- Step 5 removes the top 3 cards as a block and buries them somewhere in the middle. Before you decide where to bury those 3 cards, notice that the top and bottom cards of the 5 remaining are **two halves of the same card**.
 - Step 6 takes the top card as the comparison card – so its partner is sitting at the bottom of the stack before any of the subsequent choices are made.
 
 
@@ -65,15 +65,15 @@ In other words, the trick is just obfuscation around a simple procedure: put the
   - If you had 6 cards left, the comparison card is now in the fifth position.
 - Step 11 asks us to "down-under deal" (one card dealt to the bottom, the next discarded) until one survives.
 
-The 7 in Step 10 is not arbitrary: it's the only choice that makes the bottom card survive for all three possible stack sizes at once. You can test this yourself below: pick any other number of times to cut the top card to the bottom and see which cards are selected at each possible deck size. The ♥ marks each stack's bottom card.
+The 7 in Step 10 is not arbitrary: it's the only choice that makes the bottom card survive for all three possible stack sizes at once. You can test this yourself below: pick any other number of times to cut the top card to the bottom and see which cards are selected at each possible stack size. The ♥ marks each stack's bottom card.
 
 {% include card-trick/card-trick-deal.html %}
 
-Only 7 cuts works to choose the bottom card regardless of whether 4, 5, or 6 cards remained after step 9. That does explain _how_ the ending works, but it doesn't explain _why_ the ending works. To understand that, we can notice that the ending of the trick is a known procedure called the _Josephus problem_.
+Only 7 cuts works to choose the bottom card regardless of whether 4, 5, or 6 cards remained after step 9. That does explain _how_ the ending works, but it doesn't explain _why_ the ending works. To understand that, we can notice that the ending of the trick is a known puzzle called the _Josephus problem_.
 
 ### The Josephus problem
 
-Imagine that the stack of remaining cards after step 9 was laid out in a circle. Before worrying about the deal, let's just think about the bottom cuts in step 10: each individual cut keeps the same order but changes which card is the "top".
+Imagine that the stack of remaining cards after step 9 was laid out in a circle. Before worrying about the deal, let's just think about the cuts in step 10: each individual cut keeps the same order but changes which card is the "top".
 
 {% include card-trick/card-trick-cut.html %}
 
@@ -83,7 +83,7 @@ In the 6-card stack, 6 cuts moves the pointer marking the top of the stack all t
 In the actual trick, we do 7 cuts, which for the 6-card stack is equivalent to 6 cuts followed by 1 cut. We already know 6 cuts leaves the stack unchanged, so 7 cuts must be equivalent to just doing 1 cut.
 We can figure out the "actual" number of cuts by dividing the total number of cuts by the number of cards in the stack and looking only at the _remainder_.
 
-If I tell you to cut the 6-card stack 36 times, you could recognize that (# of cuts / # of cards) = 36 / 6 = 0, so you don't need to do any cuts! 36 cuts is equivalent to doing 0 cuts, 6 cuts, 12 cuts, etc. (The mathematical way to describe this equivalence is to use [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic), writing 36 ≡ 0 (mod 6).)
+If I tell you to cut the 6-card stack 36 times, you could recognize that (# of cuts / # of cards) = 36 / 6 = 6 with a remainder of 0, so you don't need to do any cuts! 36 cuts is equivalent to doing 0 cuts, 6 cuts, 12 cuts, etc. (The mathematical way to describe this equivalence is to use [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic), writing 36 ≡ 0 (mod 6).)
 
 Ultimately, that means the number of cuts is just a way of choosing a new top card: the selected card in the ring.
 
@@ -102,7 +102,7 @@ Notice that the 5th card is always the remaining card. In fact, the Josephus pro
 | 5         | 3rd            |
 | 6         | 5th            |
 
-Because the Josephus procedure always spares a specific card position in the stack, we just need to first do a number of cuts such that the comparison card ends up as the 1st card in the 4-card stack, the 3rd card in the 5-card stack, or the 5th card in the 6-card stack.
+Because the Josephus procedure always spares the same card position relative to the top of the stack, we just need to first do a number of cuts such that the comparison card ends up as the 1st card in the 4-card stack, the 3rd card in the 5-card stack, or the 5th card in the 6-card stack.
 As we've already seen, this is exactly what 7 total cuts accomplishes.
 
 - In the 6-card stack, 7 cuts is equivalent to 1 cut, moving the comparison card from the bottom to the 5th position.
