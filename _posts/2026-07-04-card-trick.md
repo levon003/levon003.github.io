@@ -3,6 +3,7 @@ layout: post
 title:  "Penn & Teller's Love Ritual: a self-working card trick"
 tags: math simulation games magic algorithms
 excerpt: "Animating a self-working card trick."
+image: images/josephus_card_trick.png
 ---
 
 Penn and Teller performed a "self-working" card trick on [_Penn & Teller: Fool Us_](https://en.wikipedia.org/wiki/Penn_%26_Teller:_Fool_Us). You can watch the trick [on YouTube](https://youtu.be/K9vEYyBwgp4?t=2040).
