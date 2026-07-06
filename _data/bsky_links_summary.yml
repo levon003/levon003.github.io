@@ -1,5 +1,5 @@
-entries_with_links: 2104
-total_links: 2611
+entries_with_links: 2106
+total_links: 2613
 unique_domains: 892
 top_domains:
 - domain: arxiv.org
@@ -17,7 +17,7 @@ top_domains:
 - domain: acm.org
   count: 49
 - domain: nytimes.com
-  count: 37
+  count: 38
 - domain: huggingface.co
   count: 33
 - domain: youtube.com
@@ -28,7 +28,7 @@ top_accounts:
   count: 63
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 56
+  count: 57
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
