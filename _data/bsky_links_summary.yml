@@ -1,6 +1,6 @@
-entries_with_links: 2147
-total_links: 2659
-unique_domains: 902
+entries_with_links: 2149
+total_links: 2661
+unique_domains: 903
 top_domains:
 - domain: arxiv.org
   count: 226
@@ -28,7 +28,7 @@ top_accounts:
   count: 66
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 58
+  count: 59
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
