@@ -1,5 +1,5 @@
-entries_with_links: 2149
-total_links: 2661
+entries_with_links: 2154
+total_links: 2666
 unique_domains: 903
 top_domains:
 - domain: arxiv.org
@@ -8,12 +8,12 @@ top_domains:
   count: 153
 - domain: github.com
   count: 82
+- domain: github.io
+  count: 75
 - domain: simonwillison.net
   count: 75
-- domain: github.io
-  count: 74
 - domain: acm.org
-  count: 52
+  count: 53
 - domain: doi.org
   count: 52
 - domain: nytimes.com
