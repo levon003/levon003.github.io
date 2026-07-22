@@ -1,11 +1,11 @@
-entries_with_links: 2154
-total_links: 2666
-unique_domains: 903
+entries_with_links: 2161
+total_links: 2677
+unique_domains: 906
 top_domains:
 - domain: arxiv.org
   count: 226
 - domain: substack.com
-  count: 153
+  count: 154
 - domain: github.com
   count: 82
 - domain: github.io
@@ -18,10 +18,10 @@ top_domains:
   count: 52
 - domain: nytimes.com
   count: 39
+- domain: youtube.com
+  count: 35
 - domain: huggingface.co
   count: 34
-- domain: youtube.com
-  count: 33
 top_accounts:
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
@@ -35,12 +35,12 @@ top_accounts:
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 30
+- handle: gracekind.net
+  did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  count: 29
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 29
-- handle: gracekind.net
-  did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 28
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
   count: 27
@@ -50,6 +50,6 @@ top_accounts:
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
   count: 24
-- handle: lastpositivist.bsky.social
-  did: did:plc:iq6aw4tscf5n5oplggiyjfyl
-  count: 21
+- handle: sungkim.bsky.social
+  did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  count: 22
