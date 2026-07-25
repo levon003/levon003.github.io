@@ -1,9 +1,9 @@
-entries_with_links: 2168
-total_links: 2685
-unique_domains: 907
+entries_with_links: 2173
+total_links: 2690
+unique_domains: 908
 top_domains:
 - domain: arxiv.org
-  count: 227
+  count: 229
 - domain: substack.com
   count: 154
 - domain: github.com
@@ -29,12 +29,12 @@ top_accounts:
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
   count: 59
+- handle: emollick.bsky.social
+  did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  count: 31
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
-- handle: emollick.bsky.social
-  did: did:plc:flxq4uyjfotciovpw3x3fxnu
-  count: 30
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 30

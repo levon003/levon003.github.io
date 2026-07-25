@@ -1,3 +1,443 @@
+- post_uri: at://did:plc:ezk65mic3tgvgkhirsnpt355/app.bsky.feed.post/3mrfviwyp372x
+  thread_root_uri: at://did:plc:ezk65mic3tgvgkhirsnpt355/app.bsky.feed.post/3mrfviwyp372x
+  post_url: https://bsky.app/profile/did:plc:ezk65mic3tgvgkhirsnpt355/post/3mrfviwyp372x
+  post_date: '2026-07-24T17:40:20.083749Z'
+  liked_at: '2026-07-24T19:35:38.901910+00:00'
+  author_handle: letta.com
+  author_did: did:plc:ezk65mic3tgvgkhirsnpt355
+  post_text: "How can we learn across agent experience, when data is split across\
+    \ many different harnesses? \n\nWe're releasing `trajectory`, an open-source package\
+    \ that normalizes agent sessions into one token-efficient format designed for\
+    \ agents learning from past experience.\n\nwww.letta.com/bl"
+  links:
+  - url: https://www.letta.com/blog/trajectory/
+    source: card
+    card_title: 'Trajectory: A Standard Format for Agent Experience Data'
+    card_description: Introducing trajectory, an open-source package that normalizes
+      coding-agent sessions from Claude Code, Codex, Letta Code, and other harnesses
+      into one token-efficient format designed for agents learning from past experience.
+    citoid:
+      raw:
+        key: 3TVUDH6U
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Trajectory: A Standard Format for Agent Experience Data'
+        date: '2026-07-23'
+        url: https://www.letta.com/blog/trajectory/
+        abstractNote: Introducing trajectory, an open-source package that normalizes
+          coding-agent sessions from Claude Code, Codex, Letta Code, and other harnesses
+          into one token-efficient format designed for agents learning from past experience.
+        language: en
+        accessDate: '2026-07-25'
+        shortTitle: Trajectory
+        websiteTitle: www.letta.com
+      title: 'Trajectory: A Standard Format for Agent Experience Data'
+      date: '2026-07-23'
+      item_type: webpage
+      abstract: Introducing trajectory, an open-source package that normalizes coding-agent
+        sessions from Claude Code, Codex, Letta Code, and other harnesses into one
+        token-efficient format designed for agents learning from past experience.
+  all_post_uris:
+  - at://did:plc:ezk65mic3tgvgkhirsnpt355/app.bsky.feed.post/3mrfviwyp372x
+- post_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrfq5gjp6k2t
+  thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrfq5gjp6k2t
+  post_url: https://bsky.app/profile/did:plc:ux34natbhxube3xgdu3rhf45/post/3mrfq5gjp6k2t
+  post_date: '2026-07-24T16:04:25.083Z'
+  liked_at: '2026-07-24T19:12:00.054847+00:00'
+  author_handle: internethippo.bsky.social
+  author_did: did:plc:ux34natbhxube3xgdu3rhf45
+  post_text: The psychology racket doesn't want you to know that it's cheaper, faster,
+    and just as effective to be your own therapist. All you have to do is think the
+    right thoughts and then do the right things
+  links: []
+  all_post_uris:
+  - at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrfq5gjp6k2t
+- post_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrfwzjvq6c2r
+  thread_root_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrfwzjvq6c2r
+  post_url: https://bsky.app/profile/did:plc:xb2urvqt5f4zzccjs46hysbf/post/3mrfwzjvq6c2r
+  post_date: '2026-07-24T18:07:30.598Z'
+  liked_at: '2026-07-24T19:01:40.863054+00:00'
+  author_handle: cee.wtf
+  author_did: did:plc:xb2urvqt5f4zzccjs46hysbf
+  post_text: building a porn game with fable by using a bunch of different agents
+    all building parts that are SFW by themselves like a fucking hentai game manhattan
+    project
+  links: []
+  all_post_uris:
+  - at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrfwzjvq6c2r
+- post_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mrflmwjui22g
+  thread_root_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mrflmwjui22g
+  post_url: https://bsky.app/profile/did:plc:hu35oubkccqrxl4ldgczpgw7/post/3mrflmwjui22g
+  post_date: '2026-07-24T14:43:36.472Z'
+  liked_at: '2026-07-24T18:53:26.715930+00:00'
+  author_handle: shibbi.me
+  author_did: did:plc:hu35oubkccqrxl4ldgczpgw7
+  post_text: aaaaaaaAAAAAAAAAAAAA
+  links:
+  - url: https://arxiv.org/abs/2606.16475
+    source: card
+    card_title: AI systems out-persuade expert humans
+    card_description: Many societal decisions are settled by contests of persuasion.
+      Conversational AI is a powerful new entrant in these contests, but whether it
+      can out-persuade skilled and highly incentivized humans has...
+    citoid:
+      raw:
+        key: AVLLFPTU
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Kobi
+          lastName: Hackenburg
+          creatorType: author
+        - firstName: Caroline
+          lastName: Wagner
+          creatorType: author
+        - firstName: Luke
+          lastName: Hewitt
+          creatorType: author
+        - firstName: Ben M.
+          lastName: Tappin
+          creatorType: author
+        - firstName: Ed
+          lastName: Saunders
+          creatorType: author
+        - firstName: Hannah Rose
+          lastName: Kirk
+          creatorType: author
+        - firstName: Helen
+          lastName: Margetts
+          creatorType: author
+        - firstName: Christopher
+          lastName: Summerfield
+          creatorType: author
+        tags:
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: AI systems out-persuade expert humans
+        repository: arXiv
+        date: '2026'
+        DOI: 10.48550/ARXIV.2606.16475
+        url: https://arxiv.org/abs/2606.16475
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: 'Many societal decisions are settled by contests of persuasion.
+          Conversational AI is a powerful new entrant in these contests, but whether
+          it can out-persuade skilled and highly incentivized humans has remained
+          unclear. Here, in a series of four preregistered experiments (n = 18,978
+          conversations from 6,923 people), we pitted AI systems against a range of
+          human persuaders, including laypeople, winners of a separately preregistered
+          four-round online persuasion tournament, professional canvassers, and world
+          championship debaters. We found that AI systems were reliably more persuasive
+          than expert humans, even when expert humans chose their issues, researched
+          in advance, underwent hours of live, structured practice, and were incentivized
+          with £1,000 cash bonuses. In a follow-up study, AI''s advantage persisted
+          after experts received a coaching tool that let them practice against the
+          AI that beat them, review their performance history, and see what AI would
+          have said at key moments. We found converging evidence that AI''s advantage
+          stemmed from rapidly deploying larger quantities of information: after coaching,
+          expert humans could tie an AI constrained to respond at human speeds and
+          with human-length messages. In a final study, we show that AI''s advantage
+          extends to consequential real-world behavior: AI was nearly 3x more effective
+          than professional canvassers from a UK fundraising firm at raising real-money
+          donations to Save the Children. Together, these results establish that frontier
+          AI systems out-persuade expert humans in conversation, with significant
+          implications for political communication.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-07-25'
+      title: AI systems out-persuade expert humans
+      authors:
+      - last: Hackenburg
+        first: Kobi
+      - last: Wagner
+        first: Caroline
+      - last: Hewitt
+        first: Luke
+      - last: Tappin
+        first: Ben M.
+      - last: Saunders
+        first: Ed
+      - last: Kirk
+        first: Hannah Rose
+      - last: Margetts
+        first: Helen
+      - last: Summerfield
+        first: Christopher
+      date: '2026'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2606.16475
+      publisher: arXiv
+      abstract: 'Many societal decisions are settled by contests of persuasion. Conversational
+        AI is a powerful new entrant in these contests, but whether it can out-persuade
+        skilled and highly incentivized humans has remained unclear. Here, in a series
+        of four preregistered experiments (n = 18,978 conversations from 6,923 people),
+        we pitted AI systems against a range of human persuaders, including laypeople,
+        winners of a separately preregistered four-round online persuasion tournament,
+        professional canvassers, and world championship debaters. We found that AI
+        systems were reliably more persuasive than expert humans, even when expert
+        humans chose their issues, researched in advance, underwent hours of live,
+        structured practice, and were incentivized with £1,000 cash bonuses. In a
+        follow-up study, AI''s advantage persisted after experts received a coaching
+        tool that let them practice against the AI that beat them, review their performance
+        history, and see what AI would have said at key moments. We found converging
+        evidence that AI''s advantage stemmed from rapidly deploying larger quantities
+        of information: after coaching, expert humans could tie an AI constrained
+        to respond at human speeds and with human-length messages. In a final study,
+        we show that AI''s advantage extends to consequential real-world behavior:
+        AI was nearly 3x more effective than professional canvassers from a UK fundraising
+        firm at raising real-money donations to Save the Children. Together, these
+        results establish that frontier AI systems out-persuade expert humans in conversation,
+        with significant implications for political communication.'
+  all_post_uris:
+  - at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mrflmwjui22g
+- post_uri: at://did:plc:ewrnikxmbzcesi4kkxih2sds/app.bsky.feed.post/3mreexdkr4k2u
+  thread_root_uri: at://did:plc:ewrnikxmbzcesi4kkxih2sds/app.bsky.feed.post/3mreen5orsk2u
+  post_url: https://bsky.app/profile/did:plc:ewrnikxmbzcesi4kkxih2sds/post/3mreexdkr4k2u
+  post_date: '2026-07-24T03:11:29.747Z'
+  liked_at: '2026-07-24T18:51:54.786825+00:00'
+  author_handle: atticusgf.bsky.social
+  author_did: did:plc:ewrnikxmbzcesi4kkxih2sds
+  post_text: 'This comes off a bit as "oh no! Now the unmotivated kids will cheat
+    so easily we can''t try to get them motivated by risk of failure!"
+
+
+    But barely getting a C isn''t really ideal. Those weren''t really a success story!
+
+
+    The challenge, then and now, is getting them _legitimately moti'
+  links: []
+  all_post_uris:
+  - at://did:plc:ewrnikxmbzcesi4kkxih2sds/app.bsky.feed.post/3mreexdkr4k2u
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrfqv237ts2v
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrfqv237ts2v
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mrfqv237ts2v
+  post_date: '2026-07-24T16:17:37.332Z'
+  liked_at: '2026-07-24T18:46:23.650851+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Unexpected finding from a study on ChatGPT''s impact on college: "once
+    the COVID-19 disruption is modeled separately, the introduction of ChatGPT had
+    no detectable effect on grades.. course evaluations for subject understanding,
+    interest, and relative workload show no change" arxi'
+  links:
+  - url: https://arxiv.org/pdf/2607.21534
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 58T6S3Y9
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: James M. Zumel
+          lastName: Dumlao
+          creatorType: author
+        - firstName: Meng
+          lastName: Wang
+          creatorType: author
+        - firstName: Zhonghan
+          lastName: Xie
+          creatorType: author
+        - firstName: Junyao
+          lastName: Hu
+          creatorType: author
+        - firstName: Ivan
+          lastName: Bar
+          creatorType: author
+        - firstName: George
+          lastName: Chaney
+          creatorType: author
+        - firstName: Henry
+          lastName: Gold
+          creatorType: author
+        - firstName: Misha
+          lastName: Teplitskiy
+          creatorType: author
+        tags:
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: General Economics (econ.GN)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Economics and business'
+          type: 1
+        title: Generative AI Availability, Grades, and Student Satisfaction at a Large
+          University
+        repository: arXiv
+        date: '2026-07-24'
+        DOI: 10.48550/ARXIV.2607.21534
+        url: https://arxiv.org/abs/2607.21534
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: The spread of generative AI (GenAI) in higher education has
+          raised concerns that students offload cognitive effort to AI, earning high
+          grades without learning. If this "GenAI substitution hypothesis" is true,
+          grades should rise disproportionately in GenAI-susceptible courses--those
+          relying more on assessments like take-home problem sets and essays rather
+          than in-class exams. Substitution could also affect student satisfaction,
+          measured here as self-reported understanding and interest in the subject,
+          which prior research links to assessments. We test the substitution hypothesis
+          using syllabus and administrative data from a large U.S. university (2015-2025;
+          156,135 students; 87,936 course offerings). We measure courses' GenAI susceptibility
+          using a human-validated LLM pipeline to extract assessment types from syllabi,
+          and use a differences-in-differences design comparing outcomes across courses
+          before and after ChatGPT's release, while modeling COVID-19 pandemic effects
+          as either persistent or transient. We find no significant differential effect
+          of GenAI availability on grades overall or among previously lower-performing
+          students. Effects on self-reported understanding are likewise insignificant;
+          effects on interest are significant only assuming transient pandemic effects.
+          Our findings temper concerns that GenAI inflates grades and reduces students'
+          satisfaction.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-07-25'
+      title: Generative AI Availability, Grades, and Student Satisfaction at a Large
+        University
+      authors:
+      - last: Dumlao
+        first: James M. Zumel
+      - last: Wang
+        first: Meng
+      - last: Xie
+        first: Zhonghan
+      - last: Hu
+        first: Junyao
+      - last: Bar
+        first: Ivan
+      - last: Chaney
+        first: George
+      - last: Gold
+        first: Henry
+      - last: Teplitskiy
+        first: Misha
+      date: '2026-07-24'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2607.21534
+      publisher: arXiv
+      abstract: The spread of generative AI (GenAI) in higher education has raised
+        concerns that students offload cognitive effort to AI, earning high grades
+        without learning. If this "GenAI substitution hypothesis" is true, grades
+        should rise disproportionately in GenAI-susceptible courses--those relying
+        more on assessments like take-home problem sets and essays rather than in-class
+        exams. Substitution could also affect student satisfaction, measured here
+        as self-reported understanding and interest in the subject, which prior research
+        links to assessments. We test the substitution hypothesis using syllabus and
+        administrative data from a large U.S. university (2015-2025; 156,135 students;
+        87,936 course offerings). We measure courses' GenAI susceptibility using a
+        human-validated LLM pipeline to extract assessment types from syllabi, and
+        use a differences-in-differences design comparing outcomes across courses
+        before and after ChatGPT's release, while modeling COVID-19 pandemic effects
+        as either persistent or transient. We find no significant differential effect
+        of GenAI availability on grades overall or among previously lower-performing
+        students. Effects on self-reported understanding are likewise insignificant;
+        effects on interest are significant only assuming transient pandemic effects.
+        Our findings temper concerns that GenAI inflates grades and reduces students'
+        satisfaction.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrfqv237ts2v
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mrftqnz6t32d
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mrftqnz6t32d
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mrftqnz6t32d
+  post_date: '2026-07-24T17:08:51.670Z'
+  liked_at: '2026-07-24T18:30:27.153856+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: 'Insane numbers for opus 5, the power of faster iteration speed + scaled
+    RL (Fable too big to RL as well, yet). And on safeguards "Based on our testing,
+    we expect the classifiers to intervene around 85% less often than they do for
+    Fable 5.".
+
+    www.anthropic.com/news/claude-...'
+  links:
+  - url: https://www.anthropic.com/news/claude-opus-5
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 9RUSED2J
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Introducing Claude Opus 5
+        abstractNote: Opus 5 is a step change improvement for the Opus tier powering
+          long-running agents while delivering improvements in coding and professional
+          work.
+        url: https://www.anthropic.com/news/claude-opus-5
+        language: en
+        accessDate: '2026-07-25'
+        websiteTitle: www.anthropic.com
+      title: Introducing Claude Opus 5
+      item_type: webpage
+      abstract: Opus 5 is a step change improvement for the Opus tier powering long-running
+        agents while delivering improvements in coding and professional work.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mrftqnz6t32d
+- post_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mrfm4dwdwc2o
+  thread_root_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mrfm4dwdwc2o
+  post_url: https://bsky.app/profile/did:plc:qlxgxm7fqszfgowm347s2q4t/post/3mrfm4dwdwc2o
+  post_date: '2026-07-24T14:52:13.826Z'
+  liked_at: '2026-07-24T16:02:59.506777+00:00'
+  author_handle: beetlemoses.bsky.social
+  author_did: did:plc:qlxgxm7fqszfgowm347s2q4t
+  post_text: Pay the toll
+  links: []
+  all_post_uris:
+  - at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mrfm4dwdwc2o
+- post_uri: at://did:plc:fb5fjz7jxmbf3alhwh44ookd/app.bsky.feed.post/3mrezgohyws2r
+  thread_root_uri: at://did:plc:fb5fjz7jxmbf3alhwh44ookd/app.bsky.feed.post/3mreyssvvm22r
+  post_url: https://bsky.app/profile/did:plc:fb5fjz7jxmbf3alhwh44ookd/post/3mrezgohyws2r
+  post_date: '2026-07-24T09:17:59.344Z'
+  liked_at: '2026-07-24T14:54:15.895209+00:00'
+  author_handle: johncarlosbaez.bsky.social
+  author_did: did:plc:fb5fjz7jxmbf3alhwh44ookd
+  post_text: 'I don''t want to work for an AI company, but I''m extremely interested
+    in what''s going on, because we''re seeing a battle for the future of mathematics.
+
+
+    Another data point: Kevin Buzzard says any PhD student who is not paying $200
+    per month for an AI subscription is crazy.   (Are t'
+  links:
+  - url: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+    source: card
+    card_title: Human mathematicians are being outcounterexampled
+    card_description: It’s been an interesting few weeks for counterexamples. This
+      post is basically my perspective of what has been going on in the world of formalization,
+      AI tools and, in particular, counterexam…
+    citoid:
+      raw:
+        key: 73VG7QSW
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: xenaproject
+          creatorType: author
+        tags: []
+        title: Human mathematicians are being outcounterexampled
+        blogTitle: Xena
+        date: '2026-07-20'
+        url: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+        abstractNote: It’s been an interesting few weeks for counterexamples. This
+          post is basically my perspective of what has been going on in the world
+          of formalization, AI tools and, in particular, counterexam…
+        language: en
+        accessDate: '2026-07-25'
+      title: Human mathematicians are being outcounterexampled
+      date: '2026-07-20'
+      item_type: blogPost
+      publisher: Xena
+      abstract: It’s been an interesting few weeks for counterexamples. This post
+        is basically my perspective of what has been going on in the world of formalization,
+        AI tools and, in particular, counterexam…
+  all_post_uris:
+  - at://did:plc:fb5fjz7jxmbf3alhwh44ookd/app.bsky.feed.post/3mrezgohyws2r
 - post_uri: at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mre7k76bqk22
   thread_root_uri: at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mre7k76bqk22
   post_url: https://bsky.app/profile/did:plc:nvfposmpmhegtyvhbs75s3pw/post/3mre7k76bqk22
