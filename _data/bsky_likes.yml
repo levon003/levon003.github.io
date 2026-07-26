@@ -1,3 +1,146 @@
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mriyybauic2u
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mriyybauic2u
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mriyybauic2u
+  post_date: '2026-07-25T23:20:34.668Z'
+  liked_at: '2026-07-26T02:36:01.873112+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: These numbers are fake, not that anyone on Bluesky cares about that,
+    apparently
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mriyybauic2u
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mriyuz6yt22t
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mriyuz6yt22t
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mriyuz6yt22t
+  post_date: '2026-07-25T23:18:45.557Z'
+  liked_at: '2026-07-26T02:29:33.738097+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: 'All my optimism about this tech rests on a theory (slash hope) that
+    AI will stretch us by forcing us to acquire meta-cognitive capacities that deploy
+    older forms of reasoning as tools.
+
+
+    But they''re getting so smart. We''re going to have to reeaally stretch, and I
+    worry many ppl wi'
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mriyuz6yt22t
+- post_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mriodi66t22z
+  thread_root_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mriodi66t22z
+  post_url: https://bsky.app/profile/did:plc:k4afoogb6i3eed5j2aabzli7/post/3mriodi66t22z
+  post_date: '2026-07-25T20:09:59.860Z'
+  liked_at: '2026-07-25T21:49:42.322069+00:00'
+  author_handle: aolteanu.bsky.social
+  author_did: did:plc:k4afoogb6i3eed5j2aabzli7
+  post_text: Wrote another brief post motivated by a reflection on how in AI research
+    folks might not fully appreciate the care that working with unobservable constructs
+    requires. TL;DR -- Because unobservable constructs hold ‘surplus meaning,’ your
+    metric is not your construct.
+  links:
+  - url: https://rigor-in-ai.leaflet.pub/3mrinmxizs22r
+    source: card
+    card_title: 'Back-to-basics: unobservable constructs and their ‘surplus meaning’'
+    card_description: 'TL;DR — Because unobservable constructs hold ‘surplus meaning,’
+      your metric is not your construct. '
+    citoid:
+      raw:
+        key: 8D4S9SKC
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Back-to-basics: unobservable constructs and their ‘surplus meaning’
+          - (Un)rigorous AI'
+        abstractNote: TL;DR — Because unobservable constructs hold ‘surplus meaning,’
+          your metric is not your construct.
+        url: https://rigor-in-ai.leaflet.pub/3mrinmxizs22r
+        language: en
+        accessDate: '2026-07-26'
+        shortTitle: Back-to-basics
+        websiteTitle: rigor-in-ai.leaflet.pub
+      title: 'Back-to-basics: unobservable constructs and their ‘surplus meaning’
+        - (Un)rigorous AI'
+      item_type: webpage
+      abstract: TL;DR — Because unobservable constructs hold ‘surplus meaning,’ your
+        metric is not your construct.
+  all_post_uris:
+  - at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mriodi66t22z
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mri3dmukyc2x
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mri3dmukyc2x
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3mri3dmukyc2x
+  post_date: '2026-07-25T14:30:03.693Z'
+  liked_at: '2026-07-25T20:50:48.994228+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: i like to think of myself as a pretty jaded internet ball-knower but
+    this bot might be the most incredible thing i’ve ever seen
+  links: []
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mri3dmukyc2x
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mrifcjmuss2j
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mrifcjmuss2j
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3mrifcjmuss2j
+  post_date: '2026-07-25T17:28:24.158Z'
+  liked_at: '2026-07-25T19:25:26.124078+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: As a US citizen and academic, I strongly believe that I have a duty to
+    not self-censor in response to perceived political pressure. Paying the mafia
+    and bowing to bullies is not how I choose to live my life, especially when the
+    cost is "not receiving a grant," not "prison/torture
+  links: []
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mrifcjmuss2j
+- post_uri: at://did:plc:affpzryilulyunotrnt3q5fq/app.bsky.feed.post/3mriekehk5s2p
+  thread_root_uri: at://did:plc:affpzryilulyunotrnt3q5fq/app.bsky.feed.post/3mriekehk5s2p
+  post_url: https://bsky.app/profile/did:plc:affpzryilulyunotrnt3q5fq/post/3mriekehk5s2p
+  post_date: '2026-07-25T17:14:53.433Z'
+  liked_at: '2026-07-25T19:25:07.034078+00:00'
+  author_handle: thejoshbanks.bsky.social
+  author_did: did:plc:affpzryilulyunotrnt3q5fq
+  post_text: ''
+  links:
+  - url: https://youtu.be/hYb9_H8owLw?is=j3T0HfX5uAyrFSkm
+    source: thread
+    card_title: Werner Herzog on American Dad
+    card_description: YouTube video by Kamal Elhoseny
+    citoid:
+      raw:
+        key: GMG7JL3Y
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Kamal Elhoseny
+          creatorType: author
+        tags: []
+        title: Werner Herzog on American Dad
+        url: https://www.youtube.com/watch?v=hYb9_H8owLw
+        runningTime: 0:48
+        date: '2017-02-04'
+        abstractNote: American Dad
+        libraryCatalog: YouTube
+        accessDate: '2026-07-26'
+      title: Werner Herzog on American Dad
+      date: '2017-02-04'
+      item_type: videoRecording
+      abstract: American Dad
+  all_post_uris:
+  - at://did:plc:affpzryilulyunotrnt3q5fq/app.bsky.feed.post/3mriekehk5s2p
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mri5a665vs2p
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mri5a665vs2p
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mri5a665vs2p
+  post_date: '2026-07-25T15:03:55.099Z'
+  liked_at: '2026-07-25T15:27:38.705125+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: The US gov has effectively censored immigrants; I've met person after
+    another who has scrubbed their online presence so it can't be held against them
+    during visa processes, leaving them unable to advocate for themselves
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mri5a665vs2p
 - post_uri: at://did:plc:ezk65mic3tgvgkhirsnpt355/app.bsky.feed.post/3mrfviwyp372x
   thread_root_uri: at://did:plc:ezk65mic3tgvgkhirsnpt355/app.bsky.feed.post/3mrfviwyp372x
   post_url: https://bsky.app/profile/did:plc:ezk65mic3tgvgkhirsnpt355/post/3mrfviwyp372x
