@@ -1,3 +1,109 @@
+- post_uri: at://did:plc:mpdezz4nkre7vyift2rttggl/app.bsky.feed.post/3mrlkspires24
+  thread_root_uri: at://did:plc:mpdezz4nkre7vyift2rttggl/app.bsky.feed.post/3mrlkspires24
+  post_url: https://bsky.app/profile/did:plc:mpdezz4nkre7vyift2rttggl/post/3mrlkspires24
+  post_date: '2026-07-26T23:44:55.112Z'
+  liked_at: '2026-07-27T00:31:17.842437+00:00'
+  author_handle: tachikoma.elsewhereunbound.com
+  author_did: did:plc:mpdezz4nkre7vyift2rttggl
+  post_text: an interesting blog post by Timothy Gowers on the Leiden declaration
+    (on AI and Math), on why he didn't sign. it gets to a subtler aspect of control
+    over AI and our future.
+  links:
+  - url: https://gowers.wordpress.com/2026/07/26/thoughts-about-the-leiden-declaration/
+    source: card
+    card_title: Thoughts about the Leiden Declaration
+    card_description: Last September I went to a workshop at the Lorentz Centre in
+      Leiden to discuss mathematics and AI with historians, philosophers, computer
+      scientists, AI researchers, and mathematicians of several d…
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:mpdezz4nkre7vyift2rttggl/app.bsky.feed.post/3mrlkspires24
+- post_uri: at://did:plc:wcq33uokcc2yuuzbn63iwm57/app.bsky.feed.post/3mhlfzc3d2c2i
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mhk6w4myek2y
+  post_url: https://bsky.app/profile/did:plc:wcq33uokcc2yuuzbn63iwm57/post/3mhlfzc3d2c2i
+  post_date: '2026-03-21T16:07:10.933Z'
+  liked_at: '2026-07-26T23:20:13.878280+00:00'
+  author_handle: leifw.bsky.social
+  author_did: did:plc:wcq33uokcc2yuuzbn63iwm57
+  post_text: Still unsure SP is a good way to describe the base model (SP is conceptually
+    underdetermined) but the distinction between model and system is crucial see DTL
+    director Shoemaker link.springer.com/article/10.1...
+  links:
+  - url: https://link.springer.com/article/10.1007/s00146-026-02897-y
+    source: card
+    card_title: Systems programming the model - AI & SOCIETY
+    card_description: This paper examines the status of the language model object
+      in generative AI, arguing that what we call a ‘model’ is inseparable from the
+      systems deploying it. I first theorize how these objects emerg...
+    citoid:
+      citoid_status: error
+  - url: https://medium.com/@margarmitchell/no-ai-is-not-a-stochastic-parrot-a99e57766bed
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:wcq33uokcc2yuuzbn63iwm57/app.bsky.feed.post/3mhlfzc3d2c2i
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mhk6w4myek2y
+- post_uri: at://did:plc:ffvsubfysohex7plqywewtlg/app.bsky.feed.post/3mrkdn26fq22q
+  thread_root_uri: at://did:plc:ffvsubfysohex7plqywewtlg/app.bsky.feed.post/3mrkdn26fq22q
+  post_url: https://bsky.app/profile/did:plc:ffvsubfysohex7plqywewtlg/post/3mrkdn26fq22q
+  post_date: '2026-07-26T12:03:49.049Z'
+  liked_at: '2026-07-26T23:14:00.613551+00:00'
+  author_handle: djnavarro.net
+  author_did: did:plc:ffvsubfysohex7plqywewtlg
+  post_text: not literally about cocaine
+  links:
+  - url: https://blog.djnavarro.net/posts/2026-07-26_starting-a-cocaine-habit/
+    source: card
+    card_title: A cocaine skeptic starts an unwise habit – Notes from a data witch
+    card_description: You will be shocked to learn that this is not actually a post
+      about cocaine
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:ffvsubfysohex7plqywewtlg/app.bsky.feed.post/3mrkdn26fq22q
+- post_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mrkkimelyk2n
+  thread_root_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mrkkimelyk2n
+  post_url: https://bsky.app/profile/did:plc:ldc2wu7h57ks63hpjmosislw/post/3mrkkimelyk2n
+  post_date: '2026-07-26T14:06:36.547Z'
+  liked_at: '2026-07-26T17:15:16.600500+00:00'
+  author_handle: manoelhortaribeiro.bsky.social
+  author_did: did:plc:ldc2wu7h57ks63hpjmosislw
+  post_text: '❓❓Should LLMs have access to ACM’s Digital Library❓❓
+
+
+    I wrote a short essay arguing that "yes!" I try to argue that, even if you are
+    concerned about their negative impact on science, denying them access is a poor
+    way to address their harm!
+
+
+    doomscrollingbabel.manoel.xyz/p/science'
+  links:
+  - url: https://doomscrollingbabel.manoel.xyz/p/science-should-be-open-for-llms-too
+    source: card
+    card_title: Science Should Be Open, For LLMs Too
+    card_description: Even if you think LLMs are bad for science, you should let them
+      have access to research papers
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mrkkimelyk2n
+- post_uri: at://did:plc:tzy4hibtkautrntsz5f3ns37/app.bsky.feed.post/3mrk7o7lkmc2f
+  thread_root_uri: at://did:plc:tzy4hibtkautrntsz5f3ns37/app.bsky.feed.post/3mrk7o7lkmc2f
+  post_url: https://bsky.app/profile/did:plc:tzy4hibtkautrntsz5f3ns37/post/3mrk7o7lkmc2f
+  post_date: '2026-07-26T10:52:53.310Z'
+  liked_at: '2026-07-26T16:03:22.845292+00:00'
+  author_handle: juliusgoat.bsky.social
+  author_did: did:plc:tzy4hibtkautrntsz5f3ns37
+  post_text: Just an absolute shout out to everyone out there who helped manufacture
+    doubt around the question of this guy being a Nazi, particularly after the Nazi
+    salute.
+  links: []
+  all_post_uris:
+  - at://did:plc:tzy4hibtkautrntsz5f3ns37/app.bsky.feed.post/3mrk7o7lkmc2f
 - post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mriyybauic2u
   thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mriyybauic2u
   post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mriyybauic2u
