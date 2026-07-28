@@ -1,3 +1,275 @@
+- post_uri: at://did:plc:zijqvcafgixq55vpmu7atl2g/app.bsky.feed.post/3mrntbtc2gc2c
+  thread_root_uri: at://did:plc:zijqvcafgixq55vpmu7atl2g/app.bsky.feed.post/3mrntbtc2gc2c
+  post_url: https://bsky.app/profile/did:plc:zijqvcafgixq55vpmu7atl2g/post/3mrntbtc2gc2c
+  post_date: '2026-07-27T21:21:51.814Z'
+  liked_at: '2026-07-28T06:07:26.015798+00:00'
+  author_handle: buttpraxis.bsky.social
+  author_did: did:plc:zijqvcafgixq55vpmu7atl2g
+  post_text: Still reeling from going to the zoo this weekend and seeing an orangutan,
+    which is basically a person, just sitting there in a hammock. I was tearing up
+    imagining being a sentient creature in a captivity, then looked at my husband,
+    who sighed a troubled sigh and murmured, “I wish
+  links: []
+  all_post_uris:
+  - at://did:plc:zijqvcafgixq55vpmu7atl2g/app.bsky.feed.post/3mrntbtc2gc2c
+- post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrol44ws4s2o
+  thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrol44ws4s2o
+  post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mrol44ws4s2o
+  post_date: '2026-07-28T04:28:10.400Z'
+  liked_at: '2026-07-28T05:33:27.115725+00:00'
+  author_handle: isolyth.dev
+  author_did: did:plc:allu5vs3gnm2wm7jzf4rad3r
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrol44ws4s2o
+- post_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mrhv4tob4x2g
+  thread_root_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mrhv4tob4x2g
+  post_url: https://bsky.app/profile/did:plc:ojnhyuhk6tscuussfk5bvyra/post/3mrhv4tob4x2g
+  post_date: '2026-07-25T12:38:51Z'
+  liked_at: '2026-07-28T03:44:27.301985+00:00'
+  author_handle: technollama.bsky.social
+  author_did: did:plc:ojnhyuhk6tscuussfk5bvyra
+  post_text: 'OpenAI wins first battle in ongoing Indian copyright lawsuit
+
+
+    A fascinating ruling from the High Court of Delhi in India regarding the very
+    high-profile case of ANI Media v OpenAI (decision here). Asian News International
+    (ANI) is one of India''s largest news agencies, which suppl'
+  links:
+  - url: https://www.technollama.co.uk/openai-wins-first-battle-in-ongoing-indian-copyright-lawsuit
+    source: card
+    card_title: OpenAI wins first battle in ongoing Indian copyright lawsuit
+    card_description: A fascinating ruling from the High Court of Delhi in India regarding
+      the very high-profile case of ANI Media v OpenAI (decision here). Asian News
+      International (ANI) is one of India's largest news agencies, which supplies
+      text and video syndication to broadcasters and publishers across South Asia.
+      They sued OpenAI alleging copyright infringement during the training phase,
+      as well as reproduction of its articles on the output phase.
+    citoid:
+      raw:
+        key: YRNQCIQN
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Andres
+          lastName: Guadamuz
+          creatorType: author
+        tags: []
+        title: OpenAI wins first battle in ongoing Indian copyright lawsuit
+        blogTitle: TechnoLlama
+        date: '2026-07-25'
+        url: https://www.technollama.co.uk/openai-wins-first-battle-in-ongoing-indian-copyright-lawsuit
+        abstractNote: A fascinating ruling from the High Court of Delhi in India regarding
+          the very high-profile case of ANI Media v OpenAI (decision here). Asian
+          News International (ANI) is one of India’s largest…
+        language: en-GB
+        accessDate: '2026-07-28'
+      title: OpenAI wins first battle in ongoing Indian copyright lawsuit
+      authors:
+      - last: Guadamuz
+        first: Andres
+      date: '2026-07-25'
+      item_type: blogPost
+      publisher: TechnoLlama
+      abstract: A fascinating ruling from the High Court of Delhi in India regarding
+        the very high-profile case of ANI Media v OpenAI (decision here). Asian News
+        International (ANI) is one of India’s largest…
+  - url: https://drive.google.com/file/d/1xsnKCQx4IIV7-d-40_Bv_-Qpl549WnxI/view?usp=sharing
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: K9ZPH7GJ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: ANIMedia.pdf
+        websiteTitle: Google Docs
+        url: https://drive.google.com/file/d/1xsnKCQx4IIV7-d-40_Bv_-Qpl549WnxI/view?usp=sharing&usp=embed_facebook
+        accessDate: '2026-07-28'
+      title: ANIMedia.pdf
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mrhv4tob4x2g
+- post_uri: at://did:plc:64gnfkb4vguspilo6hqeaebr/app.bsky.feed.post/3mrnllq6qxc2q
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mrn3ckevr227
+  post_url: https://bsky.app/profile/did:plc:64gnfkb4vguspilo6hqeaebr/post/3mrnllq6qxc2q
+  post_date: '2026-07-27T19:04:14.169Z'
+  liked_at: '2026-07-28T00:43:06.945969+00:00'
+  author_handle: mraginsky.bsky.social
+  author_did: did:plc:64gnfkb4vguspilo6hqeaebr
+  post_text: Exactly. bactra.org/weblog/699.h...
+  links:
+  - url: https://bactra.org/weblog/699.html
+    source: card
+    card_title: The Singularity in Our Past Light-Cone
+    card_description: ''
+    citoid:
+      raw:
+        key: 6VDFH4BJ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        url: https://bactra.org/weblog/699.html
+        title: The Singularity in Our Past Light-Cone
+        accessDate: '2026-07-28'
+        websiteTitle: bactra.org
+      title: The Singularity in Our Past Light-Cone
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:64gnfkb4vguspilo6hqeaebr/app.bsky.feed.post/3mrnllq6qxc2q
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrnib3lf5c2y
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrnib3lf5c2y
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mrnib3lf5c2y
+  post_date: '2026-07-27T18:04:35.792Z'
+  liked_at: '2026-07-27T21:36:18.638776+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Kimi K3''s weights were released, making it the most powerful open weights
+    model in the world.
+
+
+    Been reading it since it came out, page one starts strong: mostly negatives, a
+    late run of zeros, and one unexpectedly large positive value.'
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrnib3lf5c2y
+- post_uri: at://did:plc:deyobmkch3s62x6jw7sbv3e3/app.bsky.feed.post/3mrnh7rqxuk2n
+  thread_root_uri: at://did:plc:deyobmkch3s62x6jw7sbv3e3/app.bsky.feed.post/3mrnh7rqxuk2n
+  post_url: https://bsky.app/profile/did:plc:deyobmkch3s62x6jw7sbv3e3/post/3mrnh7rqxuk2n
+  post_date: '2026-07-27T17:45:58.195Z'
+  liked_at: '2026-07-27T19:57:18.457609+00:00'
+  author_handle: tyrellturing.bsky.social
+  author_did: did:plc:deyobmkch3s62x6jw7sbv3e3
+  post_text: 'Okay, at the risk of getting yelled at here, my reaction is, who cares?
+
+
+    Like, whoever this happened to consented to having their cells used for scientific
+    research. Why does it matter if they end up being used for organoids to study
+    neural computation?
+
+
+    The article doesn''t give '
+  links:
+  - url: https://go.nature.com/4x61sE6
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KK4FP9JE
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Nada S.
+          lastName: Salem
+          creatorType: author
+        - firstName: Jianping
+          lastName: Fu
+          creatorType: author
+        - firstName: Feng
+          lastName: Guo
+          creatorType: author
+        - firstName: Jonathan
+          lastName: Kadmon
+          creatorType: author
+        - firstName: Omer
+          lastName: Revah
+          creatorType: author
+        - firstName: Orly
+          lastName: Reiner
+          creatorType: author
+        - firstName: Insoo
+          lastName: Hyun
+          creatorType: author
+        tags:
+        - tag: Computer science
+          type: 1
+        - tag: Ethics
+          type: 1
+        - tag: Neuroscience
+          type: 1
+        title: Researchers are building computers that run on brain organoids — but
+          have neglected a major ethical issue
+        publicationTitle: Nature
+        rights: 2026 Springer Nature Limited
+        volume: '655'
+        issue: '8125'
+        pages: 1132–1134
+        date: 2026-07
+        DOI: 10.1038/d41586-026-02316-8
+        ISSN: 1476-4687
+        url: https://www.nature.com/articles/d41586-026-02316-8
+        abstractNote: People who give tissue samples for biomedical research might
+          have no idea that their cells are being used for biocomputers.
+        language: en
+        libraryCatalog: www.nature.com
+        accessDate: '2026-07-28'
+      title: Researchers are building computers that run on brain organoids — but
+        have neglected a major ethical issue
+      authors:
+      - last: Salem
+        first: Nada S.
+      - last: Fu
+        first: Jianping
+      - last: Guo
+        first: Feng
+      - last: Kadmon
+        first: Jonathan
+      - last: Revah
+        first: Omer
+      - last: Reiner
+        first: Orly
+      - last: Hyun
+        first: Insoo
+      date: 2026-07
+      item_type: journalArticle
+      doi: 10.1038/d41586-026-02316-8
+      publisher: Nature
+      abstract: People who give tissue samples for biomedical research might have
+        no idea that their cells are being used for biocomputers.
+  all_post_uris:
+  - at://did:plc:deyobmkch3s62x6jw7sbv3e3/app.bsky.feed.post/3mrnh7rqxuk2n
+- post_uri: at://did:plc:vum7yuqczgryxehx6ozitxjg/app.bsky.feed.post/3mrkwdc7kvc2c
+  thread_root_uri: at://did:plc:vum7yuqczgryxehx6ozitxjg/app.bsky.feed.post/3mrkwdc7kvc2c
+  post_url: https://bsky.app/profile/did:plc:vum7yuqczgryxehx6ozitxjg/post/3mrkwdc7kvc2c
+  post_date: '2026-07-26T17:38:23.024Z'
+  liked_at: '2026-07-27T14:30:52.666689+00:00'
+  author_handle: xangregg.bsky.social
+  author_did: did:plc:vum7yuqczgryxehx6ozitxjg
+  post_text: Short blog post about my "Steepest road in town" webapp. rawdatastudies.com/2026/07/26/m...
+  links:
+  - url: https://rawdatastudies.com/2026/07/26/mapping-steep-roads/
+    source: card
+    card_title: Mapping steep roads
+    card_description: Design choices and regrets for a webapp I made for mapping steep
+      roads.
+    citoid:
+      raw:
+        key: 762CAWZV
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: Mapping steep roads
+        blogTitle: Raw Data Studies
+        date: '2026-07-26'
+        url: https://rawdatastudies.com/2026/07/26/mapping-steep-roads/
+        abstractNote: Design choices and regrets for a webapp I made for mapping steep
+          roads.
+        language: en-US
+        accessDate: '2026-07-28'
+      title: Mapping steep roads
+      date: '2026-07-26'
+      item_type: blogPost
+      publisher: Raw Data Studies
+      abstract: Design choices and regrets for a webapp I made for mapping steep roads.
+  all_post_uris:
+  - at://did:plc:vum7yuqczgryxehx6ozitxjg/app.bsky.feed.post/3mrkwdc7kvc2c
 - post_uri: at://did:plc:mpdezz4nkre7vyift2rttggl/app.bsky.feed.post/3mrlkspires24
   thread_root_uri: at://did:plc:mpdezz4nkre7vyift2rttggl/app.bsky.feed.post/3mrlkspires24
   post_url: https://bsky.app/profile/did:plc:mpdezz4nkre7vyift2rttggl/post/3mrlkspires24
