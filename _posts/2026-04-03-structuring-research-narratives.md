@@ -262,7 +262,7 @@ There are many frameworks for structuring research narratives. While writing up 
 ![Flowchart: a problem needs solutions. A status quo is changed, which has consequences for a community of people.](/images/appleton_openings.webp)
 *Maggie Appleton's beautiful figure adapting Joseph Williams' writing on problem structure.*
 
-I was taught to write abstracts by John Carlis' ["Thinking about Abstracts"](https://wacclearinghouse.org/proceedings/iwac2014/presentations/8A-carlis-paper.pdf).
+I was taught to write abstracts by John Carlis' ["Thinking about Abstracts"](https://web.archive.org/web/20260729200901/https://wacclearinghouse.org/docs/proceedings/iwac2014/presentations/8A-carlis-paper.pdf).
 He breaks down the story of a research abstract into a set of "sentence purposes", and several of his examples strongly resemble the framework above. But Carlis makes an important point: there's nothing sacred about a particular narrative structure.
 The framework above aligns with researcher expectations that are highly applicable to the fields I know well, but other fields can have very different expectations regarding research stories.
 
