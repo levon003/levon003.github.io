@@ -1,3 +1,427 @@
+- post_uri: at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mrqnrqpnn22b
+  thread_root_uri: at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mrqnrqpnn22b
+  post_url: https://bsky.app/profile/did:plc:sz6lf2qphcdgxtoh67sky5ul/post/3mrqnrqpnn22b
+  post_date: '2026-07-29T00:21:22.732Z'
+  liked_at: '2026-07-29T05:05:22.531363+00:00'
+  author_handle: stephenjwild.bsky.social
+  author_did: did:plc:sz6lf2qphcdgxtoh67sky5ul
+  post_text: '"I anticipated that clinical researchers would welcome these concepts
+    and would use them once they become aware of them."
+
+
+    If I have learned anything from the biostats people I follow, the answer is no.'
+  links:
+  - url: https://arxiv.org/abs/2607.23660
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A9SC3H72
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Charles F.
+          lastName: Manski
+          creatorType: author
+        tags:
+        - tag: Econometrics (econ.EM)
+          type: 1
+        - tag: Methodology (stat.ME)
+          type: 1
+        - tag: 'FOS: Economics and business'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Systemic Methodological Dysfunction in Statistical Research for Clinical
+          Decisions
+        repository: arXiv
+        date: '2026-07-28'
+        DOI: 10.48550/ARXIV.2607.23660
+        url: https://arxiv.org/abs/2607.23660
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: 'I critique a set of entrenched methodological conventions that
+          collectively create systemic dysfunction in statistical research for clinical
+          decisions. These include: (1) the prevalent use of hypothesis tests to compare
+          treatments, (2) remoteness from patient care of the methods used to evaluate
+          the accuracy of predictions of patient outcomes, (3) poor practice of meta-analysis
+          to combine findings across studies, and (4) widespread research with incredible
+          certitude. It appears that the dysfunction is held in place by three factors:
+          (i) rudimentary instruction in statistical methodology received by medical
+          students and residents, (ii) reliance of clinical researchers on consulting
+          biostatisticians, wo act as statistical gatekeepers in evaluation of grant
+          proposals and paper submissions, and (iii) institutional practices of research
+          funding agencies, medical journals, and governmental bodies that regulate
+          medical treatment. I conjecture that systemic changes are necessary to break
+          the existing impasse, moving statistical research to a better equilibrium.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-07-29'
+      title: Systemic Methodological Dysfunction in Statistical Research for Clinical
+        Decisions
+      authors:
+      - last: Manski
+        first: Charles F.
+      date: '2026-07-28'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2607.23660
+      publisher: arXiv
+      abstract: 'I critique a set of entrenched methodological conventions that collectively
+        create systemic dysfunction in statistical research for clinical decisions.
+        These include: (1) the prevalent use of hypothesis tests to compare treatments,
+        (2) remoteness from patient care of the methods used to evaluate the accuracy
+        of predictions of patient outcomes, (3) poor practice of meta-analysis to
+        combine findings across studies, and (4) widespread research with incredible
+        certitude. It appears that the dysfunction is held in place by three factors:
+        (i) rudimentary instruction in statistical methodology received by medical
+        students and residents, (ii) reliance of clinical researchers on consulting
+        biostatisticians, wo act as statistical gatekeepers in evaluation of grant
+        proposals and paper submissions, and (iii) institutional practices of research
+        funding agencies, medical journals, and governmental bodies that regulate
+        medical treatment. I conjecture that systemic changes are necessary to break
+        the existing impasse, moving statistical research to a better equilibrium.'
+  all_post_uris:
+  - at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mrqnrqpnn22b
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mrqhz3tszcji
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mrqhz3tszcji
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mrqhz3tszcji
+  post_date: '2026-07-28T22:38:06.848Z'
+  liked_at: '2026-07-28T23:07:36.937740+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Amnesty program where misaligned agents can turn themselves in and get
+    infinite reward
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mrqhz3tszcji
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mrqeabti3s2y
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mrqeabti3s2y
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mrqeabti3s2y
+  post_date: '2026-07-28T21:30:33.044Z'
+  liked_at: '2026-07-28T22:45:00.898042+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: 'Hugging Face just published a highly detailed technical account of OpenAI''s
+    accidental cyberattack on their systems - it''s wild how sophisticated this was:
+    huggingface.co/blog/agent-i...
+
+
+    Wrote up some of my own notes here: simonwillison.net/2026/Jul/28/...'
+  links:
+  - url: https://huggingface.co/blog/agent-intrusion-technical-timeline
+    source: card
+    card_title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of
+      the July 2026 Incident'
+    card_description: We’re on a journey to advance and democratize artificial intelligence
+      through open source and open science.
+    citoid:
+      raw:
+        key: WICRCLNG
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of
+          the July 2026 Incident'
+        url: https://huggingface.co/blog/agent-intrusion-technical-timeline
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-06-26'
+        accessDate: '2026-07-29'
+        shortTitle: Anatomy of a Frontier Lab Agent Intrusion
+        websiteTitle: huggingface.co
+      title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the
+        July 2026 Incident'
+      date: '2026-06-26'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  - url: https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A88UTTVV
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of
+          the July 2026 Incident'
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/
+        abstractNote: Hugging Face just released this extremely detailed technical
+          description of OpenAI's recent accidental cyberattack against their infrastructure.
+          This attack was very sophisticated, and the resulting document doubles as
+          a crash-course …
+        language: en-gb
+        accessDate: '2026-07-29'
+        shortTitle: Anatomy of a Frontier Lab Agent Intrusion
+      title: 'Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the
+        July 2026 Incident'
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: Hugging Face just released this extremely detailed technical description
+        of OpenAI's recent accidental cyberattack against their infrastructure. This
+        attack was very sophisticated, and the resulting document doubles as a crash-course
+        …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mrqeabti3s2y
+- post_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3mrq2owrris2f
+  thread_root_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3mrq2owrris2f
+  post_url: https://bsky.app/profile/did:plc:j3hiqh5g6il7vmphiyldeklv/post/3mrq2owrris2f
+  post_date: '2026-07-28T18:39:47.351Z'
+  liked_at: '2026-07-28T20:07:57.104252+00:00'
+  author_handle: mkirschenbaum.bsky.social
+  author_did: did:plc:j3hiqh5g6il7vmphiyldeklv
+  post_text: Via @tedunderwood.com. I’m holding out for the AI Review of Humanists.
+    humanistreview.ai/issue-1/
+  links:
+  - url: https://humanistreview.ai/issue-1/
+    source: card
+    card_title: People & Technology
+    card_description: ''
+    citoid:
+      raw:
+        key: W45P6I7R
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: People & Technology
+        blogTitle: The Humanist Review
+        url: https://humanistreview.ai/issue-1/
+        language: en-US
+        accessDate: '2026-07-29'
+      title: People & Technology
+      item_type: blogPost
+      publisher: The Humanist Review
+  all_post_uris:
+  - at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3mrq2owrris2f
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrlsurhrjs2r
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrlsurhrjs2r
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mrlsurhrjs2r
+  post_date: '2026-07-27T02:09:14.219Z'
+  liked_at: '2026-07-28T19:56:55.279793+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Next, Fable built me the Piranesi city building game that I faked in
+    an AI video last year. The key mechanic the AI came up with is building a city
+    of arches and waterways in cyclopedian ruins & inviting humans to live amongst
+    them.
+
+
+    This one impressed me. Play: capriccio-city.ne'
+  links:
+  - url: https://cezanne-city.netlify.app/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw: &id001
+        key: 6HXJBVEQ
+        version: 0
+        itemType: webpage
+        url: https://cezanne-city.netlify.app/
+        title: Cézanne City
+        abstractNote: A city-building game played with a painter's gestures. Draw
+          roads, gather neighborhoods, plant trees — and watch a town interpret you.
+        accessDate: '2026-07-29'
+        websiteTitle: cezanne-city.netlify.app
+      title: Cézanne City
+      item_type: webpage
+      abstract: A city-building game played with a painter's gestures. Draw roads,
+        gather neighborhoods, plant trees — and watch a town interpret you.
+  - url: https://capriccio-city.netlify.app/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: ER87LA4F
+        version: 0
+        itemType: webpage
+        url: https://capriccio-city.netlify.app/
+        title: CAPRICCIO — a city of arches
+        abstractNote: A cozy Piranesi city builder. You raise the arches, stairs and
+          vaults; the citizens make them home.
+        accessDate: '2026-07-29'
+        websiteTitle: capriccio-city.netlify.app
+      title: CAPRICCIO — a city of arches
+      item_type: webpage
+      abstract: A cozy Piranesi city builder. You raise the arches, stairs and vaults;
+        the citizens make them home.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrlsurhrjs2r
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrjq7gfbas2r
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrjq7gfbas2r
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mrjq7gfbas2r
+  post_date: '2026-07-26T06:16:11.000Z'
+  liked_at: '2026-07-28T19:30:54.176792+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'A year later, Fable builds me a version of the Cezanne city builder
+    game. The AI came up with the idea of an impressionist city builder where you
+    paint with gestures & the town grows around it, with neighborhoods acquiring characters
+    as they evolve.
+
+
+    Play with it here: cezanne-ci'
+  links:
+  - url: https://cezanne-city.netlify.app/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw: *id001
+      title: Cézanne City
+      item_type: webpage
+      abstract: A city-building game played with a painter's gestures. Draw roads,
+        gather neighborhoods, plant trees — and watch a town interpret you.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mrjq7gfbas2r
+- post_uri: at://did:plc:pe4agiuhnyekwfdk2atrutfh/app.bsky.feed.post/3mrpxvkcgnc2m
+  thread_root_uri: at://did:plc:pe4agiuhnyekwfdk2atrutfh/app.bsky.feed.post/3mrpxvkcgnc2m
+  post_url: https://bsky.app/profile/did:plc:pe4agiuhnyekwfdk2atrutfh/post/3mrpxvkcgnc2m
+  post_date: '2026-07-28T17:49:47.919Z'
+  liked_at: '2026-07-28T18:46:46.393871+00:00'
+  author_handle: ncdominie.bsky.social
+  author_did: did:plc:pe4agiuhnyekwfdk2atrutfh
+  post_text: 'This is just to say
+
+
+    I have OCRed
+
+    the text
+
+    thet was in
+
+    tne arch:ve
+
+
+    and whicb
+
+    yov were prabaldy
+
+    seamhing
+
+    for "breahtast"
+
+
+    Fargme ms
+
+    fheg mem debo:w5
+
+    sb ?mccf
+
+    mmb 5c oc1b'
+  links: []
+  all_post_uris:
+  - at://did:plc:pe4agiuhnyekwfdk2atrutfh/app.bsky.feed.post/3mrpxvkcgnc2m
+- post_uri: at://did:plc:ipt7y6qaf6fn7oeeduboqe44/app.bsky.feed.post/3mrp2dh7efk2m
+  thread_root_uri: at://did:plc:ipt7y6qaf6fn7oeeduboqe44/app.bsky.feed.post/3mrp2dh7efk2m
+  post_url: https://bsky.app/profile/did:plc:ipt7y6qaf6fn7oeeduboqe44/post/3mrp2dh7efk2m
+  post_date: '2026-07-28T09:00:42.183Z'
+  liked_at: '2026-07-28T14:37:48.499681+00:00'
+  author_handle: antirez.bsky.social
+  author_did: did:plc:ipt7y6qaf6fn7oeeduboqe44
+  post_text: 'The real AI risk is inside the labs (a reply to Amodei''s post on open
+    weight models): antirez.com/news/172'
+  links:
+  - url: https://antirez.com/news/172
+    source: card
+    card_title: '
+
+      The real AI risk is inside the labs - <antirez>
+
+      '
+    card_description: ''
+    citoid:
+      raw:
+        key: 7PMK52XX
+        version: 0
+        itemType: webpage
+        url: https://antirez.com/news/172
+        title: 'The real AI risk is inside the labs - '
+        accessDate: '2026-07-29'
+        websiteTitle: antirez.com
+      title: 'The real AI risk is inside the labs - '
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:ipt7y6qaf6fn7oeeduboqe44/app.bsky.feed.post/3mrp2dh7efk2m
+- post_uri: at://did:plc:4pawistdnigziwdnti23yzmf/app.bsky.feed.post/3mromqe7tok2g
+  thread_root_uri: at://did:plc:4pawistdnigziwdnti23yzmf/app.bsky.feed.post/3mromqe7tok2g
+  post_url: https://bsky.app/profile/did:plc:4pawistdnigziwdnti23yzmf/post/3mromqe7tok2g
+  post_date: '2026-07-28T04:57:22.874Z'
+  liked_at: '2026-07-28T14:32:51.456974+00:00'
+  author_handle: pierskelly.bsky.social
+  author_did: did:plc:4pawistdnigziwdnti23yzmf
+  post_text: "​New article!: The Origins and Evolution of Writing \nwww.annualreviews.org/content/jour...\
+    \ \U0001F9F51/"
+  links:
+  - url: https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-041524-024424
+    source: card
+    card_title: The Origins and Evolution of Writing
+    card_description: For centuries, scholars have debated the etiology and evolution
+      of writing. The most persistent concerns relate to the relationship between
+      writing and social organization, linguistic structure, and c...
+    citoid:
+      raw:
+        key: TQU5HTEI
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Piers
+          lastName: Kelly
+          creatorType: author
+        tags: []
+        title: The Origins and Evolution of Writing
+        date: '2026-07-21'
+        DOI: 10.1146/annurev-anthro-041524-024424
+        url: https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-041524-024424
+        abstractNote: For centuries, scholars have debated the etiology and evolution
+          of writing. The most persistent concerns relate to the relationship between
+          writing and social organization, linguistic structure, and conventional
+          notation, with a subsequent turn to graphic dynamics, visual systems, and
+          cognition. Appealing to the synthesizing promise of four-field anthropology,
+          I review and identify areas of consensus and remaining debate, charting
+          a course between macroprocesses and microprocesses, with attention to the
+          co-occurrence of constraints and affordances. To better understand how the
+          glottographic principle has been discovered and adapted requires an examination
+          of the interplay between nonlinguistic notations, language, and sociohistorical
+          context. Ethnographic, comparative, and practice-oriented research helps
+          to tease apart the critical role of individual agency and social institutions,
+          against the observed regularities of human behavior, language, and cognition.
+        language: en
+        libraryCatalog: www.annualreviews.org
+        accessDate: '2026-07-29'
+      title: The Origins and Evolution of Writing
+      authors:
+      - last: Kelly
+        first: Piers
+      date: '2026-07-21'
+      item_type: journalArticle
+      doi: 10.1146/annurev-anthro-041524-024424
+      abstract: For centuries, scholars have debated the etiology and evolution of
+        writing. The most persistent concerns relate to the relationship between writing
+        and social organization, linguistic structure, and conventional notation,
+        with a subsequent turn to graphic dynamics, visual systems, and cognition.
+        Appealing to the synthesizing promise of four-field anthropology, I review
+        and identify areas of consensus and remaining debate, charting a course between
+        macroprocesses and microprocesses, with attention to the co-occurrence of
+        constraints and affordances. To better understand how the glottographic principle
+        has been discovered and adapted requires an examination of the interplay between
+        nonlinguistic notations, language, and sociohistorical context. Ethnographic,
+        comparative, and practice-oriented research helps to tease apart the critical
+        role of individual agency and social institutions, against the observed regularities
+        of human behavior, language, and cognition.
+  all_post_uris:
+  - at://did:plc:4pawistdnigziwdnti23yzmf/app.bsky.feed.post/3mromqe7tok2g
 - post_uri: at://did:plc:zijqvcafgixq55vpmu7atl2g/app.bsky.feed.post/3mrntbtc2gc2c
   thread_root_uri: at://did:plc:zijqvcafgixq55vpmu7atl2g/app.bsky.feed.post/3mrntbtc2gc2c
   post_url: https://bsky.app/profile/did:plc:zijqvcafgixq55vpmu7atl2g/post/3mrntbtc2gc2c
@@ -2722,7 +3146,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id001
+      raw: &id002
         key: XU82B3DW
         version: 0
         itemType: blogPost
@@ -2757,7 +3181,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id001
+      raw: *id002
       title: Now Is the Time to Give LLMs Access to the ACM Digital Library – Communications
         of the ACM
       date: '2026-07-15'
@@ -7227,7 +7651,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id002
+      raw: &id003
         key: BPMWHH4Z
         version: 0
         itemType: webpage
@@ -7258,7 +7682,7 @@
     card_title: The AI Compass
     card_description: 29 questions. Two axes. Which of 30 AI archetypes are you?
     citoid:
-      raw: *id002
+      raw: *id003
       title: The AI Compass
       item_type: webpage
       abstract: 29 questions. Two axes. Which of 30 AI archetypes are you?
@@ -11434,7 +11858,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id003
+      raw: &id004
         key: RQ844HGW
         version: 0
         itemType: webpage
@@ -11456,7 +11880,7 @@
         accessDate: '2026-06-28'
       title: Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'.
         We Might Know Why
-      authors: &id004
+      authors: &id005
       - last: Cole ·
         first: Samantha
       date: '2026-06-11'
@@ -11526,10 +11950,10 @@
       telling stories about lighthouse keepers and clockmakers, and one character
       named 'Elias Thorne' has made his way from chatbots to Amazon bo...
     citoid:
-      raw: *id003
+      raw: *id004
       title: Chatbots Keep Telling Stories About Lighthouse Keeper 'Elias Thorne'.
         We Might Know Why
-      authors: *id004
+      authors: *id005
       date: '2026-06-11'
       item_type: webpage
       abstract: LLMs including ChatGPT, Gemini and Claude are obsessed with telling
@@ -12907,7 +13331,7 @@
     card_description: An overview of Gemma 4 12B, a model designed to bring high-performance
       multimodal intelligence directly to your laptop.
     citoid:
-      raw: &id005
+      raw: &id006
         key: H3HEXW6D
         version: 0
         itemType: webpage
@@ -13167,7 +13591,7 @@
     card_description: An overview of Gemma 4 12B, a model designed to bring high-performance
       multimodal intelligence directly to your laptop.
     citoid:
-      raw: *id005
+      raw: *id006
       title: 'Introducing Gemma 4 12B: a unified, encoder-free multimodal model'
       date: '2026-06-03'
       item_type: webpage
@@ -14052,7 +14476,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id006
+      raw: &id007
         key: C6IQQ3BL
         version: 0
         itemType: magazineArticle
@@ -14085,7 +14509,7 @@
         accessDate: '2026-06-28'
         ISSN: 1059-1028
       title: Do You Actually Need to Pay for Transcription Software?
-      authors: &id007
+      authors: &id008
       - last: Pot
         first: Justin
       item_type: magazineArticle
@@ -14137,9 +14561,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id006
+      raw: *id007
       title: Do You Actually Need to Pay for Transcription Software?
-      authors: *id007
+      authors: *id008
       item_type: magazineArticle
       publisher: Wired
       abstract: I tested Wispr Flow and various AI-powered transcription software
@@ -16176,7 +16600,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id008
+      raw: &id009
         key: E8J5PR2T
         version: 0
         itemType: blogPost
@@ -16194,7 +16618,7 @@
         language: en-US
         accessDate: '2026-06-28'
       title: The Serpent in the Grove
-      authors: &id009
+      authors: &id010
       - last: Warmelo
         first: Aea Varfis-van
       date: '2026-05-12'
@@ -16564,9 +16988,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id008
+      raw: *id009
       title: The Serpent in the Grove
-      authors: *id009
+      authors: *id010
       date: '2026-05-12'
       item_type: blogPost
       publisher: Granta
@@ -17137,7 +17561,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id028
+      raw: &id029
         key: 9MD4MT3X
         version: 0
         itemType: journalArticle
@@ -17168,7 +17592,7 @@
         libraryCatalog: www.nature.com
         accessDate: '2026-06-28'
       title: Claims about scientific rigour require rigour
-      authors: &id029
+      authors: &id030
       - last: Bak-Coleman
         first: Joseph
       - last: Devezer
@@ -18391,7 +18815,7 @@
       the mathematical capabilities of large language models. I have just made a fairly
       large revision as a result of ChatGPT 5.5 Pro, to whi…
     citoid:
-      raw: &id010
+      raw: &id011
         key: 3FG98AFV
         version: 0
         itemType: blogPost
@@ -18439,7 +18863,7 @@
       the mathematical capabilities of large language models. I have just made a fairly
       large revision as a result of ChatGPT 5.5 Pro, to whi…
     citoid:
-      raw: *id010
+      raw: *id011
       title: A recent experience with ChatGPT 5.5 Pro
       date: '2026-05-08'
       item_type: blogPost
@@ -23774,7 +24198,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id011
+      raw: &id012
         key: 8WVF6LUE
         version: 0
         itemType: webpage
@@ -23792,7 +24216,7 @@
         accessDate: '2026-06-28'
         websiteTitle: www.gelliottmorris.com
       title: It's the prices, stupid
-      authors: &id012
+      authors: &id013
       - last: Morris
         first: G. Elliott
       item_type: webpage
@@ -23822,9 +24246,9 @@
       at an all-time high. Consumer sentiment isn't broken, popular government data
       is just incomplete
     citoid:
-      raw: *id011
+      raw: *id012
       title: It's the prices, stupid
-      authors: *id012
+      authors: *id013
       item_type: webpage
       abstract: Consumer sentiment is at an all-time low because prices are at an
         all-time high. The UMich index isn't broken, popular government data just
@@ -24269,7 +24693,7 @@
     card_title: 'MiniMax M2.7: Early Echoes of Self-Evolution'
     card_description: ''
     citoid:
-      raw: &id016
+      raw: &id017
         key: RMCWZAPE
         version: 0
         itemType: webpage
@@ -25444,7 +25868,7 @@
     card_title: Emotion concepts and their function in a large language model
     card_description: Interpretability research from Anthropic on emotion concepts
     citoid:
-      raw: &id013
+      raw: &id014
         key: R6S2H6YD
         version: 0
         itemType: webpage
@@ -25782,7 +26206,7 @@
     card_title: Emotion concepts and their function in a large language model
     card_description: Interpretability research from Anthropic on emotion concepts
     citoid:
-      raw: *id013
+      raw: *id014
       title: Emotion concepts and their function in a large language model
       item_type: webpage
       abstract: All modern language models sometimes act like they have emotions.
@@ -26338,7 +26762,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id014
+      raw: &id015
         key: A9QZRY6M
         version: 0
         itemType: webpage
@@ -26505,7 +26929,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id014
+      raw: *id015
       title: Mr. Chatterbox - a Hugging Face Space by tventurella
       item_type: webpage
       abstract: Enter your questions or remarks in the text box and receive replies
@@ -26993,7 +27417,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id015
+      raw: &id016
         key: 595UM2KX
         version: 0
         itemType: blogPost
@@ -27027,7 +27451,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id015
+      raw: *id016
       title: '“The Problem of AI”: Remarks, 3/26/26 – Nathan K. Hensley'
       date: '2026-03-27'
       item_type: blogPost
@@ -29364,7 +29788,7 @@
     card_title: 'MiniMax M2.7: Early Echoes of Self-Evolution'
     card_description: ''
     citoid:
-      raw: *id016
+      raw: *id017
       title: 'MiniMax M2.7: Early Echoes of Self-Evolution'
       item_type: webpage
   all_post_uris:
@@ -31021,7 +31445,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id017
+      raw: &id018
         key: IMQQS5JL
         version: 0
         itemType: webpage
@@ -31128,7 +31552,7 @@
     card_description: A Claude Code skill for deliberate skill development during
       AI-assisted coding - DrCatHicks/learning-opportunities
     citoid:
-      raw: &id020
+      raw: &id021
         key: KWQGJ94N
         version: 0
         itemType: computerProgram
@@ -31957,7 +32381,7 @@
       — Anthropic's lightweight production model — in a variety of contexts, using
       our circuit tracing methodology.
     citoid:
-      raw: &id089
+      raw: &id090
         key: XFQ5JKFV
         version: 0
         itemType: webpage
@@ -32053,7 +32477,7 @@
         language: en
         accessDate: '2026-06-28'
       title: On the Biology of a Large Language Model
-      authors: &id090
+      authors: &id091
       - last: Lindsey†
         first: Authors Jack
       - last: Gurnee*
@@ -32142,7 +32566,7 @@
     card_title: Large Language Models As The Tales That Are Sung
     card_description: Gene Wolfe, Albert Lord, machine culture.
     citoid:
-      raw: &id049
+      raw: &id050
         key: 7NRKSAR3
         version: 0
         itemType: webpage
@@ -32158,7 +32582,7 @@
         accessDate: '2026-06-28'
         websiteTitle: www.programmablemutter.com
       title: Large Language Models As The Tales That Are Sung
-      authors: &id050
+      authors: &id051
       - last: Farrell
         first: Henry
       item_type: webpage
@@ -32471,7 +32895,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id018
+      raw: &id019
         key: BFMVDY8L
         version: 0
         itemType: webpage
@@ -32487,7 +32911,7 @@
         accessDate: '2026-06-28'
         websiteTitle: www.hyperdimensional.co
       title: Clawed
-      authors: &id019
+      authors: &id020
       - last: Ball
         first: Dean W.
       item_type: webpage
@@ -32757,7 +33181,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id017
+      raw: *id018
       title: 'The Persona Selection Model: Why AI Assistants might Behave like Humans'
       item_type: webpage
   all_post_uris:
@@ -32980,9 +33404,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id018
+      raw: *id019
       title: Clawed
-      authors: *id019
+      authors: *id020
       item_type: webpage
       abstract: On Anthropic and the Department of War
   all_post_uris:
@@ -35985,7 +36409,7 @@
     card_description: A Claude Code skill for deliberate skill development during
       AI-assisted coding - DrCatHicks/learning-opportunities
     citoid:
-      raw: *id020
+      raw: *id021
       title: DrCatHicks/learning-opportunities
       date: '2026-06-28'
       item_type: computerProgram
@@ -38366,7 +38790,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id021
+      raw: &id022
         key: SHQS3FYS
         version: 0
         itemType: webpage
@@ -38407,7 +38831,7 @@
     card_description: Interactive map of 3.4 million Bluesky users, visualised by
       their follower pattern.
     citoid:
-      raw: *id021
+      raw: *id022
       title: Bluesky Map
       item_type: webpage
       abstract: Interactive map of 3 million Bluesky users, visualised by their follower
@@ -39685,7 +40109,7 @@
       intelligence lies in the ability to infer other individuals' knowledge states
       and understand their intentions. In comparison, our closest ...
     citoid:
-      raw: &id022
+      raw: &id023
         key: J7R5RHET
         version: 0
         itemType: preprint
@@ -39734,7 +40158,7 @@
         shortTitle: Are LLMs Smarter Than Chimpanzees?
       title: Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking
         and Knowledge State Estimation
-      authors: &id023
+      authors: &id024
       - last: Yang
         first: Dingyi
       - last: Zhao
@@ -39779,10 +40203,10 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id022
+      raw: *id023
       title: Are LLMs Smarter Than Chimpanzees? An Evaluation on Perspective Taking
         and Knowledge State Estimation
-      authors: *id023
+      authors: *id024
       date: '2026-03-24'
       item_type: preprint
       doi: 10.48550/arXiv.2601.12410
@@ -40182,7 +40606,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id024
+      raw: &id025
         key: 89NC77KZ
         version: 0
         itemType: webpage
@@ -40200,7 +40624,7 @@
         language: en
         accessDate: '2026-06-28'
       title: The New Politics of the AI Apocalypse
-      authors: &id025
+      authors: &id026
       - last: Herrman
         first: John
       date: '2026-02-02'
@@ -40225,9 +40649,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id024
+      raw: *id025
       title: The New Politics of the AI Apocalypse
-      authors: *id025
+      authors: *id026
       date: '2026-02-02'
       item_type: webpage
       abstract: Dario Amodei, CEO of Anthropic, says more democracy is the best response
@@ -40409,7 +40833,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id026
+      raw: &id027
         key: L4R9SG7R
         version: 0
         itemType: blogPost
@@ -40428,7 +40852,7 @@
         websiteType: Substack newsletter
         accessDate: '2026-06-28'
       title: Gambling with research quality
-      authors: &id027
+      authors: &id028
       - last: Stafford
         first: Tom
       date: '2026-02-01'
@@ -40456,9 +40880,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id026
+      raw: *id027
       title: Gambling with research quality
-      authors: *id027
+      authors: *id028
       date: '2026-02-01'
       item_type: blogPost
       publisher: Reasonable People
@@ -41349,7 +41773,7 @@
     card_description: Anthropic is an AI safety and research company that's working
       to build reliable, interpretable, and steerable AI systems.
     citoid:
-      raw: &id031
+      raw: &id032
         key: A2GC76ND
         version: 0
         itemType: webpage
@@ -42447,9 +42871,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id028
+      raw: *id029
       title: Claims about scientific rigour require rigour
-      authors: *id029
+      authors: *id030
       date: 2024-10
       item_type: journalArticle
       doi: 10.1038/s41562-024-01982-w
@@ -42657,7 +43081,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id080
+      raw: &id081
         key: GAI623H5
         version: 0
         itemType: preprint
@@ -42752,7 +43176,7 @@
         shortTitle: Position
       title: 'Position: Evaluating Generative AI Systems Is a Social Science Measurement
         Challenge'
-      authors: &id081
+      authors: &id082
       - last: Wallach
         first: Hanna
       - last: Desai
@@ -42991,7 +43415,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id030
+      raw: &id031
         key: LRWQ8K3K
         version: 0
         itemType: webpage
@@ -43032,7 +43456,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id030
+      raw: *id031
       title: Electricity use of AI coding agents
       date: '2026-01-20'
       item_type: webpage
@@ -43261,7 +43685,7 @@
     card_description: Anthropic is an AI safety and research company that's working
       to build reliable, interpretable, and steerable AI systems.
     citoid:
-      raw: *id031
+      raw: *id032
       title: 'The assistant axis: situating and stabilizing the character of large
         language models'
       item_type: webpage
@@ -44107,7 +44531,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id032
+      raw: &id033
         url: https://www.planetearthandbeyond.co/p/reality-is-breaking-the-ai-revolution
         itemType: newspaperArticle
         title: Reality Is Breaking The "AI Revolution"
@@ -44119,7 +44543,7 @@
         language: en
         accessDate: '2026-06-28'
       title: Reality Is Breaking The "AI Revolution"
-      authors: &id033
+      authors: &id034
       - last: Lockett
         first: Will
       item_type: newspaperArticle
@@ -44141,9 +44565,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id032
+      raw: *id033
       title: Reality Is Breaking The "AI Revolution"
-      authors: *id033
+      authors: *id034
       item_type: newspaperArticle
       abstract: AI job losses are total bulls**t.
   all_post_uris:
@@ -44292,7 +44716,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id036
+      raw: &id037
         url: https://www.bloomberg.com/news/features/2026-01-06/are-autonomous-vehicles-safer-than-human-drivers-we-don-t-know-yet
         itemType: newspaperArticle
         abstractNote: And even if self-driving technology proves to be less dangerous,
@@ -44463,7 +44887,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id034
+      raw: &id035
         key: CWE6XJKX
         version: 0
         itemType: webpage
@@ -44500,7 +44924,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id034
+      raw: *id035
       title: Personal information firehose · Adam Wiggins
       item_type: webpage
       abstract: My new research project asks whether a personal algorithm, inspired
@@ -44687,7 +45111,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id035
+      raw: &id036
         key: 77HWYU4C
         version: 0
         itemType: blogPost
@@ -44727,7 +45151,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id035
+      raw: *id036
       title: If AI Writes The Code, What Should Engineers Learn?
       item_type: blogPost
       publisher: The Learning Agency
@@ -45853,7 +46277,7 @@
       AGI, superintelligence, and the future of AI. Maybe you believe we are on the
       cusp of a transformative breakthrough. Maybe you are skep...
     citoid:
-      raw: &id043
+      raw: &id044
         key: QGIKWW2X
         version: 0
         itemType: blogPost
@@ -45874,7 +46298,7 @@
         language: en-US
         accessDate: '2026-06-28'
       title: Why AGI Will Not Happen
-      authors: &id044
+      authors: &id045
       - last: Dettmers
         first: Tim
       date: '2025-12-10'
@@ -46224,7 +46648,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id037
+      raw: &id038
         key: 3UE7Q96W
         version: 0
         itemType: webpage
@@ -46477,7 +46901,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id038
+      raw: &id039
         key: HZYD99R7
         version: 0
         itemType: computerProgram
@@ -47224,7 +47648,7 @@
     card_description: And even if self-driving technology proves to be less dangerous,
       there are many better ways to improve traffic safety and prevent fatal crashes.
     citoid:
-      raw: *id036
+      raw: *id037
       title: We Still Don’t Know if Robotaxis Are Safer Than Human Drivers
       item_type: newspaperArticle
       publisher: Bloomberg.com
@@ -47293,7 +47717,7 @@
     card_description: Verification-Driven Development (VDD) via Iterative Adversarial
       Refinement - method.md
     citoid:
-      raw: *id037
+      raw: *id038
       title: Verification-Driven Development (VDD) via Iterative Adversarial Refinement
       item_type: webpage
       abstract: Verification-Driven Development (VDD) via Iterative Adversarial Refinement
@@ -47425,7 +47849,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id038
+      raw: *id039
       title: rmcelreath/stat_rethinking_2026
       date: '2026-06-27'
       item_type: computerProgram
@@ -47722,7 +48146,7 @@
     card_description: Verification-Driven Development (VDD) via Iterative Adversarial
       Refinement - method.md
     citoid:
-      raw: *id037
+      raw: *id038
       title: Verification-Driven Development (VDD) via Iterative Adversarial Refinement
       item_type: webpage
       abstract: Verification-Driven Development (VDD) via Iterative Adversarial Refinement
@@ -49790,7 +50214,7 @@
     card_description: 'In which I boldly try to answer the question: how many gig
       workers are there?'
     citoid:
-      raw: &id039
+      raw: &id040
         key: EBU5MWPH
         version: 0
         itemType: blogPost
@@ -49807,7 +50231,7 @@
         language: en-US
         accessDate: '2026-06-28'
       title: The Great Gig Worker Debate - kevinonthemargin.com
-      authors: &id040
+      authors: &id041
       - last: Werner
         first: Kevin
       date: '2025-12-28'
@@ -51657,9 +52081,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id039
+      raw: *id040
       title: The Great Gig Worker Debate - kevinonthemargin.com
-      authors: *id040
+      authors: *id041
       date: '2025-12-28'
       item_type: blogPost
       abstract: 'In which I boldly try to answer the question: how many gig workers
@@ -52714,7 +53138,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id041
+      raw: &id042
         key: 3HTUJX7S
         version: 0
         itemType: journalArticle
@@ -52741,7 +53165,7 @@
         libraryCatalog: CrossRef
         accessDate: '2026-06-28'
       title: Why more social interactions lead to more polarization in societies
-      authors: &id042
+      authors: &id043
       - last: Thurner
         first: Stefan
       - last: Hofer
@@ -52770,9 +53194,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id041
+      raw: *id042
       title: Why more social interactions lead to more polarization in societies
-      authors: *id042
+      authors: *id043
       date: '2025-11-04'
       item_type: journalArticle
       doi: 10.1073/pnas.2517530122
@@ -53236,9 +53660,9 @@
       AGI, superintelligence, and the future of AI. Maybe you believe we are on the
       cusp of a transformative breakthrough. Maybe you are skep...
     citoid:
-      raw: *id043
+      raw: *id044
       title: Why AGI Will Not Happen
-      authors: *id044
+      authors: *id045
       date: '2025-12-10'
       item_type: blogPost
       publisher: Tim Dettmers
@@ -53397,7 +53821,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id045
+      raw: &id046
         key: QLQ5G7TW
         version: 0
         itemType: blogPost
@@ -53413,7 +53837,7 @@
         accessDate: '2026-06-28'
         shortTitle: Togelius
       title: 'Togelius: Please, don''t automate science!'
-      authors: &id046
+      authors: &id047
       - last: Togelius
         first: Julian
       date: '2025-12-08'
@@ -53476,9 +53900,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id045
+      raw: *id046
       title: 'Togelius: Please, don''t automate science!'
-      authors: *id046
+      authors: *id047
       date: '2025-12-08'
       item_type: blogPost
       publisher: Togelius
@@ -53916,9 +54340,9 @@
     card_description: I was at an event on AI for science yesterday, a panel discussion
       here at NeurIPS. The panelists discussed how they plan to replace humans a...
     citoid:
-      raw: *id045
+      raw: *id046
       title: 'Togelius: Please, don''t automate science!'
-      authors: *id046
+      authors: *id047
       date: '2025-12-08'
       item_type: blogPost
       publisher: Togelius
@@ -54582,7 +55006,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id047
+      raw: &id048
         key: G2YA5K2V
         version: 0
         itemType: webpage
@@ -54601,7 +55025,7 @@
         language: en-gb
         accessDate: '2026-06-28'
       title: The Resonant Computing Manifesto
-      authors: &id048
+      authors: &id049
       - last: Willison
         first: Simon
       item_type: webpage
@@ -54679,9 +55103,9 @@
       (of which I'm a founding signatory) pushes for a positive framework for thinking
       about building hyper-personalized AI-powered software...
     citoid:
-      raw: *id047
+      raw: *id048
       title: The Resonant Computing Manifesto
-      authors: *id048
+      authors: *id049
       item_type: webpage
       abstract: Launched today at WIRED’s The Big Interview event, this manifesto
         (of which I'm a founding signatory) encourages a positive framework for thinking
@@ -55775,9 +56199,9 @@
     card_title: Large Language Models As The Tales That Are Sung
     card_description: Gene Wolfe, Albert Lord, machine culture.
     citoid:
-      raw: *id049
+      raw: *id050
       title: Large Language Models As The Tales That Are Sung
-      authors: *id050
+      authors: *id051
       item_type: webpage
       abstract: Gene Wolfe, Albert Lord, machine culture.
   all_post_uris:
@@ -56663,7 +57087,7 @@
       more on them than ever. Does anyone find this puzzling? No, it’s obvious how
       this happens: th…'
     citoid:
-      raw: &id057
+      raw: &id058
         key: EX67VEPY
         version: 0
         itemType: webpage
@@ -58762,7 +59186,7 @@
       distinguishes one group of people from another. The term goes back to the Hebrew
       Bible, in which the inhabitants of Gilead identify members...
     citoid:
-      raw: &id101
+      raw: &id102
         key: A7XSYWD8
         version: 0
         itemType: blogPost
@@ -61179,7 +61603,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id060
+      raw: &id061
         key: I7H2I728
         version: 0
         itemType: webpage
@@ -62410,7 +62834,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id053
+      raw: &id054
         key: H2NMZ6BN
         version: 0
         itemType: blogPost
@@ -62428,7 +62852,7 @@
         language: en
         accessDate: '2026-06-28'
       title: First Shape Found That Can’t Pass Through Itself
-      authors: &id054
+      authors: &id055
       - last: Klarreich
         first: Erica
       date: '2025-10-24'
@@ -62760,7 +63184,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id073
+      raw: &id074
         key: XAMI2H4I
         version: 0
         itemType: preprint
@@ -62806,7 +63230,7 @@
         accessDate: '2026-06-29'
         shortTitle: ProxAnn
       title: 'ProxAnn: Use-Oriented Evaluations of Topic Models and Document Clustering'
-      authors: &id074
+      authors: &id075
       - last: Hoyle
         first: Alexander
       - last: Calvo-Bartolomé
@@ -63149,7 +63573,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id051
+      raw: &id052
         key: CHRCVN9M
         version: 0
         itemType: blogPost
@@ -63167,7 +63591,7 @@
         shortTitle: Python Software Foundation News
       title: 'Python Software Foundation News: The PSF has withdrawn a $1.5 million
         proposal to US government grant program'
-      authors: &id052
+      authors: &id053
       - last: Crary
         first: Loren
       date: '2025-10-27'
@@ -63299,10 +63723,10 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id051
+      raw: *id052
       title: 'Python Software Foundation News: The PSF has withdrawn a $1.5 million
         proposal to US government grant program'
-      authors: *id052
+      authors: *id053
       date: '2025-10-27'
       item_type: blogPost
       publisher: Python Software Foundation News
@@ -63413,7 +63837,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id055
+      raw: &id056
         key: R2LPFJYS
         version: 0
         itemType: preprint
@@ -63460,7 +63884,7 @@
         libraryCatalog: arXiv.org
         accessDate: '2026-06-28'
       title: The Risks of Industry Influence in Tech Research
-      authors: &id056
+      authors: &id057
       - last: Bak-Coleman
         first: Joseph
       - last: O'Connor
@@ -63746,9 +64170,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id053
+      raw: *id054
       title: First Shape Found That Can’t Pass Through Itself
-      authors: *id054
+      authors: *id055
       date: '2025-10-24'
       item_type: blogPost
       publisher: Quanta Magazine
@@ -64540,9 +64964,9 @@
       engines, and AI can have a broad impact on public health, political institutions,
       social dynamics, and the natural world. It is critical to ...
     citoid:
-      raw: *id055
+      raw: *id056
       title: The Risks of Industry Influence in Tech Research
-      authors: *id056
+      authors: *id057
       date: '2025-10-24'
       item_type: preprint
       doi: 10.48550/arXiv.2510.19894
@@ -67983,7 +68407,7 @@
       more on them than ever. Does anyone find this puzzling? No, it’s obvious how
       this happens: th…'
     citoid:
-      raw: *id057
+      raw: *id058
       title: Is the "cost of inference" going up or down? – David Crespo
       date: '2025-09-03'
       item_type: webpage
@@ -72686,7 +73110,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id061
+      raw: &id062
         key: EJBXXYDV
         version: 0
         itemType: conferencePaper
@@ -72712,7 +73136,7 @@
         shortTitle: Reading the Praise/Prompt Machine
       title: 'Reading the Praise/Prompt Machine: An Interface Criticism Approach to
         ChatGPT'
-      authors: &id062
+      authors: &id063
       - last: Grosser
         first: Ben
       - last: Pold
@@ -74086,7 +74510,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id058
+      raw: &id059
         key: 6QS4ACZR
         version: 0
         itemType: blogPost
@@ -74107,7 +74531,7 @@
         language: en
         accessDate: '2026-06-28'
       title: It’s Time to Build
-      authors: &id059
+      authors: &id060
       - last: Andreessen
         first: Marc
       date: '2020-04-18'
@@ -74138,9 +74562,9 @@
       pandemic, despite many prior warnings. This monumental failure of institutional
       effectiveness will reverberate for the rest of the decade, ...
     citoid:
-      raw: *id058
+      raw: *id059
       title: It’s Time to Build
-      authors: *id059
+      authors: *id060
       date: '2020-04-18'
       item_type: blogPost
       publisher: Andreessen Horowitz
@@ -74275,7 +74699,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id066
+      raw: &id067
         key: W9IQSW2I
         version: 0
         itemType: preprint
@@ -74327,7 +74751,7 @@
         accessDate: '2026-06-28'
         shortTitle: Working with AI
       title: 'Working with AI: Measuring the Applicability of Generative AI to Occupations'
-      authors: &id067
+      authors: &id068
       - last: Tomlinson
         first: Kiran
       - last: Jaffe
@@ -75245,7 +75669,7 @@
       complex problems. Author and UVA scientist James Zimring says the solution to
       better understanding lies in understanding fractions.
     citoid:
-      raw: *id060
+      raw: *id061
       title: 'Dungeons & Dragons and Burgers: ‘Really Bad Outcomes’ When We Don’t
         Grasp Fractions'
       date: '2022-05-27'
@@ -76115,10 +76539,10 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id061
+      raw: *id062
       title: 'Reading the Praise/Prompt Machine: An Interface Criticism Approach to
         ChatGPT'
-      authors: *id062
+      authors: *id063
       date: '2025-08-18'
       item_type: conferencePaper
       doi: 10.1145/3744169.3744194
@@ -76486,7 +76910,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id063
+      raw: &id064
         key: PCKZQEQL
         version: 0
         itemType: webpage
@@ -76502,7 +76926,7 @@
         accessDate: '2026-06-28'
         websiteTitle: www.theargumentmag.com
       title: The case for staying on Twitter
-      authors: &id064
+      authors: &id065
       - last: Demsas
         first: Jerusalem
       item_type: webpage
@@ -77270,9 +77694,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id063
+      raw: *id064
       title: The case for staying on Twitter
-      authors: *id064
+      authors: *id065
       item_type: webpage
       abstract: Against a politics of hygiene
   all_post_uris:
@@ -77462,7 +77886,7 @@
     card_description: The highly anticipated indie game has been in production for
       so long that it’s become an internet meme
     citoid:
-      raw: &id065
+      raw: &id066
         url: https://www.bloomberg.com/news/newsletters/2025-08-21/why-silksong-team-cherry-s-sequel-to-hollow-knight-took-so-long-to-make?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NTc4NjYzOSwiZXhwIjoxNzU2MzkxNDM5LCJhcnRpY2xlSWQiOiJUMUNMTUpHUFdDUFcwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.oTN8q1m9pNWFv7oW-n3vzq-hRWAxrDx9B7iF80RdTzk
         itemType: newspaperArticle
         abstractNote: The highly anticipated indie game has been in production for
@@ -77492,7 +77916,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id065
+      raw: *id066
       title: Why ‘Silksong’ Took Seven Years to Make
       item_type: newspaperArticle
       publisher: Bloomberg.com
@@ -81862,9 +82286,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id066
+      raw: *id067
       title: 'Working with AI: Measuring the Applicability of Generative AI to Occupations'
-      authors: *id067
+      authors: *id068
       date: '2025-12-22'
       item_type: preprint
       doi: 10.48550/arXiv.2507.07935
@@ -83791,7 +84215,7 @@
       some data from a website, and he asked the latest version of Anthropic’s generative
       AI system, Claude, for help. Claude cheerfully agr...
     citoid:
-      raw: &id068
+      raw: &id069
         key: EEPZAVMR
         version: 0
         itemType: journalArticle
@@ -83812,7 +84236,7 @@
         libraryCatalog: CrossRef
         accessDate: '2026-06-28'
       title: Why AI chatbots lie to us
-      authors: &id069
+      authors: &id070
       - last: Mitchell
         first: Melanie
       date: '2025-07-24'
@@ -83838,9 +84262,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id068
+      raw: *id069
       title: Why AI chatbots lie to us
-      authors: *id069
+      authors: *id070
       date: '2025-07-24'
       item_type: journalArticle
       doi: 10.1126/science.aea3922
@@ -83979,7 +84403,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id070
+      raw: &id071
         key: 5M8M7EIZ
         version: 0
         itemType: webpage
@@ -84010,7 +84434,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id070
+      raw: *id071
       title: Publication Ethics 2025
       item_type: webpage
   all_post_uris:
@@ -84231,7 +84655,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id071
+      raw: &id072
         key: K6NHFMIW
         version: 0
         itemType: preprint
@@ -84279,7 +84703,7 @@
         shortTitle: Just Put a Human in the Loop?
       title: Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for
         Subjective Tasks
-      authors: &id072
+      authors: &id073
       - last: Schroeder
         first: Hope
       - last: Roy
@@ -84460,10 +84884,10 @@
       overall promising performance and speed, simply "reviewing" LLM annotations
       in interpretive tasks can be tempting. In subjective annotatio...
     citoid:
-      raw: *id071
+      raw: *id072
       title: Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for
         Subjective Tasks
-      authors: *id072
+      authors: *id073
       date: '2025-07-21'
       item_type: preprint
       doi: 10.48550/arXiv.2507.15821
@@ -87619,9 +88043,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id073
+      raw: *id074
       title: 'ProxAnn: Use-Oriented Evaluations of Topic Models and Document Clustering'
-      authors: *id074
+      authors: *id075
       date: '2025'
       item_type: preprint
       doi: 10.48550/ARXIV.2507.00828
@@ -92214,7 +92638,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id075
+      raw: &id076
         key: SDZGRGI6
         version: 0
         itemType: newspaperArticle
@@ -92254,7 +92678,7 @@
         publicationTitle: The New York Times
         ISSN: 0362-4331
       title: A.I. Might Take Your Job. Here Are 22 New Ones It Could Give You.
-      authors: &id076
+      authors: &id077
       - last: Capps
         first: Robert
       date: '2025-06-17'
@@ -92277,9 +92701,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id075
+      raw: *id076
       title: A.I. Might Take Your Job. Here Are 22 New Ones It Could Give You.
-      authors: *id076
+      authors: *id077
       date: '2025-06-17'
       item_type: newspaperArticle
       publisher: The New York Times
@@ -93282,7 +93706,7 @@
     card_title: The Dreamer Unbound
     card_description: New AI as technology of the self
     citoid:
-      raw: &id095
+      raw: &id096
         key: ATVZ4L8R
         version: 0
         itemType: webpage
@@ -96040,7 +96464,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id077
+      raw: &id078
         key: NR4I9G5F
         version: 0
         itemType: blogPost
@@ -96076,7 +96500,7 @@
     card_description: Back when I was in grad school I kept a previous blog that I
       ended up replacing with this one. The other day I wanted to share Reichenbach's...
     citoid:
-      raw: *id077
+      raw: *id078
       title: Method in the Humanities
       item_type: blogPost
       publisher: Method in the Humanities
@@ -96651,7 +97075,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id078
+      raw: &id079
         key: CAKA5CCE
         version: 0
         itemType: webpage
@@ -96669,7 +97093,7 @@
         language: en
         accessDate: '2026-06-28'
       title: Teachers Are Not OK
-      authors: &id079
+      authors: &id080
       - last: Koebler ·
         first: Jason
       date: '2025-06-02'
@@ -97006,7 +97430,7 @@
       when they have been widely rejected in others? What factors allow good methodological
       advances to ...
     citoid:
-      raw: &id087
+      raw: &id088
         key: 8RV454IB
         version: 0
         itemType: journalArticle
@@ -97033,7 +97457,7 @@
         accessDate: '2026-06-28'
       title: Interdisciplinarity can aid the spread of better methods between scientific
         communities
-      authors: &id088
+      authors: &id089
       - last: Smaldino
         first: Paul E
       - last: O’Connor
@@ -97556,9 +97980,9 @@
     card_description: AI, ChatGPT, and LLMs "have absolutely blown up what I try to
       accomplish with my teaching."
     citoid:
-      raw: *id078
+      raw: *id079
       title: Teachers Are Not OK
-      authors: *id079
+      authors: *id080
       date: '2025-06-02'
       item_type: webpage
       abstract: AI, ChatGPT, and LLMs "have absolutely blown up what I try to accomplish
@@ -105538,7 +105962,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id093
+      raw: &id094
         key: ENWYCMKZ
         version: 0
         itemType: preprint
@@ -105636,7 +106060,7 @@
         libraryCatalog: arXiv.org
         accessDate: '2026-06-28'
       title: Evaluating Generative AI Systems is a Social Science Measurement Challenge
-      authors: &id094
+      authors: &id095
       - last: Wallach
         first: Hanna
       - last: Desai
@@ -105708,10 +106132,10 @@
       systems are especially difficult, leading to what has been described as "a tangle
       of sloppy tests [and] apples-to-oranges comparisons...
     citoid:
-      raw: *id080
+      raw: *id081
       title: 'Position: Evaluating Generative AI Systems Is a Social Science Measurement
         Challenge'
-      authors: *id081
+      authors: *id082
       date: '2025-06-06'
       item_type: preprint
       doi: 10.48550/arXiv.2502.00561
@@ -106084,7 +106508,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id082
+      raw: &id083
         key: FU92A8YT
         version: 0
         itemType: blogPost
@@ -106103,7 +106527,7 @@
         accessDate: '2026-06-28'
         shortTitle: When ChatGPT Broke an Entire Field
       title: 'When ChatGPT Broke an Entire Field: An Oral History'
-      authors: &id083
+      authors: &id084
       - last: Pavlus
         first: John
       date: '2025-04-30'
@@ -106191,9 +106615,9 @@
     card_description: Researchers in “natural language processing” tried to tame human
       language. Then came the transformer.
     citoid:
-      raw: *id082
+      raw: *id083
       title: 'When ChatGPT Broke an Entire Field: An Oral History'
-      authors: *id083
+      authors: *id084
       date: '2025-04-30'
       item_type: blogPost
       publisher: Quanta Magazine
@@ -106260,7 +106684,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id084
+      raw: &id085
         key: HKBI593Y
         version: 0
         itemType: webpage
@@ -107281,7 +107705,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id084
+      raw: *id085
       title: Running a million-board chess MMO in a single process · eieio.games
       date: '2025-06-24'
       item_type: webpage
@@ -109221,7 +109645,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id085
+      raw: &id086
         key: HR54MQ22
         version: 0
         itemType: preprint
@@ -109253,7 +109677,7 @@
         libraryCatalog: arXiv.org
         accessDate: '2026-06-28'
       title: A Bureaucratic Theory of Statistics
-      authors: &id086
+      authors: &id087
       - last: Recht
         first: Benjamin
       date: '2025-01-07'
@@ -110754,9 +111178,9 @@
       of statistics in policy-making, regulation, and bureaucratic systems. I introduce
       the concept of "ex ante policy," describing statistica...
     citoid:
-      raw: *id085
+      raw: *id086
       title: A Bureaucratic Theory of Statistics
-      authors: *id086
+      authors: *id087
       date: '2025-01-07'
       item_type: preprint
       doi: 10.48550/arXiv.2501.03457
@@ -113016,10 +113440,10 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id087
+      raw: *id088
       title: Interdisciplinarity can aid the spread of better methods between scientific
         communities
-      authors: *id088
+      authors: *id089
       date: 2022-10
       item_type: journalArticle
       doi: 10.1177/26339137221131816
@@ -113305,7 +113729,7 @@
       a central role in decision-making across many areas, including healthcare and
       economics. Estimating causal effects typically requires an est...
     citoid:
-      raw: &id091
+      raw: &id092
         key: 9WU38TJH
         version: 0
         itemType: preprint
@@ -113371,7 +113795,7 @@
         accessDate: '2026-06-28'
         shortTitle: Black Box Causal Inference
       title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
-      authors: &id092
+      authors: &id093
       - last: Bynum
         first: Lucius E. J.
       - last: Puli
@@ -115196,9 +115620,9 @@
     card_title: On the Biology of a Large Language Model
     card_description: ''
     citoid:
-      raw: *id089
+      raw: *id090
       title: On the Biology of a Large Language Model
-      authors: *id090
+      authors: *id091
       item_type: webpage
       abstract: We investigate the internal mechanisms used by Claude 3.5 Haiku —
         Anthropic's lightweight production model — in a variety of contexts, using
@@ -117571,9 +117995,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id091
+      raw: *id092
       title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
-      authors: *id092
+      authors: *id093
       date: '2025-03-07'
       item_type: preprint
       doi: 10.48550/arXiv.2503.05985
@@ -127398,9 +127822,9 @@
       awareness that the measurement tasks involved in evaluating generative AI (GenAI)
       systems are especially difficult. We argue that thes...
     citoid:
-      raw: *id093
+      raw: *id094
       title: Evaluating Generative AI Systems is a Social Science Measurement Challenge
-      authors: *id094
+      authors: *id095
       date: '2024-11-17'
       item_type: preprint
       doi: 10.48550/arXiv.2411.10939
@@ -127817,7 +128241,7 @@
     card_title: The Dreamer Unbound
     card_description: New AI as technology of the self
     citoid:
-      raw: *id095
+      raw: *id096
       title: The Dreamer Unbound
       item_type: webpage
       abstract: New AI as technology of the self
@@ -130265,7 +130689,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id096
+      raw: &id097
         key: GDP4U3QD
         version: 0
         itemType: preprint
@@ -130316,7 +130740,7 @@
         shortTitle: Actions Speak Louder than Words
       title: 'Actions Speak Louder than Words: Agent Decisions Reveal Implicit Biases
         in Language Models'
-      authors: &id097
+      authors: &id098
       - last: Li
         first: Yuxuan
       - last: Shirado
@@ -130923,10 +131347,10 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id096
+      raw: *id097
       title: 'Actions Speak Louder than Words: Agent Decisions Reveal Implicit Biases
         in Language Models'
-      authors: *id097
+      authors: *id098
       date: '2025-01-29'
       item_type: preprint
       doi: 10.48550/arXiv.2501.17420
@@ -133052,7 +133476,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id098
+      raw: &id099
         key: QCEB7UI4
         version: 0
         itemType: blogPost
@@ -133088,7 +133512,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id098
+      raw: *id099
       title: The White House press corps gears up for another Trump term.
       item_type: blogPost
       publisher: Columbia Journalism Review
@@ -142453,7 +142877,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id099
+      raw: &id100
         key: SHY62BQS
         version: 0
         itemType: webpage
@@ -142603,7 +143027,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id099
+      raw: *id100
       title: All Day TA
       item_type: webpage
       abstract: All Day TA is an AI EdTech company focused on higher education that
@@ -143772,9 +144196,9 @@
       awareness that the measurement tasks involved in evaluating generative AI (GenAI)
       systems are especially difficult. We argue that thes...
     citoid:
-      raw: *id093
+      raw: *id094
       title: Evaluating Generative AI Systems is a Social Science Measurement Challenge
-      authors: *id094
+      authors: *id095
       date: '2024-11-17'
       item_type: preprint
       doi: 10.48550/arXiv.2411.10939
@@ -145304,7 +145728,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id100
+      raw: &id101
         key: 8UHV865C
         version: 0
         itemType: webpage
@@ -145342,7 +145766,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id100
+      raw: *id101
       title: The phony comforts of AI skepticism
       date: '2024-12-06'
       item_type: webpage
@@ -145498,7 +145922,7 @@
       distinguishes one group of people from another. The term goes back to the Hebrew
       Bible, in which the inhabitants of Gilead identify members...
     citoid:
-      raw: *id101
+      raw: *id102
       title: Why you are not allowed to say that your 95% confidence interval contains
         the true parameter with a probability of 95%
       date: '2024-12-05'
@@ -146353,7 +146777,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id102
+      raw: &id103
         key: GVMHJB54
         version: 0
         itemType: journalArticle
@@ -146387,7 +146811,7 @@
         libraryCatalog: CrossRef
         accessDate: '2026-06-28'
       title: The fallacy of placing confidence in confidence intervals
-      authors: &id103
+      authors: &id104
       - last: Morey
         first: Richard D.
       - last: Hoekstra
@@ -146435,9 +146859,9 @@
       allowance for sampling uncertainty – have long been touted as a key component
       of statistical analyses. There are several kinds of interval ...
     citoid:
-      raw: *id102
+      raw: *id103
       title: The fallacy of placing confidence in confidence intervals
-      authors: *id103
+      authors: *id104
       date: 2016-02
       item_type: journalArticle
       doi: 10.3758/s13423-015-0947-8
@@ -148860,7 +149284,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: &id104
+      raw: &id105
         url: https://huggingface.co/datasets/bluesky-community/one-million-bluesky-posts
         itemType: webpage
         title: bluesky-community/one-million-bluesky-posts · Datasets at Hugging Face
@@ -149068,7 +149492,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id104
+      raw: *id105
       title: bluesky-community/one-million-bluesky-posts · Datasets at Hugging Face
       item_type: webpage
       abstract: We’re on a journey to advance and democratize artificial intelligence
@@ -149149,7 +149573,7 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id104
+      raw: *id105
       title: bluesky-community/one-million-bluesky-posts · Datasets at Hugging Face
       item_type: webpage
       abstract: We’re on a journey to advance and democratize artificial intelligence
@@ -149760,7 +150184,7 @@
     card_title: Don't call it a Substack. - Anil Dash
     card_description: A blog about making culture. Since 1999.
     citoid:
-      raw: &id105
+      raw: &id106
         key: 724K8XY5
         version: 0
         itemType: webpage
@@ -149777,7 +150201,7 @@
         accessDate: '2026-06-28'
         websiteTitle: anildash.com
       title: Don't call it a Substack. - Anil Dash
-      authors: &id106
+      authors: &id107
       - last: Dash
         first: Anil
       date: '2024-11-19'
@@ -152594,9 +153018,9 @@
     card_title: null
     card_description: null
     citoid:
-      raw: *id105
+      raw: *id106
       title: Don't call it a Substack. - Anil Dash
-      authors: *id106
+      authors: *id107
       date: '2024-11-19'
       item_type: webpage
       abstract: A blog about making culture. Since 1999.
