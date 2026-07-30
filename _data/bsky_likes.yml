@@ -1,3 +1,257 @@
+- post_uri: at://did:plc:qvyj3hxm4opuuddzrhcbiio6/app.bsky.feed.post/3mrt732vaws23
+  thread_root_uri: at://did:plc:qvyj3hxm4opuuddzrhcbiio6/app.bsky.feed.post/3mrt732vaws23
+  post_url: https://bsky.app/profile/did:plc:qvyj3hxm4opuuddzrhcbiio6/post/3mrt732vaws23
+  post_date: '2026-07-30T00:36:08.493Z'
+  liked_at: '2026-07-30T04:11:49.129132+00:00'
+  author_handle: mattdpearce.com
+  author_did: did:plc:qvyj3hxm4opuuddzrhcbiio6
+  post_text: I need Christopher Nolan to keep adapting towering works of literature
+    as a sort of Keynesian stimulus for literary culture.
+  links: []
+  all_post_uris:
+  - at://did:plc:qvyj3hxm4opuuddzrhcbiio6/app.bsky.feed.post/3mrt732vaws23
+- post_uri: at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3mro54obllc2k
+  thread_root_uri: at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3mro54obllc2k
+  post_url: https://bsky.app/profile/did:plc:lwvjio7rxo2am62nonpap2vb/post/3mro54obllc2k
+  post_date: '2026-07-28T00:17:56.201Z'
+  liked_at: '2026-07-30T03:59:43.327141+00:00'
+  author_handle: willoremus.com
+  author_did: did:plc:lwvjio7rxo2am62nonpap2vb
+  post_text: 'AI-assisted fiction is already here, tons of people are reading it,
+    very few of them realize it, and no one wants to talk about it.
+
+
+    Gift link to my latest: www.theatlantic.com/technology/2...'
+  links:
+  - url: https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/?gift=A_VYuI0Bs4X1cJsYonaJVMSeFmIaR0fTvHiIR-DD2uw
+    source: card
+    card_title: Is This What Comes After AI Slop?
+    card_description: Daggermouth could be the first best-selling novel partly written
+      by a chatbot.
+    citoid:
+      raw:
+        key: NTCAXRXL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Will
+          lastName: Oremus
+          creatorType: author
+        tags: []
+        title: Is This What Comes After AI Slop?
+        websiteTitle: The Atlantic
+        date: '2026-07-27'
+        url: https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/
+        abstractNote: Daggermouth could be the first best-selling novel partly written
+          by a chatbot.
+        language: en
+        accessDate: '2026-07-30'
+      title: Is This What Comes After AI Slop?
+      authors:
+      - last: Oremus
+        first: Will
+      date: '2026-07-27'
+      item_type: webpage
+      abstract: Daggermouth could be the first best-selling novel partly written by
+        a chatbot.
+  all_post_uris:
+  - at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3mro54obllc2k
+- post_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mrse4rx6zc2g
+  thread_root_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mrse4rx6zc2g
+  post_url: https://bsky.app/profile/did:plc:swgxwbir4rrimj57pf75jckf/post/3mrse4rx6zc2g
+  post_date: '2026-07-29T16:33:55.202Z'
+  liked_at: '2026-07-30T03:18:00.394303+00:00'
+  author_handle: mtsw.bsky.social
+  author_did: did:plc:swgxwbir4rrimj57pf75jckf
+  post_text: I think it's good that Mamdani is Just Doing Stuff but more people gotta
+    realize that it is not a matter of Will or motivation or whatever but because
+    the NYC Mayor, as an office, is one of the uniquely powerful individual offices
+    you can hold in the United States (seriously)
+  links: []
+  all_post_uris:
+  - at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mrse4rx6zc2g
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrtbf6duz22g
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrtbf6duz22g
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mrtbf6duz22g
+  post_date: '2026-07-30T01:17:35.149Z'
+  liked_at: '2026-07-30T03:01:09.702124+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: I think more industry-academia collaboration is awesome, it's mostly
+    what I do. Mostly, I object to the use of the NSF to do so as it's one of the
+    few sources of government funding for basic research...
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrtbf6duz22g
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mrsigojvds2t
+  thread_root_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mrsigojvds2t
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3mrsigojvds2t
+  post_date: '2026-07-29T17:51:02.131Z'
+  liked_at: '2026-07-30T01:18:27.420051+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: 'Politics aside, do people believe federal government gas stations with
+    deeply discounted prices are a good POLICY idea? What are they intended to accomplish,
+    in your view? What problem do they solve?
+
+
+    www.cnn.com/2026/07/09/b...'
+  links:
+  - url: https://www.cnn.com/2026/07/09/business/trump-freedom-fuel-stations
+    source: card
+    card_title: Trump promotes ‘Freedom Fuel’ stations that sell cheap gas. How they’re
+      able to do so is unclear | CNN Business
+    card_description: President Donald Trump is heralding a new chain of gas stations
+      that are selling gas for $3.479 a gallon, well below both market prices and
+      wholesale costs.
+    citoid:
+      raw:
+        url: https://www.cnn.com/2026/07/09/business/trump-freedom-fuel-stations
+        itemType: newspaperArticle
+        title: Trump promotes ‘Freedom Fuel’ stations that sell cheap gas. How they’re
+          able to do so is unclear | CNN Business
+        date: '2026-07-09'
+        publicationTitle: CNN
+        creators:
+        - creatorType: author
+          firstName: Chris
+          lastName: Isidore
+        abstractNote: President Donald Trump is heralding a new chain of gas stations
+          that are selling gas for $3.479 a gallon, well below both market prices
+          and wholesale costs.
+        language: en
+        accessDate: '2026-07-30'
+      title: Trump promotes ‘Freedom Fuel’ stations that sell cheap gas. How they’re
+        able to do so is unclear | CNN Business
+      authors:
+      - last: Isidore
+        first: Chris
+      date: '2026-07-09'
+      item_type: newspaperArticle
+      publisher: CNN
+      abstract: President Donald Trump is heralding a new chain of gas stations that
+        are selling gas for $3.479 a gallon, well below both market prices and wholesale
+        costs.
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mrsigojvds2t
+- post_uri: at://did:plc:wwauxmjar4vc77jvw32hsm3f/app.bsky.feed.post/3mpykpqo3rk2d
+  thread_root_uri: at://did:plc:wwauxmjar4vc77jvw32hsm3f/app.bsky.feed.post/3mpykpqo3rk2d
+  post_url: https://bsky.app/profile/did:plc:wwauxmjar4vc77jvw32hsm3f/post/3mpykpqo3rk2d
+  post_date: '2026-07-06T16:57:29.005Z'
+  liked_at: '2026-07-30T00:23:38.331033+00:00'
+  author_handle: impractknow.bsky.social
+  author_did: did:plc:wwauxmjar4vc77jvw32hsm3f
+  post_text: 'A couple of years ago I started wondering why I was spending so much
+    time on hobbies cosplaying obsolete jobs. This is a go at an answer: I''m in the
+    grips of *skill nostalgia*, and the problem is to avoid it becoming reactionary.
+    It turns out John Ruskin (??) has the answer
+
+
+    aeon'
+  links:
+  - url: https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:wwauxmjar4vc77jvw32hsm3f/app.bsky.feed.post/3mpykpqo3rk2d
+- post_uri: at://did:plc:n2i5lkhcqi62xv3edolwvj4j/app.bsky.feed.post/3mrs3z5bwqs2y
+  thread_root_uri: at://did:plc:n2i5lkhcqi62xv3edolwvj4j/app.bsky.feed.post/3mrs3z5bwqs2y
+  post_url: https://bsky.app/profile/did:plc:n2i5lkhcqi62xv3edolwvj4j/post/3mrs3z5bwqs2y
+  post_date: '2026-07-29T14:08:42.933Z'
+  liked_at: '2026-07-29T23:49:42.990277+00:00'
+  author_handle: danlehner.bsky.social
+  author_did: did:plc:n2i5lkhcqi62xv3edolwvj4j
+  post_text: if there’s anything I would want to drill into the public consciousness
+    it’s that there are almost always like a dozen ways to approach any given problem
+    and some of them will be more effective than others and we have to stop acting
+    like the questions around it are against fixing
+  links: []
+  all_post_uris:
+  - at://did:plc:n2i5lkhcqi62xv3edolwvj4j/app.bsky.feed.post/3mrs3z5bwqs2y
+- post_uri: at://did:plc:46gdaraoobznvj2jeidohxp6/app.bsky.feed.post/3mrpeqttwtc2i
+  thread_root_uri: at://did:plc:46gdaraoobznvj2jeidohxp6/app.bsky.feed.post/3mrpeqttwtc2i
+  post_url: https://bsky.app/profile/did:plc:46gdaraoobznvj2jeidohxp6/post/3mrpeqttwtc2i
+  post_date: '2026-07-28T12:07:09.065Z'
+  liked_at: '2026-07-29T14:46:22.316182+00:00'
+  author_handle: ramon-astudillo.bsky.social
+  author_did: did:plc:46gdaraoobznvj2jeidohxp6
+  post_text: Post coding agents, it's amazing to realize how "I need to do this myself
+    because I know what I want" meant exactly the opposite. You did not know what
+    you wanted, that's why you can't verbalize it. You only know that if you type
+    and mechanically follow your intuition, you will g
+  links: []
+  all_post_uris:
+  - at://did:plc:46gdaraoobznvj2jeidohxp6/app.bsky.feed.post/3mrpeqttwtc2i
+- post_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mrqahhbzd22n
+  thread_root_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mrqahhbzd22n
+  post_url: https://bsky.app/profile/did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/post/3mrqahhbzd22n
+  post_date: '2026-07-28T20:22:58.677Z'
+  liked_at: '2026-07-29T14:45:21.960082+00:00'
+  author_handle: dmimno.bsky.social
+  author_did: did:plc:z2bg7yzpjr5bgfnzxmgcmyvw
+  post_text: '"Python is actually a bad language for beginners" part one million...'
+  links: []
+  all_post_uris:
+  - at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mrqahhbzd22n
+- post_uri: at://did:plc:ke6f766al4swdugyvmvyipuo/app.bsky.feed.post/3mrqttstvg22j
+  thread_root_uri: at://did:plc:ke6f766al4swdugyvmvyipuo/app.bsky.feed.post/3mrqttstvg22j
+  post_url: https://bsky.app/profile/did:plc:ke6f766al4swdugyvmvyipuo/post/3mrqttstvg22j
+  post_date: '2026-07-29T02:09:54.543Z'
+  liked_at: '2026-07-29T14:37:59.878934+00:00'
+  author_handle: today.yougov.com
+  author_did: did:plc:ke6f766al4swdugyvmvyipuo
+  post_text: 'NEW Economist/YouGov Jul 25-27
+
+    % who say that generally speaking, they think nuclear power plants are safe |
+    not safe
+
+    U.S. adult citizens 41% | 39%
+
+    Very liberal 52% | 26%
+
+    Liberal 32% | 41%
+
+    Moderate 36% | 48%
+
+    Conservative 47% | 34%
+
+    Very conservative 63% | 23%
+
+    yougov.com/en-us/arti'
+  links:
+  - url: https://yougov.com/en-us/articles/55261-new-low-donald-trump-approval-close-2026-house-race-netanyahu-july-25-27-2026-economist-yougov-poll
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: JPK23SAQ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'A new low for Trump approval, the close House race, views on Netanyahu,
+          and more: July 25 - 27, 2026 Economist/YouGov Poll'
+        abstractNote: Trump's job approval hits record low, Americans like their member
+          of the House more than they like Congress, and half of Americans think the
+          U.S. should arrest Netanyahu
+        url: https://yougov.com/en-us/articles/55261-new-low-donald-trump-approval-close-2026-house-race-netanyahu-july-25-27-2026-economist-yougov-poll
+        language: en-us
+        accessDate: '2026-07-30'
+        shortTitle: A new low for Trump approval, the close House race, views on Netanyahu,
+          and more
+        websiteTitle: yougov.com
+      title: 'A new low for Trump approval, the close House race, views on Netanyahu,
+        and more: July 25 - 27, 2026 Economist/YouGov Poll'
+      item_type: webpage
+      abstract: Trump's job approval hits record low, Americans like their member
+        of the House more than they like Congress, and half of Americans think the
+        U.S. should arrest Netanyahu
+  all_post_uris:
+  - at://did:plc:ke6f766al4swdugyvmvyipuo/app.bsky.feed.post/3mrqttstvg22j
 - post_uri: at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mrqnrqpnn22b
   thread_root_uri: at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mrqnrqpnn22b
   post_url: https://bsky.app/profile/did:plc:sz6lf2qphcdgxtoh67sky5ul/post/3mrqnrqpnn22b
