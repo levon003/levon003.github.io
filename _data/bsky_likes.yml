@@ -1,3 +1,306 @@
+- post_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mrw2naj42k2c
+  thread_root_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mrw2n63sgc2c
+  post_url: https://bsky.app/profile/did:plc:zrwhncnqel7corjtg2cak3jx/post/3mrw2naj42k2c
+  post_date: '2026-07-31T03:54:46.318Z'
+  liked_at: '2026-07-31T05:34:37.902470+00:00'
+  author_handle: tbabb.bsky.social
+  author_did: did:plc:zrwhncnqel7corjtg2cak3jx
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mrw2naj42k2c
+- post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrvmm5fuak2g
+  thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrvmm5fuak2g
+  post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mrvmm5fuak2g
+  post_date: '2026-07-30T23:43:39.681Z'
+  liked_at: '2026-07-31T05:32:18.796756+00:00'
+  author_handle: isolyth.dev
+  author_did: did:plc:allu5vs3gnm2wm7jzf4rad3r
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mrvmm5fuak2g
+- post_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrvfqurk2s2s
+  thread_root_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrvfqurk2s2s
+  post_url: https://bsky.app/profile/did:plc:xb2urvqt5f4zzccjs46hysbf/post/3mrvfqurk2s2s
+  post_date: '2026-07-30T21:41:02.207Z'
+  liked_at: '2026-07-31T01:27:14.873498+00:00'
+  author_handle: cee.wtf
+  author_did: did:plc:xb2urvqt5f4zzccjs46hysbf
+  post_text: trying to stab the Satyress's air reservoir failsafe system with your
+    workplace issued AI researcher knife but it frame perfect parries you and reverse
+    horse kicks your head off
+  links: []
+  all_post_uris:
+  - at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mrvfqurk2s2s
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mrvb7bltzc2m
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mrvb774qrc2m
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mrvb7bltzc2m
+  post_date: '2026-07-30T20:19:34.097Z'
+  liked_at: '2026-07-31T01:21:12.202299+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: You got a problem with the Fit? You take it up with me. The Fit is innocent
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mrvb7bltzc2m
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mrv7ep252c2x
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mrv7ep252c2x
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3mrv7ep252c2x
+  post_date: '2026-07-30T19:46:51.093Z'
+  liked_at: '2026-07-31T00:59:01.752519+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: 'Haven''t read, probably will. Hell of an abstract.
+
+
+    arxiv.org/abs/2607.27191'
+  links:
+  - url: https://arxiv.org/abs/2607.27191
+    source: card
+    card_title: Can AI agents conduct open-ended AI research? Early evidence from
+      two case studies
+    card_description: Forecasts of explosive AI progress hinge on AI agents automating
+      AI research. But evidence on whether agents can carry out open-ended AI research
+      is thin. Current evaluations either test agents on nar...
+    citoid:
+      raw:
+        key: EWTL3XLD
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Peter
+          lastName: Kirgis
+          creatorType: author
+        - firstName: Sayash
+          lastName: Kapoor
+          creatorType: author
+        - firstName: Andrew
+          lastName: Schwartz
+          creatorType: author
+        - firstName: Stephan
+          lastName: Rabanser
+          creatorType: author
+        - firstName: David
+          lastName: Africa
+          creatorType: author
+        - firstName: Konstantinos
+          lastName: Voudouris
+          creatorType: author
+        - firstName: Viet
+          lastName: Nguyen
+          creatorType: author
+        - firstName: Toby
+          lastName: Pilditch
+          creatorType: author
+        - firstName: Magda
+          lastName: Dubois
+          creatorType: author
+        - firstName: Harry
+          lastName: Coppock
+          creatorType: author
+        - firstName: Cozmin
+          lastName: Ududec
+          creatorType: author
+        - firstName: Nitya
+          lastName: Nadgir
+          creatorType: author
+        - firstName: Matilda
+          lastName: Orona
+          creatorType: author
+        - firstName: Tilman
+          lastName: Bayer
+          creatorType: author
+        - firstName: Derrick
+          lastName: Chan-Sew
+          creatorType: author
+        - firstName: Yue
+          lastName: Ling
+          creatorType: author
+        - firstName: Abhishek
+          lastName: Shetty
+          creatorType: author
+        - firstName: Helen
+          lastName: Toner
+          creatorType: author
+        - firstName: Gillian
+          lastName: Hadfield
+          creatorType: author
+        - firstName: Seth
+          lastName: Lazar
+          creatorType: author
+        - firstName: Steve
+          lastName: Newman
+          creatorType: author
+        - firstName: Shoshannah
+          lastName: Tekofsky
+          creatorType: author
+        - firstName: Rishi
+          lastName: Bommasani
+          creatorType: author
+        - firstName: Arvind
+          lastName: Narayanan
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: Machine Learning (cs.LG)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Can AI agents conduct open-ended AI research? Early evidence from two
+          case studies
+        repository: arXiv
+        date: '2026-07-30'
+        DOI: 10.48550/ARXIV.2607.27191
+        url: https://arxiv.org/abs/2607.27191
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: 'Forecasts of explosive AI progress hinge on AI agents automating
+          AI research. But evidence on whether agents can carry out open-ended AI
+          research is thin. Current evaluations either test agents on narrow, verifiable
+          tasks, which excludes open-ended research, or submit AI-generated papers
+          to blind peer review, which is overstretched, stochastic, and suffers from
+          poor review quality. We introduce a third way to measure progress towards
+          AI R\&amp;D automation. An agent takes on the central, open-ended research
+          question of a high-quality unpublished paper, and the paper''s original
+          authors grade its output. We call these shadow evaluations. We ran shadow
+          evaluations on two unpublished NeurIPS 2026 submissions, giving frontier
+          agents six days and thousands of dollars of compute. The agents completed
+          all of the engineering without human help, yet could not make substantial
+          progress towards answering the research questions. As a result, both papers
+          were unambiguously rejected by the authors. We identify five recurring failure
+          modes: poor judgment about the bar for publishable research, uncreative
+          responses to shortcomings in the research design, ineffective backtracking
+          from dead ends, poor resource awareness, and instruction drift. A robustness
+          check with a second model and scaffold reproduced these failures. We release
+          the expert reviews, survey responses, agent repositories, and logs. Our
+          results provide early evidence that today''s agents can do the engineering
+          of AI research, but struggle with critical parts of the research lifecycle.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-07-31'
+        shortTitle: Can AI agents conduct open-ended AI research?
+      title: Can AI agents conduct open-ended AI research? Early evidence from two
+        case studies
+      authors:
+      - last: Kirgis
+        first: Peter
+      - last: Kapoor
+        first: Sayash
+      - last: Schwartz
+        first: Andrew
+      - last: Rabanser
+        first: Stephan
+      - last: Africa
+        first: David
+      - last: Voudouris
+        first: Konstantinos
+      - last: Nguyen
+        first: Viet
+      - last: Pilditch
+        first: Toby
+      - last: Dubois
+        first: Magda
+      - last: Coppock
+        first: Harry
+      - last: Ududec
+        first: Cozmin
+      - last: Nadgir
+        first: Nitya
+      - last: Orona
+        first: Matilda
+      - last: Bayer
+        first: Tilman
+      - last: Chan-Sew
+        first: Derrick
+      - last: Ling
+        first: Yue
+      - last: Shetty
+        first: Abhishek
+      - last: Toner
+        first: Helen
+      - last: Hadfield
+        first: Gillian
+      - last: Lazar
+        first: Seth
+      - last: Newman
+        first: Steve
+      - last: Tekofsky
+        first: Shoshannah
+      - last: Bommasani
+        first: Rishi
+      - last: Narayanan
+        first: Arvind
+      date: '2026-07-30'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2607.27191
+      publisher: arXiv
+      abstract: 'Forecasts of explosive AI progress hinge on AI agents automating
+        AI research. But evidence on whether agents can carry out open-ended AI research
+        is thin. Current evaluations either test agents on narrow, verifiable tasks,
+        which excludes open-ended research, or submit AI-generated papers to blind
+        peer review, which is overstretched, stochastic, and suffers from poor review
+        quality. We introduce a third way to measure progress towards AI R\&amp;D
+        automation. An agent takes on the central, open-ended research question of
+        a high-quality unpublished paper, and the paper''s original authors grade
+        its output. We call these shadow evaluations. We ran shadow evaluations on
+        two unpublished NeurIPS 2026 submissions, giving frontier agents six days
+        and thousands of dollars of compute. The agents completed all of the engineering
+        without human help, yet could not make substantial progress towards answering
+        the research questions. As a result, both papers were unambiguously rejected
+        by the authors. We identify five recurring failure modes: poor judgment about
+        the bar for publishable research, uncreative responses to shortcomings in
+        the research design, ineffective backtracking from dead ends, poor resource
+        awareness, and instruction drift. A robustness check with a second model and
+        scaffold reproduced these failures. We release the expert reviews, survey
+        responses, agent repositories, and logs. Our results provide early evidence
+        that today''s agents can do the engineering of AI research, but struggle with
+        critical parts of the research lifecycle.'
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mrv7ep252c2x
+- post_uri: at://did:plc:bhdap3w2bseikypfnjmaskzf/app.bsky.feed.post/3mruup2ocxc2s
+  thread_root_uri: at://did:plc:bhdap3w2bseikypfnjmaskzf/app.bsky.feed.post/3mruup2ocxc2s
+  post_url: https://bsky.app/profile/did:plc:bhdap3w2bseikypfnjmaskzf/post/3mruup2ocxc2s
+  post_date: '2026-07-30T16:35:47.674Z'
+  liked_at: '2026-07-30T21:29:15.227461+00:00'
+  author_handle: cassidoo.co
+  author_did: did:plc:bhdap3w2bseikypfnjmaskzf
+  post_text: stackception
+  links: []
+  all_post_uris:
+  - at://did:plc:bhdap3w2bseikypfnjmaskzf/app.bsky.feed.post/3mruup2ocxc2s
+- post_uri: at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3mru77qg4s22s
+  thread_root_uri: at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3mru77qg4s22s
+  post_url: https://bsky.app/profile/did:plc:c5pgebskvz35wxtkopm7osm5/post/3mru77qg4s22s
+  post_date: '2026-07-30T10:11:25.025Z'
+  liked_at: '2026-07-30T13:42:35.479235+00:00'
+  author_handle: scottbot.net
+  author_did: did:plc:c5pgebskvz35wxtkopm7osm5
+  post_text: 'For a citation analysis project in 2010, I checked the bibliographies
+    of 100 random papers from different fields. Only three of those articles had bibs
+    entirely free of formatting errors, and *many* had pretty glaring errors (like
+    journal name).
+
+
+    To consider when using bibs to ch'
+  links: []
+  all_post_uris:
+  - at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3mru77qg4s22s
+- post_uri: at://did:plc:vxkp3oausam3x7r2f5vx6whw/app.bsky.feed.post/3mru6i5s5gs24
+  thread_root_uri: at://did:plc:vxkp3oausam3x7r2f5vx6whw/app.bsky.feed.post/3mru6i5s5gs24
+  post_url: https://bsky.app/profile/did:plc:vxkp3oausam3x7r2f5vx6whw/post/3mru6i5s5gs24
+  post_date: '2026-07-30T09:58:13.743Z'
+  liked_at: '2026-07-30T13:40:25.095235+00:00'
+  author_handle: willpooley.bsky.social
+  author_did: did:plc:vxkp3oausam3x7r2f5vx6whw
+  post_text: no doubt im a bad academic but i don’t doubt that someone who went through
+    my work with a fine tooth comb would find some howlers. a french reader pointed
+    out to me once that I got the name of the main archives I worked in for my first
+    book wrong in the abbreviations/ front matte
+  links: []
+  all_post_uris:
+  - at://did:plc:vxkp3oausam3x7r2f5vx6whw/app.bsky.feed.post/3mru6i5s5gs24
 - post_uri: at://did:plc:qvyj3hxm4opuuddzrhcbiio6/app.bsky.feed.post/3mrt732vaws23
   thread_root_uri: at://did:plc:qvyj3hxm4opuuddzrhcbiio6/app.bsky.feed.post/3mrt732vaws23
   post_url: https://bsky.app/profile/did:plc:qvyj3hxm4opuuddzrhcbiio6/post/3mrt732vaws23
