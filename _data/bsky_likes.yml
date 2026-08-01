@@ -1,3 +1,305 @@
+- post_uri: at://did:plc:3pbwguskoq5efzi67w3npq2z/app.bsky.feed.post/3mrxvtijiwk2s
+  thread_root_uri: at://did:plc:3pbwguskoq5efzi67w3npq2z/app.bsky.feed.post/3mrxvtijiwk2s
+  post_url: https://bsky.app/profile/did:plc:3pbwguskoq5efzi67w3npq2z/post/3mrxvtijiwk2s
+  post_date: '2026-07-31T21:34:09.367Z'
+  liked_at: '2026-08-01T06:24:18.916099+00:00'
+  author_handle: dhmontgomery.com
+  author_did: did:plc:3pbwguskoq5efzi67w3npq2z
+  post_text: "For our latest @today.yougov.com newsletter, we polled Americans about\
+    \ whether they think AI is currently better or worse at thinking than a range\
+    \ of public figures, including Trump, Biden, Elon Musk, and @kenjennings.bsky.social.\
+    \ \n\nThe full writeup: yougovamerica.substack.com/p/"
+  links:
+  - url: https://yougovamerica.substack.com/p/do-americans-think-ai-is-smarter
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 9X97YUNW
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: David H.
+          lastName: Montgomery
+          creatorType: author
+        tags: []
+        title: Do Americans think AI is smarter than Donald Trump?
+        abstractNote: Surveys about AI, Anthony Fauci, jury duty, nursing-home drinking,
+          museums, book adaptations, government-run grocery stores, social media bans,
+          discrimination, and shorts in the office.
+        date: '2026-07-31'
+        blogTitle: YouGov's The Surveyor
+        url: https://yougovamerica.substack.com/p/do-americans-think-ai-is-smarter
+        websiteType: Substack newsletter
+        accessDate: '2026-08-01'
+      title: Do Americans think AI is smarter than Donald Trump?
+      authors:
+      - last: Montgomery
+        first: David H.
+      date: '2026-07-31'
+      item_type: blogPost
+      publisher: YouGov's The Surveyor
+      abstract: Surveys about AI, Anthony Fauci, jury duty, nursing-home drinking,
+        museums, book adaptations, government-run grocery stores, social media bans,
+        discrimination, and shorts in the office.
+  all_post_uris:
+  - at://did:plc:3pbwguskoq5efzi67w3npq2z/app.bsky.feed.post/3mrxvtijiwk2s
+- post_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mryetosfc227
+  thread_root_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mryetosfc227
+  post_url: https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj/post/3mryetosfc227
+  post_date: '2026-08-01T02:02:42.079Z'
+  liked_at: '2026-08-01T06:17:29.805098+00:00'
+  author_handle: dame.is
+  author_did: did:plc:gq4fo3u6tqzzdkjlwzpb23tj
+  post_text: 'jesus this hank green ai drama is so sad and bleak, the dude is using
+    AI in extremely sane and safe and reasonable ways, and so many of his fans are
+    just on a purity crusade over it
+
+
+    here’s a recent reddit post and hank’s reply'
+  links: []
+  all_post_uris:
+  - at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mryetosfc227
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mrxi3ttupk2z
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mrxi3ttupk2z
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mrxi3ttupk2z
+  post_date: '2026-07-31T17:28:17.293Z'
+  liked_at: '2026-08-01T00:20:39.438038+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: now THIS is Art Not Made With AI
+  links: []
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mrxi3ttupk2z
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrxhhc3iuc26
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrxhhc3iuc26
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mrxhhc3iuc26
+  post_date: '2026-07-31T17:16:47.581Z'
+  liked_at: '2026-07-31T20:38:42.718006+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: 'Fantastic paper demonstrating how LLM editing is gradually distorting
+    our writing and the way we think to write: arxiv.org/abs/2603.18161'
+  links:
+  - url: https://arxiv.org/abs/2603.18161
+    source: card
+    card_title: How LLMs Distort Our Written Language
+    card_description: Large language models (LLMs) are used by over a billion people
+      globally, most often to assist with writing. In this work, we demonstrate that
+      LLMs not only alter the voice and tone of human writing, b...
+    citoid:
+      raw:
+        key: M73GZVAK
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Marwa
+          lastName: Abdulhai
+          creatorType: author
+        - firstName: Isadora
+          lastName: White
+          creatorType: author
+        - firstName: Yanming
+          lastName: Wan
+          creatorType: author
+        - firstName: Ibrahim
+          lastName: Qureshi
+          creatorType: author
+        - firstName: Joel
+          lastName: Leibo
+          creatorType: author
+        - firstName: Max
+          lastName: Kleiman-Weiner
+          creatorType: author
+        - firstName: Natasha
+          lastName: Jaques
+          creatorType: author
+        tags:
+        - tag: Computation and Language (cs.CL)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: How LLMs Distort Our Written Language
+        repository: arXiv
+        date: '2026'
+        DOI: 10.48550/ARXIV.2603.18161
+        url: https://arxiv.org/abs/2603.18161
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Large language models (LLMs) are used by over a billion people
+          globally, most often to assist with writing. In this work, we demonstrate
+          that LLMs not only alter the voice and tone of human writing, but also consistently
+          alter the intended meaning. First, we conduct a human user study to understand
+          how people actually interact with LLMs when using them for writing. Our
+          findings reveal that extensive LLM use led to a nearly 70% increase in essays
+          that remained neutral in answering the topic question. Significantly more
+          heavy LLM users reported that the writing was less creative and not in their
+          voice. Next, using a dataset of human-written essays that was collected
+          in 2021 before the widespread release of LLMs, we study how asking an LLM
+          to revise the essay based on the human-written feedback in the dataset induces
+          large changes in the resulting content and meaning. We find that even when
+          LLMs are prompted with expert feedback and asked to only make grammar edits,
+          they still change the text in a way that significantly alters its semantic
+          meaning. We then examine LLM-generated text in the wild, specifically focusing
+          on the 21% of AI-generated scientific peer reviews at a recent top AI conference.
+          We find that LLM-generated reviews place significantly less weight on clarity
+          and significance of the research, and assign scores that, on average, are
+          a full point higher.These findings highlight a misalignment between the
+          perceived benefit of AI use and an implicit, consistent effect on the semantics
+          of human writing, motivating future work on how widespread AI writing will
+          affect our cultural and scientific institutions.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-08-01'
+      title: How LLMs Distort Our Written Language
+      authors:
+      - last: Abdulhai
+        first: Marwa
+      - last: White
+        first: Isadora
+      - last: Wan
+        first: Yanming
+      - last: Qureshi
+        first: Ibrahim
+      - last: Leibo
+        first: Joel
+      - last: Kleiman-Weiner
+        first: Max
+      - last: Jaques
+        first: Natasha
+      date: '2026'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2603.18161
+      publisher: arXiv
+      abstract: Large language models (LLMs) are used by over a billion people globally,
+        most often to assist with writing. In this work, we demonstrate that LLMs
+        not only alter the voice and tone of human writing, but also consistently
+        alter the intended meaning. First, we conduct a human user study to understand
+        how people actually interact with LLMs when using them for writing. Our findings
+        reveal that extensive LLM use led to a nearly 70% increase in essays that
+        remained neutral in answering the topic question. Significantly more heavy
+        LLM users reported that the writing was less creative and not in their voice.
+        Next, using a dataset of human-written essays that was collected in 2021 before
+        the widespread release of LLMs, we study how asking an LLM to revise the essay
+        based on the human-written feedback in the dataset induces large changes in
+        the resulting content and meaning. We find that even when LLMs are prompted
+        with expert feedback and asked to only make grammar edits, they still change
+        the text in a way that significantly alters its semantic meaning. We then
+        examine LLM-generated text in the wild, specifically focusing on the 21% of
+        AI-generated scientific peer reviews at a recent top AI conference. We find
+        that LLM-generated reviews place significantly less weight on clarity and
+        significance of the research, and assign scores that, on average, are a full
+        point higher.These findings highlight a misalignment between the perceived
+        benefit of AI use and an implicit, consistent effect on the semantics of human
+        writing, motivating future work on how widespread AI writing will affect our
+        cultural and scientific institutions.
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mrxhhc3iuc26
+- post_uri: at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3mrwumb52qc2p
+  thread_root_uri: at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3mrwumb52qc2p
+  post_url: https://bsky.app/profile/did:plc:ddvus7otnqtlh7fdooxm6qat/post/3mrwumb52qc2p
+  post_date: '2026-07-31T11:39:33.258Z'
+  liked_at: '2026-07-31T14:25:54.986471+00:00'
+  author_handle: maxkennerly.bsky.social
+  author_did: did:plc:ddvus7otnqtlh7fdooxm6qat
+  post_text: ''
+  links:
+  - url: https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: IAA8E86Q
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Transform any place with Nano Banana in Google Earth
+        websiteTitle: Google
+        date: '2026-07-30'
+        url: https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/
+        abstractNote: Custom images — generated from Google Earth satellite, aerial,
+          and 3D imagery — help you redesign any location.
+        language: en-us
+        accessDate: '2026-08-01'
+      title: Transform any place with Nano Banana in Google Earth
+      date: '2026-07-30'
+      item_type: webpage
+      abstract: Custom images — generated from Google Earth satellite, aerial, and
+        3D imagery — help you redesign any location.
+  all_post_uris:
+  - at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3mrwumb52qc2p
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mrx2xflgp22d
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mrx2xflgp22d
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3mrx2xflgp22d
+  post_date: '2026-07-31T13:33:09.476Z'
+  liked_at: '2026-07-31T14:23:29.983653+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: 'ANTHROPIC: Our son loves humanity and for the low price of trillions
+    and trillions of dollars will usher in an era of unprecedented peace and prosperity!
+
+    OPENAI: Our horrible oafish son is hacking web sites without our permission.
+
+    ANTHROPIC: (eyes narrowing) Our son is also evil'
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mrx2xflgp22d
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mrsu352lqs2x
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mrstivh3k22g
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3mrsu352lqs2x
+  post_date: '2026-07-29T21:19:19.603Z'
+  liked_at: '2026-07-31T14:19:11.282506+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: Great point Will - we can supplement your graph by looking at incomes
+    for the 10th and 25th percentiles. cc @econberger.bsky.social
+  links: []
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mrsu352lqs2x
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mrwx67ctzc25
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mrwx67ctzc25
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mrwx67ctzc25
+  post_date: '2026-07-31T12:25:22.817Z'
+  liked_at: '2026-07-31T14:10:12.073606+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: 'nice piece on the centralization ratchet in inference APIs
+
+    earendil.com/posts/sessio...'
+  links:
+  - url: https://earendil.com/posts/session-portability/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A3GMIRQD
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The Session You Cannot Take With You
+        websiteTitle: Earendil
+        url: https://earendil.com/posts/session-portability/
+        abstractNote: Inference APIs are filling sessions with encrypted reasoning,
+          hidden search results, opaque compaction, and encrypted subagent messages.
+          A growing form of lock-in.
+        date: '2026-07-30'
+        language: en
+        accessDate: '2026-08-01'
+      title: The Session You Cannot Take With You
+      date: '2026-07-30'
+      item_type: webpage
+      abstract: Inference APIs are filling sessions with encrypted reasoning, hidden
+        search results, opaque compaction, and encrypted subagent messages. A growing
+        form of lock-in.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mrwx67ctzc25
 - post_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mrw2naj42k2c
   thread_root_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mrw2n63sgc2c
   post_url: https://bsky.app/profile/did:plc:zrwhncnqel7corjtg2cak3jx/post/3mrw2naj42k2c
