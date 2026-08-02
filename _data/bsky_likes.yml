@@ -1,3 +1,99 @@
+- post_uri: at://did:plc:iwzzmjehaolyvql3pgdiknaw/app.bsky.feed.post/3ms2jpchfjc2t
+  thread_root_uri: at://did:plc:iwzzmjehaolyvql3pgdiknaw/app.bsky.feed.post/3ms2jpchfjc2t
+  post_url: https://bsky.app/profile/did:plc:iwzzmjehaolyvql3pgdiknaw/post/3ms2jpchfjc2t
+  post_date: '2026-08-01T22:35:03.105Z'
+  liked_at: '2026-08-02T04:09:49.969322+00:00'
+  author_handle: henryyuen.bsky.social
+  author_did: did:plc:iwzzmjehaolyvql3pgdiknaw
+  post_text: 'Some initial thoughts, and a complicated mix of feelings.
+
+
+    Wow. I mean, Erdos problems are cool (I genuinely mean that), I didn''t know about
+    the Jacobian conjecture before it got disproved. But this newest batch from OpenAI
+    hits home in a way the previous announcements did not.'
+  links: []
+  all_post_uris:
+  - at://did:plc:iwzzmjehaolyvql3pgdiknaw/app.bsky.feed.post/3ms2jpchfjc2t
+- post_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrzvceaftc2c
+  thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrzvceaftc2c
+  post_url: https://bsky.app/profile/did:plc:ux34natbhxube3xgdu3rhf45/post/3mrzvceaftc2c
+  post_date: '2026-08-01T16:29:53.930Z'
+  liked_at: '2026-08-01T21:32:36.420239+00:00'
+  author_handle: internethippo.bsky.social
+  author_did: did:plc:ux34natbhxube3xgdu3rhf45
+  post_text: I'm more handy than I used to be and it turns out the secret is not caring
+    whether you break things. Appliances sense this superior Mindset and yield to
+    your will
+  links: []
+  all_post_uris:
+  - at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mrzvceaftc2c
+- post_uri: at://did:plc:wqhbdx55f4vv7bnpps5pur4c/app.bsky.feed.post/3mrzxgmamok22
+  thread_root_uri: at://did:plc:wqhbdx55f4vv7bnpps5pur4c/app.bsky.feed.post/3mrzxgmamok22
+  post_url: https://bsky.app/profile/did:plc:wqhbdx55f4vv7bnpps5pur4c/post/3mrzxgmamok22
+  post_date: '2026-08-01T17:08:04.013Z'
+  liked_at: '2026-08-01T18:55:15.704253+00:00'
+  author_handle: anjalikdayal.bsky.social
+  author_did: did:plc:wqhbdx55f4vv7bnpps5pur4c
+  post_text: I don’t really want to get into this with people who feel this way, but
+    i don’t think this is a good thing! We don’t need to behave this way! It’s not
+    healthy to approach academic discourse as an exercise in harshness!
+  links: []
+  all_post_uris:
+  - at://did:plc:wqhbdx55f4vv7bnpps5pur4c/app.bsky.feed.post/3mrzxgmamok22
+- post_uri: at://did:plc:mieqp6z4vd3herqt34xbdxez/app.bsky.feed.post/3mqmqz46mkk2c
+  thread_root_uri: at://did:plc:mieqp6z4vd3herqt34xbdxez/app.bsky.feed.post/3mqmqz46mkk2c
+  post_url: https://bsky.app/profile/did:plc:mieqp6z4vd3herqt34xbdxez/post/3mqmqz46mkk2c
+  post_date: '2026-07-14T17:43:20.299Z'
+  liked_at: '2026-08-01T15:57:47.872210+00:00'
+  author_handle: vala.wtf
+  author_did: did:plc:mieqp6z4vd3herqt34xbdxez
+  post_text: the claude dining experience
+  links: []
+  all_post_uris:
+  - at://did:plc:mieqp6z4vd3herqt34xbdxez/app.bsky.feed.post/3mqmqz46mkk2c
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mrzlfuagk22b
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mrzlfuagk22b
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mrzlfuagk22b
+  post_date: '2026-08-01T13:32:53.952Z'
+  liked_at: '2026-08-01T15:56:35.192265+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'There''s lots of stuff LLMs can''t do, but if you want to disbelieve
+    all the recent math, you have to believe a bunch of Fields Medalists with long
+    track records are just straightforwardly lying about the thing they care most
+    about. Here''s a recent blog by Gowers: gowers.wordpress.'
+  links:
+  - url: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/#more-6666
+    source: card
+    card_title: A recent experience with ChatGPT 5.5 Pro
+    card_description: We are all having to keep revising upwards our assessments of
+      the mathematical capabilities of large language models. I have just made a fairly
+      large revision as a result of ChatGPT 5.5 Pro, to whi…
+    citoid:
+      raw:
+        key: 5IFCC78N
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: A recent experience with ChatGPT 5.5 Pro
+        blogTitle: Gowers's Weblog
+        date: '2026-05-08'
+        url: https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/
+        abstractNote: We are all having to keep revising upwards our assessments of
+          the mathematical capabilities of large language models. I have just made
+          a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…
+        language: en
+        accessDate: '2026-08-02'
+      title: A recent experience with ChatGPT 5.5 Pro
+      date: '2026-05-08'
+      item_type: blogPost
+      publisher: Gowers's Weblog
+      abstract: We are all having to keep revising upwards our assessments of the
+        mathematical capabilities of large language models. I have just made a fairly
+        large revision as a result of ChatGPT 5.5 Pro, to whi…
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mrzlfuagk22b
 - post_uri: at://did:plc:3pbwguskoq5efzi67w3npq2z/app.bsky.feed.post/3mrxvtijiwk2s
   thread_root_uri: at://did:plc:3pbwguskoq5efzi67w3npq2z/app.bsky.feed.post/3mrxvtijiwk2s
   post_url: https://bsky.app/profile/did:plc:3pbwguskoq5efzi67w3npq2z/post/3mrxvtijiwk2s
