@@ -1,3 +1,258 @@
+- post_uri: at://did:plc:pxnhxnfh3nemsyulvu4cfm2w/app.bsky.feed.post/3mrzziundmd2r
+  thread_root_uri: at://did:plc:pxnhxnfh3nemsyulvu4cfm2w/app.bsky.feed.post/3mrzziundmd2r
+  post_url: https://bsky.app/profile/did:plc:pxnhxnfh3nemsyulvu4cfm2w/post/3mrzziundmd2r
+  post_date: '2026-08-01T17:45:07.405Z'
+  liked_at: '2026-08-03T05:18:24.996480+00:00'
+  author_handle: chatterjee.net
+  author_did: did:plc:pxnhxnfh3nemsyulvu4cfm2w
+  post_text: '"Five of these had hallucinated authors and/or entire papers in their
+    bibliography…One of the NeurIPS papers had so much hallucinated/nonsensical jargon
+    (53 pages of it) that there wasn’t any point in going through the bibliography."'
+  links:
+  - url: https://geospatialml.com/posts/reviewing-ai-slop/
+    source: card
+    card_title: Q&A from the slop trenches – GeoSpatial ML
+    card_description: We reviewed 22 ML conference submissions this summer. Fifteen
+      had fabricated citations, hallucinated authors, or clear LLM slop, so we complain
+      about that a bit, and release the paper references…
+    citoid:
+      raw:
+        key: YPG5YRLL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Caleb
+          lastName: Robinson
+          creatorType: author
+        - firstName: Isaac
+          lastName: Corley
+          creatorType: author
+        tags: []
+        date: '2026-07-30'
+        url: https://geospatialml.com/posts/reviewing-ai-slop/
+        title: Q&A from the slop trenches – GeoSpatial ML
+        abstractNote: We reviewed 22 ML conference submissions this summer. Fifteen
+          had fabricated citations, hallucinated authors, or clear LLM slop, so we
+          complain about that a bit, and release the paper references audit we now
+          run.
+        language: en
+        accessDate: '2026-08-03'
+        websiteTitle: geospatialml.com
+      title: Q&A from the slop trenches – GeoSpatial ML
+      authors:
+      - last: Robinson
+        first: Caleb
+      - last: Corley
+        first: Isaac
+      date: '2026-07-30'
+      item_type: webpage
+      abstract: We reviewed 22 ML conference submissions this summer. Fifteen had
+        fabricated citations, hallucinated authors, or clear LLM slop, so we complain
+        about that a bit, and release the paper references audit we now run.
+  all_post_uris:
+  - at://did:plc:pxnhxnfh3nemsyulvu4cfm2w/app.bsky.feed.post/3mrzziundmd2r
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3ms45tuxi7s2s
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3ms45tuxi7s2s
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3ms45tuxi7s2s
+  post_date: '2026-08-02T14:08:11.285Z'
+  liked_at: '2026-08-03T03:38:11.143576+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: 'current feelings around AI: the CEOs shoveling slop into everything
+    should be in jail but the guys spending upwards of $60,000 on elaborate, janky
+    home rigs to run local models for no reason other than to see if it works are
+    engaging in a long and semi-honorable tradition of comp'
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3ms45tuxi7s2s
+- post_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3ms4bgxuack22
+  thread_root_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3ms4bgxuack22
+  post_url: https://bsky.app/profile/did:plc:k4afoogb6i3eed5j2aabzli7/post/3ms4bgxuack22
+  post_date: '2026-08-02T15:12:33.097Z'
+  liked_at: '2026-08-03T03:29:01.118545+00:00'
+  author_handle: aolteanu.bsky.social
+  author_did: did:plc:k4afoogb6i3eed5j2aabzli7
+  post_text: "So what do AI evaluations do or should do? Wrote a brief reflection\
+    \ about prototypical questions evaluations often try to answer and why it is useful\
+    \ to have clarity about what exactly one is trying to learn about some phenomenon\
+    \ of interest.\n\n rigor-in-ai.leaflet.pub/3ms4ax4sojs"
+  links:
+  - url: https://rigor-in-ai.leaflet.pub/3ms4ax4sojs2j
+    source: card
+    card_title: 'Back-to-basics: so what do evaluations do'
+    card_description: TL;DR — Developing useful evaluations requires clarity about
+      what exactly one is trying to learn about a phenomenon of interest.
+    citoid:
+      raw:
+        key: U5MW7PVA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Back-to-basics: so what do evaluations do - (Un)rigorous AI'
+        abstractNote: TL;DR — Developing useful evaluations requires clarity about
+          what exactly one is trying to learn about a phenomenon of interest.
+        url: https://rigor-in-ai.leaflet.pub/3ms4ax4sojs2j
+        language: en
+        accessDate: '2026-08-03'
+        shortTitle: Back-to-basics
+        websiteTitle: rigor-in-ai.leaflet.pub
+      title: 'Back-to-basics: so what do evaluations do - (Un)rigorous AI'
+      item_type: webpage
+      abstract: TL;DR — Developing useful evaluations requires clarity about what
+        exactly one is trying to learn about a phenomenon of interest.
+  all_post_uris:
+  - at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3ms4bgxuack22
+- post_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3ms2kmaj5s22f
+  thread_root_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3ms2kmaj5s22f
+  post_url: https://bsky.app/profile/did:plc:ac6qioenkpl3jmmnib3tpbhb/post/3ms2kmaj5s22f
+  post_date: '2026-08-01T22:51:14.143Z'
+  liked_at: '2026-08-02T19:21:30.140547+00:00'
+  author_handle: ccanonne.github.io
+  author_did: did:plc:ac6qioenkpl3jmmnib3tpbhb
+  post_text: '"We''re all worried," as what it means to do research (in my field,
+    Theoretical CS) seems to be shifting, and shifting fast. What to do?
+
+
+    Senior researchers must lead by example, knowing that not everything will pan
+    out. What I''m suggesting below may not work everywhere, but here'''
+  links:
+  - url: https://en.wikipedia.org/wiki/Least_publishable_unit
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KM3Z4V8C
+        version: 0
+        itemType: encyclopediaArticle
+        creators: []
+        tags: []
+        title: Least publishable unit
+        rights: Creative Commons Attribution-ShareAlike License
+        encyclopediaTitle: Wikipedia
+        extra: 'Page Version ID: 1351180035'
+        url: https://en.wikipedia.org/w/index.php?title=Least_publishable_unit&oldid=1351180035
+        language: en
+        date: '2026-04-26'
+        abstractNote: 'In academic publishing, the least publishable unit (LPU), also
+          smallest publishable unit (SPU), minimum publishable unit (MPU), loot, or
+          publon, is the minimum amount of information that can be used to generate
+          a publication in a peer-reviewed venue, such as a journal or a conference.
+          (Maximum publishable unit and optimum publishable unit are also used.)  The
+          term is often used as a joking, ironic, or derogatory reference to the strategy
+          of artificially inflating the quantity of one''s publications.
+
+          Publication of the results of research is an essential part of science.
+          The number of publications is often used to assess the work of a scientist
+          and as a basis for distributing research funds. In order to achieve a high
+          rank in such an assessment, there is a trend to split up research results
+          into smaller parts that are published separately, thus inflating the number
+          of publications. This process has been described as splitting the results
+          into the smallest publishable units.
+
+          "Salami publication", sometimes also referred to as "salami slicing" or
+          "salami science", is a variant of the smallest-publishable-unit strategy.  In
+          salami publishing, data gathered by one research project is separately reported
+          (wholly or in part) in multiple end publications. Salami publishing, named
+          by analogy with the thin slices made from a larger salami sausage, is generally
+          considered questionable when not explicitly labeled, as it may lead to the
+          same data being counted multiple times as apparently independent results
+          in aggregate studies. Salami slicing is considered a type of scientific
+          misconduct. At the same time, identifying "salami" can be ambiguous, and
+          there are justifications for publishing multiple research perspectives in
+          multiple scholarly disciplines to make knowledge accessible in different
+          contexts.
+
+          When data gathered in one research project are partially reported as if
+          a single study, a problem of statistical significance can arise. Using a
+          5% significance threshold, if every tested null hypotheses is true, roughly
+          1 in 20 of them would be rejected by chance alone. Partially reported research
+          projects must use a more stringent threshold when testing for statistical
+          significance but often do not do this.
+
+          There is no consensus among academics about whether people should seek to
+          make their publications least publishable units, and it has long been resisted
+          by some journal editors. Particularly for people just getting started in
+          academic publication, writing a few small articles provides a way of getting
+          used to how the system of peer review and professional publication works,
+          and it does indeed help to boost publication count. But publishing too many
+          LPUs is thought not to impress peers when it comes time to seek promotion
+          beyond the assistant professor (or equivalent) level. Also, LPUs may not
+          always be the most efficient way to pass on knowledge, because they break
+          up ideas into small pieces, sometimes forcing people to look up many cross-references.
+          Multiple salami slices also occupy more journal pages than a single synthetic
+          article that contains the same information. On the other hand, a small piece
+          of information is easily digestible, and the reader may not need more information
+          than what is in the LPU.'
+        libraryCatalog: Wikipedia
+        accessDate: '2026-08-03'
+      title: Least publishable unit
+      date: '2026-04-26'
+      item_type: encyclopediaArticle
+      abstract: 'In academic publishing, the least publishable unit (LPU), also smallest
+        publishable unit (SPU), minimum publishable unit (MPU), loot, or publon, is
+        the minimum amount of information that can be used to generate a publication
+        in a peer-reviewed venue, such as a journal or a conference. (Maximum publishable
+        unit and optimum publishable unit are also used.)  The term is often used
+        as a joking, ironic, or derogatory reference to the strategy of artificially
+        inflating the quantity of one''s publications.
+
+        Publication of the results of research is an essential part of science. The
+        number of publications is often used to assess the work of a scientist and
+        as a basis for distributing research funds. In order to achieve a high rank
+        in such an assessment, there is a trend to split up research results into
+        smaller parts that are published separately, thus inflating the number of
+        publications. This process has been described as splitting the results into
+        the smallest publishable units.
+
+        "Salami publication", sometimes also referred to as "salami slicing" or "salami
+        science", is a variant of the smallest-publishable-unit strategy.  In salami
+        publishing, data gathered by one research project is separately reported (wholly
+        or in part) in multiple end publications. Salami publishing, named by analogy
+        with the thin slices made from a larger salami sausage, is generally considered
+        questionable when not explicitly labeled, as it may lead to the same data
+        being counted multiple times as apparently independent results in aggregate
+        studies. Salami slicing is considered a type of scientific misconduct. At
+        the same time, identifying "salami" can be ambiguous, and there are justifications
+        for publishing multiple research perspectives in multiple scholarly disciplines
+        to make knowledge accessible in different contexts.
+
+        When data gathered in one research project are partially reported as if a
+        single study, a problem of statistical significance can arise. Using a 5%
+        significance threshold, if every tested null hypotheses is true, roughly 1
+        in 20 of them would be rejected by chance alone. Partially reported research
+        projects must use a more stringent threshold when testing for statistical
+        significance but often do not do this.
+
+        There is no consensus among academics about whether people should seek to
+        make their publications least publishable units, and it has long been resisted
+        by some journal editors. Particularly for people just getting started in academic
+        publication, writing a few small articles provides a way of getting used to
+        how the system of peer review and professional publication works, and it does
+        indeed help to boost publication count. But publishing too many LPUs is thought
+        not to impress peers when it comes time to seek promotion beyond the assistant
+        professor (or equivalent) level. Also, LPUs may not always be the most efficient
+        way to pass on knowledge, because they break up ideas into small pieces, sometimes
+        forcing people to look up many cross-references. Multiple salami slices also
+        occupy more journal pages than a single synthetic article that contains the
+        same information. On the other hand, a small piece of information is easily
+        digestible, and the reader may not need more information than what is in the
+        LPU.'
+  all_post_uris:
+  - at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3ms2kmaj5s22f
+- post_uri: at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3ms2uazmcvs2w
+  thread_root_uri: at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3ms2uazmcvs2w
+  post_url: https://bsky.app/profile/did:plc:ktmis6mlcffobsxzoigeyst5/post/3ms2uazmcvs2w
+  post_date: '2026-08-02T01:43:55.209Z'
+  liked_at: '2026-08-02T18:14:20.167525+00:00'
+  author_handle: mm-jj-nn.bsky.social
+  author_did: did:plc:ktmis6mlcffobsxzoigeyst5
+  post_text: They've outdone themselves with this one. Appears to be from a game in
+    the Monkey GO Happy series?
+  links: []
+  all_post_uris:
+  - at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3ms2uazmcvs2w
 - post_uri: at://did:plc:iwzzmjehaolyvql3pgdiknaw/app.bsky.feed.post/3ms2jpchfjc2t
   thread_root_uri: at://did:plc:iwzzmjehaolyvql3pgdiknaw/app.bsky.feed.post/3ms2jpchfjc2t
   post_url: https://bsky.app/profile/did:plc:iwzzmjehaolyvql3pgdiknaw/post/3ms2jpchfjc2t
