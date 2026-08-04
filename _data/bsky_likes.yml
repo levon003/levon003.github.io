@@ -1,3 +1,193 @@
+- post_uri: at://did:plc:hiyeapxrlseaixi3oxpn24hs/app.bsky.feed.post/3mr6zv2i7zc2s
+  thread_root_uri: at://did:plc:hiyeapxrlseaixi3oxpn24hs/app.bsky.feed.post/3mr6zv2i7zc2s
+  post_url: https://bsky.app/profile/did:plc:hiyeapxrlseaixi3oxpn24hs/post/3mr6zv2i7zc2s
+  post_date: '2026-07-22T00:10:03.265Z'
+  liked_at: '2026-08-04T04:21:42.250834+00:00'
+  author_handle: dmgreene.bsky.social
+  author_did: did:plc:hiyeapxrlseaixi3oxpn24hs
+  post_text: Found this compelling and lovely
+  links:
+  - url: https://substack.com/home/post/p-207969103
+    source: card
+    card_title: Actually, Nolan IS kind of making a point about trans people
+    card_description: And I have the (ancient) receipts
+    citoid:
+      raw:
+        key: SKAEZQVE
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Flint Del
+          lastName: Sol
+          creatorType: author
+        tags: []
+        title: Actually, Nolan IS kind of making a point about trans people
+        url: https://www.pivot-club.com/p/actually-nolan-is-kind-of-making
+        abstractNote: And I have the (ancient) receipts
+        date: '2026-07-21'
+        language: en
+        accessDate: '2026-08-04'
+        websiteTitle: www.pivot-club.com
+      title: Actually, Nolan IS kind of making a point about trans people
+      authors:
+      - last: Sol
+        first: Flint Del
+      date: '2026-07-21'
+      item_type: webpage
+      abstract: And I have the (ancient) receipts
+  all_post_uris:
+  - at://did:plc:hiyeapxrlseaixi3oxpn24hs/app.bsky.feed.post/3mr6zv2i7zc2s
+- post_uri: at://did:plc:qbuf7k5je5n24cag63qmxpsn/app.bsky.feed.post/3ms7fvjotn22c
+  thread_root_uri: at://did:plc:qbuf7k5je5n24cag63qmxpsn/app.bsky.feed.post/3ms7fvjotn22c
+  post_url: https://bsky.app/profile/did:plc:qbuf7k5je5n24cag63qmxpsn/post/3ms7fvjotn22c
+  post_date: '2026-08-03T21:10:15.740Z'
+  liked_at: '2026-08-04T03:59:10.760766+00:00'
+  author_handle: flowingdata.com
+  author_did: did:plc:qbuf7k5je5n24cag63qmxpsn
+  post_text: 'Datatype, a variable font that turns text to charts > franktisellano.github.io/datatype/
+
+
+    Maybe useful for small charts inline with text and tables?'
+  links:
+  - url: https://franktisellano.github.io/datatype/
+    source: card
+    card_title: Datatype — variable font that turns text into charts
+    card_description: An OpenType variable font that turns simple text expressions
+      into inline charts. No JavaScript, no images — just type.
+    citoid:
+      raw:
+        key: 8RYIQI4I
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Datatype — variable font that turns text into charts
+        url: https://franktisellano.github.io/datatype/
+        abstractNote: An OpenType variable font that turns simple text expressions
+          into inline charts. No JavaScript, no images — just type.
+        language: en
+        accessDate: '2026-08-04'
+        websiteTitle: franktisellano.github.io
+      title: Datatype — variable font that turns text into charts
+      item_type: webpage
+      abstract: An OpenType variable font that turns simple text expressions into
+        inline charts. No JavaScript, no images — just type.
+  all_post_uris:
+  - at://did:plc:qbuf7k5je5n24cag63qmxpsn/app.bsky.feed.post/3ms7fvjotn22c
+- post_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3ms7m63sznk2o
+  thread_root_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3ms7m63sznk2o
+  post_url: https://bsky.app/profile/did:plc:swgxwbir4rrimj57pf75jckf/post/3ms7m63sznk2o
+  post_date: '2026-08-03T23:02:25.638Z'
+  liked_at: '2026-08-04T03:57:19.002832+00:00'
+  author_handle: mtsw.bsky.social
+  author_did: did:plc:swgxwbir4rrimj57pf75jckf
+  post_text: tbh HOWL'S MOVING CASTLE *is* an incoherent, self-indulgent mess, but
+    the thing about Miyazaki is that means it's still pretty safely one of the 10-15
+    best animated features ever made
+  links: []
+  all_post_uris:
+  - at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3ms7m63sznk2o
+- post_uri: at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ms76cnk5vk26
+  thread_root_uri: at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ms76cnk5vk26
+  post_url: https://bsky.app/profile/did:plc:3danwc67lo7obz2fmdg6jxcr/post/3ms76cnk5vk26
+  post_date: '2026-08-03T18:54:26.054Z'
+  liked_at: '2026-08-03T19:49:28.888755+00:00'
+  author_handle: steveklabnik.com
+  author_did: did:plc:3danwc67lo7obz2fmdg6jxcr
+  post_text: 'Red CI creates careful engineers.
+
+    Careful engineers create green CI.
+
+    Green CI creates careless engineers.
+
+    Careless engineers create red CI.'
+  links: []
+  all_post_uris:
+  - at://did:plc:3danwc67lo7obz2fmdg6jxcr/app.bsky.feed.post/3ms76cnk5vk26
+- post_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3mp5vdl5ank2i
+  thread_root_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3mp5vdl5ank2i
+  post_url: https://bsky.app/profile/did:plc:qiyqdi6rypznkxy4woep2a33/post/3mp5vdl5ank2i
+  post_date: '2026-06-26T02:25:38.789Z'
+  liked_at: '2026-08-03T13:36:05.608714+00:00'
+  author_handle: eudoxia.bsky.social
+  author_did: did:plc:qiyqdi6rypznkxy4woep2a33
+  post_text: 'New post: superintelligent AI won''t just lead to a "permanent underclass"
+    but to the disempowerment of all humans.
+
+
+    borretti.me/article/no-o...'
+  links:
+  - url: https://borretti.me/article/no-one-escapes-the-permanent-underclass
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: PBF65J3M
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Fernando
+          lastName: Borretti
+          creatorType: author
+        tags: []
+        title: No-One Escapes the Permanent Underclass
+        websiteTitle: Fernando Borretti
+        date: '2026-06-25'
+        url: https://borretti.me/article/no-one-escapes-the-permanent-underclass
+        abstractNote: Capital won't save you from disempowerment.
+        language: en
+        accessDate: '2026-08-04'
+      title: No-One Escapes the Permanent Underclass
+      authors:
+      - last: Borretti
+        first: Fernando
+      date: '2026-06-25'
+      item_type: webpage
+      abstract: Capital won't save you from disempowerment.
+  all_post_uris:
+  - at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3mp5vdl5ank2i
+- post_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3ms5o6mp3xk2h
+  thread_root_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3ms5o6mp3xk2h
+  post_url: https://bsky.app/profile/did:plc:qiyqdi6rypznkxy4woep2a33/post/3ms5o6mp3xk2h
+  post_date: '2026-08-03T04:33:11.343Z'
+  liked_at: '2026-08-03T13:24:17.062771+00:00'
+  author_handle: eudoxia.bsky.social
+  author_did: did:plc:qiyqdi6rypznkxy4woep2a33
+  post_text: 'I reviewed Marcus Hutter''s book, “Job-Less Utopia”, about AGI, UBI,
+    and the post-labour world: borretti.me/article/revi...'
+  links:
+  - url: https://borretti.me/article/review-job-less-utopia
+    source: card
+    card_title: 'Review: Job-Less Utopia'
+    card_description: Review of Marcus Hutter's <i>Job-Less Utopia</i>.
+    citoid:
+      raw:
+        key: RIC2B5L3
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Fernando
+          lastName: Borretti
+          creatorType: author
+        tags: []
+        title: 'Review: Job-Less Utopia'
+        websiteTitle: Fernando Borretti
+        date: '2026-08-03'
+        url: https://borretti.me/article/review-job-less-utopia
+        abstractNote: Review of Marcus Hutter's Job-Less Utopia.
+        language: en
+        accessDate: '2026-08-04'
+        shortTitle: Review
+      title: 'Review: Job-Less Utopia'
+      authors:
+      - last: Borretti
+        first: Fernando
+      date: '2026-08-03'
+      item_type: webpage
+      abstract: Review of Marcus Hutter's Job-Less Utopia.
+  all_post_uris:
+  - at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3ms5o6mp3xk2h
 - post_uri: at://did:plc:pxnhxnfh3nemsyulvu4cfm2w/app.bsky.feed.post/3mrzziundmd2r
   thread_root_uri: at://did:plc:pxnhxnfh3nemsyulvu4cfm2w/app.bsky.feed.post/3mrzziundmd2r
   post_url: https://bsky.app/profile/did:plc:pxnhxnfh3nemsyulvu4cfm2w/post/3mrzziundmd2r
