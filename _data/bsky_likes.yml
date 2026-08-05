@@ -1,3 +1,189 @@
+- post_uri: at://did:plc:2odjl4zkibj3muqf6tqtksgi/app.bsky.feed.post/3mscnyb264s2c
+  thread_root_uri: at://did:plc:2odjl4zkibj3muqf6tqtksgi/app.bsky.feed.post/3mscnyb264s2c
+  post_url: https://bsky.app/profile/did:plc:2odjl4zkibj3muqf6tqtksgi/post/3mscnyb264s2c
+  post_date: '2026-08-05T04:12:56.488Z'
+  liked_at: '2026-08-05T05:51:56.321157+00:00'
+  author_handle: theamitie.bsky.social
+  author_did: did:plc:2odjl4zkibj3muqf6tqtksgi
+  post_text: There’s a guy on TikTok who posts just him taking a pizza out of the
+    oven every day with tongs and all of the comments are about how their day is ruined
+    from having watched this
+  links: []
+  all_post_uris:
+  - at://did:plc:2odjl4zkibj3muqf6tqtksgi/app.bsky.feed.post/3mscnyb264s2c
+- post_uri: at://did:plc:abkp4sglznvkptyncrltve6t/app.bsky.feed.post/3msckru7pgc2b
+  thread_root_uri: at://did:plc:abkp4sglznvkptyncrltve6t/app.bsky.feed.post/3msckru7pgc2b
+  post_url: https://bsky.app/profile/did:plc:abkp4sglznvkptyncrltve6t/post/3msckru7pgc2b
+  post_date: '2026-08-05T03:15:40.484Z'
+  liked_at: '2026-08-05T05:28:37.816090+00:00'
+  author_handle: mickeykats.bsky.social
+  author_did: did:plc:abkp4sglznvkptyncrltve6t
+  post_text: "Some time in grad school, I read a transcript of Richard Hamming's talk\
+    \ at Bell Labs, called \"You and your research\". Every so often, I share it with\
+    \ a colleague \n\nThere's so much there that there's no way anyone will agree\
+    \ with it all, but parts of it certainly affected my appro"
+  links:
+  - url: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+    source: card
+    card_title: You and Your Research
+    card_description: ''
+    citoid:
+      raw:
+        key: WTBVZ7J2
+        version: 0
+        itemType: webpage
+        url: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+        title: You and Your Research
+        accessDate: '2026-08-05'
+        websiteTitle: www.cs.virginia.edu
+      title: You and Your Research
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:abkp4sglznvkptyncrltve6t/app.bsky.feed.post/3msckru7pgc2b
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mscmetbxak2z
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mscmetbxak2z
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mscmetbxak2z
+  post_date: '2026-08-05T03:44:10.785Z'
+  liked_at: '2026-08-05T05:03:50.243004+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: To whoever wrote this, thank you for saying it and know that it helps
+    a bit. And I'm still so sorry and frustrated that we have silenced international
+    students.
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mscmetbxak2z
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3msc3lauc3k27
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3msc3lauc3k27
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3msc3lauc3k27
+  post_date: '2026-08-04T22:43:32.732Z'
+  liked_at: '2026-08-05T02:57:12.892127+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'it was already a close race, but now it’s a dead heat
+
+
+    OpenAI announces two more accidental felonies
+
+
+    openai.com/index/third-...'
+  links:
+  - url: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 7973UYXU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Third-party cyber evaluations involving OpenAI models
+        websiteTitle: OpenAI
+        url: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/
+        abstractNote: OpenAI explains recent third-party cybersecurity evaluation
+          incidents and outlines new safeguards to strengthen AI model testing and
+          evaluation.
+        date: '2026-07-21'
+        language: en-US
+        accessDate: '2026-08-05'
+      title: Third-party cyber evaluations involving OpenAI models
+      date: '2026-07-21'
+      item_type: webpage
+      abstract: OpenAI explains recent third-party cybersecurity evaluation incidents
+        and outlines new safeguards to strengthen AI model testing and evaluation.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3msc3lauc3k27
+- post_uri: at://did:plc:mwwn3r5llzsfassowreprqus/app.bsky.feed.post/3msbea5evds2d
+  thread_root_uri: at://did:plc:mwwn3r5llzsfassowreprqus/app.bsky.feed.post/3msbea5evds2d
+  post_url: https://bsky.app/profile/did:plc:mwwn3r5llzsfassowreprqus/post/3msbea5evds2d
+  post_date: '2026-08-04T15:45:43.923Z'
+  liked_at: '2026-08-05T00:30:30.676017+00:00'
+  author_handle: amandamull.bsky.social
+  author_did: did:plc:mwwn3r5llzsfassowreprqus
+  post_text: They’re calling it the most theater kid story of all time
+  links:
+  - url: https://www.mynbc5.com/article/rocky-horror-picture-show-false-threats-grenier/73336709
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: R3BSYN2H
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Michael
+          lastName: Cusanelli
+          creatorType: author
+        tags: []
+        title: VT musical director of planned 'Rocky Horror Show' created fake threats,
+          police say
+        websiteTitle: WPTZ
+        date: '2026-08-03'
+        url: https://www.mynbc5.com/article/rocky-horror-picture-show-false-threats-grenier/73336709
+        abstractNote: The director of a planned production of "The Rocky Horror Show"
+          admitted to sending himself threatening texts that eventually got the play
+          canceled out of safety concerns.
+        language: en
+        accessDate: '2026-08-05'
+      title: VT musical director of planned 'Rocky Horror Show' created fake threats,
+        police say
+      authors:
+      - last: Cusanelli
+        first: Michael
+      date: '2026-08-03'
+      item_type: webpage
+      abstract: The director of a planned production of "The Rocky Horror Show" admitted
+        to sending himself threatening texts that eventually got the play canceled
+        out of safety concerns.
+  all_post_uris:
+  - at://did:plc:mwwn3r5llzsfassowreprqus/app.bsky.feed.post/3msbea5evds2d
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3msbuft7odki2
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3msbuft7odki2
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3msbuft7odki2
+  post_date: '2026-08-04T20:35:13.693Z'
+  liked_at: '2026-08-04T22:38:13.337071+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: 'Today is the day from “There Will Come Soft Rains”
+
+
+    https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf'
+  links:
+  - url: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3msbuft7odki2
+- post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3msbzup6xlk2a
+  thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3msbzup6xlk2a
+  post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3msbzup6xlk2a
+  post_date: '2026-08-04T22:13:02.269Z'
+  liked_at: '2026-08-04T22:32:19.407893+00:00'
+  author_handle: nsaphra.bsky.social
+  author_did: did:plc:l3vbx3e2lqnlja7q64wfrrzq
+  post_text: Ok, I was gonna just repost this with all my responses at once but I
+    realized that would be a lot of work all at once. So let’s do this, 1 like 1 answer
+    engagement bait style
+  links: []
+  all_post_uris:
+  - at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3msbzup6xlk2a
+- post_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3msb7dxdka22q
+  thread_root_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3msb7dxdka22q
+  post_url: https://bsky.app/profile/did:plc:qlxgxm7fqszfgowm347s2q4t/post/3msb7dxdka22q
+  post_date: '2026-08-04T14:18:23.091Z'
+  liked_at: '2026-08-04T16:01:52.420908+00:00'
+  author_handle: beetlemoses.bsky.social
+  author_did: did:plc:qlxgxm7fqszfgowm347s2q4t
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3msb7dxdka22q
 - post_uri: at://did:plc:hiyeapxrlseaixi3oxpn24hs/app.bsky.feed.post/3mr6zv2i7zc2s
   thread_root_uri: at://did:plc:hiyeapxrlseaixi3oxpn24hs/app.bsky.feed.post/3mr6zv2i7zc2s
   post_url: https://bsky.app/profile/did:plc:hiyeapxrlseaixi3oxpn24hs/post/3mr6zv2i7zc2s
