@@ -1,3 +1,699 @@
+- post_uri: at://did:plc:6ljb5gi2g77f4may46o3cp6w/app.bsky.feed.post/3msdop4r43k2h
+  thread_root_uri: at://did:plc:6ljb5gi2g77f4may46o3cp6w/app.bsky.feed.post/3msdop4r43k2h
+  post_url: https://bsky.app/profile/did:plc:6ljb5gi2g77f4may46o3cp6w/post/3msdop4r43k2h
+  post_date: '2026-08-05T13:58:23.484Z'
+  liked_at: '2026-08-06T02:25:35.182289+00:00'
+  author_handle: onekade.bsky.social
+  author_did: did:plc:6ljb5gi2g77f4may46o3cp6w
+  post_text: This is not a joke. This is a screenshot of the actual case management
+    software used by Massachusetts' 11 District Attorneys. Must-read work here by
+    @nasser.wiki nasser.blog/dial-up-just...
+  links:
+  - url: https://nasser.blog/dial-up-justice/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 3NQ83FFR
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Massachusetts prosecutors run their offices on software from the dial-up
+          era
+        websiteTitle: Nasser's Blog
+        date: '2026-07-22'
+        url: https://nasser.blog/dial-up-justice/
+        abstractNote: Ten of eleven DA offices answered my records requests. More
+          than six million charges later, here is what the data shows — and what the
+          state's own auditor, oversight board, and researchers say about the system
+          it lives in.
+        language: en
+        accessDate: '2026-08-06'
+      title: Massachusetts prosecutors run their offices on software from the dial-up
+        era
+      date: '2026-07-22'
+      item_type: webpage
+      abstract: Ten of eleven DA offices answered my records requests. More than six
+        million charges later, here is what the data shows — and what the state's
+        own auditor, oversight board, and researchers say about the system it lives
+        in.
+  all_post_uris:
+  - at://did:plc:6ljb5gi2g77f4may46o3cp6w/app.bsky.feed.post/3msdop4r43k2h
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mse36fmtsk2o
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mse36fmtsk2o
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3mse36fmtsk2o
+  post_date: '2026-08-05T17:41:41.003Z'
+  liked_at: '2026-08-05T23:35:13.579389+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: nothing better than a tourist town that resents the tourists. thank you
+    for coming to my ten-seat microbrewery and vintage ice cream shoppe. you son of
+    a bitch
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mse36fmtsk2o
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msemrnyaac2q
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msemrnyaac2q
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3msemrnyaac2q
+  post_date: '2026-08-05T22:56:40.896Z'
+  liked_at: '2026-08-05T23:27:48.897320+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: literally every history question has been asked in there and thoroughly,
+    *comprehensively* answered already
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msemrnyaac2q
+- post_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3msdzetskg224
+  thread_root_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3msdzetskg224
+  post_url: https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3msdzetskg224
+  post_date: '2026-08-05T17:09:29.712Z'
+  liked_at: '2026-08-05T23:17:12.290388+00:00'
+  author_handle: pfrazee.com
+  author_did: did:plc:ragtjsm2j2vknwkz3zp4oxrd
+  post_text: 'My impression is that AI coding is on a "pick two of three" triangle:
+    scope, ship speed, and correctness. Small tools are (speed + correctness) fast
+    prototypes are (speed + scope) and big projects are (scope + correctness). Every
+    project that tries to be all three degrades to "fa'
+  links: []
+  all_post_uris:
+  - at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3msdzetskg224
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msedfdirhs2j
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msedfdirhs2j
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3msedfdirhs2j
+  post_date: '2026-08-05T20:08:43.587Z'
+  liked_at: '2026-08-05T23:15:31.781281+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: 'I think we''re learning:
+
+
+    -consumerism is an overpowering populist force in American society
+
+
+    -the populism expresses itself as a base urge for greater consumption; it is not
+    reactive to conditions on the ground
+
+
+    -people are ashamed of this and often try to disguise it as other ty'
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msedfdirhs2j
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3msegi2k6sc2l
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3msegi2k6sc2l
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3msegi2k6sc2l
+  post_date: '2026-08-05T21:03:56.086Z'
+  liked_at: '2026-08-05T23:13:57.713221+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: 'with apologies to the young man who left his extremely well-curated
+    spotify account logged in on the hotel tv: if my daughter didn’t hear elmo’s alphabet
+    rap we were all going to die'
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3msegi2k6sc2l
+- post_uri: at://did:plc:yqsvtuvzhpq4qcoea23xou7u/app.bsky.feed.post/3msdxjf7rfc24
+  thread_root_uri: at://did:plc:yqsvtuvzhpq4qcoea23xou7u/app.bsky.feed.post/3msdxjf7rfc24
+  post_url: https://bsky.app/profile/did:plc:yqsvtuvzhpq4qcoea23xou7u/post/3msdxjf7rfc24
+  post_date: '2026-08-05T16:36:14.706Z'
+  liked_at: '2026-08-05T23:13:21.967322+00:00'
+  author_handle: pippy.bsky.social
+  author_did: did:plc:yqsvtuvzhpq4qcoea23xou7u
+  post_text: 'The Iron Man movies did a weirdly good job describing Jarvis as a language
+    model which then only reached AGI when it became Vision. It also portrayed Tony
+    working with Jarvis in a way that closely resembles agentic coding. Which leads
+    me to this question:
+
+
+    Was the Iron Man suit v'
+  links: []
+  all_post_uris:
+  - at://did:plc:yqsvtuvzhpq4qcoea23xou7u/app.bsky.feed.post/3msdxjf7rfc24
+- post_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mseerytrvs2s
+  thread_root_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mseerytrvs2s
+  post_url: https://bsky.app/profile/did:plc:5hhbgkktcpofpw4ovz6kjjau/post/3mseerytrvs2s
+  post_date: '2026-08-05T20:33:42.364Z'
+  liked_at: '2026-08-05T22:51:08.746262+00:00'
+  author_handle: jdp.extropian.net
+  author_did: did:plc:5hhbgkktcpofpw4ovz6kjjau
+  post_text: I think this is one of the major shakeups of LLMs in general. We're all
+    dependent on some kind stranger having put the solution to your issue on the Internet,
+    and they usually did it because they asked a forum question and people answered.
+    If I ask an LLM, how do I get it back in
+  links: []
+  all_post_uris:
+  - at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mseerytrvs2s
+- post_uri: at://did:plc:234e252yxxcfcr3rfesalzoo/app.bsky.feed.post/3mse6avco372u
+  thread_root_uri: at://did:plc:234e252yxxcfcr3rfesalzoo/app.bsky.feed.post/3mse6avco372u
+  post_url: https://bsky.app/profile/did:plc:234e252yxxcfcr3rfesalzoo/post/3mse6avco372u
+  post_date: '2026-08-05T18:36:45.780Z'
+  liked_at: '2026-08-05T22:14:28.603375+00:00'
+  author_handle: danbischof.bsky.social
+  author_did: did:plc:234e252yxxcfcr3rfesalzoo
+  post_text: "\U0001F4C4 And another working paper: \n\n**Pretty much all citizens\
+    \ say they support democracy.**\n\nBut what do they mean by that?\n\nWe ask whether\
+    \ voters from different partisan camps mean the same thing when they talk about\
+    \ \"democracy.\"\n\nPaper: osf.io/preprints/so..."
+  links:
+  - url: https://osf.io/preprints/socarxiv/dscv2
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: FAP64RLY
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Mirko
+          lastName: Wegemann
+          creatorType: author
+        - firstName: Elena
+          lastName: Leuschner
+          creatorType: author
+        - firstName: Tim Lars
+          lastName: Allinger
+          creatorType: author
+        - firstName: Daniel
+          lastName: Bischof
+          creatorType: author
+        - firstName: Kristian
+          lastName: Frederiksen
+          creatorType: author
+        - firstName: Morgan
+          lastName: Le Corre Juratic
+          creatorType: author
+        tags: []
+        date: '2026-08-05'
+        abstractNote: Do voters from different partisan camps understand democracy
+          in the same way? We analyze more than 25,000 open-ended survey responses
+          from representative samples in 14 countries, classifying answers with a
+          fine-tuned language model and sentence embeddings. Citizens most often define
+          democracy through individual and civil rights; multidimensional definitions
+          are rare, and elections are mentioned by only 17% of respondents. Yet shared
+          vocabulary masks partisan divergence. Far-right voters and non-voters are
+          less likely to mention civil rights, elections, and horizontal accountability,
+          while far-right voters more often invoke majoritarian principles. Among
+          respondents mentioning rights, left voters connect rights to equality and
+          citizenship, whereas right voters emphasize freedom of speech. Democratic
+          contestation thus unfolds within democratic language, creating openings
+          for selective elite reframing.
+        DOI: 10.31235/osf.io/dscv2_v1
+        rights: https://creativecommons.org/licenses/by/4.0/legalcode
+        url: https://osf.io/dscv2_v1
+        title: 'What Citizens Mean by Democracy: Partisan Differences in Open-Ended
+          Survey Responses'
+        libraryCatalog: SocArXiv
+        accessDate: '2026-08-06'
+        shortTitle: What Citizens Mean by Democracy
+      title: 'What Citizens Mean by Democracy: Partisan Differences in Open-Ended
+        Survey Responses'
+      authors:
+      - last: Wegemann
+        first: Mirko
+      - last: Leuschner
+        first: Elena
+      - last: Allinger
+        first: Tim Lars
+      - last: Bischof
+        first: Daniel
+      - last: Frederiksen
+        first: Kristian
+      - last: Le Corre Juratic
+        first: Morgan
+      date: '2026-08-05'
+      item_type: preprint
+      doi: 10.31235/osf.io/dscv2_v1
+      abstract: Do voters from different partisan camps understand democracy in the
+        same way? We analyze more than 25,000 open-ended survey responses from representative
+        samples in 14 countries, classifying answers with a fine-tuned language model
+        and sentence embeddings. Citizens most often define democracy through individual
+        and civil rights; multidimensional definitions are rare, and elections are
+        mentioned by only 17% of respondents. Yet shared vocabulary masks partisan
+        divergence. Far-right voters and non-voters are less likely to mention civil
+        rights, elections, and horizontal accountability, while far-right voters more
+        often invoke majoritarian principles. Among respondents mentioning rights,
+        left voters connect rights to equality and citizenship, whereas right voters
+        emphasize freedom of speech. Democratic contestation thus unfolds within democratic
+        language, creating openings for selective elite reframing.
+  all_post_uris:
+  - at://did:plc:234e252yxxcfcr3rfesalzoo/app.bsky.feed.post/3mse6avco372u
+- post_uri: at://did:plc:bflpvpy2273lqb3w6focw3tw/app.bsky.feed.post/3mse2dv6p4k26
+  thread_root_uri: at://did:plc:bflpvpy2273lqb3w6focw3tw/app.bsky.feed.post/3mse2dv6p4k26
+  post_url: https://bsky.app/profile/did:plc:bflpvpy2273lqb3w6focw3tw/post/3mse2dv6p4k26
+  post_date: '2026-08-05T17:26:51.346Z'
+  liked_at: '2026-08-05T22:09:48.032166+00:00'
+  author_handle: michaelpetrilli.bsky.social
+  author_did: did:plc:bflpvpy2273lqb3w6focw3tw
+  post_text: This thoughtful post by @mattbarnum.bsky.social @chalkbeat.org, pushing
+    back on my contention that students with low grades and/or test scores shouldn't
+    go to college because they are unlikely to complete a degree, is worth a read.
+    cbnewsletters.chalkbeat.org/p/who-should...
+  links:
+  - url: https://cbnewsletters.chalkbeat.org/p/who-should-go-to-college
+    source: card
+    card_title: Who should go to college?
+    card_description: Prior studies suggest that even many students who struggle in
+      high school benefit from a four-year college education.
+    citoid:
+      raw:
+        key: 88IWK69S
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Matt Barnum
+          lastName: Chalkbeat
+          creatorType: author
+        tags: []
+        title: Who should go to college?
+        websiteTitle: Chalkbeat
+        date: '2026-08-04'
+        url: https://cbnewsletters.chalkbeat.org/p/who-should-go-to-college
+        abstractNote: Prior studies suggest that even many students who struggle in
+          high school benefit from a four-year college education.
+        language: en
+        accessDate: '2026-08-06'
+      title: Who should go to college?
+      authors:
+      - last: Chalkbeat
+        first: Matt Barnum
+      date: '2026-08-04'
+      item_type: webpage
+      abstract: Prior studies suggest that even many students who struggle in high
+        school benefit from a four-year college education.
+  all_post_uris:
+  - at://did:plc:bflpvpy2273lqb3w6focw3tw/app.bsky.feed.post/3mse2dv6p4k26
+- post_uri: at://did:plc:h6v6qj7yz22kpasxlfqklo55/app.bsky.feed.post/3ms64tdcdds2s
+  thread_root_uri: at://did:plc:h6v6qj7yz22kpasxlfqklo55/app.bsky.feed.post/3ms64tdcdds2s
+  post_url: https://bsky.app/profile/did:plc:h6v6qj7yz22kpasxlfqklo55/post/3ms64tdcdds2s
+  post_date: '2026-08-03T08:55:18.516Z'
+  liked_at: '2026-08-05T16:58:44.074285+00:00'
+  author_handle: david-p-reichert.bsky.social
+  author_did: did:plc:h6v6qj7yz22kpasxlfqklo55
+  post_text: "Many don't see how much AI has changed recently. Coding agents aren't\
+    \ just chatbots.\n\nWe can’t deal with the challenges of AI if we don’t understand\
+    \ it.\n\nHere's a post to provide some evidence (Claude doing small ML experiments)\
+    \ and form intuitions. \n\ndavidpreichert.substack.com/"
+  links:
+  - url: https://davidpreichert.substack.com/p/if-you-havent-recently-used-claude
+    source: card
+    card_title: If you haven’t recently used Claude Code*, you might not understand
+      where AI is at
+    card_description: A report on a series of mini machine learning projects, executed
+      with, and mostly by, Claude
+    citoid:
+      raw:
+        key: 4ICXWH9U
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: David P.
+          lastName: Reichert
+          creatorType: author
+        tags: []
+        title: If you haven’t recently used Claude Code*, you might not understand
+          where AI is at
+        abstractNote: A report on a series of mini machine learning projects, executed
+          with, and mostly by, Claude
+        date: '2026-08-03'
+        blogTitle: David P. Reichert
+        url: https://davidpreichert.substack.com/p/if-you-havent-recently-used-claude
+        websiteType: Substack newsletter
+        accessDate: '2026-08-06'
+      title: If you haven’t recently used Claude Code*, you might not understand where
+        AI is at
+      authors:
+      - last: Reichert
+        first: David P.
+      date: '2026-08-03'
+      item_type: blogPost
+      publisher: David P. Reichert
+      abstract: A report on a series of mini machine learning projects, executed with,
+        and mostly by, Claude
+  all_post_uris:
+  - at://did:plc:h6v6qj7yz22kpasxlfqklo55/app.bsky.feed.post/3ms64tdcdds2s
+- post_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mrujlle2tc2y
+  thread_root_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mrujlle2tc2y
+  post_url: https://bsky.app/profile/did:plc:gz53felr7btxgmbxae5aooxi/post/3mrujlle2tc2y
+  post_date: '2026-07-30T13:16:59.785Z'
+  liked_at: '2026-08-05T16:43:23.782095+00:00'
+  author_handle: dingdingpeng.the100.ci
+  author_did: did:plc:gz53felr7btxgmbxae5aooxi
+  post_text: 'New blog post! Odds ratios are...a bit weird. Here I explain two problems
+    (interpretation, non-collapsibility) and provide some simple recommendations for
+    improved reporting.
+
+
+    www.the100.ci/2026/07/30/r...'
+  links:
+  - url: https://www.the100.ci/2026/07/30/reviewer-notes-odds-ratios-are-really-odd/
+    source: card
+    card_title: 'Reviewer notes: Odds ratios are really odd'
+    card_description: When psychological researchers investigate binary outcomes,
+      they routinely report odds ratios to quantify the strength of an effect or an
+      association. This is quite understandable given that psycholog...
+    citoid:
+      raw:
+        key: XKGMBKST
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Julia
+          lastName: Rohrer
+          creatorType: author
+        tags: []
+        title: 'Reviewer notes: Odds ratios are really odd'
+        blogTitle: The 100% CI
+        date: '2026-07-30'
+        url: https://www.the100.ci/2026/07/30/reviewer-notes-odds-ratios-are-really-odd/
+        abstractNote: When psychological researchers investigate binary outcomes,
+          they routinely report odds ratios to quantify the strength of an effect
+          or an association. This is quite understandable given that psychologists
+          are taught to analyze binary outcomes with binary-logistic regression models,
+          and those models
+        language: en-GB
+        accessDate: '2026-08-06'
+        shortTitle: Reviewer notes
+      title: 'Reviewer notes: Odds ratios are really odd'
+      authors:
+      - last: Rohrer
+        first: Julia
+      date: '2026-07-30'
+      item_type: blogPost
+      publisher: The 100% CI
+      abstract: When psychological researchers investigate binary outcomes, they routinely
+        report odds ratios to quantify the strength of an effect or an association.
+        This is quite understandable given that psychologists are taught to analyze
+        binary outcomes with binary-logistic regression models, and those models
+  all_post_uris:
+  - at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mrujlle2tc2y
+- post_uri: at://did:plc:35vhrw4vfcilzxggzbhxukyy/app.bsky.feed.post/3mrrzcvygak2i
+  thread_root_uri: at://did:plc:35vhrw4vfcilzxggzbhxukyy/app.bsky.feed.post/3mrrz3mhpc22k
+  post_url: https://bsky.app/profile/did:plc:35vhrw4vfcilzxggzbhxukyy/post/3mrrzcvygak2i
+  post_date: '2026-07-29T13:20:29.603Z'
+  liked_at: '2026-08-05T16:33:47.744308+00:00'
+  author_handle: matthodges.bsky.social
+  author_did: did:plc:35vhrw4vfcilzxggzbhxukyy
+  post_text: 'Here''s the written version, if you don''t like videos.
+
+
+    econchrisclarke.substack.com/p/can-public...'
+  links:
+  - url: https://econchrisclarke.substack.com/p/can-public-grocery-stores-solve-food
+    source: card
+    card_title: Can Public Grocery Stores Solve Food Deserts?
+    card_description: Does demand or supply cause grocery store market inequalities?
+    citoid:
+      raw:
+        key: RJI6ZYYF
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Chris
+          lastName: Clarke
+          creatorType: author
+        tags: []
+        title: Can Public Grocery Stores Solve Food Deserts?
+        abstractNote: Does demand or supply cause grocery store market inequalities?
+        date: '2026-05-20'
+        blogTitle: EconChrisClarke
+        url: https://econchrisclarke.substack.com/p/can-public-grocery-stores-solve-food
+        websiteType: Substack newsletter
+        accessDate: '2026-08-06'
+      title: Can Public Grocery Stores Solve Food Deserts?
+      authors:
+      - last: Clarke
+        first: Chris
+      date: '2026-05-20'
+      item_type: blogPost
+      publisher: EconChrisClarke
+      abstract: Does demand or supply cause grocery store market inequalities?
+  all_post_uris:
+  - at://did:plc:35vhrw4vfcilzxggzbhxukyy/app.bsky.feed.post/3mrrzcvygak2i
+- post_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mrvcqjqbtk2x
+  thread_root_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mrvcqjqbtk2x
+  post_url: https://bsky.app/profile/did:plc:vksrbj3uhjpzqe42stamobyw/post/3mrvcqjqbtk2x
+  post_date: '2026-07-30T20:47:09.406Z'
+  liked_at: '2026-08-05T16:29:05.933285+00:00'
+  author_handle: mattbarnum.bsky.social
+  author_did: did:plc:vksrbj3uhjpzqe42stamobyw
+  post_text: "New: \n\nThere's been a notable and, in many cases, sustained rise in\
+    \ teachers leaving the classroom over the last four to five years, according to\
+    \ new data I collected. The uptick in any one year was modest but the cumulative\
+    \ loss of teachers has been substantial.\n\nwww.chalkbeat.o"
+  links:
+  - url: https://www.chalkbeat.org/2026/07/30/teacher-turnover-rose-after-covid-new-data-analysis-finds/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KT9NW4Z8
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: A ‘lost generation’ of teachers left the classroom. Schools are still
+          dealing with the consequences.
+        websiteTitle: Chalkbeat
+        date: '2026-07-30'
+        url: https://www.chalkbeat.org/2026/07/30/teacher-turnover-rose-after-covid-new-data-analysis-finds/
+        abstractNote: Veteran teachers left, principals cycled through too, and high-poverty
+          schools likely faced the greatest strain. Here’s what years of churn did
+          to classrooms.
+        language: en
+        accessDate: '2026-08-06'
+      title: A ‘lost generation’ of teachers left the classroom. Schools are still
+        dealing with the consequences.
+      date: '2026-07-30'
+      item_type: webpage
+      abstract: Veteran teachers left, principals cycled through too, and high-poverty
+        schools likely faced the greatest strain. Here’s what years of churn did to
+        classrooms.
+  all_post_uris:
+  - at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mrvcqjqbtk2x
+- post_uri: at://did:plc:dflgxbqvn3f7udrfgfx222eu/app.bsky.feed.post/3ms4dsog3jk2v
+  thread_root_uri: at://did:plc:dflgxbqvn3f7udrfgfx222eu/app.bsky.feed.post/3ms4dsog3jk2v
+  post_url: https://bsky.app/profile/did:plc:dflgxbqvn3f7udrfgfx222eu/post/3ms4dsog3jk2v
+  post_date: '2026-08-02T15:54:53.335Z'
+  liked_at: '2026-08-05T16:24:07.694093+00:00'
+  author_handle: gordon.bsky.social
+  author_did: did:plc:dflgxbqvn3f7udrfgfx222eu
+  post_text: 'Playing to your outs gordonbrander.com/notes/playin...
+
+
+    Imagine no one will be writing code in two years. What does it look like to pay
+    to my outs as a dev? Probably it looks like being a founder.'
+  links:
+  - url: https://gordonbrander.com/notes/playing-to-your-outs/
+    source: card
+    card_title: Playing to your outs
+    card_description: '&quot;Playing to your outs&quot; is a term from poker by way
+      of Magic The Gathering. The idea is, when you''re bound to lose, you gotta stop
+      making sensible plays. Instead, you must identify a specific card or sequence
+      that could still win you the…'
+    citoid:
+      raw:
+        key: G685RYKZ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Gordon
+          lastName: Brander
+          creatorType: author
+        tags: []
+        title: Playing to your outs
+        websiteTitle: gordonbrander.com
+        date: '2026-06-18'
+        url: https://gordonbrander.com/notes/playing-to-your-outs/
+        abstractNote: '&quot;Playing to your outs&quot; is a term from poker by way
+          of Magic The Gathering. The idea is, when you''re bound to lose, you gotta
+          stop making sensible plays. Instead, you must identify a specific card or
+          sequence that could still win you the…'
+        language: en
+        accessDate: '2026-08-06'
+      title: Playing to your outs
+      authors:
+      - last: Brander
+        first: Gordon
+      date: '2026-06-18'
+      item_type: webpage
+      abstract: '&quot;Playing to your outs&quot; is a term from poker by way of Magic
+        The Gathering. The idea is, when you''re bound to lose, you gotta stop making
+        sensible plays. Instead, you must identify a specific card or sequence that
+        could still win you the…'
+  all_post_uris:
+  - at://did:plc:dflgxbqvn3f7udrfgfx222eu/app.bsky.feed.post/3ms4dsog3jk2v
+- post_uri: at://did:plc:rkh7osn7mdsuvo4znldmvb4x/app.bsky.feed.post/3msb3f4fzcs26
+  thread_root_uri: at://did:plc:rkh7osn7mdsuvo4znldmvb4x/app.bsky.feed.post/3msb3f4fzcs26
+  post_url: https://bsky.app/profile/did:plc:rkh7osn7mdsuvo4znldmvb4x/post/3msb3f4fzcs26
+  post_date: '2026-08-04T13:07:27.007Z'
+  liked_at: '2026-08-05T16:22:15.190262+00:00'
+  author_handle: carajackson.bsky.social
+  author_did: did:plc:rkh7osn7mdsuvo4znldmvb4x
+  post_text: "So excited about this evaluation! WestEd conducted four regression discontinuity\
+    \ design studies in three districts, looking at reading & math, tutoring & edtech,\
+    \ elementary & middle. There's also tons of implementation insights from the qualitative\
+    \ side. \n\nwww.k12dive.com/news/ea"
+  links:
+  - url: https://www.k12dive.com/news/early-evidence-finds-outcomes-based-contracting-boosts-student-performance/826856/
+    source: card
+    card_title: Early evidence finds outcomes-based contracting boosts student performance
+    card_description: Stronger district-vendor relationships are one benefit of contracts
+      that tie results to compensation for products and services, a WestEd analysis
+      finds.
+    citoid:
+      raw:
+        key: NY3EJYYP
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        url: https://www.k12dive.com/news/early-evidence-finds-outcomes-based-contracting-boosts-student-performance/826856/
+        title: Early evidence finds outcomes-based contracting boosts student performance
+          | K-12 Dive
+        abstractNote: Stronger district-vendor relationships are one benefit of contracts
+          that tie results to compensation for products and services, a WestEd analysis
+          finds.
+        language: en
+        accessDate: '2026-08-06'
+        websiteTitle: www.k12dive.com
+      title: Early evidence finds outcomes-based contracting boosts student performance
+        | K-12 Dive
+      item_type: webpage
+      abstract: Stronger district-vendor relationships are one benefit of contracts
+        that tie results to compensation for products and services, a WestEd analysis
+        finds.
+  all_post_uris:
+  - at://did:plc:rkh7osn7mdsuvo4znldmvb4x/app.bsky.feed.post/3msb3f4fzcs26
+- post_uri: at://did:plc:j7g5d6zzh7dzso2ldq6lhe5e/app.bsky.feed.post/3msdg5r4sws2y
+  thread_root_uri: at://did:plc:j7g5d6zzh7dzso2ldq6lhe5e/app.bsky.feed.post/3msdg5r4sws2y
+  post_url: https://bsky.app/profile/did:plc:j7g5d6zzh7dzso2ldq6lhe5e/post/3msdg5r4sws2y
+  post_date: '2026-08-05T11:25:30.927Z'
+  liked_at: '2026-08-05T15:03:55.197184+00:00'
+  author_handle: v21.bsky.social
+  author_did: did:plc:j7g5d6zzh7dzso2ldq6lhe5e
+  post_text: 'reminds me of this
+
+    (www.gamedeveloper.com/audio/q-a-wh...)'
+  links:
+  - url: https://www.gamedeveloper.com/audio/q-a-why-vlambeer-returned-to-its-roots-with-i-luftrausers-i-
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KKSYQ6KL
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Q&A: Why Vlambeer returned to its roots with Luftrausers'
+        websiteTitle: Game Developer
+        url: https://www.gamedeveloper.com/audio/q-a-why-vlambeer-returned-to-its-roots-with-i-luftrausers-i-
+        abstractNote: Gamasutra catches up with Vlambeer's Rami Ismail to chat Luftrausers,
+          a remake of the team's 2011 game jam experiment which Ismail considers the
+          pinnacle of the studio's essential style.
+        language: en
+        accessDate: '2026-08-06'
+        shortTitle: Q&A
+      title: 'Q&A: Why Vlambeer returned to its roots with Luftrausers'
+      item_type: webpage
+      abstract: Gamasutra catches up with Vlambeer's Rami Ismail to chat Luftrausers,
+        a remake of the team's 2011 game jam experiment which Ismail considers the
+        pinnacle of the studio's essential style.
+  all_post_uris:
+  - at://did:plc:j7g5d6zzh7dzso2ldq6lhe5e/app.bsky.feed.post/3msdg5r4sws2y
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msdk243jzc26
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msdk243jzc26
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3msdk243jzc26
+  post_date: '2026-08-05T12:35:03.151Z'
+  liked_at: '2026-08-05T13:45:53.148173+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: "Since people are still relentlessly abusing me over this, here’s why\
+    \ the so-called “boots theory” doesn’t make any sense. \n\nFirst, what is it?\
+    \ Some people have suggested I haven’t done the background reading, but it’s not\
+    \ a deep idea. It’s from a passage that’s four sentences lon"
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3msdk243jzc26
+- post_uri: at://did:plc:vgxem5xdxy5zplkc6ufel4xd/app.bsky.feed.post/3msbthxetzc2g
+  thread_root_uri: at://did:plc:vgxem5xdxy5zplkc6ufel4xd/app.bsky.feed.post/3msbthxetzc2g
+  post_url: https://bsky.app/profile/did:plc:vgxem5xdxy5zplkc6ufel4xd/post/3msbthxetzc2g
+  post_date: '2026-08-04T20:18:32.193Z'
+  liked_at: '2026-08-05T13:25:42.056206+00:00'
+  author_handle: owenlacey.dev
+  author_did: did:plc:vgxem5xdxy5zplkc6ufel4xd
+  post_text: 'Such a brilliant idea to generate your own data and then do a dataviz
+    piece on it 🤯
+
+    pudding.cool/2026/06/mow/'
+  links:
+  - url: https://pudding.cool/2026/06/mow/
+    source: card
+    card_title: Why some people mow a lawn better than others
+    card_description: We analyzed 132,003 attempts to mow a virtual lawn efficiently.
+    citoid:
+      raw:
+        key: YL3UW9UB
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: The
+          lastName: Pudding
+          creatorType: author
+        tags: []
+        title: Why some people mow a lawn better than others
+        websiteTitle: The Pudding
+        url: https://pudding.cool/2026/06/mow
+        abstractNote: We analyzed 132,003 attempts to mow a virtual lawn efficiently.
+        language: en
+        accessDate: '2026-08-06'
+      title: Why some people mow a lawn better than others
+      authors:
+      - last: Pudding
+        first: The
+      item_type: webpage
+      abstract: We analyzed 132,003 attempts to mow a virtual lawn efficiently.
+  all_post_uris:
+  - at://did:plc:vgxem5xdxy5zplkc6ufel4xd/app.bsky.feed.post/3msbthxetzc2g
+- post_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mscxgjywgk2i
+  thread_root_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mscxgjywgk2i
+  post_url: https://bsky.app/profile/did:plc:wamidydbgu3u6fk3yckaglnz/post/3mscxgjywgk2i
+  post_date: '2026-08-05T07:01:59.323Z'
+  liked_at: '2026-08-05T12:18:52.556141+00:00'
+  author_handle: philpax.me
+  author_did: did:plc:wamidydbgu3u6fk3yckaglnz
+  post_text: fair enough. can't personally argue with this as a dividing line blog.rust-lang.org/inside-rust/...
+  links:
+  - url: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
+    source: card
+    card_title: rust-lang/rust is adopting an LLM policy | Inside Rust Blog
+    card_description: Want to follow along with Rust development? Curious how you
+      might get involved? Take a look!
+    citoid:
+      raw:
+        key: C4SLCJVM
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: rust-lang/rust is adopting an LLM policy | Inside Rust Blog
+        abstractNote: Want to follow along with Rust development? Curious how you
+          might get involved? Take a look!
+        url: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/
+        language: en
+        accessDate: '2026-08-06'
+        websiteTitle: blog.rust-lang.org
+      title: rust-lang/rust is adopting an LLM policy | Inside Rust Blog
+      item_type: webpage
+      abstract: Want to follow along with Rust development? Curious how you might
+        get involved? Take a look!
+  all_post_uris:
+  - at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mscxgjywgk2i
 - post_uri: at://did:plc:2odjl4zkibj3muqf6tqtksgi/app.bsky.feed.post/3mscnyb264s2c
   thread_root_uri: at://did:plc:2odjl4zkibj3muqf6tqtksgi/app.bsky.feed.post/3mscnyb264s2c
   post_url: https://bsky.app/profile/did:plc:2odjl4zkibj3muqf6tqtksgi/post/3mscnyb264s2c
