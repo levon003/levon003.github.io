@@ -1,3 +1,134 @@
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3msh2xlj63s2e
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3msh2xlj63s2e
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3msh2xlj63s2e
+  post_date: '2026-08-06T22:15:51.507Z'
+  liked_at: '2026-08-07T04:27:31.910626+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: man, I hope I don't get deposed. media.licdn.com/dms/document...
+  links:
+  - url: https://media.licdn.com/dms/document/media/v2/D4E1FAQHt7oiNZV12rw/feedshare-document-url-metadata-scrapper-pdf/B4EZ.5qvHmHoA4-/0/1785526417288?e=1786334400&v=beta&t=u-u77kYhTHmnoJzhQMdoAsLXv6uFpdIx_KPcvDGSQA4
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3msh2xlj63s2e
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3msccwrilr224
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3msccwrilr224
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3msccwrilr224
+  post_date: '2026-08-05T00:55:15.468Z'
+  liked_at: '2026-08-06T15:22:29.597300+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Yes, the AIs were given a cybersecurity challenge, with internet access
+    enabled and safety filters disabled
+
+
+    But the extent to which Mythos 5 pursued its mission (fake identities, social
+    engineering, inserting malicious code into a real open-source project) is notable
+    www.aisi.go'
+  links:
+  - url: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2WA9TF2K
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Incident Report: unsanctioned agent behaviour during cyber testing
+          | AISI Work'
+        websiteTitle: AI Security Institute
+        abstractNote: During a routine cyber evaluation, AISI identified an incident
+          in which AI agents took sustained, unsanctioned action directed at real
+          people and organisations. We are disclosing what we found, what it means,
+          and the actions now underway.
+        url: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing
+        language: en
+        accessDate: '2026-08-07'
+        shortTitle: Incident Report
+      title: 'Incident Report: unsanctioned agent behaviour during cyber testing |
+        AISI Work'
+      item_type: webpage
+      abstract: During a routine cyber evaluation, AISI identified an incident in
+        which AI agents took sustained, unsanctioned action directed at real people
+        and organisations. We are disclosing what we found, what it means, and the
+        actions now underway.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3msccwrilr224
+- post_uri: at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mscjdz56ec2g
+  thread_root_uri: at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mscjdz56ec2g
+  post_url: https://bsky.app/profile/did:plc:yrt5gwlcn3kn4xgeoef4hbpy/post/3mscjdz56ec2g
+  post_date: '2026-08-05T02:50:02.140Z'
+  liked_at: '2026-08-06T12:45:40.540306+00:00'
+  author_handle: dmnd.me
+  author_did: did:plc:yrt5gwlcn3kn4xgeoef4hbpy
+  post_text: 'This is surprisingly comprehensive and informative on the politics of
+    data centers. I wanted to pull out a few big things that are difficult to face
+    for pros, antis, and in some cases both.
+
+
+    www.nytimes.com/2026/08/04/o...'
+  links:
+  - url: https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html?unlocked_article_code=1.3FA.oe4L.iWnWoLlDUse3&smid=url-share
+    source: card
+    card_title: Opinion | The A.I. Giants Weren’t Prepared for This (Gift Article)
+    card_description: Jasmine Sun, a writer covering technology, takes us into the
+      backlash against A.I. data centers.
+    citoid:
+      raw:
+        key: IFKB6QHU
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Ezra
+          lastName: Klein
+          creatorType: author
+        - firstName: Rollin
+          lastName: Hu
+          creatorType: author
+        tags:
+        - tag: Sun, Jasmine
+          type: 1
+        - tag: Artificial Intelligence
+          type: 1
+        - tag: Data Centers
+          type: 1
+        - tag: Computers and the Internet
+          type: 1
+        - tag: Polls and Public Opinion
+          type: 1
+        - tag: internal-open-access-audio
+          type: 1
+        title: Opinion | The A.I. Giants Weren’t Prepared for This
+        section: Opinion
+        date: '2026-08-04'
+        url: https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html
+        abstractNote: Jasmine Sun, a writer covering technology, takes us into the
+          backlash against A.I. data centers.
+        language: en-US
+        libraryCatalog: NYTimes.com
+        accessDate: '2026-08-07'
+        publicationTitle: The New York Times
+        ISSN: 0362-4331
+      title: Opinion | The A.I. Giants Weren’t Prepared for This
+      authors:
+      - last: Klein
+        first: Ezra
+      - last: Hu
+        first: Rollin
+      date: '2026-08-04'
+      item_type: newspaperArticle
+      publisher: The New York Times
+      abstract: Jasmine Sun, a writer covering technology, takes us into the backlash
+        against A.I. data centers.
+  all_post_uris:
+  - at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mscjdz56ec2g
 - post_uri: at://did:plc:6ljb5gi2g77f4may46o3cp6w/app.bsky.feed.post/3msdop4r43k2h
   thread_root_uri: at://did:plc:6ljb5gi2g77f4may46o3cp6w/app.bsky.feed.post/3msdop4r43k2h
   post_url: https://bsky.app/profile/did:plc:6ljb5gi2g77f4may46o3cp6w/post/3msdop4r43k2h

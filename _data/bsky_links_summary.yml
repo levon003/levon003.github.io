@@ -1,6 +1,6 @@
-entries_with_links: 2223
-total_links: 2744
-unique_domains: 924
+entries_with_links: 2226
+total_links: 2747
+unique_domains: 926
 top_domains:
 - domain: arxiv.org
   count: 232
@@ -17,7 +17,7 @@ top_domains:
 - domain: doi.org
   count: 52
 - domain: nytimes.com
-  count: 39
+  count: 40
 - domain: huggingface.co
   count: 35
 - domain: youtube.com
@@ -31,7 +31,7 @@ top_accounts:
   count: 60
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
-  count: 33
+  count: 34
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
