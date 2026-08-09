@@ -1,3 +1,408 @@
+- post_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3msmf5yzv3s2s
+  thread_root_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3msmf5yzv3s2s
+  post_url: https://bsky.app/profile/did:plc:p72jkscm4rt4xuep3lzv6doh/post/3msmf5yzv3s2s
+  post_date: '2026-08-09T01:01:43.121Z'
+  liked_at: '2026-08-09T01:05:02.860411+00:00'
+  author_handle: melaniemitchell.bsky.social
+  author_did: did:plc:p72jkscm4rt4xuep3lzv6doh
+  post_text: 'Worth revisiting this prescient paper from @mmitchell.bsky.social and
+    others from @hf.co :  arxiv.org/abs/2502.02649'
+  links:
+  - url: https://arxiv.org/abs/2502.02649
+    source: card
+    card_title: Fully Autonomous AI Agents Should Not be Developed
+    card_description: This paper argues that fully autonomous AI agents should not
+      be developed. In support of this position, we build from prior scientific literature
+      and current product marketing to delineate different A...
+    citoid:
+      raw:
+        key: IGYM6ZNZ
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Margaret
+          lastName: Mitchell
+          creatorType: author
+        - firstName: Avijit
+          lastName: Ghosh
+          creatorType: author
+        - firstName: Alexandra Sasha
+          lastName: Luccioni
+          creatorType: author
+        - firstName: Giada
+          lastName: Pistilli
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Fully Autonomous AI Agents Should Not be Developed
+        repository: arXiv
+        date: '2025'
+        DOI: 10.48550/ARXIV.2502.02649
+        url: https://arxiv.org/abs/2502.02649
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: 'This paper argues that fully autonomous AI agents should not
+          be developed. In support of this position, we build from prior scientific
+          literature and current product marketing to delineate different AI agent
+          levels and detail the ethical values at play in each, documenting trade-offs
+          in potential benefits and risks. Our analysis reveals that risks to people
+          increase with the autonomy of a system: The more control a user cedes to
+          an AI agent, the more risks to people arise. Particularly concerning are
+          safety risks, which affect human life and impact further values.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-08-09'
+      title: Fully Autonomous AI Agents Should Not be Developed
+      authors:
+      - last: Mitchell
+        first: Margaret
+      - last: Ghosh
+        first: Avijit
+      - last: Luccioni
+        first: Alexandra Sasha
+      - last: Pistilli
+        first: Giada
+      date: '2025'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2502.02649
+      publisher: arXiv
+      abstract: 'This paper argues that fully autonomous AI agents should not be developed.
+        In support of this position, we build from prior scientific literature and
+        current product marketing to delineate different AI agent levels and detail
+        the ethical values at play in each, documenting trade-offs in potential benefits
+        and risks. Our analysis reveals that risks to people increase with the autonomy
+        of a system: The more control a user cedes to an AI agent, the more risks
+        to people arise. Particularly concerning are safety risks, which affect human
+        life and impact further values.'
+  all_post_uris:
+  - at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3msmf5yzv3s2s
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3msgl2n66bk2c
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3msgl2n66bk2c
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3msgl2n66bk2c
+  post_date: '2026-08-06T17:31:14.039Z'
+  liked_at: '2026-08-08T20:21:57.401342+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: 'Anyway, here are some things I''ve given deep reads recently. No particular
+    order. All recommended for the subject area, my personal feelings notwithstanding.
+
+
+    "LLMs highlight the importance of interaction in human language learning"
+
+
+    www.degruyterbrill.com/document/doi...'
+  links:
+  - url: https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2024-0254/html
+    source: card
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3msgl2n66bk2c
+- post_uri: at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mrwwarnnd22h
+  thread_root_uri: at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mrwwarnnd22h
+  post_url: https://bsky.app/profile/did:plc:a3h6mkohqeiu6xl4fnrwuk4t/post/3mrwwarnnd22h
+  post_date: '2026-07-31T12:08:55.412Z'
+  liked_at: '2026-08-08T17:11:59.537349+00:00'
+  author_handle: himself.bsky.social
+  author_did: did:plc:a3h6mkohqeiu6xl4fnrwuk4t
+  post_text: I remember seeing someone (very reasonably) complaining here a few days
+    ago that there seems to be next to no visible thinking on left and center about
+    how to join the dots on administration and democracy. This is the beginnings of
+    an answer to that complaint donmoynihan.substack
+  links:
+  - url: https://donmoynihan.substack.com/p/rebuilding-democracy-requires-rebalancing?publication_id=492324&post_id=208413961&isFreemail=true
+    source: card
+    card_title: Rebuilding Democracy Requires Rebalancing Power
+    card_description: What does a power-shifting agenda look like?
+    citoid:
+      raw:
+        key: F9YAVQB2
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Alexander
+          lastName: Hertel-Fernandez
+          creatorType: author
+        - firstName: Sam
+          lastName: Berger
+          creatorType: author
+        - firstName: Sophie
+          lastName: Jacobson
+          creatorType: author
+        tags: []
+        title: Rebuilding Democracy Requires Rebalancing Power
+        abstractNote: What does a power-shifting agenda look like?
+        date: '2026-07-31'
+        blogTitle: Can We Still Govern?
+        url: https://donmoynihan.substack.com/p/rebuilding-democracy-requires-rebalancing
+        websiteType: Substack newsletter
+        accessDate: '2026-08-09'
+      title: Rebuilding Democracy Requires Rebalancing Power
+      authors:
+      - last: Hertel-Fernandez
+        first: Alexander
+      - last: Berger
+        first: Sam
+      - last: Jacobson
+        first: Sophie
+      date: '2026-07-31'
+      item_type: blogPost
+      publisher: Can We Still Govern?
+      abstract: What does a power-shifting agenda look like?
+  all_post_uris:
+  - at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mrwwarnnd22h
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3msecawggcs2q
+  thread_root_uri: at://did:plc:hbpefio3f5csc44msmbgioxz/app.bsky.feed.post/3msebipwje22k
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3msecawggcs2q
+  post_date: '2026-08-05T19:48:21.920Z'
+  liked_at: '2026-08-08T16:58:15.935304+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: 'I think this article is a really good explanation: slate.com/business/199...'
+  links:
+  - url: https://slate.com/business/1998/08/baby-sitting-the-economy.html
+    source: card
+    card_title: Baby-Sitting the Economy
+    card_description: Twenty years ago I read a story that changed my life. I think
+      about that story often; it helps me to stay calm in the face of crisis, to remain
+      hopeful...
+    citoid:
+      raw:
+        key: BP2ANUMI
+        version: 0
+        itemType: magazineArticle
+        creators:
+        - firstName: Paul
+          lastName: Krugman
+          creatorType: author
+        tags: []
+        title: Baby-Sitting the Economy
+        date: '1998-08-14'
+        url: https://slate.com/business/1998/08/baby-sitting-the-economy.html
+        abstractNote: The baby-sitting co-op that went bust teaches us something that
+          could save the world.
+        language: en-US
+        libraryCatalog: slate.com
+        accessDate: '2026-08-09'
+        ISSN: 1091-2339
+        publicationTitle: Slate
+      title: Baby-Sitting the Economy
+      authors:
+      - last: Krugman
+        first: Paul
+      date: '1998-08-14'
+      item_type: magazineArticle
+      publisher: Slate
+      abstract: The baby-sitting co-op that went bust teaches us something that could
+        save the world.
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3msecawggcs2q
+- post_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3msiuakle522m
+  thread_root_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3msiuakle522m
+  post_url: https://bsky.app/profile/did:plc:3mkmawtelml6rwbe4g2mzyks/post/3msiuakle522m
+  post_date: '2026-08-07T15:20:55.803Z'
+  liked_at: '2026-08-08T16:57:32.676346+00:00'
+  author_handle: cynthiadunlop.bsky.social
+  author_did: did:plc:3mkmawtelml6rwbe4g2mzyks
+  post_text: Waaaay back in January, @simonwillison.net was kind enough to share his
+    thoughts on technical blogging with me. ICYMI... writethatblog.substack.com/p/simon-will...
+  links:
+  - url: https://writethatblog.substack.com/p/simon-willison-on-technical-blogging
+    source: card
+    card_title: Simon Willison on Technical Blogging
+    card_description: '"It turns out having an established blog gives you a surprising
+      amount of influence in a field"'
+    citoid:
+      raw:
+        key: BIE68YQ3
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Cynthia
+          lastName: Dunlop
+          creatorType: author
+        tags: []
+        title: Simon Willison on Technical Blogging
+        abstractNote: '"It turns out having an established blog gives you a surprising
+          amount of influence in a field"'
+        date: '2026-01-15'
+        blogTitle: Write that blog!
+        url: https://writethatblog.substack.com/p/simon-willison-on-technical-blogging
+        websiteType: Substack newsletter
+        accessDate: '2026-08-09'
+      title: Simon Willison on Technical Blogging
+      authors:
+      - last: Dunlop
+        first: Cynthia
+      date: '2026-01-15'
+      item_type: blogPost
+      publisher: Write that blog!
+      abstract: '"It turns out having an established blog gives you a surprising amount
+        of influence in a field"'
+  all_post_uris:
+  - at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3msiuakle522m
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mseock364k2w
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mseock364k2w
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3mseock364k2w
+  post_date: '2026-08-05T23:24:00.978Z'
+  liked_at: '2026-08-08T15:12:53.735351+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: 'Do chatbots just predict the next word? Here is a really, *really* nice
+    overview that is thorough but also leads you step by step (haha) through how modern
+    reasoning models work.
+
+
+    magazine.sebastianraschka.com/p/controllin...'
+  links:
+  - url: https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms
+    source: card
+    card_title: Controlling Reasoning Effort in LLMs
+    card_description: How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes
+    citoid:
+      raw:
+        key: 48IS54CY
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Sebastian Raschka
+          lastName: PhD
+          creatorType: author
+        tags: []
+        title: Controlling Reasoning Effort in LLMs
+        url: https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms
+        abstractNote: How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes
+        date: '2026-07-18'
+        language: en
+        accessDate: '2026-08-09'
+        websiteTitle: magazine.sebastianraschka.com
+      title: Controlling Reasoning Effort in LLMs
+      authors:
+      - last: PhD
+        first: Sebastian Raschka
+      date: '2026-07-18'
+      item_type: webpage
+      abstract: How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mseock364k2w
+- post_uri: at://did:plc:ybkvn6ysnlwgbmamcgljoa5r/app.bsky.feed.post/3msixukfjis2e
+  thread_root_uri: at://did:plc:ybkvn6ysnlwgbmamcgljoa5r/app.bsky.feed.post/3msixukfjis2e
+  post_url: https://bsky.app/profile/did:plc:ybkvn6ysnlwgbmamcgljoa5r/post/3msixukfjis2e
+  post_date: '2026-08-07T16:25:47.927Z'
+  liked_at: '2026-08-08T15:12:30.594343+00:00'
+  author_handle: dytsras.bsky.social
+  author_did: did:plc:ybkvn6ysnlwgbmamcgljoa5r
+  post_text: For YEARS, I been waiting for this to happen every time I watch the news
+  links: []
+  all_post_uris:
+  - at://did:plc:ybkvn6ysnlwgbmamcgljoa5r/app.bsky.feed.post/3msixukfjis2e
+- post_uri: at://did:plc:imxkpeblqqvsgmhsuoe4eycp/app.bsky.feed.post/3msiybrkd622j
+  thread_root_uri: at://did:plc:imxkpeblqqvsgmhsuoe4eycp/app.bsky.feed.post/3msiybrkd622j
+  post_url: https://bsky.app/profile/did:plc:imxkpeblqqvsgmhsuoe4eycp/post/3msiybrkd622j
+  post_date: '2026-08-07T16:33:11.633Z'
+  liked_at: '2026-08-08T15:11:56.176250+00:00'
+  author_handle: kevncmoore.bsky.social
+  author_did: did:plc:imxkpeblqqvsgmhsuoe4eycp
+  post_text: “This is not a case of go do the reading and then you can start making
+    a plan. Reading, listening, and having conversations is the plan…”
+  links:
+  - url: https://www.theamericanvandal.com/p/neuroplasticity-as-a-praxis
+    source: card
+    card_title: Neuroplasticity As A Praxis
+    card_description: We Can Read Our Way Out Of Autocracy
+    citoid:
+      raw:
+        key: A9YJIZZY
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Matt
+          lastName: Seybold
+          creatorType: author
+        tags: []
+        title: Neuroplasticity As A Praxis
+        url: https://www.theamericanvandal.com/p/neuroplasticity-as-a-praxis
+        abstractNote: We Can Read Our Way Out Of Autocracy
+        date: '2026-08-06'
+        language: en
+        accessDate: '2026-08-09'
+        websiteTitle: www.theamericanvandal.com
+      title: Neuroplasticity As A Praxis
+      authors:
+      - last: Seybold
+        first: Matt
+      date: '2026-08-06'
+      item_type: webpage
+      abstract: We Can Read Our Way Out Of Autocracy
+  all_post_uris:
+  - at://did:plc:imxkpeblqqvsgmhsuoe4eycp/app.bsky.feed.post/3msiybrkd622j
+- post_uri: at://did:plc:j4ot6uzegham4ntzr5d4rws4/app.bsky.feed.post/3msjzvl6exk2b
+  thread_root_uri: at://did:plc:j4ot6uzegham4ntzr5d4rws4/app.bsky.feed.post/3msjzvl6exk2b
+  post_url: https://bsky.app/profile/did:plc:j4ot6uzegham4ntzr5d4rws4/post/3msjzvl6exk2b
+  post_date: '2026-08-08T02:34:49.518Z'
+  liked_at: '2026-08-08T10:54:46.926197+00:00'
+  author_handle: slothropsmap.bsky.social
+  author_did: did:plc:j4ot6uzegham4ntzr5d4rws4
+  post_text: 'Just learned of Harry R Truman, a businessman so certain “geologists
+    with hair down to their butts” were wrong about Mount St Helens that he refused
+    to evacuate his lodge at the mountain’s base.
+
+
+    He became a folk hero. Hundreds of songs written in his honor. He was obliterated
+    in'
+  links:
+  - url: https://en.wikipedia.org/wiki/Harry_R._Truman
+    source: card
+    card_title: Harry R. Truman - Wikipedia
+    card_description: ''
+    citoid:
+      raw:
+        key: D9RNQNDX
+        version: 0
+        itemType: encyclopediaArticle
+        creators: []
+        tags: []
+        title: Harry R. Truman
+        rights: Creative Commons Attribution-ShareAlike License
+        encyclopediaTitle: Wikipedia
+        extra: 'Page Version ID: 1363939669'
+        url: https://en.wikipedia.org/w/index.php?title=Harry_R._Truman&oldid=1363939669
+        language: en
+        date: '2026-07-13'
+        abstractNote: 'Harry R. Truman (October 30, 1896 – May 18, 1980) was an American
+          businessman, bootlegger, and prospector. He
+
+          lived near Mount St. Helens, a dormant volcano in the Cascade Range in the
+          state of Washington, and was the owner and caretaker of Mount St. Helens
+          Lodge at Spirit Lake near the base of the mountain. After Mount St. Helens
+          awoke from dormancy in March 1980, Truman became a folk hero in the weeks
+          leading to the volcano''s May eruption, refusing to evacuate his home despite
+          repeated orders from authorities. On May 18, 1980, Truman was killed in
+          the cataclysmic eruption of Mount St. Helens by a pyroclastic flow that
+          overtook his lodge and buried the site under 150 ft (46 m) of volcanic debris.'
+        libraryCatalog: Wikipedia
+        accessDate: '2026-08-09'
+      title: Harry R. Truman
+      date: '2026-07-13'
+      item_type: encyclopediaArticle
+      abstract: 'Harry R. Truman (October 30, 1896 – May 18, 1980) was an American
+        businessman, bootlegger, and prospector. He
+
+        lived near Mount St. Helens, a dormant volcano in the Cascade Range in the
+        state of Washington, and was the owner and caretaker of Mount St. Helens Lodge
+        at Spirit Lake near the base of the mountain. After Mount St. Helens awoke
+        from dormancy in March 1980, Truman became a folk hero in the weeks leading
+        to the volcano''s May eruption, refusing to evacuate his home despite repeated
+        orders from authorities. On May 18, 1980, Truman was killed in the cataclysmic
+        eruption of Mount St. Helens by a pyroclastic flow that overtook his lodge
+        and buried the site under 150 ft (46 m) of volcanic debris.'
+  all_post_uris:
+  - at://did:plc:j4ot6uzegham4ntzr5d4rws4/app.bsky.feed.post/3msjzvl6exk2b
 - post_uri: at://did:plc:776hcssquwcv2ihpptzvttxj/app.bsky.feed.post/3msjnfuqml22t
   thread_root_uri: at://did:plc:776hcssquwcv2ihpptzvttxj/app.bsky.feed.post/3msjnfuqml22t
   post_url: https://bsky.app/profile/did:plc:776hcssquwcv2ihpptzvttxj/post/3msjnfuqml22t
