@@ -1,3 +1,223 @@
+- post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3msomizoa7k2j
+  thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3msomizoa7k2j
+  post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3msomizoa7k2j
+  post_date: '2026-08-09T22:18:28.550Z'
+  liked_at: '2026-08-10T02:03:29.892713+00:00'
+  author_handle: scientificdiscovery.dev
+  author_did: did:plc:73aicoale2mqwrap63rdzwep
+  post_text: I have found the one and only good use of Gemini and I need to stop
+  links: []
+  all_post_uris:
+  - at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3msomizoa7k2j
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3msopqorj422m
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3msopqorj422m
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3msopqorj422m
+  post_date: '2026-08-09T23:16:26.791Z'
+  liked_at: '2026-08-10T01:45:40.996810+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: they should make a star wars 2. how about one more trip around the galaxy
+    for old times’ sake. come on
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3msopqorj422m
+- post_uri: at://did:plc:zwfl6ilecusklb74e36aym4l/app.bsky.feed.post/3msoqcw2ob227
+  thread_root_uri: at://did:plc:2dwmxirmafcqfywrtbjsgbfd/app.bsky.feed.post/3msodvpqe5c2w
+  post_url: https://bsky.app/profile/did:plc:zwfl6ilecusklb74e36aym4l/post/3msoqcw2ob227
+  post_date: '2026-08-09T23:26:38.406Z'
+  liked_at: '2026-08-10T00:50:09.611699+00:00'
+  author_handle: tilmanbayer.bsky.social
+  author_did: did:plc:zwfl6ilecusklb74e36aym4l
+  post_text: '"Similar results emerge from San Francisco" - I clicked that link expecting
+    an assessment of SF''s much-debated camera rollout in recent years (nymag.com/intelligence...
+    ).
+
+    Instead it''s a 2008(!) report that found no impact on violent crime. Odd to cite
+    in an op-ed for cameras aga'
+  links:
+  - url: https://nymag.com/intelligencer/article/chris-larsen-san-francisco-cameras-surveillance.html
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: M4F7EL4T
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Lauren
+          lastName: Smiley
+          creatorType: author
+        tags: []
+        title: The Billionaire Who Wired San Francisco
+        websiteTitle: Intelligencer
+        date: '2026-05-19'
+        url: https://nymag.com/intelligencer/article/chris-larsen-san-francisco-cameras-surveillance.html
+        abstractNote: The city, post-COVID, is tougher on crime, more surveilled,
+          and more moderate. No citizen has shaped it more than Chris Larsen.
+        language: en
+        accessDate: '2026-08-10'
+      title: The Billionaire Who Wired San Francisco
+      authors:
+      - last: Smiley
+        first: Lauren
+      date: '2026-05-19'
+      item_type: webpage
+      abstract: The city, post-COVID, is tougher on crime, more surveilled, and more
+        moderate. No citizen has shaped it more than Chris Larsen.
+  all_post_uris:
+  - at://did:plc:zwfl6ilecusklb74e36aym4l/app.bsky.feed.post/3msoqcw2ob227
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msobskgz5c2x
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mso5aravuk2t
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3msobskgz5c2x
+  post_date: '2026-08-09T19:06:56.978Z'
+  liked_at: '2026-08-09T20:37:26.074529+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: this one book did tell me its military hierarchy right up front which
+    proved super useful because like page 1 was Archon so-and-so was giving a firm
+    dressing down to Assistant Prelate main character such and such. just goes to
+    show you i guess
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msobskgz5c2x
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mso5aravuk2t
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msodnhgfts2x
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msodnhgfts2x
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3msodnhgfts2x
+  post_date: '2026-08-09T19:39:53.524Z'
+  liked_at: '2026-08-09T20:30:16.176739+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: if they're drinking nounwine it's fantasy. if they're snorting a verb
+    it's sci fi
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3msodnhgfts2x
+- post_uri: at://did:plc:nevxkulynwc5m2sk4jalv4c7/app.bsky.feed.post/3msnnnqmwrk2a
+  thread_root_uri: at://did:plc:nevxkulynwc5m2sk4jalv4c7/app.bsky.feed.post/3msnnnqmwrk2a
+  post_url: https://bsky.app/profile/did:plc:nevxkulynwc5m2sk4jalv4c7/post/3msnnnqmwrk2a
+  post_date: '2026-08-09T13:06:20.854Z'
+  liked_at: '2026-08-09T19:46:34.033609+00:00'
+  author_handle: phillipcarter.dev
+  author_did: did:plc:nevxkulynwc5m2sk4jalv4c7
+  post_text: I fully subscribe to this mindset blog.senko.net/code-was-nev...
+  links:
+  - url: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
+    source: card
+    card_title: '"Code was never the hard part" is an insult to all programmers'
+    card_description: The software development profession is in the midst of upheaval.
+      Nobody knows how the AI revolution will play out in the end, but it is c...
+    citoid:
+      raw:
+        key: SLRKWPJQ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Senko
+          lastName: Rašić
+          creatorType: author
+        tags: []
+        title: '"Code was never the hard part" is an insult to all programmers'
+        websiteTitle: Senko Rašić
+        date: '2026-08-08'
+        url: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
+        abstractNote: The software development profession is in the midst of upheaval.
+          Nobody knows how the AI revolution will play out in the end, but it is c...
+        language: en
+        accessDate: '2026-08-10'
+      title: '"Code was never the hard part" is an insult to all programmers'
+      authors:
+      - last: Rašić
+        first: Senko
+      date: '2026-08-08'
+      item_type: webpage
+      abstract: The software development profession is in the midst of upheaval. Nobody
+        knows how the AI revolution will play out in the end, but it is c...
+  all_post_uris:
+  - at://did:plc:nevxkulynwc5m2sk4jalv4c7/app.bsky.feed.post/3msnnnqmwrk2a
+- post_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mslriaaxrs2s
+  thread_root_uri: at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mslriaaxrs2s
+  post_url: https://bsky.app/profile/did:plc:k4afoogb6i3eed5j2aabzli7/post/3mslriaaxrs2s
+  post_date: '2026-08-08T19:09:31.560Z'
+  liked_at: '2026-08-09T19:40:54.194529+00:00'
+  author_handle: aolteanu.bsky.social
+  author_did: did:plc:k4afoogb6i3eed5j2aabzli7
+  post_text: 'As we have discussions about e.g., “authorship quotas” for conferences
+    and “authorship when using LLMs” it may also be worth thinking about how each
+    of us approaches what authorship should entail. A few thoughts about how I think
+    about this: '
+  links:
+  - url: https://scholarly-things.leaflet.pub/3mshqmv3fjs2f
+    source: card
+    card_title: 'On (co-)authorship '
+    card_description: TL;DR — Authorship requires both earning it and being able to
+      defend the work.
+    citoid:
+      raw:
+        key: EZ5DGSA2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: On (co-)authorship - Scholarly Things
+        abstractNote: TL;DR — Authorship requires both earning it and being able to
+          defend the work.
+        url: https://scholarly-things.leaflet.pub/3mshqmv3fjs2f
+        language: en
+        accessDate: '2026-08-10'
+        websiteTitle: scholarly-things.leaflet.pub
+      title: On (co-)authorship - Scholarly Things
+      item_type: webpage
+      abstract: TL;DR — Authorship requires both earning it and being able to defend
+        the work.
+  all_post_uris:
+  - at://did:plc:k4afoogb6i3eed5j2aabzli7/app.bsky.feed.post/3mslriaaxrs2s
+- post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mso67s3urc2j
+  thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mso67s3urc2j
+  post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3mso67s3urc2j
+  post_date: '2026-08-09T18:02:46.240Z'
+  liked_at: '2026-08-09T19:04:57.764736+00:00'
+  author_handle: nsaphra.bsky.social
+  author_did: did:plc:l3vbx3e2lqnlja7q64wfrrzq
+  post_text: 'I''ve been unsettled lately when reading messages and papers. It feels
+    like I''m dissociating. Everything seems a bit alien, even if it''s completely
+    human. I''ve had a realization:
+
+
+    When our simulations finally exited the Uncanny Valley, they brought the Uncanny
+    with them.'
+  links:
+  - url: https://nsaphra.net/post/uncanny/
+    source: card
+    card_title: Life on the Uncanny Precipice | Naomi Saphra
+    card_description: We were wrong about the Uncanny Valley.
+    citoid:
+      raw:
+        key: 4R37GYWR
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Naomi
+          lastName: Saphra
+          creatorType: author
+        tags: []
+        title: Life on the Uncanny Precipice
+        websiteTitle: Naomi Saphra
+        date: '2026-08-09'
+        url: https://nsaphra.net/post/uncanny/
+        abstractNote: We were wrong about the Uncanny Valley.
+        language: en-us
+        accessDate: '2026-08-10'
+      title: Life on the Uncanny Precipice
+      authors:
+      - last: Saphra
+        first: Naomi
+      date: '2026-08-09'
+      item_type: webpage
+      abstract: We were wrong about the Uncanny Valley.
+  all_post_uris:
+  - at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mso67s3urc2j
 - post_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3msmf5yzv3s2s
   thread_root_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3msmf5yzv3s2s
   post_url: https://bsky.app/profile/did:plc:p72jkscm4rt4xuep3lzv6doh/post/3msmf5yzv3s2s
