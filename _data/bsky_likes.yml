@@ -1,3 +1,54 @@
+- post_uri: at://did:plc:bcsvlv7ubeagj5virdvatadd/app.bsky.feed.post/3msqs5cwwts2s
+  thread_root_uri: at://did:plc:bcsvlv7ubeagj5virdvatadd/app.bsky.feed.post/3msqs5cwwts2s
+  post_url: https://bsky.app/profile/did:plc:bcsvlv7ubeagj5virdvatadd/post/3msqs5cwwts2s
+  post_date: '2026-08-10T19:04:37.554Z'
+  liked_at: '2026-08-10T21:29:46.136880+00:00'
+  author_handle: rtommccoy.bsky.social
+  author_did: did:plc:bcsvlv7ubeagj5virdvatadd
+  post_text: "Just found an Easter egg on Wikipedia! \n\nOn the page for double dactyls\
+    \ (a type of poem), there's a sentence that's formatted as a normal line of text,\
+    \ but it's actually a stanza of double dactyl poetry!\n\nAnd... THE PLOT THICKENS!\n\
+    \n1/2"
+  links: []
+  all_post_uris:
+  - at://did:plc:bcsvlv7ubeagj5virdvatadd/app.bsky.feed.post/3msqs5cwwts2s
+- post_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3msqnqpjgnc2g
+  thread_root_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3msqnopik6s2g
+  post_url: https://bsky.app/profile/did:plc:wamidydbgu3u6fk3yckaglnz/post/3msqnqpjgnc2g
+  post_date: '2026-08-10T17:45:59.569Z'
+  liked_at: '2026-08-10T21:29:23.983808+00:00'
+  author_handle: philpax.me
+  author_did: did:plc:wamidydbgu3u6fk3yckaglnz
+  post_text: fuck my stupid chungus life
+  links: []
+  all_post_uris:
+  - at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3msqnqpjgnc2g
+- post_uri: at://did:plc:sv7smtmbygz6wic3sqvujfqj/app.bsky.feed.post/3msqjvyduuc2w
+  thread_root_uri: at://did:plc:sv7smtmbygz6wic3sqvujfqj/app.bsky.feed.post/3msqjvyduuc2w
+  post_url: https://bsky.app/profile/did:plc:sv7smtmbygz6wic3sqvujfqj/post/3msqjvyduuc2w
+  post_date: '2026-08-10T16:37:21.625Z'
+  liked_at: '2026-08-10T19:51:41.425003+00:00'
+  author_handle: possumacquainter.bsky.social
+  author_did: did:plc:sv7smtmbygz6wic3sqvujfqj
+  post_text: just looked up where this Le Guin quote came from, and got a truly fantastic
+    reveal
+  links: []
+  all_post_uris:
+  - at://did:plc:sv7smtmbygz6wic3sqvujfqj/app.bsky.feed.post/3msqjvyduuc2w
+- post_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msq6ymgtbk2q
+  thread_root_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msq6ymgtbk2q
+  post_url: https://bsky.app/profile/did:plc:3n5xhy6vl7smssmwxq5wgqa6/post/3msq6ymgtbk2q
+  post_date: '2026-08-10T13:21:58.646Z'
+  liked_at: '2026-08-10T15:03:55.918840+00:00'
+  author_handle: gergely.pragmaticengineer.com
+  author_did: did:plc:3n5xhy6vl7smssmwxq5wgqa6
+  post_text: "If you work in tech, you'll want to read the ~40-page short novel, Profession,\
+    \ by Isaac Asimov. \n\nIf the availability of intelligence was instant, and learning\
+    \ things the \"hard way\" was considered a waste: what would the things most valued\
+    \ by society be?\n\nHard to believe it's a 1"
+  links: []
+  all_post_uris:
+  - at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msq6ymgtbk2q
 - post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3msomizoa7k2j
   thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3msomizoa7k2j
   post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3msomizoa7k2j
