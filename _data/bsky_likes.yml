@@ -1,3 +1,150 @@
+- post_uri: at://did:plc:aknrszn6hnpdoqhdja5r2nif/app.bsky.feed.post/3msu2cbegrk2z
+  thread_root_uri: at://did:plc:aknrszn6hnpdoqhdja5r2nif/app.bsky.feed.post/3msu2cbegrk2z
+  post_url: https://bsky.app/profile/did:plc:aknrszn6hnpdoqhdja5r2nif/post/3msu2cbegrk2z
+  post_date: '2026-08-12T02:08:32.823Z'
+  liked_at: '2026-08-12T03:33:21.430227+00:00'
+  author_handle: milhistlee.bsky.social
+  author_did: did:plc:aknrszn6hnpdoqhdja5r2nif
+  post_text: 'For no reason whatsoever, I''m re-upping this piece. Ironically, written
+    earlier this very year.  You can skip ahead to the "lessons" if you''re wondering
+    what I''m talking about.
+
+    warontherocks.com/the-importan...'
+  links:
+  - url: https://warontherocks.com/the-importance-of-st-clairs-defeat/
+    source: card
+    card_title: The Importance of St. Clair’s Defeat
+    card_description: In the fall of 1791, Gen. Arthur St. Clair pushed an unready,
+      ill-trained, and poorly supplied American army of militia and regulars into
+      the woods of
+    citoid:
+      raw:
+        key: E9DE37WV
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Wayne E.
+          lastName: Lee
+          creatorType: author
+        tags: []
+        title: The Importance of St. Clair’s Defeat
+        blogTitle: War on the Rocks
+        date: '2026-02-23'
+        url: https://warontherocks.com/the-importance-of-st-clairs-defeat/
+        abstractNote: In the fall of 1791, Gen. Arthur St. Clair pushed an unready,
+          ill-trained, and poorly supplied American army of militia and regulars into
+          the woods of
+        language: en-US
+        accessDate: '2026-08-12'
+      title: The Importance of St. Clair’s Defeat
+      authors:
+      - last: Lee
+        first: Wayne E.
+      date: '2026-02-23'
+      item_type: blogPost
+      publisher: War on the Rocks
+      abstract: In the fall of 1791, Gen. Arthur St. Clair pushed an unready, ill-trained,
+        and poorly supplied American army of militia and regulars into the woods of
+  all_post_uris:
+  - at://did:plc:aknrszn6hnpdoqhdja5r2nif/app.bsky.feed.post/3msu2cbegrk2z
+- post_uri: at://did:plc:ye5vqk5rwyizerhg3r7otrh2/app.bsky.feed.post/3mrswzio3tc2e
+  thread_root_uri: at://did:plc:ye5vqk5rwyizerhg3r7otrh2/app.bsky.feed.post/3mrswzio3tc2e
+  post_url: https://bsky.app/profile/did:plc:ye5vqk5rwyizerhg3r7otrh2/post/3mrswzio3tc2e
+  post_date: '2026-07-29T22:12:05.898Z'
+  liked_at: '2026-08-11T22:04:02.445168+00:00'
+  author_handle: tk0l.bsky.social
+  author_did: did:plc:ye5vqk5rwyizerhg3r7otrh2
+  post_text: Google Search is basically useless now. A simple search for “how to win
+    an erotica writing contest between friends” gave me seven ads followed by three
+    pages of AI slop. No actual content of any value whatsoever. Dead internet theory
+    confirmed
+  links: []
+  all_post_uris:
+  - at://did:plc:ye5vqk5rwyizerhg3r7otrh2/app.bsky.feed.post/3mrswzio3tc2e
+- post_uri: at://did:plc:gsbue2dtbtqzw5du5btlh7p2/app.bsky.feed.post/3mst4zp7jbk2p
+  thread_root_uri: at://did:plc:gsbue2dtbtqzw5du5btlh7p2/app.bsky.feed.post/3mst4zp7jbk2p
+  post_url: https://bsky.app/profile/did:plc:gsbue2dtbtqzw5du5btlh7p2/post/3mst4zp7jbk2p
+  post_date: '2026-08-11T17:24:46.838Z'
+  liked_at: '2026-08-11T19:10:57.132311+00:00'
+  author_handle: alexbenzer.com
+  author_did: did:plc:gsbue2dtbtqzw5du5btlh7p2
+  post_text: 'we''re planning v2 of our standard.site integration in the bsky app
+
+
+    the goal is to make the "subscribe" button work. when you tap "subscribe" on a
+    link card, what should happen?
+
+
+    e.g.
+
+    - get notifications on bsky when new articles are published
+
+    - see new articles in a feed or sepa'
+  links:
+  - url: https://standard.site
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KKHRS6D5
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Standard.site - One schema. Every platform.
+        abstractNote: Standard.site provides shared lexicons for long-form publishing
+          on AT Protocol. Making content easier to discover, index, and move across
+          the ATmosphere.
+        url: https://standard.site/
+        language: en
+        accessDate: '2026-08-12'
+        websiteTitle: standard.site
+      title: Standard.site - One schema. Every platform.
+      item_type: webpage
+      abstract: Standard.site provides shared lexicons for long-form publishing on
+        AT Protocol. Making content easier to discover, index, and move across the
+        ATmosphere.
+  all_post_uris:
+  - at://did:plc:gsbue2dtbtqzw5du5btlh7p2/app.bsky.feed.post/3mst4zp7jbk2p
+- post_uri: at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3mssuqx4odc2f
+  thread_root_uri: at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3mssuqx4odc2f
+  post_url: https://bsky.app/profile/did:plc:qfwinostecndnbvwwunsmihi/post/3mssuqx4odc2f
+  post_date: '2026-08-11T14:56:43.208Z'
+  liked_at: '2026-08-11T19:10:16.000120+00:00'
+  author_handle: beijingpalmer.bsky.social
+  author_did: did:plc:qfwinostecndnbvwwunsmihi
+  post_text: I have several friends who moved from academia (mostly scientists) into
+    corporate life in the US or UK and every single one of them found corporate life
+    superior in management, benefits, treatment of staff, and attitudes toward work.
+  links: []
+  all_post_uris:
+  - at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3mssuqx4odc2f
+- post_uri: at://did:plc:2ahkutsbnxqjlzc5wb473ehs/app.bsky.feed.post/3mssml34cik2f
+  thread_root_uri: at://did:plc:2ahkutsbnxqjlzc5wb473ehs/app.bsky.feed.post/3mssml34cik2f
+  post_url: https://bsky.app/profile/did:plc:2ahkutsbnxqjlzc5wb473ehs/post/3mssml34cik2f
+  post_date: '2026-08-11T12:30:16.127Z'
+  liked_at: '2026-08-11T19:06:41.268155+00:00'
+  author_handle: colincarlson.bsky.social
+  author_did: did:plc:2ahkutsbnxqjlzc5wb473ehs
+  post_text: Bluesky is sort of a dark forest for discourse, where, upon encountering
+    a human being, you need to immediately try to take a kill shot. Anyway, please
+    don’t accuse me of plagiarism and demand my resignation because you imagined my
+    anti-plagiarism blog post said the opposite of w
+  links: []
+  all_post_uris:
+  - at://did:plc:2ahkutsbnxqjlzc5wb473ehs/app.bsky.feed.post/3mssml34cik2f
+- post_uri: at://did:plc:w4mumltio4x5yohskj2mo64c/app.bsky.feed.post/3msrioq2e642n
+  thread_root_uri: at://did:plc:w4mumltio4x5yohskj2mo64c/app.bsky.feed.post/3msrioq2e642n
+  post_url: https://bsky.app/profile/did:plc:w4mumltio4x5yohskj2mo64c/post/3msrioq2e642n
+  post_date: '2026-08-11T01:48:02.327441+00:00'
+  liked_at: '2026-08-11T10:38:23.554168+00:00'
+  author_handle: museum-of-twitter.bsky.social
+  author_did: did:plc:w4mumltio4x5yohskj2mo64c
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:w4mumltio4x5yohskj2mo64c/app.bsky.feed.post/3msrioq2e642n
 - post_uri: at://did:plc:bcsvlv7ubeagj5virdvatadd/app.bsky.feed.post/3msqs5cwwts2s
   thread_root_uri: at://did:plc:bcsvlv7ubeagj5virdvatadd/app.bsky.feed.post/3msqs5cwwts2s
   post_url: https://bsky.app/profile/did:plc:bcsvlv7ubeagj5virdvatadd/post/3msqs5cwwts2s
