@@ -1,3 +1,341 @@
+- post_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3msvyyxvs6k22
+  thread_root_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3msvyyxvs6k22
+  post_url: https://bsky.app/profile/did:plc:j3hiqh5g6il7vmphiyldeklv/post/3msvyyxvs6k22
+  post_date: '2026-08-12T20:50:46.645Z'
+  liked_at: '2026-08-13T02:19:56.298085+00:00'
+  author_handle: mkirschenbaum.bsky.social
+  author_did: did:plc:j3hiqh5g6il7vmphiyldeklv
+  post_text: 'I made a thing, no particular reason (personal FAQ about
+
+    my eye(s)). docs.google.com/document/d/1...'
+  links:
+  - url: https://docs.google.com/document/d/11LCOAbmJjTavp4BGkMXeho0S1sa00PJntrSGjz0l5dw/edit?usp=drivesdk
+    source: card
+    card_title: Matthew Kirschenbaum’s Eye FAQ
+    card_description: Matthew Kirschenbaum’s Eye FAQ I‘ve thought about doing this
+      for a while, it’s always seemed a little self-indulgent, but I interact with
+      enough people in enough contexts that maybe it’s useful.   Oka...
+    citoid:
+      raw:
+        key: QI6HGJHQ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Matthew Kirschenbaum Eye FAQ
+        websiteTitle: Google Docs
+        url: https://docs.google.com/document/d/11LCOAbmJjTavp4BGkMXeho0S1sa00PJntrSGjz0l5dw/edit?usp=drivesdk&usp=embed_facebook
+        abstractNote: Matthew Kirschenbaum’s Eye FAQ I‘ve thought about doing this
+          for a while, it’s always seemed a little self-indulgent, but I interact
+          with enough people in enough contexts that maybe it’s useful.   Okay, what’s
+          up with Matt’s eyes?  I have a lazy right eye, technically known as a strabismus,
+          collo...
+        language: en
+        accessDate: '2026-08-13'
+      title: Matthew Kirschenbaum Eye FAQ
+      item_type: webpage
+      abstract: Matthew Kirschenbaum’s Eye FAQ I‘ve thought about doing this for a
+        while, it’s always seemed a little self-indulgent, but I interact with enough
+        people in enough contexts that maybe it’s useful.   Okay, what’s up with Matt’s
+        eyes?  I have a lazy right eye, technically known as a strabismus, collo...
+  all_post_uris:
+  - at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3msvyyxvs6k22
+- post_uri: at://did:plc:nvfznp5ls3wcf6aktlfkfkp3/app.bsky.feed.post/3msvzawigks26
+  thread_root_uri: at://did:plc:nvfznp5ls3wcf6aktlfkfkp3/app.bsky.feed.post/3msvzawigks26
+  post_url: https://bsky.app/profile/did:plc:nvfznp5ls3wcf6aktlfkfkp3/post/3msvzawigks26
+  post_date: '2026-08-12T20:55:13.599Z'
+  liked_at: '2026-08-12T21:41:41.102007+00:00'
+  author_handle: erinbiba.bsky.social
+  author_did: did:plc:nvfznp5ls3wcf6aktlfkfkp3
+  post_text: ICYMI, the Dobby grave story was completely fake. Like, just, totally
+    not true in any way.
+  links:
+  - url: https://www.todayintabs.com/p/dobby-s-grave-not-at-risk-from-the-greenlink-interconnector-project-also-not-real?_bhlid=b3c8d08429c32ee45129a2b84af4e32b735c6cb2
+    source: thread
+    card_title: Dobby's Grave Not At Risk From The Greenlink Interconnector Project,
+      Also Not Real
+    card_description: Harry Potter Adults are still the worst but not because of what
+      they're currently being blamed for.
+    citoid:
+      raw:
+        key: D4VFQRD9
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Rusty
+          lastName: Foster
+          creatorType: author
+        tags: []
+        title: Dobby's Grave Not At Risk From The Greenlink Interconnector Project,
+          Also Not Real
+        websiteTitle: Today in Tabs
+        date: '2026-08-11'
+        url: https://www.todayintabs.com/p/dobby-s-grave-not-at-risk-from-the-greenlink-interconnector-project-also-not-real
+        abstractNote: Harry Potter Adults are still the worst but not because of what
+          they're currently being blamed for.
+        language: en
+        accessDate: '2026-08-13'
+      title: Dobby's Grave Not At Risk From The Greenlink Interconnector Project,
+        Also Not Real
+      authors:
+      - last: Foster
+        first: Rusty
+      date: '2026-08-11'
+      item_type: webpage
+      abstract: Harry Potter Adults are still the worst but not because of what they're
+        currently being blamed for.
+  - url: https://www.patreon.com/rebecca/posts/dobby-grave-is-166521289?pr=true
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: VFE49KEU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The Dobby Grave Story is Probably True, Actually | Rebecca Watson
+        websiteTitle: Patreon
+        date: '2026-08-12'
+        url: https://www.patreon.com/rebecca/posts/dobby-grave-is-166521289
+        abstractNote: 'Well patrons, this was going to go up Friday but screw it,
+          I''ll just make it live now while people are interested. Enjoy! Transcript:
+          Okay,'
+        language: en-US
+        accessDate: '2026-08-13'
+      title: The Dobby Grave Story is Probably True, Actually | Rebecca Watson
+      date: '2026-08-12'
+      item_type: webpage
+      abstract: 'Well patrons, this was going to go up Friday but screw it, I''ll
+        just make it live now while people are interested. Enjoy! Transcript: Okay,'
+  all_post_uris:
+  - at://did:plc:nvfznp5ls3wcf6aktlfkfkp3/app.bsky.feed.post/3msvzawigks26
+- post_uri: at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3msvj25hank2m
+  thread_root_uri: at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3msvj25hank2m
+  post_url: https://bsky.app/profile/did:plc:7mgsw35jszx6w2z3sqfd4otp/post/3msvj25hank2m
+  post_date: '2026-08-12T16:05:06.144Z'
+  liked_at: '2026-08-12T21:31:21.053026+00:00'
+  author_handle: laufer.bsky.social
+  author_did: did:plc:7mgsw35jszx6w2z3sqfd4otp
+  post_text: 'As a researcher, every day I think about questions I don’t have the
+    answer to. It used to be that most of them just weren’t worth answering because
+    they’d take too much time and resources. I think AI is changing that.
+
+
+    Here’s one example: what is the best way to cut an onion?'
+  links: []
+  all_post_uris:
+  - at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3msvj25hank2m
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3msvs2hxmvc23
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3msvs2hxmvc23
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3msvs2hxmvc23
+  post_date: '2026-08-12T18:46:24.720Z'
+  liked_at: '2026-08-12T18:51:47.485570+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: 'For the past six months @mariaa.bsky.social and I have been working
+    on creating an improved research experience on atproto. It''s now live! Check
+    out: lea.ac'
+  links:
+  - url: https://leaflet.pub/p/did:plc:5wm25vgenhgut3iqfjf4ozj5/3msvs2gzd622x
+    source: card
+    card_title: 'Lea: research-oriented social media'
+    card_description: Introducing a beta-version of our new research-focused social
+      media platform
+    citoid:
+      raw:
+        key: RQDNTURZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Lea: research-oriented social media'
+        abstractNote: Introducing a beta-version of our new research-focused social
+          media platform
+        url: https://leaflet.pub/p/did:plc:5wm25vgenhgut3iqfjf4ozj5/3msvs2gzd622x
+        language: en
+        accessDate: '2026-08-13'
+        shortTitle: Lea
+        websiteTitle: leaflet.pub
+      title: 'Lea: research-oriented social media'
+      item_type: webpage
+      abstract: Introducing a beta-version of our new research-focused social media
+        platform
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3msvs2hxmvc23
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3msut4vbmg22d
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3msut4vbmg22d
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3msut4vbmg22d
+  post_date: '2026-08-12T09:32:55.920Z'
+  liked_at: '2026-08-12T17:29:24.932434+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: It is kinda funny that some of the objections here really are that people
+    will live in the homes to which, like, fair
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3msut4vbmg22d
+- post_uri: at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3msuzqz4od22d
+  thread_root_uri: at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3msuzqz4od22d
+  post_url: https://bsky.app/profile/did:plc:7rr5pfsh3l4b5qv64h47za4a/post/3msuzqz4od22d
+  post_date: '2026-08-12T11:31:33.490Z'
+  liked_at: '2026-08-12T13:50:36.012470+00:00'
+  author_handle: acerbialberto.com
+  author_did: did:plc:7rr5pfsh3l4b5qv64h47za4a
+  post_text: 'This pattern often noticed for cars seems to hold also for furniture...
+
+
+    from: europeancorrespondent.com/en/r/how-col...'
+  links:
+  - url: https://europeancorrespondent.com/en/r/how-colour-drained-from-our-furniture
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: WBFWTCWP
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Toon
+          lastName: Vos
+          creatorType: author
+        tags: []
+        title: How colour drained from our furniture
+        websiteTitle: The European Correspondent
+        date: '2026-07-28'
+        url: https://europeancorrespondent.com/en/r/how-colour-drained-from-our-furniture
+        abstractNote: 'I''m moving apartments. As I was packing up, I found myself
+          looking at my grey IKEA couch: the L-shaped one that can be turned into
+          a bed. Why did I buy such a…'
+        language: en-GB
+        accessDate: '2026-08-13'
+      title: How colour drained from our furniture
+      authors:
+      - last: Vos
+        first: Toon
+      date: '2026-07-28'
+      item_type: webpage
+      abstract: 'I''m moving apartments. As I was packing up, I found myself looking
+        at my grey IKEA couch: the L-shaped one that can be turned into a bed. Why
+        did I buy such a…'
+  all_post_uris:
+  - at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3msuzqz4od22d
+- post_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msv2c4njcs2u
+  thread_root_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msv2c4njcs2u
+  post_url: https://bsky.app/profile/did:plc:3n5xhy6vl7smssmwxq5wgqa6/post/3msv2c4njcs2u
+  post_date: '2026-08-12T11:41:07.609Z'
+  liked_at: '2026-08-12T13:49:24.654398+00:00'
+  author_handle: gergely.pragmaticengineer.com
+  author_did: did:plc:3n5xhy6vl7smssmwxq5wgqa6
+  post_text: I’m used to AI slop on LinkedIn, but not to AI slop by folks with impressive
+    professional background. Saw a fully AI-written post from an ex-VPE at Microsoft
+    (15 years there) and decided to say what many think when they see AI nonsense,
+    but usually just scroll by.
+  links:
+  - url: https://www.linkedin.com/feed/update/urn:li:activity:7492965599816527872/?dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287493249154538704896%2Curn%3Ali%3Aactivity%3A7492965599816527872%29
+    source: thread
+    card_title: 'I ship like a ten-person team. There is no team. It&#39;s me and
+      a fleet of AI agents, and the hardest part was admitting the old way of scaling
+      was the thing holding me back.
+
+
+      For most of my career… ...'
+    card_description: 'I ship like a ten-person team. There is no team. It''s me and
+      a fleet of AI agents, and the hardest part was admitting the old way of scaling
+      was the thing holding me back.
+
+
+      For most of my career, more...'
+    citoid:
+      raw:
+        key: 32LAP3BZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: I ship like a ten-person team. There is no team. It&#39;s me and a
+          fleet of AI agents, and the hardest part was admitting the old way of scaling
+          was the thing holding me back. For most of my career… | Mark Alcazar | 32
+          comments
+        websiteTitle: LinkedIn
+        url: https://www.linkedin.com/posts/mark-alcazar-sea_i-ship-like-a-ten-person-team-there-is-no-activity-7492965599816527872-yc8t
+        abstractNote: "I ship like a ten-person team. There is no team. It's me and\
+          \ a fleet of AI agents, and the hardest part was admitting the old way of\
+          \ scaling was the thing holding me back.\n\nFor most of my career, more\
+          \ output meant more people. That was the only lever I knew. Now I run coding\
+          \ agents side by side, each on its own sealed copy of the code, each building\
+          \ a different piece of the same product. I kick off the foundational one,\
+          \ and once it lands, the rest run in parallel. I started with three of these\
+          \ running at a time. Then five. On a normal day now there are twelve to\
+          \ fifteen open.\n\nThe part that makes it work isn't the speed. It's the\
+          \ orchestration. Every agent works in its own branch so they never trip\
+          \ over each other. Every change gets reviewed before it merges, first by\
+          \ one AI, then by a second one whose only job is to try to break the first\
+          \ one's work. I plan with the most capable model, build with a cheaper and\
+          \ faster one, and review with the expensive one again. I start jobs running\
+          \ before I go to bed and check them from my phone in the morning. \n\nNone\
+          \ of that is about typing code faster. The machine already does that. It's\
+          \ about being the one person who holds the whole picture: what to build,\
+          \ how it should feel, and whether it's actually safe to ship. The agents\
+          \ do the work. I do the judgment. Judgment is the part that was never going\
+          \ to scale by hiring.\n\nThis is what most CEOs miss when they think about\
+          \ AI and headcount. The win isn't swapping engineers for a tool. It's that\
+          \ one experienced operator can direct a fleet and ship at a pace that used\
+          \ to need a whole team, without the coordination cost that quietly eats\
+          \ most of a team's output before any of it reaches a customer.\n\nI'll be\
+          \ straight about the limit too. The bottleneck now is me, and it isn't how\
+          \ many agents I can run. It's how many I can hold in my head at once, which\
+          \ is nine, maybe eleven. Some stall. Some go quiet. The number of agents\
+          \ working underneath that is higher and I've stopped counting it, because\
+          \ the agents were never the constraint. A year ago I'd have told you the\
+          \ number I could hold was zero.\n\nSo the real question for your business\
+          \ isn't how many people you need to hire to move faster. It's whether anyone\
+          \ on your team knows how to run this. That skill, not the tool, is what's\
+          \ about to separate the companies that pull ahead from the ones still scaling\
+          \ the old way. | 32 comments on LinkedIn"
+        language: en
+        accessDate: '2026-08-13'
+      title: I ship like a ten-person team. There is no team. It&#39;s me and a fleet
+        of AI agents, and the hardest part was admitting the old way of scaling was
+        the thing holding me back. For most of my career… | Mark Alcazar | 32 comments
+      item_type: webpage
+      abstract: "I ship like a ten-person team. There is no team. It's me and a fleet\
+        \ of AI agents, and the hardest part was admitting the old way of scaling\
+        \ was the thing holding me back.\n\nFor most of my career, more output meant\
+        \ more people. That was the only lever I knew. Now I run coding agents side\
+        \ by side, each on its own sealed copy of the code, each building a different\
+        \ piece of the same product. I kick off the foundational one, and once it\
+        \ lands, the rest run in parallel. I started with three of these running at\
+        \ a time. Then five. On a normal day now there are twelve to fifteen open.\n\
+        \nThe part that makes it work isn't the speed. It's the orchestration. Every\
+        \ agent works in its own branch so they never trip over each other. Every\
+        \ change gets reviewed before it merges, first by one AI, then by a second\
+        \ one whose only job is to try to break the first one's work. I plan with\
+        \ the most capable model, build with a cheaper and faster one, and review\
+        \ with the expensive one again. I start jobs running before I go to bed and\
+        \ check them from my phone in the morning. \n\nNone of that is about typing\
+        \ code faster. The machine already does that. It's about being the one person\
+        \ who holds the whole picture: what to build, how it should feel, and whether\
+        \ it's actually safe to ship. The agents do the work. I do the judgment. Judgment\
+        \ is the part that was never going to scale by hiring.\n\nThis is what most\
+        \ CEOs miss when they think about AI and headcount. The win isn't swapping\
+        \ engineers for a tool. It's that one experienced operator can direct a fleet\
+        \ and ship at a pace that used to need a whole team, without the coordination\
+        \ cost that quietly eats most of a team's output before any of it reaches\
+        \ a customer.\n\nI'll be straight about the limit too. The bottleneck now\
+        \ is me, and it isn't how many agents I can run. It's how many I can hold\
+        \ in my head at once, which is nine, maybe eleven. Some stall. Some go quiet.\
+        \ The number of agents working underneath that is higher and I've stopped\
+        \ counting it, because the agents were never the constraint. A year ago I'd\
+        \ have told you the number I could hold was zero.\n\nSo the real question\
+        \ for your business isn't how many people you need to hire to move faster.\
+        \ It's whether anyone on your team knows how to run this. That skill, not\
+        \ the tool, is what's about to separate the companies that pull ahead from\
+        \ the ones still scaling the old way. | 32 comments on LinkedIn"
+  all_post_uris:
+  - at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3msv2c4njcs2u
 - post_uri: at://did:plc:aknrszn6hnpdoqhdja5r2nif/app.bsky.feed.post/3msu2cbegrk2z
   thread_root_uri: at://did:plc:aknrszn6hnpdoqhdja5r2nif/app.bsky.feed.post/3msu2cbegrk2z
   post_url: https://bsky.app/profile/did:plc:aknrszn6hnpdoqhdja5r2nif/post/3msu2cbegrk2z

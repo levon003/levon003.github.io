@@ -1,6 +1,6 @@
-entries_with_links: 2245
-total_links: 2768
-unique_domains: 932
+entries_with_links: 2250
+total_links: 2774
+unique_domains: 933
 top_domains:
 - domain: arxiv.org
   count: 233
@@ -50,6 +50,6 @@ top_accounts:
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
   count: 25
-- handle: sungkim.bsky.social
-  did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+- handle: eugenevinitsky.bsky.social
+  did: did:plc:5wm25vgenhgut3iqfjf4ozj5
   count: 22
