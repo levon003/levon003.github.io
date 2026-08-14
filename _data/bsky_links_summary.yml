@@ -1,6 +1,6 @@
-entries_with_links: 2250
-total_links: 2774
-unique_domains: 933
+entries_with_links: 2251
+total_links: 2776
+unique_domains: 934
 top_domains:
 - domain: arxiv.org
   count: 233
@@ -17,7 +17,7 @@ top_domains:
 - domain: acm.org
   count: 53
 - domain: nytimes.com
-  count: 40
+  count: 41
 - domain: huggingface.co
   count: 36
 - domain: youtube.com
