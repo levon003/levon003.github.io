@@ -1,11 +1,11 @@
-entries_with_links: 2251
-total_links: 2776
+entries_with_links: 2254
+total_links: 2780
 unique_domains: 934
 top_domains:
 - domain: arxiv.org
   count: 233
 - domain: substack.com
-  count: 160
+  count: 161
 - domain: github.com
   count: 84
 - domain: github.io
@@ -19,7 +19,7 @@ top_domains:
 - domain: nytimes.com
   count: 41
 - domain: huggingface.co
-  count: 36
+  count: 37
 - domain: youtube.com
   count: 36
 top_accounts:
@@ -28,7 +28,7 @@ top_accounts:
   count: 67
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 60
+  count: 61
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 34
