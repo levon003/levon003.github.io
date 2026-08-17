@@ -1,3 +1,62 @@
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mta6urbgf22b
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mta6urbgf22b
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mta6urbgf22b
+  post_date: '2026-08-16T22:02:25.308Z'
+  liked_at: '2026-08-16T23:03:30.305368+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: Heees my review of Qwen 3.8 27B - I can't remember the last time I've
+    had this much fun playing with a local model that runs on my own computers simonwillison.net/2026/Aug/16/...
+  links:
+  - url: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+    source: card
+    card_title: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking
+      things
+    card_description: 'Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed
+      27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve been
+      looking forward to this one: 27B is an …'
+    citoid:
+      raw:
+        key: 8HQBC8XP
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+        abstractNote: 'Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed
+          27B parameter vision-capable LLM from Alibaba’s Qwen research lab. I’ve
+          been looking forward to this one: 27B is an …'
+        language: en-gb
+        accessDate: '2026-08-17'
+      title: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: 'Friday’s big release was Qwen 3.8 27B, an Apache 2 licensed 27B parameter
+        vision-capable LLM from Alibaba’s Qwen research lab. I’ve been looking forward
+        to this one: 27B is an …'
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mta6urbgf22b
+- post_uri: at://did:plc:h5zkfkc35wkb53udnemrica5/app.bsky.feed.post/3mt5zzwtq5c2z
+  thread_root_uri: at://did:plc:h5zkfkc35wkb53udnemrica5/app.bsky.feed.post/3mt5zzwtq5c2z
+  post_url: https://bsky.app/profile/did:plc:h5zkfkc35wkb53udnemrica5/post/3mt5zzwtq5c2z
+  post_date: '2026-08-16T01:30:30.737Z'
+  liked_at: '2026-08-16T12:08:41.466135+00:00'
+  author_handle: olufemiotaiwo.bsky.social
+  author_did: did:plc:h5zkfkc35wkb53udnemrica5
+  post_text: 'Plenty to reflect about re: the Arday affair, but I''m going to repeat
+    this one thing. The playbook the right used here is effective even though it''s
+    not especially sophisticated, as it relies on the audience to do the dirty work.
+    I''ve been calling it "Trojan horse propaganda", le'
+  links: []
+  all_post_uris:
+  - at://did:plc:h5zkfkc35wkb53udnemrica5/app.bsky.feed.post/3mt5zzwtq5c2z
 - post_uri: at://did:plc:dpd5ebag7fdclhh77xqgbtel/app.bsky.feed.post/3mt5k3bmqw22n
   thread_root_uri: at://did:plc:dpd5ebag7fdclhh77xqgbtel/app.bsky.feed.post/3mt5k3bmqw22n
   post_url: https://bsky.app/profile/did:plc:dpd5ebag7fdclhh77xqgbtel/post/3mt5k3bmqw22n
