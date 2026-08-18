@@ -1,3 +1,379 @@
+- post_uri: at://did:plc:25cztqjrqfedqg22bpoqjljr/app.bsky.feed.post/3mt7ooczjcc2i
+  thread_root_uri: at://did:plc:25cztqjrqfedqg22bpoqjljr/app.bsky.feed.post/3mt7ooczjcc2i
+  post_url: https://bsky.app/profile/did:plc:25cztqjrqfedqg22bpoqjljr/post/3mt7ooczjcc2i
+  post_date: '2026-08-16T17:12:29.165Z'
+  liked_at: '2026-08-18T05:41:44.267612+00:00'
+  author_handle: adambonica.bsky.social
+  author_did: did:plc:25cztqjrqfedqg22bpoqjljr
+  post_text: 'The fundraising texts you delete are working on someone. It’s infuriating
+    and heartbreaking.
+
+
+    An 85yo in Ohio gave more than double the value of his home. A 91yo in an Indianapolis
+    senior facility gave 25K times.
+
+
+    The DCCC/DSCC don’t just tolerate the spammers who exploit seniors'
+  links:
+  - url: https://data4democracy.substack.com/p/hook-and-squeeze
+    source: card
+    card_title: Hook and Squeeze
+    card_description: How Democratic consultants, committees, and party leaders built
+      a fundraising spam pipeline that funnels money from a captive pool of elderly
+      donors into their own operations.
+    citoid:
+      raw:
+        key: HBY45E8T
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Adam
+          lastName: Bonica
+          creatorType: author
+        tags: []
+        title: Hook and Squeeze
+        abstractNote: How Democratic consultants, committees, and party leaders built
+          a fundraising spam pipeline that funnels money from a captive pool of elderly
+          donors into their own operations.
+        date: '2026-08-16'
+        blogTitle: On Data and Democracy
+        url: https://data4democracy.substack.com/p/hook-and-squeeze
+        websiteType: Substack newsletter
+        accessDate: '2026-08-18'
+      title: Hook and Squeeze
+      authors:
+      - last: Bonica
+        first: Adam
+      date: '2026-08-16'
+      item_type: blogPost
+      publisher: On Data and Democracy
+      abstract: How Democratic consultants, committees, and party leaders built a
+        fundraising spam pipeline that funnels money from a captive pool of elderly
+        donors into their own operations.
+  all_post_uris:
+  - at://did:plc:25cztqjrqfedqg22bpoqjljr/app.bsky.feed.post/3mt7ooczjcc2i
+- post_uri: at://did:plc:v3dw6uk5rgumrpny2kpk6fra/app.bsky.feed.post/3mt7g5zs4o22d
+  thread_root_uri: at://did:plc:v3dw6uk5rgumrpny2kpk6fra/app.bsky.feed.post/3mt7g5zs4o22d
+  post_url: https://bsky.app/profile/did:plc:v3dw6uk5rgumrpny2kpk6fra/post/3mt7g5zs4o22d
+  post_date: '2026-08-16T14:40:12.689Z'
+  liked_at: '2026-08-18T01:13:47.391481+00:00'
+  author_handle: kevincarey1.bsky.social
+  author_did: did:plc:v3dw6uk5rgumrpny2kpk6fra
+  post_text: "Hard to argue with the first-hand experience of a UC math professor\
+    \ that the system made a bad mistake by banning the use of standardized math tests\
+    \ in admissions. \n\nsfstandard.com/opinion/2026..."
+  links:
+  - url: https://sfstandard.com/opinion/2026/08/15/uc-berkeley-sat-test-blind-admissions-math-scores/?taid=6a80b8291a40190001c5e139
+    source: card
+    card_title: 'Opinion: I teach calculus at Berkeley. Some of my students can’t
+      do middle school math'
+    card_description: Since the University of California abandoned the SAT and ACT,
+      thousands of faculty say it’s admitting students who aren’t prepared for the
+      coursework. Will UC listen?
+    citoid:
+      raw:
+        key: 7YYZDCJ2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Opinion: I teach calculus at Berkeley. Some of my students can’t do
+          middle school math'
+        url: https://sfstandard.com/opinion/2026/08/15/uc-berkeley-sat-test-blind-admissions-math-scores/
+        abstractNote: Since the University of California abandoned the SAT and ACT,
+          thousands of faculty say it’s admitting students who aren’t prepared for
+          the coursework. Will UC listen?
+        date: '2026-08-15'
+        language: en
+        accessDate: '2026-08-18'
+        shortTitle: Opinion
+        websiteTitle: sfstandard.com
+      title: 'Opinion: I teach calculus at Berkeley. Some of my students can’t do
+        middle school math'
+      date: '2026-08-15'
+      item_type: webpage
+      abstract: Since the University of California abandoned the SAT and ACT, thousands
+        of faculty say it’s admitting students who aren’t prepared for the coursework.
+        Will UC listen?
+  all_post_uris:
+  - at://did:plc:v3dw6uk5rgumrpny2kpk6fra/app.bsky.feed.post/3mt7g5zs4o22d
+- post_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtcs6tcctk2b
+  thread_root_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtcs6tcctk2b
+  post_url: https://bsky.app/profile/did:plc:2mrgzk6xlemfv6yugn644xxy/post/3mtcs6tcctk2b
+  post_date: '2026-08-17T22:53:23.549Z'
+  liked_at: '2026-08-18T00:07:30.195471+00:00'
+  author_handle: danluu.com
+  author_did: did:plc:2mrgzk6xlemfv6yugn644xxy
+  post_text: 'The benchmarkpocalypse:
+
+
+    danluu.com/benchpocalyp...'
+  links:
+  - url: https://danluu.com/benchpocalypse/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: HCLQLUBA
+        version: 0
+        itemType: webpage
+        url: https://danluu.com/benchpocalypse/
+        title: The benchmarkpocalypse
+        accessDate: '2026-08-18'
+        websiteTitle: danluu.com
+      title: The benchmarkpocalypse
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtcs6tcctk2b
+- post_uri: at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtchntaguc2c
+  thread_root_uri: at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtchntaguc2c
+  post_url: https://bsky.app/profile/did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/post/3mtchntaguc2c
+  post_date: '2026-08-17T19:44:55.645Z'
+  liked_at: '2026-08-17T20:15:52.345277+00:00'
+  author_handle: proptermalone.bsky.social
+  author_did: did:plc:e6n7jxtu2qrhwvp3j6ib6sq6
+  post_text: 'it''s the engineer problem: people who do Applied X often wind up with
+    weird and idiosyncratic views because they have to navigate through problems where
+    their professional dogma is either incorrect or misapplied, which blows their
+    faith in dogma full stop'
+  links: []
+  all_post_uris:
+  - at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtchntaguc2c
+- post_uri: at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mt64daa4vk26
+  thread_root_uri: at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mt64daa4vk26
+  post_url: https://bsky.app/profile/did:plc:yrt5gwlcn3kn4xgeoef4hbpy/post/3mt64daa4vk26
+  post_date: '2026-08-16T02:11:30.052Z'
+  liked_at: '2026-08-17T17:46:34.814264+00:00'
+  author_handle: dmnd.me
+  author_did: did:plc:yrt5gwlcn3kn4xgeoef4hbpy
+  post_text: There is a lot going on in this story, but my first reaction is I don’t
+    think this is what Jesus had in mind
+  links:
+  - url: https://on.wsj.com/4xDn22U
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 925DH7ZL
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Erich
+          lastName: Schwartzel
+          creatorType: author
+        tags:
+        - tag: bfe-mustread
+          type: 1
+        - tag: summary bullets
+          type: 1
+        - tag: leder
+          type: 1
+        - tag: Computer Services
+          type: 1
+        - tag: Business/Consumer Services
+          type: 1
+        - tag: Data Centers/Colocation Services
+          type: 1
+        - tag: Data Services
+          type: 1
+        - tag: Dragonfly - North America
+          type: 1
+        - tag: Dragonfly - World
+          type: 1
+        - tag: North America
+          type: 1
+        - tag: United States
+          type: 1
+        - tag: Kentucky
+          type: 1
+        - tag: Southern U.S.
+          type: 1
+        - tag: Corporate Crime/Legal Action
+          type: 1
+        - tag: Corporate/Industrial News
+          type: 1
+        - tag: Political/General News
+          type: 1
+        - tag: Crime/Legal Action
+          type: 1
+        - tag: Content Types
+          type: 1
+        - tag: Factiva Filters
+          type: 1
+        - tag: C&E Executive News Filter
+          type: 1
+        - tag: C&E Industry News Filter
+          type: 1
+        - tag: Risk Topics - Artificial Intelligence
+          type: 1
+        - tag: Risk Topics
+          type: 1
+        - tag: Risk Topics - Reputation & Ethics
+          type: 1
+        - tag: summary_bullets
+          type: 1
+        - tag: SYND
+          type: 1
+        - tag: WSJ-PRO-WSJ.com
+          type: 1
+        - tag: GCAPI
+          type: 1
+        - tag: LINK:EN|drn:realtime.linkedarticle.DNCO20260817000528
+          type: 1
+        - tag: LINK|i5-WP-WSJ-0003767862
+          type: 1
+        - tag: corporate crime
+          type: 1
+        - tag: legal action
+          type: 1
+        - tag: corporate
+          type: 1
+        - tag: industrial news
+          type: 1
+        - tag: political
+          type: 1
+        - tag: general news
+          type: 1
+        - tag: crime
+          type: 1
+        - tag: business
+          type: 1
+        - tag: consumer services
+          type: 1
+        - tag: data centers
+          type: 1
+        - tag: colocation services
+          type: 1
+        title: The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center
+        publicationTitle: Wall Street Journal
+        section: US
+        date: '2026-08-16'
+        url: https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16
+        abstractNote: A Kentucky mother and daughter turned down a life-changing offer
+          for their farmland. The ensuing drama has left the town divided.
+        language: en-US
+        libraryCatalog: www.wsj.com
+        accessDate: '2026-08-18'
+        ISSN: 0099-9660
+      title: The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center
+      authors:
+      - last: Schwartzel
+        first: Erich
+      date: '2026-08-16'
+      item_type: newspaperArticle
+      publisher: Wall Street Journal
+      abstract: A Kentucky mother and daughter turned down a life-changing offer for
+        their farmland. The ensuing drama has left the town divided.
+  all_post_uris:
+  - at://did:plc:yrt5gwlcn3kn4xgeoef4hbpy/app.bsky.feed.post/3mt64daa4vk26
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mtbwozofbc2p
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mtbwozofbc2p
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mtbwozofbc2p
+  post_date: '2026-08-17T14:41:22.338Z'
+  liked_at: '2026-08-17T16:24:10.412342+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: When a bunch if people start saying "If we simply eliminate the parasitic
+    segment of the population causing all our problems, everything will get better"
+    you're definitely about to fix society and nothing bad will probably happen
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mtbwozofbc2p
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mtbxj5hh2s2q
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mtbxj5hh2s2q
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mtbxj5hh2s2q
+  post_date: '2026-08-17T14:55:58.719Z'
+  liked_at: '2026-08-17T16:19:56.076263+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: great investigation. in my view destroying the books is basically fine,
+    amazon won't lose the scans. I just wish they were all put online for free. oh
+    well, they will be eventually
+  links:
+  - url: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: EELGMUCZ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Emanuel
+          lastName: Maiberg ·
+          creatorType: author
+        tags: []
+        title: We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training
+          Facility
+        websiteTitle: 404 Media
+        date: '2026-08-17'
+        url: https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/
+        abstractNote: We placed a tracking device in a shipment of rare books to see
+          which AI company was buying it, and found an Amazon facility where Amazon
+          scans and destroys books.
+        language: en
+        accessDate: '2026-08-18'
+      title: We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training
+        Facility
+      authors:
+      - last: Maiberg ·
+        first: Emanuel
+      date: '2026-08-17'
+      item_type: webpage
+      abstract: We placed a tracking device in a shipment of rare books to see which
+        AI company was buying it, and found an Amazon facility where Amazon scans
+        and destroys books.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mtbxj5hh2s2q
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mtaylcjhd22c
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mtaylcjhd22c
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3mtaylcjhd22c
+  post_date: '2026-08-17T05:42:25.140Z'
+  liked_at: '2026-08-17T13:47:59.006261+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: The Recurring Speed Camera Discourse is a bit exasperating really because,
+    look, we all know what's actually happening is people just want to be able to
+    commit the pertinent crimes and don't like being punished for it, but people come
+    up with obvious post-hoc pseudo-woke rational
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mtaylcjhd22c
+- post_uri: at://did:plc:dl5wrgqu2qqhmdf3flsylvhc/app.bsky.feed.post/3mtbnfbymk22m
+  thread_root_uri: at://did:plc:dl5wrgqu2qqhmdf3flsylvhc/app.bsky.feed.post/3mtbnfbymk22m
+  post_url: https://bsky.app/profile/did:plc:dl5wrgqu2qqhmdf3flsylvhc/post/3mtbnfbymk22m
+  post_date: '2026-08-17T11:54:51.841Z'
+  liked_at: '2026-08-17T13:44:31.179410+00:00'
+  author_handle: economeager.bsky.social
+  author_did: did:plc:dl5wrgqu2qqhmdf3flsylvhc
+  post_text: I finally saw Children of Men (2006) and it is indeed one of the best
+    films ever made! even with all the hype it vastly exceeded my expectations. insane.
+    immediate top 10 entry for me, I think. like this is what cinema is for. what
+    a day. what a day.
+  links:
+  - url: https://web.archive.org/web/20140417170859/http://news.moviefone.com/2006/12/25/interview-children-ofmen-director-alfonso-cuaron/
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:dl5wrgqu2qqhmdf3flsylvhc/app.bsky.feed.post/3mtbnfbymk22m
+- post_uri: at://did:plc:pekm6mvxoate2nvw2rwbiy47/app.bsky.feed.post/3mta6ztck7k2o
+  thread_root_uri: at://did:plc:pekm6mvxoate2nvw2rwbiy47/app.bsky.feed.post/3mta6ztck7k2o
+  post_url: https://bsky.app/profile/did:plc:pekm6mvxoate2nvw2rwbiy47/post/3mta6ztck7k2o
+  post_date: '2026-08-16T22:05:15.214Z'
+  liked_at: '2026-08-17T13:18:44.678377+00:00'
+  author_handle: phdemetri.bsky.social
+  author_did: did:plc:pekm6mvxoate2nvw2rwbiy47
+  post_text: Blog is becoming less a place for me to write, and more a place for me
+    to generate stuff to remember.
+  links: []
+  all_post_uris:
+  - at://did:plc:pekm6mvxoate2nvw2rwbiy47/app.bsky.feed.post/3mta6ztck7k2o
 - post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mta6urbgf22b
   thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mta6urbgf22b
   post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mta6urbgf22b
