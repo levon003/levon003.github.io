@@ -1,3 +1,55 @@
+- post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mtfegwg64s2o
+  thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mtfegwg64s2o
+  post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3mtfegwg64s2o
+  post_date: '2026-08-18T23:25:22.081Z'
+  liked_at: '2026-08-19T04:17:49.308592+00:00'
+  author_handle: jbakcoleman.bsky.social
+  author_did: did:plc:y7e3mcqeuzcgvagpds5ixywn
+  post_text: "Must read piece from @natematias.bsky.social, telling the story of a\
+    \ researcher who had to weigh deportation alongside the usual\nrisks, benefits\
+    \ and costs of publishing research. \n\nThe piece is a hopeful one, however, showcasing\
+    \ effective efforts to prevent censorship. \n\nblog.ucs"
+  links:
+  - url: https://blog.ucs.org/guest-commentary/protecting-science-from-government-intimidation/
+    source: card
+    card_title: "\n\t\t  Protecting Science from Government Intimidation - Union of\
+      \ Concerned Scientists \n\t"
+    card_description: ''
+    citoid:
+      raw:
+        url: https://blog.ucs.org/guest-commentary/protecting-science-from-government-intimidation/
+        itemType: webpage
+        title: Protecting Science from Government Intimidation - Union of Concerned
+          Scientists
+        language: en-US
+        accessDate: '2026-08-19'
+        websiteTitle: blog.ucs.org
+      title: Protecting Science from Government Intimidation - Union of Concerned
+        Scientists
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mtfegwg64s2o
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtfbevgirs2w
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtfbevgirs2w
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mtfbevgirs2w
+  post_date: '2026-08-18T22:30:32.715Z'
+  liked_at: '2026-08-19T04:13:37.900977+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: 'I solemnly pledge to you my dear followers that I will not
+
+    -Join an AI company
+
+    -Do gender discourse
+
+    -Post AI-written content
+
+    -Use the word "bolster"
+
+    These are the four foundations upon which trust is built'
+  links: []
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtfbevgirs2w
 - post_uri: at://did:plc:25cztqjrqfedqg22bpoqjljr/app.bsky.feed.post/3mt7ooczjcc2i
   thread_root_uri: at://did:plc:25cztqjrqfedqg22bpoqjljr/app.bsky.feed.post/3mt7ooczjcc2i
   post_url: https://bsky.app/profile/did:plc:25cztqjrqfedqg22bpoqjljr/post/3mt7ooczjcc2i
