@@ -1,3 +1,488 @@
+- post_uri: at://did:plc:sxttw4f3ket2uyrrtc5ou4n2/app.bsky.feed.post/3mthzc6cpcc2u
+  thread_root_uri: at://did:plc:sxttw4f3ket2uyrrtc5ou4n2/app.bsky.feed.post/3mthzc6cpcc2u
+  post_url: https://bsky.app/profile/did:plc:sxttw4f3ket2uyrrtc5ou4n2/post/3mthzc6cpcc2u
+  post_date: '2026-08-20T00:43:50.639Z'
+  liked_at: '2026-08-20T03:33:12.521698+00:00'
+  author_handle: gretchenmcculloch.com
+  author_did: did:plc:sxttw4f3ket2uyrrtc5ou4n2
+  post_text: they've done the bouba/kiki test on chocolate shapes now, i love linguistics
+  links:
+  - url: https://medium.com/sinicx/research-investigating-the-relationship-between-shape-and-taste-of-chocolate-pieces-printed-by-a-3d-8e3a17ce9846
+    source: card
+    card_title: Research Investigating the Relationship between Shape and Taste of
+      Chocolate Pieces Printed by a 3D…
+    card_description: This is Shigeo YOSHIDA, a Senior Researcher at OMRON SINIC X
+      (OSX).
+    citoid:
+      raw:
+        key: L5KRSZHQ
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Shigeo
+          lastName: Yoshida
+          creatorType: author
+        tags: []
+        title: Research Investigating the Relationship between Shape and Taste of
+          Chocolate Pieces Printed by a 3D…
+        date: '2023-06-15'
+        url: https://medium.com/sinicx/research-investigating-the-relationship-between-shape-and-taste-of-chocolate-pieces-printed-by-a-3d-8e3a17ce9846
+        abstractNote: This is Shigeo YOSHIDA, a Senior Researcher at OMRON SINIC X
+          (OSX).
+        language: en
+        accessDate: '2026-08-20'
+        blogTitle: OMRON SINIC X
+      title: Research Investigating the Relationship between Shape and Taste of Chocolate
+        Pieces Printed by a 3D…
+      authors:
+      - last: Yoshida
+        first: Shigeo
+      date: '2023-06-15'
+      item_type: blogPost
+      publisher: OMRON SINIC X
+      abstract: This is Shigeo YOSHIDA, a Senior Researcher at OMRON SINIC X (OSX).
+  all_post_uris:
+  - at://did:plc:sxttw4f3ket2uyrrtc5ou4n2/app.bsky.feed.post/3mthzc6cpcc2u
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti6ereb6c2o
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti6ereb6c2o
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mti6ereb6c2o
+  post_date: '2026-08-20T02:14:46.434Z'
+  liked_at: '2026-08-20T03:29:41.996852+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: if this were true, it would be a good argument. it is not true, and it’s
+    worth asking what would count as sufficient evidence beyond the obvious point
+    that these tasks involve a lot of fiddly computer bullshit. prominent scientists
+    have talked about it but I guess it would have t
+  links: []
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti6ereb6c2o
+- post_uri: at://did:plc:pcqrtsjsezdtsaowiuuzzbmz/app.bsky.feed.post/3mthwzmvcic27
+  thread_root_uri: at://did:plc:pcqrtsjsezdtsaowiuuzzbmz/app.bsky.feed.post/3mthwzmvcic27
+  post_url: https://bsky.app/profile/did:plc:pcqrtsjsezdtsaowiuuzzbmz/post/3mthwzmvcic27
+  post_date: '2026-08-20T00:03:16.457Z'
+  liked_at: '2026-08-20T02:34:06.713834+00:00'
+  author_handle: shubhendu.bsky.social
+  author_did: did:plc:pcqrtsjsezdtsaowiuuzzbmz
+  post_text: 'Completely unrelated to the post: Many years ago I came across this
+    novel called The Elements of Style by Sarah Hafner (I believe it was while looking
+    for the more famous book by the name). It had no reviews in the usual spots and
+    had no ratings, except in an obscure spot it had '
+  links:
+  - url: https://en.wikipedia.org/wiki/Jerrold_R._Zacharias
+    source: thread
+    card_title: Jerrold R. Zacharias - Wikipedia
+    card_description: ''
+    citoid:
+      raw:
+        key: 9IVD5TGT
+        version: 0
+        itemType: encyclopediaArticle
+        creators: []
+        tags: []
+        title: Jerrold R. Zacharias
+        rights: Creative Commons Attribution-ShareAlike License
+        encyclopediaTitle: Wikipedia
+        extra: 'Page Version ID: 1366945162'
+        url: https://en.wikipedia.org/w/index.php?title=Jerrold_R._Zacharias&oldid=1366945162
+        language: en
+        date: '2026-07-31'
+        abstractNote: Jerrold Reinach Zacharias (January 23, 1905 – July 16, 1986)
+          was an American physicist and institute professor at the Massachusetts Institute
+          of Technology, as well as an education reformer. His scientific work was
+          in the area of nuclear physics.
+        libraryCatalog: Wikipedia
+        accessDate: '2026-08-20'
+      title: Jerrold R. Zacharias
+      date: '2026-07-31'
+      item_type: encyclopediaArticle
+      abstract: Jerrold Reinach Zacharias (January 23, 1905 – July 16, 1986) was an
+        American physicist and institute professor at the Massachusetts Institute
+        of Technology, as well as an education reformer. His scientific work was in
+        the area of nuclear physics.
+  all_post_uris:
+  - at://did:plc:pcqrtsjsezdtsaowiuuzzbmz/app.bsky.feed.post/3mthwzmvcic27
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti2tp5u2s24
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti2tp5u2s24
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mti2tp5u2s24
+  post_date: '2026-08-20T01:11:32.478Z'
+  liked_at: '2026-08-20T02:28:12.237853+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: terry tao doing the same arxiv.org/abs/2608.16753
+  links:
+  - url: https://arxiv.org/abs/2608.16753
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: TYDWRGGS
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Terence
+          lastName: Tao
+          creatorType: author
+        tags:
+        - tag: History and Overview (math.HO)
+          type: 1
+        - tag: 'FOS: Mathematics'
+          type: 1
+        - tag: Primary 00A30, Secondary 01A80, 68T01, 68V20, 68V35
+          type: 1
+        title: Mathematics in the age of AI
+        repository: arXiv
+        date: '2026-08-18'
+        DOI: 10.48550/ARXIV.2608.16753
+        url: https://arxiv.org/abs/2608.16753
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: 'An essay, based on a public lecture delivered at the 2026 International
+          Congress of Mathematicians, on how the mathematical community might respond
+          to the arrival of artificial intelligence tools that are capable of performing
+          research-level mathematical tasks. Rather than debating the capabilities
+          of such tools, we condition on the hypothesis that these capabilities will
+          arrive, and examine instead a question that is orthogonal to it: what the
+          goals and values of mathematical research actually are. The problem-solving
+          component of mathematics is used as a case study.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-08-20'
+      title: Mathematics in the age of AI
+      authors:
+      - last: Tao
+        first: Terence
+      date: '2026-08-18'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2608.16753
+      publisher: arXiv
+      abstract: 'An essay, based on a public lecture delivered at the 2026 International
+        Congress of Mathematicians, on how the mathematical community might respond
+        to the arrival of artificial intelligence tools that are capable of performing
+        research-level mathematical tasks. Rather than debating the capabilities of
+        such tools, we condition on the hypothesis that these capabilities will arrive,
+        and examine instead a question that is orthogonal to it: what the goals and
+        values of mathematical research actually are. The problem-solving component
+        of mathematics is used as a case study.'
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mti2tp5u2s24
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtftargzlc24
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtftargzlc24
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mtftargzlc24
+  post_date: '2026-08-19T03:50:21.674Z'
+  liked_at: '2026-08-19T21:06:17.447738+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: norvidstudies.substack.com/p/qwoplikes
+  links:
+  - url: https://norvidstudies.substack.com/p/qwoplikes
+    source: card
+    card_title: QWOPLIKES
+    card_description: https://en.wikipedia.org/wiki/QWOP
+    citoid:
+      raw:
+        key: 4GAGC99D
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: norvid_studies
+          creatorType: author
+        tags: []
+        title: QWOPLIKES
+        abstractNote: https://en.wikipedia.org/wiki/QWOP
+        date: '2026-08-19'
+        blogTitle: norvid_studies
+        url: https://norvidstudies.substack.com/p/qwoplikes
+        websiteType: Substack newsletter
+        accessDate: '2026-08-20'
+      title: QWOPLIKES
+      date: '2026-08-19'
+      item_type: blogPost
+      publisher: norvid_studies
+      abstract: https://en.wikipedia.org/wiki/QWOP
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtftargzlc24
+- post_uri: at://did:plc:pupfff7w7kiiaxrqidl6casw/app.bsky.feed.post/3mtgy27bxwk2b
+  thread_root_uri: at://did:plc:pupfff7w7kiiaxrqidl6casw/app.bsky.feed.post/3mtgy27bxwk2b
+  post_url: https://bsky.app/profile/did:plc:pupfff7w7kiiaxrqidl6casw/post/3mtgy27bxwk2b
+  post_date: '2026-08-19T14:48:49.755Z'
+  liked_at: '2026-08-19T18:21:34.119631+00:00'
+  author_handle: henryhenryhenry.com
+  author_did: did:plc:pupfff7w7kiiaxrqidl6casw
+  post_text: 'recommend reading the paper in entire:
+
+    papers.ssrn.com/sol3/papers....'
+  links:
+  - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618
+    source: card
+    card_title: 'The Generative AI Learning Penalty: Evidence from Chinese Secondary
+      Education'
+    card_description: Using 30 months of panel data on 26,811 Chinese students in
+      grades 7-12, we study how generative AI affects homework productivity and learning.
+      The data combine
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:pupfff7w7kiiaxrqidl6casw/app.bsky.feed.post/3mtgy27bxwk2b
+- post_uri: at://did:plc:fkgvtdlvenamhycyfcaqgvks/app.bsky.feed.post/3mtgemk22am2g
+  thread_root_uri: at://did:plc:fkgvtdlvenamhycyfcaqgvks/app.bsky.feed.post/3mtgemk22am2g
+  post_url: https://bsky.app/profile/did:plc:fkgvtdlvenamhycyfcaqgvks/post/3mtgemk22am2g
+  post_date: '2026-08-19T09:01:08.671Z'
+  liked_at: '2026-08-19T18:20:49.980854+00:00'
+  author_handle: thedailytism.com
+  author_did: did:plc:fkgvtdlvenamhycyfcaqgvks
+  post_text: An autistic woman reportedly has “no idea” why everything she says sounds
+    like “sarcasm”, even when she’s being “sincere”.
+  links:
+  - url: https://thedailytism.com/autistic-woman-doesnt-know-why-she-always-sounds-sarcastic/
+    source: card
+    card_title: Autistic woman “doesn’t know” why she always sounds “sarcastic”
+    card_description: An autistic woman reportedly has “no idea” why everything she
+      says sounds like “sarcasm”, even when she’s being “sincere”. Emma Bernard, 29,
+      told reporters that she has always had this “problem” but…
+    citoid:
+      raw:
+        key: V22XQAJF
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: Autistic woman “doesn’t know” why she always sounds “sarcastic”
+        blogTitle: The Daily Tism
+        date: '2025-02-16'
+        url: https://thedailytism.com/autistic-woman-doesnt-know-why-she-always-sounds-sarcastic/
+        abstractNote: An autistic woman reportedly has “no idea” why everything she
+          says sounds like “sarcasm”, even when she’s being “sincere”. Emma Bernard,
+          29, told reporters that she has always had this “problem” but the harder
+          she “tries” to inject genuine enthusiasm into her “voice”, the more...
+        language: en-GB
+        accessDate: '2026-08-20'
+      title: Autistic woman “doesn’t know” why she always sounds “sarcastic”
+      date: '2025-02-16'
+      item_type: blogPost
+      publisher: The Daily Tism
+      abstract: An autistic woman reportedly has “no idea” why everything she says
+        sounds like “sarcasm”, even when she’s being “sincere”. Emma Bernard, 29,
+        told reporters that she has always had this “problem” but the harder she “tries”
+        to inject genuine enthusiasm into her “voice”, the more...
+  all_post_uris:
+  - at://did:plc:fkgvtdlvenamhycyfcaqgvks/app.bsky.feed.post/3mtgemk22am2g
+- post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mth3gqxspk24
+  thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mth3gqxspk24
+  post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3mth3gqxspk24
+  post_date: '2026-08-19T15:49:32.145Z'
+  liked_at: '2026-08-19T18:17:24.048765+00:00'
+  author_handle: unsloth.ai
+  author_did: did:plc:xfbmksnykel6qbq7cs4geveg
+  post_text: 'We’re releasing new Qwen3.8-27B GGUFs with 10% higher accuracy.
+
+
+    Unsloth Dynamic V3 outperforms others by >10% on Div-300, KLD & more benchmarks.
+
+
+    We also release 1-bit quants that retain 77% accuracy. Run on 8GB RAM.
+
+
+    Blog: unsloth.ai/docs/basics/...
+
+    GGUF: huggingface.co/unsloth'
+  links:
+  - url: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: XL8DI7HX
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Unsloth Dynamic 3.0 GGUFs | Unsloth Documentation
+        date: '2026-08-19'
+        url: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+        language: en
+        accessDate: '2026-08-20'
+        websiteTitle: unsloth.ai
+      title: Unsloth Dynamic 3.0 GGUFs | Unsloth Documentation
+      date: '2026-08-19'
+      item_type: webpage
+  - url: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A9GBL2II
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: unsloth/Qwen3.8-27B-GGUF · Hugging Face
+        url: https://huggingface.co/unsloth/Qwen3.8-27B-GGUF
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-08-14'
+        accessDate: '2026-08-15'
+        websiteTitle: huggingface.co
+      title: unsloth/Qwen3.8-27B-GGUF · Hugging Face
+      date: '2026-08-14'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  all_post_uris:
+  - at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mth3gqxspk24
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgzzgzhnc2l
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgzzgzhnc2l
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mtgzzgzhnc2l
+  post_date: '2026-08-19T15:24:11.792Z'
+  liked_at: '2026-08-19T16:27:45.580988+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'Looks like a lot of people are now following my posts purely to yell
+    at me. While I have your attention, I''m going to share a favorite poem:'
+  links:
+  - url: https://www.poetryverse.com/william-butler-yeats-poems/the-madness-king-goll
+    source: thread
+    card_title: The Madness Of King Goll - poem by William Butler Yeats | PoetryVerse
+    card_description: Read The Madness of King Goll by W.B. Yeats. Delve into themes
+      of power, madness, and nature. Explore Yeats' poetic legacy.
+    citoid:
+      raw:
+        key: SJFYDSZJ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The Madness Of King Goll - poem by William Butler Yeats | PoetryVerse
+        url: https://www.poetryverse.com/william-butler-yeats-poems/the-madness-king-goll
+        abstractNote: Read The Madness of King Goll by W.B. Yeats. Delve into themes
+          of power, madness, and nature. Explore Yeats' poetic legacy.
+        language: en
+        accessDate: '2026-08-20'
+        websiteTitle: www.poetryverse.com
+      title: The Madness Of King Goll - poem by William Butler Yeats | PoetryVerse
+      item_type: webpage
+      abstract: Read The Madness of King Goll by W.B. Yeats. Delve into themes of
+        power, madness, and nature. Explore Yeats' poetic legacy.
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgzzgzhnc2l
+- post_uri: at://did:plc:6jsvyhtxrkb4d2wrlwd2avmm/app.bsky.feed.post/3mtgszujepc2r
+  thread_root_uri: at://did:plc:6jsvyhtxrkb4d2wrlwd2avmm/app.bsky.feed.post/3mtgszujepc2r
+  post_url: https://bsky.app/profile/did:plc:6jsvyhtxrkb4d2wrlwd2avmm/post/3mtgszujepc2r
+  post_date: '2026-08-19T13:19:09.754Z'
+  liked_at: '2026-08-19T16:16:39.452734+00:00'
+  author_handle: webdevs.firefox.com
+  author_did: did:plc:6jsvyhtxrkb4d2wrlwd2avmm
+  post_text: 'CSS text-box is newly baseline, and it''s solves a common text layout
+    issue. Here''s how it works:'
+  links:
+  - url: https://bugzilla.mozilla.org/show_bug.cgi?id=margin-trim
+    source: thread
+    card_title: 1506241 - (margin-trim) Implement the margin-trim property from CSS
+      Box Level 4
+    card_description: NEW (nobody) in Core - Layout. Last updated 2026-08-17.
+    citoid:
+      raw:
+        key: 3KJ8AZXL
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 1506241 - (margin-trim) Implement the margin-trim property from CSS
+          Box Level 4
+        url: https://bugzilla.mozilla.org/show_bug.cgi?id=1506241
+        abstractNote: NEW (nobody) in Core - Layout. Last updated 2026-08-17.
+        language: en
+        accessDate: '2026-08-20'
+        websiteTitle: bugzilla.mozilla.org
+      title: 1506241 - (margin-trim) Implement the margin-trim property from CSS Box
+        Level 4
+      item_type: webpage
+      abstract: NEW (nobody) in Core - Layout. Last updated 2026-08-17.
+  - url: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-box
+    source: thread
+    card_title: text-box CSS property - CSS | MDN
+    card_description: The text-box CSS property is a shorthand that corresponds to
+      the text-box-trim and text-box-edge properties, which together specify the amount
+      of space to trim from the block-start edge and block-end ...
+    citoid:
+      raw:
+        key: 8Y5WS9XC
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: text-box CSS property - CSS | MDN
+        websiteTitle: MDN Web Docs
+        url: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-box
+        abstractNote: The text-box CSS property is a shorthand that corresponds to
+          the text-box-trim and text-box-edge properties, which together specify the
+          amount of space to trim from the block-start edge and block-end edge of
+          a text element's block container.
+        date: '2026-04-20'
+        language: en-US
+        accessDate: '2026-08-20'
+      title: text-box CSS property - CSS | MDN
+      date: '2026-04-20'
+      item_type: webpage
+      abstract: The text-box CSS property is a shorthand that corresponds to the text-box-trim
+        and text-box-edge properties, which together specify the amount of space to
+        trim from the block-start edge and block-end edge of a text element's block
+        container.
+  all_post_uris:
+  - at://did:plc:6jsvyhtxrkb4d2wrlwd2avmm/app.bsky.feed.post/3mtgszujepc2r
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgv2zb7ys27
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgv2zb7ys27
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mtgv2zb7ys27
+  post_date: '2026-08-19T13:55:35.767Z'
+  liked_at: '2026-08-19T16:06:21.146016+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'Post yesterday went nasty so I switched off people''s ability to quote-tweet
+    (or whatever we call it). That said, I learned a lot of stuff from the thoughtful
+    comments. I think in particular, a lot of people have intuitions that I don''t,
+    including:'
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtgv2zb7ys27
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mtgskdbh2s2h
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mtgskdbh2s2h
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3mtgskdbh2s2h
+  post_date: '2026-08-19T13:10:28.349Z'
+  liked_at: '2026-08-19T15:49:32.028707+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: '"are texas christian nationalists forcing kids to read the bible to
+    give them a thorough education in classical western letters or are they doing
+    it to indoctrinate kids into their fascist death cult" seems like an easy question
+    to answer'
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mtgskdbh2s2h
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtgpic4zes2d
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtgpic4zes2d
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mtgpic4zes2d
+  post_date: '2026-08-19T12:15:38.823Z'
+  liked_at: '2026-08-19T15:40:45.033619+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mtgpic4zes2d
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtepn7vppk2q
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtepn7vppk2q
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mtepn7vppk2q
+  post_date: '2026-08-18T17:13:04.782Z'
+  liked_at: '2026-08-19T12:32:23.398047+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: We should cut each other a lot of slack on the AI front, tbh, because
+    what's happening is way outside our past experience, and no one has very good
+    intuition for what's probable or what the implications are.
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtepn7vppk2q
 - post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mtfegwg64s2o
   thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mtfegwg64s2o
   post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3mtfegwg64s2o
