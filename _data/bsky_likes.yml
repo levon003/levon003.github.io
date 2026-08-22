@@ -1,3 +1,165 @@
+- post_uri: at://did:plc:cyepqp4tjegobfnujrluagbk/app.bsky.feed.post/3mtgv5hspnc2w
+  thread_root_uri: at://did:plc:cyepqp4tjegobfnujrluagbk/app.bsky.feed.post/3mtgv5hspnc2w
+  post_url: https://bsky.app/profile/did:plc:cyepqp4tjegobfnujrluagbk/post/3mtgv5hspnc2w
+  post_date: '2026-08-19T13:56:58.128Z'
+  liked_at: '2026-08-22T04:40:03.060255+00:00'
+  author_handle: shuxianliu.bsky.social
+  author_did: did:plc:cyepqp4tjegobfnujrluagbk
+  post_text: 'DeepSeek was a “wake-up call” in the US, but a “national-destiny light”
+    in China. One model, radically different realities.
+
+
+    In work w/ @davidthewid.bsky.social, we compare official vs public DeepSeek discourse
+    in the US and China, focusing on AI infrastructure.
+
+
+    Paper link: ssrn'
+  links:
+  - url: https://ssrn.com/abstract=7268421
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:cyepqp4tjegobfnujrluagbk/app.bsky.feed.post/3mtgv5hspnc2w
+- post_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtmmmzbedc2t
+  thread_root_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtmmmzbedc2t
+  post_url: https://bsky.app/profile/did:plc:2mrgzk6xlemfv6yugn644xxy/post/3mtmmmzbedc2t
+  post_date: '2026-08-21T20:40:34.503Z'
+  liked_at: '2026-08-21T23:16:35.994195+00:00'
+  author_handle: danluu.com
+  author_did: did:plc:2mrgzk6xlemfv6yugn644xxy
+  post_text: 'There''s no reason for software to be slow anymore:
+
+
+    danluu.com/perf-opt/'
+  links:
+  - url: https://danluu.com/perf-opt/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KYE2UTUU
+        version: 0
+        itemType: webpage
+        url: https://danluu.com/perf-opt/
+        title: There's no reason for software to be slow anymore
+        accessDate: '2026-08-22'
+        websiteTitle: danluu.com
+      title: There's no reason for software to be slow anymore
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mtmmmzbedc2t
+- post_uri: at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mtmibteoc22x
+  thread_root_uri: at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mtmibteoc22x
+  post_url: https://bsky.app/profile/did:plc:623st67kkthivj4c6icvkqnq/post/3mtmibteoc22x
+  post_date: '2026-08-21T19:22:44.257Z'
+  liked_at: '2026-08-21T20:16:33.886265+00:00'
+  author_handle: ens0.me
+  author_did: did:plc:623st67kkthivj4c6icvkqnq
+  post_text: 'Leftists: In my essay I invented Fully Automated Gay Space Communism
+    as an aspirational tale.
+
+
+    Tech Company: At long last, we have created the Fully Automated Gay Space Communism
+    from classic leftist essay Definitely Create Fully Automated Gay Space Communism
+
+
+    Leftists: wait wtf'
+  links: []
+  all_post_uris:
+  - at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mtmibteoc22x
+- post_uri: at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtlp2fxbos2j
+  thread_root_uri: at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtlp2fxbos2j
+  post_url: https://bsky.app/profile/did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/post/3mtlp2fxbos2j
+  post_date: '2026-08-21T11:51:11.760Z'
+  liked_at: '2026-08-21T19:54:24.864449+00:00'
+  author_handle: proptermalone.bsky.social
+  author_did: did:plc:e6n7jxtu2qrhwvp3j6ib6sq6
+  post_text: 'a few general observations from a week that has included a lot of getting
+    yelled at:
+
+
+    1) many to most people still think of AI as chatbots.  Chatbots are at this point
+    useful but they are imo perhaps an order of magnitude less useful than agentic
+    AI.'
+  links: []
+  all_post_uris:
+  - at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mtlp2fxbos2j
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mtmela56xc26
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mtmela56xc26
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mtmela56xc26
+  post_date: '2026-08-21T18:16:24.662Z'
+  liked_at: '2026-08-21T19:50:12.489143+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: The main reason AI companies went with the obviously bad PR strategy
+    of “AI will take all jobs“ is that they believe it and it worries them
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mtmela56xc26
+- post_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mtmbpguv2c2r
+  thread_root_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mtmbpguv2c2r
+  post_url: https://bsky.app/profile/did:plc:oxaernim5mj2mmy3ytrvb42n/post/3mtmbpguv2c2r
+  post_date: '2026-08-21T17:25:04.722Z'
+  liked_at: '2026-08-21T18:50:30.279141+00:00'
+  author_handle: minimaxir.bsky.social
+  author_did: did:plc:oxaernim5mj2mmy3ytrvb42n
+  post_text: actual lol
+  links: []
+  all_post_uris:
+  - at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mtmbpguv2c2r
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlqjp2et22b
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlqjp2et22b
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mtlqjp2et22b
+  post_date: '2026-08-21T12:17:38.357Z'
+  liked_at: '2026-08-21T18:48:58.359257+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Wait, actually... is this the solution? Internet becomes unusable. Everyone
+    opens their window at the same time. Waves to neighbor. Asks if you would like
+    to eat cookies and gossip. Birds dance, flowers bloom, rainbows ribbon the horizon.
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlqjp2et22b
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtm6tpwggcqw
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtm6tpwggcqw
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mtm6tpwggcqw
+  post_date: '2026-08-21T16:33:46.318Z'
+  liked_at: '2026-08-21T17:14:55.103230+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtm6tpwggcqw
+- post_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mtlzxq76422e
+  thread_root_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mtlzxq76422e
+  post_url: https://bsky.app/profile/did:plc:oisofpd7lj26yvgiivf3lxsi/post/3mtlzxq76422e
+  post_date: '2026-08-21T15:06:32.996Z'
+  liked_at: '2026-08-21T17:07:02.147228+00:00'
+  author_handle: hailey.at
+  author_did: did:plc:oisofpd7lj26yvgiivf3lxsi
+  post_text: if youre in the group of people where folks are saying things like “keep
+    bullying them it’s working”, “yea run them the fuck out of here no one wants them”,
+    “even your cat thinks you’re a pathetic human”, or similar, it doesn’t matter
+    how right you are about the thing you’re talk
+  links: []
+  all_post_uris:
+  - at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mtlzxq76422e
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlq4256f22b
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlq4256f22b
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mtlq4256f22b
+  post_date: '2026-08-21T12:10:00.220Z'
+  liked_at: '2026-08-21T15:57:25.453511+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Amazing
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtlq4256f22b
 - post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mtjstz5lek2l
   thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mtjstz5lek2l
   post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mtjstz5lek2l
