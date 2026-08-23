@@ -1,6 +1,6 @@
-entries_with_links: 2276
-total_links: 2804
-unique_domains: 938
+entries_with_links: 2279
+total_links: 2807
+unique_domains: 939
 top_domains:
 - domain: arxiv.org
   count: 234
@@ -32,12 +32,12 @@ top_accounts:
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 34
+- handle: gracekind.net
+  did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  count: 31
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
-- handle: gracekind.net
-  did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 30
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 30

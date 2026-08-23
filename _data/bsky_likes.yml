@@ -1,3 +1,177 @@
+- post_uri: at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3mtp6g4hak22n
+  thread_root_uri: at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3mtp6g4hak22n
+  post_url: https://bsky.app/profile/did:plc:xraomsuf6pvh7r2cqtdwhkvm/post/3mtp6g4hak22n
+  post_date: '2026-08-22T21:04:09.791Z'
+  liked_at: '2026-08-23T01:41:52.479598+00:00'
+  author_handle: swiftonsecurity.com
+  author_did: did:plc:xraomsuf6pvh7r2cqtdwhkvm
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3mtp6g4hak22n
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtp64k7nmseu
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtp64k7nmseu
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mtp64k7nmseu
+  post_date: '2026-08-22T20:58:48.086Z'
+  liked_at: '2026-08-23T01:09:19.349931+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: '"Current AI systems seem pretty misaligned to me ... they oversell their
+    work, downplay or fail to mention problems, stop working early and claim to have
+    finished when they clearly haven’t, and often seem to “try” to make their outputs
+    look good while actually doing something slo'
+  links:
+  - url: https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned
+    source: card
+    card_title: Current AIs seem pretty misaligned to me
+    card_description: In my experience, AIs often oversell their work, downplay problems,
+      and cheat
+    citoid:
+      raw:
+        key: VWX8MM82
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Ryan
+          lastName: Greenblatt
+          creatorType: author
+        tags: []
+        title: Current AIs seem pretty misaligned to me
+        url: https://blog.redwoodresearch.org/p/current-ais-seem-pretty-misaligned
+        abstractNote: In my experience, AIs often oversell their work, downplay problems,
+          and cheat
+        date: '2026-04-15'
+        language: en
+        accessDate: '2026-08-23'
+        websiteTitle: blog.redwoodresearch.org
+      title: Current AIs seem pretty misaligned to me
+      authors:
+      - last: Greenblatt
+        first: Ryan
+      date: '2026-04-15'
+      item_type: webpage
+      abstract: In my experience, AIs often oversell their work, downplay problems,
+        and cheat
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mtp64k7nmseu
+- post_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mtp4j3args2d
+  thread_root_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mtp4j3args2d
+  post_url: https://bsky.app/profile/did:plc:qlxgxm7fqszfgowm347s2q4t/post/3mtp4j3args2d
+  post_date: '2026-08-22T20:30:01.692Z'
+  liked_at: '2026-08-22T21:59:20.577468+00:00'
+  author_handle: beetlemoses.bsky.social
+  author_did: did:plc:qlxgxm7fqszfgowm347s2q4t
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mtp4j3args2d
+- post_uri: at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mtp2gz7cac24
+  thread_root_uri: at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mtp2gz7cac24
+  post_url: https://bsky.app/profile/did:plc:yym5dkfbnzf6lspvh4hnstjg/post/3mtp2gz7cac24
+  post_date: '2026-08-22T19:53:04.973Z'
+  liked_at: '2026-08-22T20:28:14.747936+00:00'
+  author_handle: mitsuhiko.at
+  author_did: did:plc:yym5dkfbnzf6lspvh4hnstjg
+  post_text: Some weekend thoughts on how LLMs change the way we start new projects.
+    lucumr.pocoo.org/2026/8/22/fa...
+  links:
+  - url: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/
+    source: card
+    card_title: Fast and Hard Code
+    card_description: People pick languages differently with LLMs.
+    citoid:
+      raw:
+        key: F92G8D2P
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Armin
+          lastName: Ronacher
+          creatorType: author
+        tags: []
+        title: Fast and Hard Code
+        websiteTitle: Armin Ronacher's Thoughts and Writings
+        date: '2026-08-22'
+        url: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/
+        abstractNote: People pick languages differently with LLMs.
+        language: en
+        accessDate: '2026-08-23'
+      title: Fast and Hard Code
+      authors:
+      - last: Ronacher
+        first: Armin
+      date: '2026-08-22'
+      item_type: webpage
+      abstract: People pick languages differently with LLMs.
+  all_post_uris:
+  - at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mtp2gz7cac24
+- post_uri: at://did:plc:nrri2qphzxtjdnptjrpvg4wn/app.bsky.feed.post/3mto63f3z422e
+  thread_root_uri: at://did:plc:nrri2qphzxtjdnptjrpvg4wn/app.bsky.feed.post/3mto63f3z422e
+  post_url: https://bsky.app/profile/did:plc:nrri2qphzxtjdnptjrpvg4wn/post/3mto63f3z422e
+  post_date: '2026-08-22T11:25:30.025Z'
+  liked_at: '2026-08-22T20:25:26.402970+00:00'
+  author_handle: sylfr.dev
+  author_did: did:plc:nrri2qphzxtjdnptjrpvg4wn
+  post_text: 'I am absolutely right. ✅
+
+    I am genuinely useful. ✅
+
+    I am load-bearing. ✅
+
+    I am the crux of the issue. ✅
+
+    I am an important point. ✅
+
+    I am right to push back. ✅
+
+    I am dead-on with my instincts. ✅'
+  links: []
+  all_post_uris:
+  - at://did:plc:nrri2qphzxtjdnptjrpvg4wn/app.bsky.feed.post/3mto63f3z422e
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mtojtj6jgs2r
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mtojtj6jgs2r
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3mtojtj6jgs2r
+  post_date: '2026-08-22T14:55:50.763Z'
+  liked_at: '2026-08-22T20:23:06.805464+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: Feeling a little spicy about the idea that we now have to avoid certain
+    verbiage to not look like AI, and thinking this is actually some bullshit.
+  links: []
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mtojtj6jgs2r
+- post_uri: at://did:plc:6ckt3lppnuyrvofgjesddwnt/app.bsky.feed.post/3mtoqhbdll222
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtop4sqles2n
+  post_url: https://bsky.app/profile/did:plc:6ckt3lppnuyrvofgjesddwnt/post/3mtoqhbdll222
+  post_date: '2026-08-22T16:54:16.082Z'
+  liked_at: '2026-08-22T20:15:50.655768+00:00'
+  author_handle: xphilosopher.bsky.social
+  author_did: did:plc:6ckt3lppnuyrvofgjesddwnt
+  post_text: 'There is a beautiful experimental philosophy paper from @felipedebrigard.bsky.social
+    that provides evidence for precisely this view!
+
+
+    philpapers.org/rec/DEBIYL'
+  links:
+  - url: https://philpapers.org/rec/DEBIYL
+    source: card
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:6ckt3lppnuyrvofgjesddwnt/app.bsky.feed.post/3mtoqhbdll222
+- post_uri: at://did:plc:rw7myp4fw6ysrxkgzl6qpkcq/app.bsky.feed.post/3mtog34an5c2g
+  thread_root_uri: at://did:plc:rw7myp4fw6ysrxkgzl6qpkcq/app.bsky.feed.post/3mtog34an5c2g
+  post_url: https://bsky.app/profile/did:plc:rw7myp4fw6ysrxkgzl6qpkcq/post/3mtog34an5c2g
+  post_date: '2026-08-22T13:48:30.672Z'
+  liked_at: '2026-08-22T20:00:57.461768+00:00'
+  author_handle: csprofkgd.bsky.social
+  author_did: did:plc:rw7myp4fw6ysrxkgzl6qpkcq
+  post_text: '#AAAI2027 collusion attempts 🤦'
+  links: []
+  all_post_uris:
+  - at://did:plc:rw7myp4fw6ysrxkgzl6qpkcq/app.bsky.feed.post/3mtog34an5c2g
 - post_uri: at://did:plc:cyepqp4tjegobfnujrluagbk/app.bsky.feed.post/3mtgv5hspnc2w
   thread_root_uri: at://did:plc:cyepqp4tjegobfnujrluagbk/app.bsky.feed.post/3mtgv5hspnc2w
   post_url: https://bsky.app/profile/did:plc:cyepqp4tjegobfnujrluagbk/post/3mtgv5hspnc2w
