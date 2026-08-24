@@ -1,3 +1,86 @@
+- post_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mtpivw2dqs2n
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mtpbnwymps2e
+  post_url: https://bsky.app/profile/did:plc:b35wwuj336x4ufo5dyykfolz/post/3mtpivw2dqs2n
+  post_date: '2026-08-23T00:11:57.367Z'
+  liked_at: '2026-08-24T04:52:20.130891+00:00'
+  author_handle: tdietterich.bsky.social
+  author_did: did:plc:b35wwuj336x4ufo5dyykfolz
+  post_text: "We've been considering this question at @arxiv.bsky.social. I see four\
+    \ separate problems. \n1. Research deep fakes. AI facilitates paper mills and\
+    \ other fake publications. As LLMs improve, they become better at mimicking research\
+    \ without doing any actual research (eg, fake result "
+  links: []
+  all_post_uris:
+  - at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mtpivw2dqs2n
+- post_uri: at://did:plc:o653h7vj7yv4bikpqnmccja6/app.bsky.feed.post/3mtrirl55w22u
+  thread_root_uri: at://did:plc:o653h7vj7yv4bikpqnmccja6/app.bsky.feed.post/3mtrirl55w22u
+  post_url: https://bsky.app/profile/did:plc:o653h7vj7yv4bikpqnmccja6/post/3mtrirl55w22u
+  post_date: '2026-08-23T19:14:51.184Z'
+  liked_at: '2026-08-23T21:57:41.203715+00:00'
+  author_handle: natematias.bsky.social
+  author_did: did:plc:o653h7vj7yv4bikpqnmccja6
+  post_text: 'What can tech policy folks learn from the nuclear age about the role
+    of independent science in policy?
+
+
+    My read of the summer is Benjamin Wilson''s new book "Strange Stability" about
+    the backstage deals of nuclear physicists during the Cold War.
+
+
+    natematias.com/portfolio/20...'
+  links:
+  - url: https://natematias.com/portfolio/2026-08-23-strange-stability/
+    source: card
+    card_title: 'Strange Stability: Learning from Scientific Myths of the Nuclear
+      Age'
+    card_description: 'Faculty, Cornell. Founder: CAT Lab'
+    citoid:
+      raw:
+        key: BPDSZFT5
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Strange Stability: Learning from Scientific Myths of the Nuclear Age'
+        websiteTitle: J. Nathan Matias
+        date: '2026-08-23'
+        url: https://natematias.com/portfolio/2026-08-23-strange-stability/
+        abstractNote: 'Faculty, Cornell. Founder: CAT Lab'
+        language: en
+        accessDate: '2026-08-24'
+        shortTitle: Strange Stability
+      title: 'Strange Stability: Learning from Scientific Myths of the Nuclear Age'
+      date: '2026-08-23'
+      item_type: webpage
+      abstract: 'Faculty, Cornell. Founder: CAT Lab'
+  all_post_uris:
+  - at://did:plc:o653h7vj7yv4bikpqnmccja6/app.bsky.feed.post/3mtrirl55w22u
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtrgadjnw22y
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtrgadjnw22y
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mtrgadjnw22y
+  post_date: '2026-08-23T18:29:25.296Z'
+  liked_at: '2026-08-23T21:26:36.100827+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Possibly I'm just an ill-made writer but I'm always shocked when writers
+    say they love the work. I get glimpses of joy, or anyway satisfaction, and I feel
+    a compulsion because nobody's writing the books I want to read. But most of the
+    process is excruciating. Meaning, yes. Joy? L
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mtrgadjnw22y
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mtrozofalc2w
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mtrkkirs6c2j
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mtrozofalc2w
+  post_date: '2026-08-23T21:06:45.482Z'
+  liked_at: '2026-08-23T21:20:23.171811+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Heard you’re looking for a needle, thought you might like this wheelbarrow
+    full of hay.
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mtrozofalc2w
 - post_uri: at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3mtp6g4hak22n
   thread_root_uri: at://did:plc:xraomsuf6pvh7r2cqtdwhkvm/app.bsky.feed.post/3mtp6g4hak22n
   post_url: https://bsky.app/profile/did:plc:xraomsuf6pvh7r2cqtdwhkvm/post/3mtp6g4hak22n
