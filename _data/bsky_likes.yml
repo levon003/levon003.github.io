@@ -1,3 +1,247 @@
+- post_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3mtux57cros2i
+  thread_root_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3mtux57cros2i
+  post_url: https://bsky.app/profile/did:plc:3dz4xvhdemciftzsaonk5gu5/post/3mtux57cros2i
+  post_date: '2026-08-25T04:09:53.038Z'
+  liked_at: '2026-08-25T05:18:44.751528+00:00'
+  author_handle: cameroncorduroy.bsky.social
+  author_did: did:plc:3dz4xvhdemciftzsaonk5gu5
+  post_text: guy who's in the 2% because he's too busy smoking crack
+  links: []
+  all_post_uris:
+  - at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3mtux57cros2i
+- post_uri: at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3mtuvdyjo2k2p
+  thread_root_uri: at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3mtuvdyjo2k2p
+  post_url: https://bsky.app/profile/did:plc:gjqmj6z7sboffvvduvqd7oam/post/3mtuvdyjo2k2p
+  post_date: '2026-08-25T03:37:53.302Z'
+  liked_at: '2026-08-25T04:44:39.921461+00:00'
+  author_handle: quantian.bsky.social
+  author_did: did:plc:gjqmj6z7sboffvvduvqd7oam
+  post_text: 'I do regret to inform you that this is an ultra rare triple platinum
+    Yud W anecdote:'
+  links: []
+  all_post_uris:
+  - at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3mtuvdyjo2k2p
+- post_uri: at://did:plc:y27ayzm3k6s5ldqm3wot2sal/app.bsky.feed.post/3mtum6xov722e
+  thread_root_uri: at://did:plc:y27ayzm3k6s5ldqm3wot2sal/app.bsky.feed.post/3mtum6xov722e
+  post_url: https://bsky.app/profile/did:plc:y27ayzm3k6s5ldqm3wot2sal/post/3mtum6xov722e
+  post_date: '2026-08-25T00:54:00.996Z'
+  liked_at: '2026-08-25T04:42:54.386139+00:00'
+  author_handle: vtobin.bsky.social
+  author_did: did:plc:y27ayzm3k6s5ldqm3wot2sal
+  post_text: This is an extremely delightful interview and I do not think you will
+    regret reading it. www.cbc.ca/radio/asitha...
+  links:
+  - url: https://www.cbc.ca/radio/asithappens/b-c-swimmer-crosses-strait-of-georgia-under-nine-hours-9.7316260
+    source: card
+    card_title: B.C. swimmer crosses the Strait of Georgia in under nine hours | CBC
+      Radio
+    card_description: When it comes to crossing the Strait of Georgia, most people
+      would choose to do so in a boat, a ship — any kind of a marine vessel, really.
+      But not Melanie Buggey. She chose to swim.
+    citoid:
+      citoid_status: error
+  all_post_uris:
+  - at://did:plc:y27ayzm3k6s5ldqm3wot2sal/app.bsky.feed.post/3mtum6xov722e
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mtui5grsi22o
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mtui5grsi22o
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mtui5grsi22o
+  post_date: '2026-08-24T23:41:34.743Z'
+  liked_at: '2026-08-25T03:40:49.974455+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: 'We have no legal defense against, or cultural script for, art that is
+    also drugs. We barely even have that for drugs that are also drugs.
+
+    www.slowboring.com/p/the-real-r...'
+  links:
+  - url: https://www.slowboring.com/p/the-real-reason-nobody-feels-good
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: CVIMT4ZI
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Matthew
+          lastName: Yglesias
+          creatorType: author
+        tags: []
+        title: The real reason nobody feels good about technological progress
+        url: https://www.slowboring.com/p/the-real-reason-nobody-feels-good
+        abstractNote: The internet is a small miracle that in practice we mostly use
+          to watch short-form video.
+        date: '2026-08-24'
+        language: en
+        accessDate: '2026-08-25'
+        websiteTitle: www.slowboring.com
+      title: The real reason nobody feels good about technological progress
+      authors:
+      - last: Yglesias
+        first: Matthew
+      date: '2026-08-24'
+      item_type: webpage
+      abstract: The internet is a small miracle that in practice we mostly use to
+        watch short-form video.
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mtui5grsi22o
+- post_uri: at://did:plc:hr4blkefx5mwe5xaan42xjxd/app.bsky.feed.post/3mrfty4tgdk2g
+  thread_root_uri: at://did:plc:hr4blkefx5mwe5xaan42xjxd/app.bsky.feed.post/3mrfty4tgdk2g
+  post_url: https://bsky.app/profile/did:plc:hr4blkefx5mwe5xaan42xjxd/post/3mrfty4tgdk2g
+  post_date: '2026-07-24T17:13:02.086Z'
+  liked_at: '2026-08-25T00:58:38.778113+00:00'
+  author_handle: pepurika.bsky.social
+  author_did: did:plc:hr4blkefx5mwe5xaan42xjxd
+  post_text: 'Some of my favourite recent panels from my webcomic...
+
+    tigertigercomic.com'
+  links:
+  - url: http://tigertigercomic.com/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: TNT9IENP
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Tiger, Tiger - A webcomic by Petra Erika Nordlund
+        websiteTitle: Tiger, Tiger - A webcomic by Petra Erika Nordlund
+        url: https://www.tigertigercomic.com/
+        abstractNote: A young noble lady steals her brother's identity and his ship
+          to find love and adventure, and to write a book about the fascinating life
+          cycle of sea sponges!
+        accessDate: '2026-08-25'
+      title: Tiger, Tiger - A webcomic by Petra Erika Nordlund
+      item_type: webpage
+      abstract: A young noble lady steals her brother's identity and his ship to find
+        love and adventure, and to write a book about the fascinating life cycle of
+        sea sponges!
+  all_post_uris:
+  - at://did:plc:hr4blkefx5mwe5xaan42xjxd/app.bsky.feed.post/3mrfty4tgdk2g
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mttmhggd2c24
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mttmhggd2c24
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3mttmhggd2c24
+  post_date: '2026-08-24T15:26:05.141Z'
+  liked_at: '2026-08-24T19:04:49.000151+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: 'Just massive, *massive*, amounts of political life in the UK is explained
+    by the extremely bizarre fact that our intelligentsia, political class, and even
+    much of our business elite, feel aching insecure about faiilng to meet some imagined
+    ideal of Authenticity they attribute to '
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mttmhggd2c24
+- post_uri: at://did:plc:77blrdi5vxd2zor5ijtw4rkr/app.bsky.feed.post/3mtt7a3q4ls25
+  thread_root_uri: at://did:plc:77blrdi5vxd2zor5ijtw4rkr/app.bsky.feed.post/3mtt7a3q4ls25
+  post_url: https://bsky.app/profile/did:plc:77blrdi5vxd2zor5ijtw4rkr/post/3mtt7a3q4ls25
+  post_date: '2026-08-24T11:29:20.403Z'
+  liked_at: '2026-08-24T18:58:08.920079+00:00'
+  author_handle: bencenanay.bsky.social
+  author_did: did:plc:77blrdi5vxd2zor5ijtw4rkr
+  post_text: 'Heard about cognitive dissonance? Well, meet conative dissonance, where
+    the conflict is not between two beliefs (or such), but between a belief and a
+    desire. The claim is that many examples of the dissonance phenomenon are better
+    explained by this. Open access
+
+    onlinelibrary.wiley'
+  links:
+  - url: https://onlinelibrary.wiley.com/doi/10.1111/cogs.70258
+    source: card
+    card_title: Conative Dissonance
+    card_description: Cognitive dissonance was originally defined as a “nonfitting
+      relation between cognitions,” which gives rise to an unpleasant feeling. And
+      this unpleasant feeling leads to a behavioral change. My aim ...
+    citoid:
+      raw:
+        key: IPYJ2K9N
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Bence
+          lastName: Nanay
+          creatorType: author
+        tags: []
+        publicationTitle: Cognitive Science
+        volume: '50'
+        issue: '8'
+        language: en
+        ISSN: 0364-0213, 1551-6709
+        date: 2026-08
+        DOI: 10.1111/cogs.70258
+        url: https://onlinelibrary.wiley.com/doi/10.1111/cogs.70258
+        title: Conative Dissonance
+        libraryCatalog: CrossRef
+        accessDate: '2026-08-25'
+      title: Conative Dissonance
+      authors:
+      - last: Nanay
+        first: Bence
+      date: 2026-08
+      item_type: journalArticle
+      doi: 10.1111/cogs.70258
+      publisher: Cognitive Science
+  all_post_uris:
+  - at://did:plc:77blrdi5vxd2zor5ijtw4rkr/app.bsky.feed.post/3mtt7a3q4ls25
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtt7jkaurk22
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtt7jkaurk22
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mtt7jkaurk22
+  post_date: '2026-08-24T11:34:37.622Z'
+  liked_at: '2026-08-24T15:52:26.237185+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: This is right, and is the whole reason why we spent five years being
+    angry about the technology while denying that it’s good enough to actually displace
+    workers. “I’m only angry that it will appear to displace them, while consuming
+    too much water.”
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mtt7jkaurk22
+- post_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mttawc7mvk2m
+  thread_root_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mttawc7mvk2m
+  post_url: https://bsky.app/profile/did:plc:wamidydbgu3u6fk3yckaglnz/post/3mttawc7mvk2m
+  post_date: '2026-08-24T11:59:39.138Z'
+  liked_at: '2026-08-24T15:11:14.247942+00:00'
+  author_handle: philpax.me
+  author_did: did:plc:wamidydbgu3u6fk3yckaglnz
+  post_text: this rules fzakaria.com/2026/08/23/y...
+  links:
+  - url: https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+    source: card
+    card_title: Your executable is a SQLite database
+    card_description: 'I have been probably obsessed with two things in the last few
+      years: Nix as a tool to explore innovative ideas that require the capability
+      to rebuild the world and replacing ELF with SQLite as an exec...'
+    citoid:
+      raw:
+        key: 2LG6A3BK
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Your executable is a SQLite database
+        websiteTitle: Farid Zakaria’s Blog
+        date: '2026-08-23'
+        url: https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+        abstractNote: 'I have been probably obsessed with two things in the last few
+          years: Nix as a tool to explore innovative ideas that require the capability
+          to rebuild the world and replacing ELF with SQLite as an executable format.
+          You might have noticed that these two ideas are well suited to each other.'
+        language: en
+        accessDate: '2026-08-25'
+      title: Your executable is a SQLite database
+      date: '2026-08-23'
+      item_type: webpage
+      abstract: 'I have been probably obsessed with two things in the last few years:
+        Nix as a tool to explore innovative ideas that require the capability to rebuild
+        the world and replacing ELF with SQLite as an executable format. You might
+        have noticed that these two ideas are well suited to each other.'
+  all_post_uris:
+  - at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3mttawc7mvk2m
 - post_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mtpivw2dqs2n
   thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mtpbnwymps2e
   post_url: https://bsky.app/profile/did:plc:b35wwuj336x4ufo5dyykfolz/post/3mtpivw2dqs2n
