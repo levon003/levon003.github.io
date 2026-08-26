@@ -1,3 +1,138 @@
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtwjpnscps24
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtwjpnscps24
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mtwjpnscps24
+  post_date: '2026-08-25T19:14:59.299Z'
+  liked_at: '2026-08-26T05:33:09.833411+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: 'I''m pretty unsure about what''s causing the data center backlash, but
+    after following it for over a year I lean toward the explanation that it''s about
+    data centers. Just finished this new post with my argument
+
+    blog.andymasley.com/p/i-think-th...'
+  links:
+  - url: https://blog.andymasley.com/p/i-think-the-data-center-backlash
+    source: card
+    card_title: I think the data center backlash is mostly about data centers
+    card_description: It’s probably not your ideological thing, or mine. It’s about
+      object-level claims about how data centers impact the communities where they’re
+      built, many of which are wrong.
+    citoid:
+      raw:
+        key: A5GRV9UB
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Andy
+          lastName: Masley
+          creatorType: author
+        tags: []
+        title: I think the data center backlash is mostly about data centers
+        url: https://blog.andymasley.com/p/i-think-the-data-center-backlash
+        abstractNote: It’s probably not your ideological thing, or mine. It’s about
+          object-level claims about how data centers impact the communities where
+          they’re built, many of which are wrong.
+        date: '2026-08-25'
+        language: en
+        accessDate: '2026-08-26'
+        websiteTitle: blog.andymasley.com
+      title: I think the data center backlash is mostly about data centers
+      authors:
+      - last: Masley
+        first: Andy
+      date: '2026-08-25'
+      item_type: webpage
+      abstract: It’s probably not your ideological thing, or mine. It’s about object-level
+        claims about how data centers impact the communities where they’re built,
+        many of which are wrong.
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mtwjpnscps24
+- post_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mtxj7e7fxk2b
+  thread_root_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mtxj7e7fxk2b
+  post_url: https://bsky.app/profile/did:plc:qkfr5ioweycx433nx77x5kop/post/3mtxj7e7fxk2b
+  post_date: '2026-08-26T04:38:32.097Z'
+  liked_at: '2026-08-26T05:32:39.109576+00:00'
+  author_handle: mikecaulfield.bsky.social
+  author_did: did:plc:qkfr5ioweycx433nx77x5kop
+  post_text: Wrote a bit on how I agree with Masley that most concerns about data
+    centers are driven by beliefs specifically about data centers (you should read
+    that piece first) but added three notes mikecaulfield.substack.com/p/note-on-ma...
+  links:
+  - url: https://mikecaulfield.substack.com/p/note-on-masleys-i-think-the-data
+    source: card
+    card_title: Note on Masley’s “I think the data center backlash is mostly about
+      data centers”
+    card_description: Three related points
+    citoid:
+      raw:
+        key: 2M79NHNK
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Mike
+          lastName: Caulfield
+          creatorType: author
+        tags: []
+        title: Note on Masley’s “I think the data center backlash is mostly about
+          data centers”
+        abstractNote: Three related points
+        date: '2026-08-26'
+        blogTitle: The End(s) of Argument
+        url: https://mikecaulfield.substack.com/p/note-on-masleys-i-think-the-data
+        websiteType: Substack newsletter
+        accessDate: '2026-08-26'
+      title: Note on Masley’s “I think the data center backlash is mostly about data
+        centers”
+      authors:
+      - last: Caulfield
+        first: Mike
+      date: '2026-08-26'
+      item_type: blogPost
+      publisher: The End(s) of Argument
+      abstract: Three related points
+  all_post_uris:
+  - at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mtxj7e7fxk2b
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mtvrdvjitk2x
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mtvrdvjitk2x
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mtvrdvjitk2x
+  post_date: '2026-08-25T11:58:54.942Z'
+  liked_at: '2026-08-25T14:36:52.009243+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: "Headlong — an agent harness that never stops thinking\n\ni’ve thought\
+    \ about doing this with local models, very interesting \n\nwww.laude.org/updates/head..."
+  links:
+  - url: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
+    source: card
+    card_title: 'Headlong: a microharness for persistent agents // Laude Institute'
+    card_description: Self-guided agents that think continuously
+    citoid:
+      raw:
+        key: NKP8TAGY
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Laude
+          lastName: Institute
+          creatorType: author
+        - name: MIT
+          creatorType: author
+        tags: []
+        title: 'Headlong: a microharness for persistent agents // Laude Institute'
+        websiteTitle: Laude Institute
+        url: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
+        abstractNote: Self-guided agents that think continuously
+        language: en
+        accessDate: '2026-08-26'
+        shortTitle: Headlong
+      title: 'Headlong: a microharness for persistent agents // Laude Institute'
+      authors:
+      - last: Institute
+        first: Laude
+      item_type: webpage
+      abstract: Self-guided agents that think continuously
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mtvrdvjitk2x
 - post_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3mtux57cros2i
   thread_root_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3mtux57cros2i
   post_url: https://bsky.app/profile/did:plc:3dz4xvhdemciftzsaonk5gu5/post/3mtux57cros2i
