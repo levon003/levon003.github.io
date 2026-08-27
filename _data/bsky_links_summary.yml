@@ -1,5 +1,5 @@
-entries_with_links: 2288
-total_links: 2816
+entries_with_links: 2290
+total_links: 2818
 unique_domains: 944
 top_domains:
 - domain: arxiv.org
@@ -34,7 +34,7 @@ top_accounts:
   count: 34
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 31
+  count: 32
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
@@ -46,7 +46,7 @@ top_accounts:
   count: 28
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
-  count: 26
+  count: 27
 - handle: mariaa.bsky.social
   did: did:plc:y32vdst3y7r4f4pkrveb7jhi
   count: 25
