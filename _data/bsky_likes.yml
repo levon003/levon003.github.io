@@ -1,3 +1,259 @@
+- post_uri: at://did:plc:lq27lgik3ku2qg6zfxmil5xo/app.bsky.feed.post/3mu4ko2j54c2u
+  thread_root_uri: at://did:plc:lq27lgik3ku2qg6zfxmil5xo/app.bsky.feed.post/3mu4ko2j54c2u
+  post_url: https://bsky.app/profile/did:plc:lq27lgik3ku2qg6zfxmil5xo/post/3mu4ko2j54c2u
+  post_date: '2026-08-28T04:47:57.691Z'
+  liked_at: '2026-08-28T14:11:34.420221+00:00'
+  author_handle: permabanned.bsky.social
+  author_did: did:plc:lq27lgik3ku2qg6zfxmil5xo
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:lq27lgik3ku2qg6zfxmil5xo/app.bsky.feed.post/3mu4ko2j54c2u
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mu5443unn22s
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mu5443unn22s
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mu5443unn22s
+  post_date: '2026-08-28T10:00:02.488Z'
+  liked_at: '2026-08-28T13:48:51.833371+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: My LLM cliché highlighter is up to 38 patterns now tools.simonwillison.net/llm-cliche-h...
+  links:
+  - url: https://tools.simonwillison.net/llm-cliche-highlighter
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YIHMRLFT
+        version: 0
+        itemType: webpage
+        url: https://tools.simonwillison.net/llm-cliche-highlighter
+        title: LLM cliché highlighter
+        accessDate: '2026-08-28'
+        websiteTitle: tools.simonwillison.net
+      title: LLM cliché highlighter
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mu5443unn22s
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mu2rpljsds2n
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mu2rpljsds2n
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mu2rpljsds2n
+  post_date: '2026-08-27T11:48:45.807Z'
+  liked_at: '2026-08-27T21:47:12.462127+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: 'MIT report is superb. It acknowledges disruption, concedes different
+    disciplines will handle this differently, foregrounds people and social interaction
+    — but also says something obvious I had just about given up hope institutions
+    could say: aiandeducation.mit.edu/report/'
+  links:
+  - url: https://aiandeducation.mit.edu/report/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: FN4ACUN8
+        version: 0
+        itemType: webpage
+        url: https://aiandeducation.mit.edu/report/
+        title: Report – AI and Education
+        accessDate: '2026-08-28'
+        websiteTitle: aiandeducation.mit.edu
+      title: Report – AI and Education
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mu2rpljsds2n
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mu33prwgws2t
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mu33prwgws2t
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mu33prwgws2t
+  post_date: '2026-08-27T14:47:49.934Z'
+  liked_at: '2026-08-27T21:12:19.946012+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'Yeesh: arxiv.org/pdf/2409.01754
+
+
+    Only 75% serious, this makes me feel very good to have been able to publish poetry,
+    and to have more in the pipeline.
+
+
+    Some words I''m trying to sneak back into regular English: brume, brank, thole,
+    thrall, thrice, darkling'
+  links:
+  - url: https://arxiv.org/pdf/2409.01754
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BRYGSX55
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Hiromu
+          lastName: Yakura
+          creatorType: author
+        - firstName: Ezequiel
+          lastName: Lopez-Lopez
+          creatorType: author
+        - firstName: Levin
+          lastName: Brinkmann
+          creatorType: author
+        - firstName: Ignacio
+          lastName: de la Serna
+          creatorType: author
+        - firstName: Lara
+          lastName: Kirfel
+          creatorType: author
+        - firstName: Prateek
+          lastName: Gupta
+          creatorType: author
+        - firstName: Ivan
+          lastName: Soraperra
+          creatorType: author
+        - firstName: Thomas F.
+          lastName: Eisenmann
+          creatorType: author
+        - firstName: Dirk U.
+          lastName: Wulff
+          creatorType: author
+        - firstName: Iyad
+          lastName: Rahwan
+          creatorType: author
+        tags:
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: Computation and Language (cs.CL)
+          type: 1
+        - tag: Human-Computer Interaction (cs.HC)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Empirical evidence of Large Language Model's influence on human spoken
+          communication
+        repository: arXiv
+        date: '2026-07-17'
+        DOI: 10.48550/ARXIV.2409.01754
+        url: https://arxiv.org/abs/2409.01754
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: From the printing press to social media, innovations in communication
+          technology have repeatedly reshaped how ideas spread through human culture.
+          Chatbots powered by generative artificial intelligence constitute a new
+          medium, encoding cultural patterns in their neural representations and disseminating
+          them in conversations with hundreds of millions of people. Whether these
+          patterns transmit into human language, and ultimately shape human culture,
+          is a fundamental question. While fully quantifying the causal impact of
+          a chatbot like ChatGPT on human culture is challenging, lexical shifts in
+          human spoken communication may offer an early indicator. Here we show that
+          words preferentially generated by ChatGPT, such as delve, showcase, boast,
+          intricacies and meticulous, increased abruptly in spontaneous human speech.
+          A synthetic-control analysis of 737,083 hours of conversation from 824,634
+          podcast episodes, screened for unscripted speech, causally links this shift
+          to ChatGPT's release. The measurable influence on spontaneous speech suggests
+          that humans internalize the lexical choices of large language models (LLMs).
+          A preregistered experiment (N = 496) confirms they do, as a brief chatbot
+          interaction led participants to adopt its words as their own, persisting
+          past a distractor task and confirmed in forced lexical choice, indicating
+          entrenchment in the active vocabulary. Together these results show that
+          machines trained on human data now feed their own traits back into human
+          language, integrating LLMs into the ongoing processes of cultural evolution..
+          This coupling raises concerns about linguistic homogenization and the capacity
+          of a few major AI providers for latent cultural influence at scale.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-08-28'
+      title: Empirical evidence of Large Language Model's influence on human spoken
+        communication
+      authors:
+      - last: Yakura
+        first: Hiromu
+      - last: Lopez-Lopez
+        first: Ezequiel
+      - last: Brinkmann
+        first: Levin
+      - last: de la Serna
+        first: Ignacio
+      - last: Kirfel
+        first: Lara
+      - last: Gupta
+        first: Prateek
+      - last: Soraperra
+        first: Ivan
+      - last: Eisenmann
+        first: Thomas F.
+      - last: Wulff
+        first: Dirk U.
+      - last: Rahwan
+        first: Iyad
+      date: '2026-07-17'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2409.01754
+      publisher: arXiv
+      abstract: From the printing press to social media, innovations in communication
+        technology have repeatedly reshaped how ideas spread through human culture.
+        Chatbots powered by generative artificial intelligence constitute a new medium,
+        encoding cultural patterns in their neural representations and disseminating
+        them in conversations with hundreds of millions of people. Whether these patterns
+        transmit into human language, and ultimately shape human culture, is a fundamental
+        question. While fully quantifying the causal impact of a chatbot like ChatGPT
+        on human culture is challenging, lexical shifts in human spoken communication
+        may offer an early indicator. Here we show that words preferentially generated
+        by ChatGPT, such as delve, showcase, boast, intricacies and meticulous, increased
+        abruptly in spontaneous human speech. A synthetic-control analysis of 737,083
+        hours of conversation from 824,634 podcast episodes, screened for unscripted
+        speech, causally links this shift to ChatGPT's release. The measurable influence
+        on spontaneous speech suggests that humans internalize the lexical choices
+        of large language models (LLMs). A preregistered experiment (N = 496) confirms
+        they do, as a brief chatbot interaction led participants to adopt its words
+        as their own, persisting past a distractor task and confirmed in forced lexical
+        choice, indicating entrenchment in the active vocabulary. Together these results
+        show that machines trained on human data now feed their own traits back into
+        human language, integrating LLMs into the ongoing processes of cultural evolution..
+        This coupling raises concerns about linguistic homogenization and the capacity
+        of a few major AI providers for latent cultural influence at scale.
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mu33prwgws2t
+- post_uri: at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mu36lmu7rs2s
+  thread_root_uri: at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mu36lmu7rs2s
+  post_url: https://bsky.app/profile/did:plc:a3h6mkohqeiu6xl4fnrwuk4t/post/3mu36lmu7rs2s
+  post_date: '2026-08-27T15:39:11.627Z'
+  liked_at: '2026-08-27T20:35:15.989888+00:00'
+  author_handle: himself.bsky.social
+  author_did: did:plc:a3h6mkohqeiu6xl4fnrwuk4t
+  post_text: "The Acemoglu Wars are all about AI \nwww.programmablemutter.com/p/the-acemog..."
+  links:
+  - url: https://www.programmablemutter.com/p/the-acemoglu-wars-are-all-about-ai
+    source: card
+    card_title: The Acemoglu Wars Are All About AI
+    card_description: Regarding that Economist article ...
+    citoid:
+      raw:
+        key: X3UTP8IL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Henry
+          lastName: Farrell
+          creatorType: author
+        tags: []
+        title: The Acemoglu Wars Are All About AI
+        url: https://www.programmablemutter.com/p/the-acemoglu-wars-are-all-about-ai
+        abstractNote: Regarding that Economist article ...
+        date: '2026-08-27'
+        language: en
+        accessDate: '2026-08-28'
+        websiteTitle: www.programmablemutter.com
+      title: The Acemoglu Wars Are All About AI
+      authors:
+      - last: Farrell
+        first: Henry
+      date: '2026-08-27'
+      item_type: webpage
+      abstract: Regarding that Economist article ...
+  all_post_uris:
+  - at://did:plc:a3h6mkohqeiu6xl4fnrwuk4t/app.bsky.feed.post/3mu36lmu7rs2s
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mu22gohj7k2m
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mu22gohj7k2m
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mu22gohj7k2m

@@ -1,15 +1,15 @@
-entries_with_links: 2290
-total_links: 2818
+entries_with_links: 2294
+total_links: 2822
 unique_domains: 944
 top_domains:
 - domain: arxiv.org
-  count: 234
+  count: 235
 - domain: substack.com
   count: 164
 - domain: github.com
   count: 84
 - domain: simonwillison.net
-  count: 77
+  count: 78
 - domain: github.io
   count: 76
 - domain: doi.org
@@ -25,7 +25,7 @@ top_domains:
 top_accounts:
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
-  count: 68
+  count: 69
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
   count: 64
@@ -35,12 +35,12 @@ top_accounts:
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 32
+- handle: tedunderwood.com
+  did: did:plc:565ebob5f6hw33hjdkxty6qj
+  count: 31
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
-- handle: tedunderwood.com
-  did: did:plc:565ebob5f6hw33hjdkxty6qj
-  count: 30
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
   count: 28
