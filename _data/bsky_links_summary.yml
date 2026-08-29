@@ -1,6 +1,6 @@
-entries_with_links: 2294
-total_links: 2822
-unique_domains: 944
+entries_with_links: 2297
+total_links: 2825
+unique_domains: 945
 top_domains:
 - domain: arxiv.org
   count: 235
@@ -31,7 +31,7 @@ top_accounts:
   count: 64
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
-  count: 34
+  count: 35
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 32

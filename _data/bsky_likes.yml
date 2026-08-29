@@ -1,3 +1,164 @@
+- post_uri: at://did:plc:eewrv6igoxnyqfo3ftj6tjc7/app.bsky.feed.post/3mu5fqnjon22n
+  thread_root_uri: at://did:plc:eewrv6igoxnyqfo3ftj6tjc7/app.bsky.feed.post/3mu5fqnjon22n
+  post_url: https://bsky.app/profile/did:plc:eewrv6igoxnyqfo3ftj6tjc7/post/3mu5fqnjon22n
+  post_date: '2026-08-28T12:52:35.771Z'
+  liked_at: '2026-08-29T06:00:23.775523+00:00'
+  author_handle: thiccreese.bsky.social
+  author_did: did:plc:eewrv6igoxnyqfo3ftj6tjc7
+  post_text: 'My latest for @wired.com:
+
+
+    I tried exercising my data access rights over 100 times and almost lost my sanity
+    during the process.
+
+
+    www.wired.com/story/i-dema...'
+  links:
+  - url: https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/
+    source: card
+    card_title: I Asked 100 Companies for My Data. I Got Deletion Notices Instead
+    card_description: California residents have a legal right to access the data that
+      companies collect about them. Actually exercising that right is a burdensome
+      nightmare.
+    citoid:
+      raw:
+        key: KUATFTY3
+        version: 0
+        itemType: magazineArticle
+        creators:
+        - firstName: Reece
+          lastName: Rogers
+          creatorType: author
+        tags:
+        - tag: data privacy
+          type: 1
+        - tag: laws
+          type: 1
+        - tag: tech policy and law
+          type: 1
+        - tag: data
+          type: 1
+        - tag: data brokers
+          type: 1
+        - tag: privacy
+          type: 1
+        title: I Asked 100 Companies for My Data. I Got Deletion Notices Instead
+        publicationTitle: Wired
+        date: '2026-08-28'
+        url: https://www.wired.com/story/i-demanded-my-data-from-over-100-companies-deletion-notices-started-arriving-instead/
+        abstractNote: California residents have a legal right to access the data that
+          companies collect about them. Actually exercising that right is a burdensome
+          nightmare.
+        language: en-US
+        libraryCatalog: www.wired.com
+        accessDate: '2026-08-29'
+        ISSN: 1059-1028
+      title: I Asked 100 Companies for My Data. I Got Deletion Notices Instead
+      authors:
+      - last: Rogers
+        first: Reece
+      date: '2026-08-28'
+      item_type: magazineArticle
+      publisher: Wired
+      abstract: California residents have a legal right to access the data that companies
+        collect about them. Actually exercising that right is a burdensome nightmare.
+  all_post_uris:
+  - at://did:plc:eewrv6igoxnyqfo3ftj6tjc7/app.bsky.feed.post/3mu5fqnjon22n
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mu6uexzec22o
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mu6uexzec22o
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mu6uexzec22o
+  post_date: '2026-08-29T02:47:09.984Z'
+  liked_at: '2026-08-29T03:33:46.095096+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: Some early evidence that Google AI Overviews may be doing to Wikipedia
+    the same thing that coding agents did to StackExchange... papers.ssrn.com/sol3/papers....
+  links:
+  - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6164926
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: PSN8XKSD
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Mehrzad
+          lastName: Khosravi
+          creatorType: author
+        - firstName: Hema
+          lastName: Yoganarasimhan
+          creatorType: author
+        tags:
+        - tag: Generative AI
+          type: 1
+        - tag: Search Engines
+          type: 1
+        - tag: Digital Economy
+          type: 1
+        - tag: Artificial Intelligence
+          type: 1
+        - tag: Wikipedia
+          type: 1
+        - tag: Google
+          type: 1
+        title: 'Impact of AI Search Summaries on Website Traffic: Evidence from Google
+          AI Overviews and Wikipedia'
+        date: '2026-01-30'
+        DOI: 10.2139/ssrn.6164926
+        url: https://papers.ssrn.com/abstract=6164926
+        abstractNote: ' Search engines increasingly display AI-generated answers above
+          organic links, potentially displacing traffic to upstream publishers. We
+          estima'
+        language: en
+        libraryCatalog: Social Science Research Network
+        accessDate: '2026-08-29'
+        genre: SSRN Scholarly Paper
+        archiveID: '6164926'
+        place: Rochester, NY
+        shortTitle: Impact of AI Search Summaries on Website Traffic
+      title: 'Impact of AI Search Summaries on Website Traffic: Evidence from Google
+        AI Overviews and Wikipedia'
+      authors:
+      - last: Khosravi
+        first: Mehrzad
+      - last: Yoganarasimhan
+        first: Hema
+      date: '2026-01-30'
+      item_type: preprint
+      doi: 10.2139/ssrn.6164926
+      abstract: ' Search engines increasingly display AI-generated answers above organic
+        links, potentially displacing traffic to upstream publishers. We estima'
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mu6uexzec22o
+- post_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mu5wpiyz622c
+  thread_root_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mu5wpiyz622c
+  post_url: https://bsky.app/profile/did:plc:b35wwuj336x4ufo5dyykfolz/post/3mu5wpiyz622c
+  post_date: '2026-08-28T17:56:11.088Z'
+  liked_at: '2026-08-28T20:51:48.138026+00:00'
+  author_handle: tdietterich.bsky.social
+  author_did: did:plc:b35wwuj336x4ufo5dyykfolz
+  post_text: Just discovered this very interesting blog post by @davidbau.bsky.social.
+    davidbau.com/archives/202... It is an interesting formulation of the idea that
+    it is up to humans to decide what world is worth building (and to take responsibility
+    for the results)
+  links:
+  - url: https://davidbau.com/archives/2026/01/17/the_art_of_wanting.html
+    source: card
+    card_title: davidbau.com The Art of Wanting
+    card_description: ''
+    citoid:
+      raw:
+        url: https://davidbau.com/archives/2026/01/17/the_art_of_wanting.html
+        itemType: webpage
+        title: davidbau.com The Art of Wanting
+        accessDate: '2026-08-29'
+        websiteTitle: davidbau.com
+      title: davidbau.com The Art of Wanting
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mu5wpiyz622c
 - post_uri: at://did:plc:lq27lgik3ku2qg6zfxmil5xo/app.bsky.feed.post/3mu4ko2j54c2u
   thread_root_uri: at://did:plc:lq27lgik3ku2qg6zfxmil5xo/app.bsky.feed.post/3mu4ko2j54c2u
   post_url: https://bsky.app/profile/did:plc:lq27lgik3ku2qg6zfxmil5xo/post/3mu4ko2j54c2u
