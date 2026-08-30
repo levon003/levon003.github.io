@@ -1,3 +1,334 @@
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3muaxedojw225
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3muaxedojw225
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3muaxedojw225
+  post_date: '2026-08-29T22:45:49.349Z'
+  liked_at: '2026-08-30T03:14:19.500980+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: Despite being a moderate AI user both at home and at work, I still suspect
+    it has overall made my life on net worse, by having to constantly be on guard
+    for spam in everything I read.
+  links: []
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3muaxedojw225
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mubcq3jbd22i
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mubcq3jbd22i
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mubcq3jbd22i
+  post_date: '2026-08-30T02:09:14.611Z'
+  liked_at: '2026-08-30T03:13:35.738395+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: It's refreshing to read Italo Calvino's "Cybernetics and Ghosts" (1967)
+    — where an Italian science fiction writer envisions a combinatorial machine for
+    writing fiction and concludes that it's a) possible, b) desirable, and c) instructive.
+    sites.duke.edu/machineliter...
+  links:
+  - url: https://sites.duke.edu/machineliterature/files/2011/03/calvino-ghosts.pdf
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+    dead: true
+    archive_url: https://web.archive.org/web/20260217120709/https://sites.duke.edu/machineliterature/files/2011/03/calvino-ghosts.pdf
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mubcq3jbd22i
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3muakqwevvc2v
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3muakqwevvc2v
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3muakqwevvc2v
+  post_date: '2026-08-29T19:00:12.976Z'
+  liked_at: '2026-08-29T19:31:04.570537+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: 'one piece of advice i can share as a parent: certain phases can be really
+    tough, but they do pass. around 18 months my son kept demanding that i condemn
+    hasan piker. all day and night too, i was at the end of my rope. now he’s really
+    into fire trucks. it’s always something new'
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3muakqwevvc2v
+- post_uri: at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3muajvsfblc2q
+  thread_root_uri: at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3muajvsfblc2q
+  post_url: https://bsky.app/profile/did:plc:eqh433fdh2bqhvt455e3tg67/post/3muajvsfblc2q
+  post_date: '2026-08-29T18:45:02.818Z'
+  liked_at: '2026-08-29T19:30:11.792241+00:00'
+  author_handle: leyawn.bsky.social
+  author_did: did:plc:eqh433fdh2bqhvt455e3tg67
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3muajvsfblc2q
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3muafqwu2f22t
+  thread_root_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3muafqwu2f22t
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3muafqwu2f22t
+  post_date: '2026-08-29T17:30:44.756Z'
+  liked_at: '2026-08-29T17:54:45.837526+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: "In which @jamellebouie.net reveals the Secret Sauce of his punditry.\
+    \ \n\nwww.nytimes.com/2026/08/22/o..."
+  links:
+  - url: https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html?smid=url-share
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 3CEE7RB3
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Michelle
+          lastName: Cottle
+          creatorType: author
+        - firstName: Jamelle
+          lastName: Bouie
+          creatorType: author
+        - firstName: David
+          lastName: French
+          creatorType: author
+        - firstName: Derek
+          lastName: Arthur
+          creatorType: author
+        tags:
+        - tag: audio-neutral-informative
+          type: 1
+        - tag: United States Politics and Government
+          type: 1
+        - tag: Conservatism (US Politics)
+          type: 1
+        - tag: Liberalism (US Politics)
+          type: 1
+        - tag: Presidential Election of 2028
+          type: 1
+        - tag: Republican Party
+          type: 1
+        - tag: Trump, Donald J
+          type: 1
+        - tag: Vance, J D
+          type: 1
+        - tag: Kemp, Brian P
+          type: 1
+        - tag: Democratic Party
+          type: 1
+        - tag: internal-open-access-audio
+          type: 1
+        title: Opinion | The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’
+        section: Opinion
+        date: '2026-08-22'
+        url: https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html
+        abstractNote: As primary results trickle in, both parties are wrestling with
+          what they stand for — and where they’re headed.
+        language: en-US
+        libraryCatalog: NYTimes.com
+        accessDate: '2026-08-30'
+        publicationTitle: The New York Times
+        ISSN: 0362-4331
+      title: Opinion | The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’
+      authors:
+      - last: Cottle
+        first: Michelle
+      - last: Bouie
+        first: Jamelle
+      - last: French
+        first: David
+      - last: Arthur
+        first: Derek
+      date: '2026-08-22'
+      item_type: newspaperArticle
+      publisher: The New York Times
+      abstract: As primary results trickle in, both parties are wrestling with what
+        they stand for — and where they’re headed.
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3muafqwu2f22t
+- post_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3muaeaxkc2224
+  thread_root_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3muaeaxkc2224
+  post_url: https://bsky.app/profile/did:plc:coqhxdcmnnbgizwi66icj26o/post/3muaeaxkc2224
+  post_date: '2026-08-29T17:03:54.876Z'
+  liked_at: '2026-08-29T17:54:09.097332+00:00'
+  author_handle: sarahseeandersen.bsky.social
+  author_did: did:plc:coqhxdcmnnbgizwi66icj26o
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3muaeaxkc2224
+- post_uri: at://did:plc:eheolvrmn7vchwe3n5bclsej/app.bsky.feed.post/3mu75i26sas2d
+  thread_root_uri: at://did:plc:eheolvrmn7vchwe3n5bclsej/app.bsky.feed.post/3mu75i26sas2d
+  post_url: https://bsky.app/profile/did:plc:eheolvrmn7vchwe3n5bclsej/post/3mu75i26sas2d
+  post_date: '2026-08-29T05:29:56.599Z'
+  liked_at: '2026-08-29T16:18:48.488207+00:00'
+  author_handle: rawx.bsky.social
+  author_did: did:plc:eheolvrmn7vchwe3n5bclsej
+  post_text: I'm saying since Gamergate that "it's not the algorithm" and "the problem
+    is us" and "human psychology at network scale". Nice to see @himself.bsky.social
+    having a paper on that. / via @aelkus.bsky.social
+  links:
+  - url: https://cacm.acm.org/opinion/bias-skew-and-search-engines-are-sufficient-to-explain-online-toxicity/
+    source: card
+    card_title: Bias, Skew, and Search Engines Are Sufficient to Explain Online Toxicity
+      – Communications of the ACM
+    card_description: ''
+    citoid:
+      raw:
+        key: XGXYRMBY
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        date: '2024-03-15'
+        url: https://cacm.acm.org/opinion/bias-skew-and-search-engines-are-sufficient-to-explain-online-toxicity/
+        title: Bias, Skew, and Search Engines Are Sufficient to Explain Online Toxicity
+          – Communications of the ACM
+        language: en-US
+        accessDate: '2026-08-30'
+      title: Bias, Skew, and Search Engines Are Sufficient to Explain Online Toxicity
+        – Communications of the ACM
+      date: '2024-03-15'
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:eheolvrmn7vchwe3n5bclsej/app.bsky.feed.post/3mu75i26sas2d
+- post_uri: at://did:plc:kcggckk55s6njoewaberea2l/app.bsky.feed.post/3mu7jxzkjz22x
+  thread_root_uri: at://did:plc:kcggckk55s6njoewaberea2l/app.bsky.feed.post/3mu7jxzkjz22x
+  post_url: https://bsky.app/profile/did:plc:kcggckk55s6njoewaberea2l/post/3mu7jxzkjz22x
+  post_date: '2026-08-29T09:13:37.699Z'
+  liked_at: '2026-08-29T16:16:47.522912+00:00'
+  author_handle: samwho.dev
+  author_did: did:plc:kcggckk55s6njoewaberea2l
+  post_text: 'So happy to see @summoningsalt.bsky.social cover this story. It is my
+    favourite moment in competitive gaming history, across any game. Just cried a
+    bit rewatching it. I watch the original footage of it at least once a year. Incredibly
+    powerful moment.
+
+
+    youtu.be/iYJC4QYmdog?...'
+  links:
+  - url: https://youtu.be/iYJC4QYmdog?is=efLPLBdYty4zVdAZ
+    source: card
+    card_title: The Tournament That Changed Tetris Forever
+    card_description: YouTube video by Summoning Salt
+    citoid:
+      raw:
+        key: M6TCRSM4
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Summoning Salt
+          creatorType: author
+        tags: []
+        title: The Tournament That Changed Tetris Forever
+        url: https://www.youtube.com/watch?v=iYJC4QYmdog
+        runningTime: '59:19'
+        date: '2026-08-26'
+        abstractNote: Click this link https://boot.dev/?promo=SUMMONINGSALT and use
+          my code SUMMONINGSALT to get 25% off your first payment for Boot.dev's coding
+          courses. Thank yo...
+        libraryCatalog: YouTube
+        accessDate: '2026-08-30'
+      title: The Tournament That Changed Tetris Forever
+      date: '2026-08-26'
+      item_type: videoRecording
+      abstract: Click this link https://boot.dev/?promo=SUMMONINGSALT and use my code
+        SUMMONINGSALT to get 25% off your first payment for Boot.dev's coding courses.
+        Thank yo...
+  all_post_uris:
+  - at://did:plc:kcggckk55s6njoewaberea2l/app.bsky.feed.post/3mu7jxzkjz22x
+- post_uri: at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3mu7e5zlmjs2e
+  thread_root_uri: at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3mu7e5zlmjs2e
+  post_url: https://bsky.app/profile/did:plc:7rr5pfsh3l4b5qv64h47za4a/post/3mu7e5zlmjs2e
+  post_date: '2026-08-29T07:29:36.618Z'
+  liked_at: '2026-08-29T15:58:39.701238+00:00'
+  author_handle: acerbialberto.com
+  author_did: did:plc:7rr5pfsh3l4b5qv64h47za4a
+  post_text: 'Cultural evolutionists often talks about the possibility of loss of
+    cultural traits. The walkman could be one:
+
+    obsoletesony.substack.com/p/why-sony-c...'
+  links:
+  - url: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman
+    source: card
+    card_title: Why Sony Can’t Bring Back Its Classic Walkman Models
+    card_description: Explained by a former Sony engineer
+    citoid:
+      raw:
+        key: N659Q9KH
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: ObsoleteSony
+          creatorType: author
+        tags: []
+        title: Why Sony Can’t Bring Back Its Classic Walkman Models
+        abstractNote: Explained by a former Sony engineer
+        date: '2026-07-23'
+        blogTitle: Obsolete Sony’s Newsletter
+        url: https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman
+        websiteType: Substack newsletter
+        accessDate: '2026-08-30'
+      title: Why Sony Can’t Bring Back Its Classic Walkman Models
+      date: '2026-07-23'
+      item_type: blogPost
+      publisher: Obsolete Sony’s Newsletter
+      abstract: Explained by a former Sony engineer
+  all_post_uris:
+  - at://did:plc:7rr5pfsh3l4b5qv64h47za4a/app.bsky.feed.post/3mu7e5zlmjs2e
+- post_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mu5y2npwok2o
+  thread_root_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mu5y2npwok2o
+  post_url: https://bsky.app/profile/did:plc:wvexgwndckqyszwviyuoeibi/post/3mu5y2npwok2o
+  post_date: '2026-08-28T18:20:18.875Z'
+  liked_at: '2026-08-29T15:22:07.431379+00:00'
+  author_handle: littmath.bsky.social
+  author_did: did:plc:wvexgwndckqyszwviyuoeibi
+  post_text: 'I''ve been saying for some time that we should use AI systems to produce
+    better work, as opposed to, say, more PDFs. One simple thing we can now do is
+    identify and fix lots of extant errors in the literature.
+
+
+    1/17'
+  links:
+  - url: https://coarse.ink
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 7YM5T9RJ
+        version: 0
+        itemType: webpage
+        url: https://coarse.ink/
+        title: ‘coarse — AI peer review, of course.
+        abstractNote: An open-source multi-agent AI system that reviews your academic
+          paper like a real referee. Bring your own OpenRouter key. Usually under
+          $2.
+        accessDate: '2026-08-30'
+        websiteTitle: coarse.ink
+      title: ‘coarse — AI peer review, of course.
+      item_type: webpage
+      abstract: An open-source multi-agent AI system that reviews your academic paper
+        like a real referee. Bring your own OpenRouter key. Usually under $2.
+  - url: https://refine.ink
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: QWV2B4HX
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Refine — AI Verification Trusted by World-Class Experts
+        websiteTitle: Refine
+        url: https://www.refine.ink/
+        abstractNote: Good decisions require verified quality. Refine devotes hours
+          of frontier compute to protect your work and reputation from fixable mistakes.
+        language: en
+        accessDate: '2026-08-30'
+      title: Refine — AI Verification Trusted by World-Class Experts
+      item_type: webpage
+      abstract: Good decisions require verified quality. Refine devotes hours of frontier
+        compute to protect your work and reputation from fixable mistakes.
+  all_post_uris:
+  - at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mu5y2npwok2o
 - post_uri: at://did:plc:eewrv6igoxnyqfo3ftj6tjc7/app.bsky.feed.post/3mu5fqnjon22n
   thread_root_uri: at://did:plc:eewrv6igoxnyqfo3ftj6tjc7/app.bsky.feed.post/3mu5fqnjon22n
   post_url: https://bsky.app/profile/did:plc:eewrv6igoxnyqfo3ftj6tjc7/post/3mu5fqnjon22n

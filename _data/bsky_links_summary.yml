@@ -1,23 +1,23 @@
-entries_with_links: 2297
-total_links: 2825
-unique_domains: 945
+entries_with_links: 2303
+total_links: 2832
+unique_domains: 948
 top_domains:
 - domain: arxiv.org
   count: 235
 - domain: substack.com
-  count: 164
+  count: 165
 - domain: github.com
   count: 84
 - domain: simonwillison.net
   count: 78
 - domain: github.io
   count: 76
+- domain: acm.org
+  count: 54
 - domain: doi.org
   count: 53
-- domain: acm.org
-  count: 53
 - domain: nytimes.com
-  count: 41
+  count: 42
 - domain: huggingface.co
   count: 38
 - domain: youtube.com
@@ -32,12 +32,12 @@ top_accounts:
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 35
+- handle: tedunderwood.com
+  did: did:plc:565ebob5f6hw33hjdkxty6qj
+  count: 32
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 32
-- handle: tedunderwood.com
-  did: did:plc:565ebob5f6hw33hjdkxty6qj
-  count: 31
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
