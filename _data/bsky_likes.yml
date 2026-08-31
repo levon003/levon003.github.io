@@ -1,3 +1,28 @@
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mudl6byzfc2a
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mudl6byzfc2a
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mudl6byzfc2a
+  post_date: '2026-08-30T23:45:40.588Z'
+  liked_at: '2026-08-31T03:49:15.696514+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: I think these so-called “jailbreaks” I was doing 3 years ago are really
+    instructive on what is still going on today with things like the HF hack. The
+    central pathology is, I believe, largely the same.
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mudl6byzfc2a
+- post_uri: at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3mucrucnse226
+  thread_root_uri: at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3mucrucnse226
+  post_url: https://bsky.app/profile/did:plc:oogxmzmgauh5ug2tfe5vc7wm/post/3mucrucnse226
+  post_date: '2026-08-30T16:12:42.185Z'
+  liked_at: '2026-08-30T22:16:33.111811+00:00'
+  author_handle: beenwrekt.bsky.social
+  author_did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
+  post_text: The overreaction to this Hugging Face thing is driving me nuts. Come
+    flay me for being wrong but... 1/x
+  links: []
+  all_post_uris:
+  - at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3mucrucnse226
 - post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3muaxedojw225
   thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3muaxedojw225
   post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3muaxedojw225
