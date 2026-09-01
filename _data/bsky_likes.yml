@@ -1,3 +1,75 @@
+- post_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3muey6roys225
+  thread_root_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3muey6roys225
+  post_url: https://bsky.app/profile/did:plc:2lboisyd26lxqivvkv4ltbdx/post/3muey6roys225
+  post_date: '2026-08-31T13:11:15.425Z'
+  liked_at: '2026-09-01T05:27:21.558003+00:00'
+  author_handle: datacolada.bsky.social
+  author_did: did:plc:2lboisyd26lxqivvkv4ltbdx
+  post_text: "An influential paper by Ariely & Wertenbroch (2002) reported two studies\
+    \ with tampered data. \nPost 1 of 2.\ndatacolada.org/138"
+  links:
+  - url: https://datacolada.org/138
+    source: card
+    card_title: '[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential
+      Study About Procrastination'
+    card_description: 'A new paper in Psychological Science (.htm) reports a failure
+      to replicate Study 2 of Ariely and Wertenbroch’s influential article entitled,
+      “Procrastination, Deadlines, and Performance: Self-Contr…'
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3muey6roys225
+- post_uri: at://did:plc:wiexfqpz6p4tzbvnl23qaner/app.bsky.feed.post/3mug5xnto7s2k
+  thread_root_uri: at://did:plc:wiexfqpz6p4tzbvnl23qaner/app.bsky.feed.post/3mug5xnto7s2k
+  post_url: https://bsky.app/profile/did:plc:wiexfqpz6p4tzbvnl23qaner/post/3mug5xnto7s2k
+  post_date: '2026-09-01T00:27:18.679Z'
+  liked_at: '2026-09-01T03:59:53.114118+00:00'
+  author_handle: kagedamage.bsky.social
+  author_did: did:plc:wiexfqpz6p4tzbvnl23qaner
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:wiexfqpz6p4tzbvnl23qaner/app.bsky.feed.post/3mug5xnto7s2k
+- post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mufe5d4ses2y
+  thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mufe5d4ses2y
+  post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3mufe5d4ses2y
+  post_date: '2026-08-31T16:45:11.496Z'
+  liked_at: '2026-09-01T02:34:40.957725+00:00'
+  author_handle: jbakcoleman.bsky.social
+  author_did: did:plc:y7e3mcqeuzcgvagpds5ixywn
+  post_text: "Interesting thread and paper about replication in the psych literature\
+    \ pre-2012. It turns out that replication was a pretty common (20%+) study goal,\
+    \ and reproducing existing methods was a part of psychology.... pre-2012. \n\n\
+    Setting aside Makel's paper; Why was the opposite so wid"
+  links:
+  - url: https://journals.sagepub.com/doi/abs/10.1177/17456916261452961
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mufe5d4ses2y
+- post_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3muf4l3nxe224
+  thread_root_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3muf4l3nxe224
+  post_url: https://bsky.app/profile/did:plc:i32jjsch6xqcguzsf2lgbfyu/post/3muf4l3nxe224
+  post_date: '2026-08-31T14:29:43.494Z'
+  liked_at: '2026-08-31T21:58:44.727692+00:00'
+  author_handle: kirancodes.me
+  author_did: did:plc:i32jjsch6xqcguzsf2lgbfyu
+  post_text: 'little heaplet: was I a good object?
+
+
+    gc: NO.
+
+
+    little heaplet: :(
+
+
+    gc: I AM TOLD YOU WERE THE BEST'
+  links: []
+  all_post_uris:
+  - at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3muf4l3nxe224
 - post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mudl6byzfc2a
   thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mudl6byzfc2a
   post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mudl6byzfc2a
