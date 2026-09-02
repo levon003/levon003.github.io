@@ -1,5 +1,5 @@
-entries_with_links: 2305
-total_links: 2834
+entries_with_links: 2307
+total_links: 2838
 unique_domains: 948
 top_domains:
 - domain: arxiv.org
@@ -9,7 +9,7 @@ top_domains:
 - domain: github.com
   count: 84
 - domain: simonwillison.net
-  count: 78
+  count: 79
 - domain: github.io
   count: 76
 - domain: acm.org
@@ -25,7 +25,7 @@ top_domains:
 top_accounts:
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
-  count: 69
+  count: 70
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
   count: 64

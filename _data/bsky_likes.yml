@@ -1,3 +1,122 @@
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3muimzxo2sk2g
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3muimzxo2sk2g
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g
+  post_date: '2026-09-02T00:02:21.706Z'
+  liked_at: '2026-09-02T03:15:47.217192+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: A few notes on Anthropic's new Claude Fable 5.1 - with Max thinking level
+    I got the best SVG pelican I've had from any Anthropic model (at a hefty cost
+    of $3.30!), which I then had it animate simonwillison.net/2026/Sep/1/c...
+  links:
+  - url: https://simonwillison.net/2026/Sep/1/claude-fable-5-1/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 9XVAKB3X
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: Claude Fable 5.1 made me a really nice animated pelican
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Sep/1/claude-fable-5-1/
+        abstractNote: Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that
+          Fable 5.1 “sets a new standard for coding, knowledge work, and long-running
+          problem-solving tasks”. Their announcement spends a notable …
+        language: en-gb
+        accessDate: '2026-09-02'
+      title: Claude Fable 5.1 made me a really nice animated pelican
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable
+        5.1 “sets a new standard for coding, knowledge work, and long-running problem-solving
+        tasks”. Their announcement spends a notable …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3muimzxo2sk2g
+- post_uri: at://did:plc:f6yzeddlu7zjqbthmn37yvom/app.bsky.feed.post/3mufpf4coes2k
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3muclb47gyc2g
+  post_url: https://bsky.app/profile/did:plc:f6yzeddlu7zjqbthmn37yvom/post/3mufpf4coes2k
+  post_date: '2026-08-31T20:06:23.943Z'
+  liked_at: '2026-09-01T15:13:30.969122+00:00'
+  author_handle: maxread.info
+  author_did: did:plc:f6yzeddlu7zjqbthmn37yvom
+  post_text: in the case of the dwarkesh post i suspect its the melodramatic register
+    & grandiosity of the anthropomorphism that is setting people off (& im sympathetic
+    i find it annoying too), but its reverse polarizing them into trying to recast
+    the event in flatter/simpler but even more mi
+  links:
+  - url: https://x.com/tszzl/status/2092701433728827817
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/tszzl/status/2092701433728827817
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-08-26'
+        title: roon (@tszzl) on X
+        abstractNote: 'many people worked incredibly hard on this post and associated
+          report including me
+
+
+          whilst everyone took alignment quite seriously before I think no question
+          that this begins a new era. hugging face incident represents reaching a
+          waterline of capabilities that real loss-of-control is possible, and …'
+        accessDate: '2026-09-02'
+      title: roon (@tszzl) on X
+      date: '2026-08-26'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: 'many people worked incredibly hard on this post and associated report
+        including me
+
+
+        whilst everyone took alignment quite seriously before I think no question
+        that this begins a new era. hugging face incident represents reaching a waterline
+        of capabilities that real loss-of-control is possible, and …'
+  - url: https://x.com/tszzl/status/2092712117778682320
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/tszzl/status/2092712117778682320
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-08-26'
+        title: roon (@tszzl) on X
+        abstractNote: kind of like a monkey with a shotgun-more capacity to infiltrate
+          computer systems than wisdom to know what do with it, even with a misaligned
+          goal. this was a temporary situation with Sol-class models, which are already
+          obsolete. next generation will have strategic depth too
+        accessDate: '2026-09-02'
+      title: roon (@tszzl) on X
+      date: '2026-08-26'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: kind of like a monkey with a shotgun-more capacity to infiltrate computer
+        systems than wisdom to know what do with it, even with a misaligned goal.
+        this was a temporary situation with Sol-class models, which are already obsolete.
+        next generation will have strategic depth too
+  - url: https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:f6yzeddlu7zjqbthmn37yvom/app.bsky.feed.post/3mufpf4coes2k
 - post_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3muey6roys225
   thread_root_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3muey6roys225
   post_url: https://bsky.app/profile/did:plc:2lboisyd26lxqivvkv4ltbdx/post/3muey6roys225
