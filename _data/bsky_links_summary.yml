@@ -1,9 +1,9 @@
-entries_with_links: 2307
-total_links: 2838
-unique_domains: 948
+entries_with_links: 2311
+total_links: 2842
+unique_domains: 949
 top_domains:
 - domain: arxiv.org
-  count: 235
+  count: 236
 - domain: substack.com
   count: 165
 - domain: github.com

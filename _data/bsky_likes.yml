@@ -1,3 +1,289 @@
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mul5eugmlcwg
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mul5eugmlcwg
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mul5eugmlcwg
+  post_date: '2026-09-03T00:00:06.760Z'
+  liked_at: '2026-09-03T03:20:00.703447+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Cybernetics is really useful for saying things like "cybernetics talks
+    about this" without providing further insight
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mul5eugmlcwg
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3muldtdeilc2t
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3muldtddvzk2t
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3muldtdeilc2t
+  post_date: '2026-09-03T01:55:34.616Z'
+  liked_at: '2026-09-03T03:12:32.180465+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: 'We did eventually converge on an AI for solution teachers would accept.
+    The AI would help the teacher think through their pedagogy and produce thinking
+    prompts for students to reflect on as they worked on their engineering design
+    projects arxiv.org/abs/2606.30590
+
+
+    Entirely teache'
+  links:
+  - url: https://arxiv.org/abs/2606.30590
+    source: card
+    card_title: 'Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12
+      Teacher Interactions with Generative AI'
+    card_description: 'Purpose: This paper explores how to align AI-based tools with
+      teachers'' classroom needs by using scrutable interfaces -- interfaces that
+      link an easily manipulable knowledge representation to an under...'
+    citoid:
+      raw:
+        key: 7K9WAA58
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Gennie
+          lastName: Mansi
+          creatorType: author
+        - firstName: Sunni
+          lastName: Newton
+          creatorType: author
+        - firstName: Roxanne
+          lastName: Moore
+          creatorType: author
+        - firstName: Meltem
+          lastName: Alemdar
+          creatorType: author
+        - firstName: Mark
+          lastName: Riedl
+          creatorType: author
+        tags:
+        - tag: Human-Computer Interaction (cs.HC)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: 'Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12
+          Teacher Interactions with Generative AI'
+        repository: arXiv
+        date: '2026-06-30'
+        DOI: 10.48550/ARXIV.2606.30590
+        url: https://arxiv.org/abs/2606.30590
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: "Purpose: This paper explores how to align AI-based tools with\
+          \ teachers' classroom needs by using scrutable interfaces -- interfaces\
+          \ that link an easily manipulable knowledge representation to an underlying\
+          \ AI model, so users can change the system's outputs without understanding\
+          \ its details. It provides an in-depth discussion and example of a scrutable\
+          \ interface that structures teachers' interactions with generative AI. This\
+          \ study aims to expand how and where scrutable interfaces are used in AI-based\
+          \ tools to support teachers, who have not been historically targeted in\
+          \ the design of scrutable systems.\n Design/Methodology/Approach: This paper\
+          \ presents the design and evaluation of Concept Catalyst, an AI-based tool\
+          \ with a scrutable interface, created to support teachers' reflection while\
+          \ using generative AI for curriculum development. It presents the findings\
+          \ from an exploratory study using Wizard-of-Oz testing with middle and high\
+          \ school engineering teachers, resulting in 10 depth interviews lasting\
+          \ 55 minutes on average. Screen/audio recordings and the classroom content\
+          \ teachers produced during the session were also collected.\n Findings:\
+          \ The paper provides empirical insights about how scrutable interfaces can\
+          \ positively structure teachers' interactions with generative AI models\
+          \ when creating classroom content. Findings suggest that scrutable interfaces\
+          \ can help teachers reflect on their teaching practices while improving\
+          \ efficacy, efficiency, and motivation when using AI.\n What is original/value\
+          \ of the paper: This paper explores an identified need to support teachers'\
+          \ classroom practices and needs when using generative AI. It extends the\
+          \ consideration of scrutable interfaces in two ways: to support teachers\
+          \ as users (not just students) and to structure interactions with generative\
+          \ AI models."
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-09-03'
+        shortTitle: Concept Catalyst
+      title: 'Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher
+        Interactions with Generative AI'
+      authors:
+      - last: Mansi
+        first: Gennie
+      - last: Newton
+        first: Sunni
+      - last: Moore
+        first: Roxanne
+      - last: Alemdar
+        first: Meltem
+      - last: Riedl
+        first: Mark
+      date: '2026-06-30'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2606.30590
+      publisher: arXiv
+      abstract: "Purpose: This paper explores how to align AI-based tools with teachers'\
+        \ classroom needs by using scrutable interfaces -- interfaces that link an\
+        \ easily manipulable knowledge representation to an underlying AI model, so\
+        \ users can change the system's outputs without understanding its details.\
+        \ It provides an in-depth discussion and example of a scrutable interface\
+        \ that structures teachers' interactions with generative AI. This study aims\
+        \ to expand how and where scrutable interfaces are used in AI-based tools\
+        \ to support teachers, who have not been historically targeted in the design\
+        \ of scrutable systems.\n Design/Methodology/Approach: This paper presents\
+        \ the design and evaluation of Concept Catalyst, an AI-based tool with a scrutable\
+        \ interface, created to support teachers' reflection while using generative\
+        \ AI for curriculum development. It presents the findings from an exploratory\
+        \ study using Wizard-of-Oz testing with middle and high school engineering\
+        \ teachers, resulting in 10 depth interviews lasting 55 minutes on average.\
+        \ Screen/audio recordings and the classroom content teachers produced during\
+        \ the session were also collected.\n Findings: The paper provides empirical\
+        \ insights about how scrutable interfaces can positively structure teachers'\
+        \ interactions with generative AI models when creating classroom content.\
+        \ Findings suggest that scrutable interfaces can help teachers reflect on\
+        \ their teaching practices while improving efficacy, efficiency, and motivation\
+        \ when using AI.\n What is original/value of the paper: This paper explores\
+        \ an identified need to support teachers' classroom practices and needs when\
+        \ using generative AI. It extends the consideration of scrutable interfaces\
+        \ in two ways: to support teachers as users (not just students) and to structure\
+        \ interactions with generative AI models."
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3muldtdeilc2t
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mukpio3r6k26
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mukpio3r6k26
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3mukpio3r6k26
+  post_date: '2026-09-02T19:51:41.947Z'
+  liked_at: '2026-09-03T02:26:42.242396+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: it's a very old rule of moderated digital spaces that you need an "i
+    know it when i see it" clause for harassment or else bad actors will aggressively
+    toe the line without ever technically going over. that's why i don't think the
+    "why cant you give me an exact definition" replies
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mukpio3r6k26
+- post_uri: at://did:plc:eon2iu7v3x2ukgxkqaf7e5np/app.bsky.feed.post/3mukm26duos2c
+  thread_root_uri: at://did:plc:eon2iu7v3x2ukgxkqaf7e5np/app.bsky.feed.post/3mukm26duos2c
+  post_url: https://bsky.app/profile/did:plc:eon2iu7v3x2ukgxkqaf7e5np/post/3mukm26duos2c
+  post_date: '2026-09-02T18:49:54.447Z'
+  liked_at: '2026-09-02T23:44:40.346472+00:00'
+  author_handle: safety.bsky.app
+  author_did: did:plc:eon2iu7v3x2ukgxkqaf7e5np
+  post_text: Dogpiling or harassing users is unacceptable. We have taken recent action
+    against accounts for this behavior, and we will be increasing our efforts, consistent
+    with our Community Guidelines.
+  links:
+  - url: https://bsky.social/about/support/community-guidelines
+    source: card
+    card_title: Community Guidelines - Bluesky
+    card_description: ''
+    citoid:
+      raw:
+        key: 42AJSWEM
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Community Guidelines
+        websiteTitle: Bluesky
+        url: https://bsky.social/about/support/community-guidelines
+        language: en
+        accessDate: '2026-09-03'
+      title: Community Guidelines
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:eon2iu7v3x2ukgxkqaf7e5np/app.bsky.feed.post/3mukm26duos2c
+- post_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3mujzg3uzpk25
+  thread_root_uri: at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3mujzg3uzpk25
+  post_url: https://bsky.app/profile/did:plc:2lboisyd26lxqivvkv4ltbdx/post/3mujzg3uzpk25
+  post_date: '2026-09-02T13:16:33.420Z'
+  liked_at: '2026-09-02T14:35:19.286377+00:00'
+  author_handle: datacolada.bsky.social
+  author_did: did:plc:2lboisyd26lxqivvkv4ltbdx
+  post_text: 'Colada[139] Artificial Deadlines Part 2
+
+
+    Evidence of fraud in the 25 year old gradesheet behind the key finding in an influential
+    paper on deadlines and procrastination.
+
+
+    datacolada.org/139'
+  links:
+  - url: https://datacolada.org/139
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: LEWSNDWE
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: '[139] Artificial Deadlines (Part 2): Retrograding Ariely & Wertenbroch
+          (2002)'
+        blogTitle: Data Colada
+        date: '2026-09-02'
+        url: https://datacolada.org/139
+        abstractNote: As described in our previous post (.htm), back in 2006 ariely@mit.edu
+          sent three Excel spreadsheets, each “last saved” by user “Dan Ariely”, to
+          then-PhD-student-but-now-full…
+        language: en-US
+        accessDate: '2026-09-03'
+        shortTitle: '[139] Artificial Deadlines (Part 2)'
+      title: '[139] Artificial Deadlines (Part 2): Retrograding Ariely & Wertenbroch
+        (2002)'
+      date: '2026-09-02'
+      item_type: blogPost
+      publisher: Data Colada
+      abstract: As described in our previous post (.htm), back in 2006 ariely@mit.edu
+        sent three Excel spreadsheets, each “last saved” by user “Dan Ariely”, to
+        then-PhD-student-but-now-full…
+  all_post_uris:
+  - at://did:plc:2lboisyd26lxqivvkv4ltbdx/app.bsky.feed.post/3mujzg3uzpk25
+- post_uri: at://did:plc:fnxivz5xi4aqrwlhrccxod46/app.bsky.feed.post/3mujdjf74mc25
+  thread_root_uri: at://did:plc:fnxivz5xi4aqrwlhrccxod46/app.bsky.feed.post/3mujdjf74mc25
+  post_url: https://bsky.app/profile/did:plc:fnxivz5xi4aqrwlhrccxod46/post/3mujdjf74mc25
+  post_date: '2026-09-02T06:44:41.533Z'
+  liked_at: '2026-09-02T14:29:59.594312+00:00'
+  author_handle: horusiath.bsky.social
+  author_did: did:plc:fnxivz5xi4aqrwlhrccxod46
+  post_text: Idk about others but I find myself constantly rewriting doc comments
+    made by genAI. I'm reading them, and it's just a word salad. No emphasis, no key
+    points, explanation that sound plausible until you actually try to refer to it
+    in practice.
+  links: []
+  all_post_uris:
+  - at://did:plc:fnxivz5xi4aqrwlhrccxod46/app.bsky.feed.post/3mujdjf74mc25
+- post_uri: at://did:plc:yzywgiiou7cx63uddiru6m2o/app.bsky.feed.post/3muiak5hn3k2g
+  thread_root_uri: at://did:plc:yzywgiiou7cx63uddiru6m2o/app.bsky.feed.post/3muiak5hn3k2g
+  post_url: https://bsky.app/profile/did:plc:yzywgiiou7cx63uddiru6m2o/post/3muiak5hn3k2g
+  post_date: '2026-09-01T20:18:46.014Z'
+  liked_at: '2026-09-02T14:26:34.726324+00:00'
+  author_handle: pekka.bsky.social
+  author_did: did:plc:yzywgiiou7cx63uddiru6m2o
+  post_text: '"We gave..Claude Fable 5.1 an open task: solve an unsolved 370-year-old
+    cipher. It solved it within a day"
+
+
+    "It was..listed by historical-cipher researcher Klaus Schmeh among his Top 50
+    unsolved encrypted messages"
+
+
+    "solution is quite embarrassing for humans in hindsight"'
+  links:
+  - url: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+    source: card
+    card_title: Vals AI
+    card_description: Private, domain-specific benchmarks in legal, tax, and finance.
+    citoid:
+      raw:
+        key: VFR8TJHP
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Vals AI
+        url: https://www.vals.ai/
+        abstractNote: Private, domain-specific benchmarks in legal, tax, and finance.
+        language: en
+        accessDate: '2026-09-03'
+        websiteTitle: www.vals.ai
+      title: Vals AI
+      item_type: webpage
+      abstract: Private, domain-specific benchmarks in legal, tax, and finance.
+  all_post_uris:
+  - at://did:plc:yzywgiiou7cx63uddiru6m2o/app.bsky.feed.post/3muiak5hn3k2g
 - post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3muimzxo2sk2g
   thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3muimzxo2sk2g
   post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muimzxo2sk2g
