@@ -1,3 +1,60 @@
+- post_uri: at://did:plc:wygpica6cm44fhoixpkfmdyf/app.bsky.feed.post/3mumluvrgus27
+  thread_root_uri: at://did:plc:wygpica6cm44fhoixpkfmdyf/app.bsky.feed.post/3mumluvrgus27
+  post_url: https://bsky.app/profile/did:plc:wygpica6cm44fhoixpkfmdyf/post/3mumluvrgus27
+  post_date: '2026-09-03T13:52:17.159Z'
+  liked_at: '2026-09-03T23:54:29.286746+00:00'
+  author_handle: ellecordova.bsky.social
+  author_did: did:plc:wygpica6cm44fhoixpkfmdyf
+  post_text: Rough Draft vs Final Draft
+  links: []
+  all_post_uris:
+  - at://did:plc:wygpica6cm44fhoixpkfmdyf/app.bsky.feed.post/3mumluvrgus27
+- post_uri: at://did:plc:fensreek6maqgui5apldqdij/app.bsky.feed.post/3munbl4hufc2h
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mun3ov6vjk22
+  post_url: https://bsky.app/profile/did:plc:fensreek6maqgui5apldqdij/post/3munbl4hufc2h
+  post_date: '2026-09-03T20:20:30.962Z'
+  liked_at: '2026-09-03T21:41:55.983596+00:00'
+  author_handle: premium-content.bsky.social
+  author_did: did:plc:fensreek6maqgui5apldqdij
+  post_text: 'Fresh off the press: arcprize.org/blog/astra
+
+
+    "GPT-6 Astra scores 62.7% for $26K on ARC-AGI-3 Semi-Private with our Standard
+    Harness, and 99.9% for $19K with a Provider Adapter Harness."'
+  links:
+  - url: https://arcprize.org/blog/astra
+    source: card
+    card_title: OpenAI's GPT-6 Astra on ARC-AGI-3 | ARC Prize
+    card_description: OpenAI's GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3
+    citoid:
+      raw:
+        key: ML35V8QK
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: OpenAI's GPT-6 Astra on ARC-AGI-3
+        websiteTitle: ARC Prize
+        url: https://arcprize.org/blog/astra
+        abstractNote: OpenAI's GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3
+        language: en
+        accessDate: '2026-09-04'
+      title: OpenAI's GPT-6 Astra on ARC-AGI-3
+      item_type: webpage
+      abstract: OpenAI's GPT-6 Astra reaches state-of-the-art results on ARC-AGI-3
+  all_post_uris:
+  - at://did:plc:fensreek6maqgui5apldqdij/app.bsky.feed.post/3munbl4hufc2h
+- post_uri: at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mumrpwvs6c2x
+  thread_root_uri: at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mumrpwvs6c2x
+  post_url: https://bsky.app/profile/did:plc:ny7m556yvn5nirqyvyoeeets/post/3mumrpwvs6c2x
+  post_date: '2026-09-03T15:36:53.022Z'
+  liked_at: '2026-09-03T17:29:48.082619+00:00'
+  author_handle: nickseaver.website
+  author_did: did:plc:ny7m556yvn5nirqyvyoeeets
+  post_text: expanding my portfolio of “sciences whose scientific status is in dispute”
+  links: []
+  all_post_uris:
+  - at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mumrpwvs6c2x
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mul5eugmlcwg
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mul5eugmlcwg
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mul5eugmlcwg
