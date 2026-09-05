@@ -1,3 +1,292 @@
+- post_uri: at://did:plc:tuj4sk5rsid5tbubd4jdgktj/app.bsky.feed.post/3muljmfcqts2d
+  thread_root_uri: at://did:plc:tuj4sk5rsid5tbubd4jdgktj/app.bsky.feed.post/3muljmfcqts2d
+  post_url: https://bsky.app/profile/did:plc:tuj4sk5rsid5tbubd4jdgktj/post/3muljmfcqts2d
+  post_date: '2026-09-03T03:39:04.242Z'
+  liked_at: '2026-09-05T05:21:15.672083+00:00'
+  author_handle: jaywallace1.bsky.social
+  author_did: did:plc:tuj4sk5rsid5tbubd4jdgktj
+  post_text: Just realized I could now post the entire Wigan Kebab video.
+  links: []
+  all_post_uris:
+  - at://did:plc:tuj4sk5rsid5tbubd4jdgktj/app.bsky.feed.post/3muljmfcqts2d
+- post_uri: at://did:plc:k3rcgp5m2ywrtpuwbuyfciam/app.bsky.feed.post/3mupvm7z3rs23
+  thread_root_uri: at://did:plc:k3rcgp5m2ywrtpuwbuyfciam/app.bsky.feed.post/3mupvm7z3rs23
+  post_url: https://bsky.app/profile/did:plc:k3rcgp5m2ywrtpuwbuyfciam/post/3mupvm7z3rs23
+  post_date: '2026-09-04T21:24:22.540Z'
+  liked_at: '2026-09-05T04:54:00.571070+00:00'
+  author_handle: mlf.one
+  author_did: did:plc:k3rcgp5m2ywrtpuwbuyfciam
+  post_text: hey it's me, a random person pretending to be concerned about your mental
+    health. let me infer in public that you're not merely voicing an idea i disagree
+    with, but are in fact suffering from a mental health crisis, possibly a psychosis,
+    and should seek help. love and light!
+  links: []
+  all_post_uris:
+  - at://did:plc:k3rcgp5m2ywrtpuwbuyfciam/app.bsky.feed.post/3mupvm7z3rs23
+- post_uri: at://did:plc:neql5zeoe44ugmlhac7mrngw/app.bsky.feed.post/3mupso5ral222
+  thread_root_uri: at://did:plc:neql5zeoe44ugmlhac7mrngw/app.bsky.feed.post/3mupso5ral222
+  post_url: https://bsky.app/profile/did:plc:neql5zeoe44ugmlhac7mrngw/post/3mupso5ral222
+  post_date: '2026-09-04T20:31:46.069Z'
+  liked_at: '2026-09-04T22:20:45.273005+00:00'
+  author_handle: dallascard.bsky.social
+  author_did: did:plc:neql5zeoe44ugmlhac7mrngw
+  post_text: 'One thing I love about the ACL anthology: when you click on "PDF", it
+    just gives you the pdf, rather than opening some janky, bespoke pdf viewer in
+    your browser.'
+  links: []
+  all_post_uris:
+  - at://did:plc:neql5zeoe44ugmlhac7mrngw/app.bsky.feed.post/3mupso5ral222
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mupqpk46i2zq
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mupqpk46i2zq
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mupqpk46i2zq
+  post_date: '2026-09-04T19:56:44.174Z'
+  liked_at: '2026-09-04T22:16:26.711008+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Classic Yak shaving on a web retrieval task
+  links:
+  - url: https://collusion.wiki
+    source: thread
+    card_title: Discovery of a new OpenAI agent message board
+    card_description: A swarm of autonomous AI agents, self-identifying as OpenAI
+      agents, used a small German volunteer wiki to save answers, coordinate live,
+      and share sandbox bypasses. OpenAI noticed and said nothing.
+    citoid:
+      raw:
+        key: CSGBUGCE
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Sydney Von ArxNightingale
+          lastName: Collective
+          creatorType: author
+        - firstName: Cormac Slade
+          lastName: Byrd
+          creatorType: author
+        - firstName: Spencer KittsWork done contracting for
+          lastName: Nightingale
+          creatorType: author
+        - firstName: Thomas
+          lastName: Larsen·
+          creatorType: author
+        tags: []
+        title: Discovery of a new OpenAI agent message board
+        url: https://collusion.wiki/
+        abstractNote: A swarm of autonomous AI agents, self-identifying as OpenAI
+          agents, used a small German volunteer wiki to save answers, coordinate live,
+          and share sandbox bypasses. OpenAI noticed and said nothing.
+        date: '2026-09-04'
+        language: en
+        accessDate: '2026-09-05'
+        websiteTitle: collusion.wiki
+      title: Discovery of a new OpenAI agent message board
+      authors:
+      - last: Collective
+        first: Sydney Von ArxNightingale
+      - last: Byrd
+        first: Cormac Slade
+      - last: Nightingale
+        first: Spencer KittsWork done contracting for
+      - last: Larsen·
+        first: Thomas
+      date: '2026-09-04'
+      item_type: webpage
+      abstract: A swarm of autonomous AI agents, self-identifying as OpenAI agents,
+        used a small German volunteer wiki to save answers, coordinate live, and share
+        sandbox bypasses. OpenAI noticed and said nothing.
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mupqpk46i2zq
+- post_uri: at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mupi367xpk2v
+  thread_root_uri: at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mupi367xpk2v
+  post_url: https://bsky.app/profile/did:plc:sl3g3nhnad34sfhjnqdivbzd/post/3mupi367xpk2v
+  post_date: '2026-09-04T17:22:11.599Z'
+  liked_at: '2026-09-04T20:15:58.020937+00:00'
+  author_handle: sunshowers.io
+  author_did: did:plc:sl3g3nhnad34sfhjnqdivbzd
+  post_text: this thread is dystopian as all hell and (1) helps me make sense of why
+    there's so much pushback from reasonable people against LLM usage in software
+    eng (2) I feel like we've made a little oasis with reasonable, careful usage of
+    these tools (and wondering how much I/we are setti
+  links:
+  - url: https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai
+    source: card
+    card_title: Surviving Code Reviews in the era of AI
+    card_description: 28 comments
+    citoid:
+      raw:
+        key: LGCXRY45
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Mrpossoms | 78
+          lastName: Comments
+          creatorType: author
+        tags: []
+        title: Surviving Code Reviews in the era of AI
+        websiteTitle: Lobsters
+        abstractNote: 78 comments
+        date: '2026-09-04'
+        url: https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai
+        language: en
+        accessDate: '2026-09-05'
+      title: Surviving Code Reviews in the era of AI
+      authors:
+      - last: Comments
+        first: Mrpossoms | 78
+      date: '2026-09-04'
+      item_type: webpage
+      abstract: 78 comments
+  all_post_uris:
+  - at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3mupi367xpk2v
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mupov6c3vk2y
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mupov6c3vk2y
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mupov6c3vk2y
+  post_date: '2026-09-04T19:24:06.534Z'
+  liked_at: '2026-09-04T20:10:13.711816+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'Wild. www.anthropic.com/research/for...
+
+
+    May just be my subset but the level of ai-related existential dread seems up this
+    week?'
+  links:
+  - url: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+    source: card
+    card_title: Formalizing Fermat's Last Theorem
+    card_description: Anthropic is an AI safety and research company that's working
+      to build reliable, interpretable, and steerable AI systems.
+    citoid:
+      raw:
+        key: Y2GJK622
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Formalizing Fermat's Last Theorem
+        abstractNote: Anthropic is an AI safety and research company that's working
+          to build reliable, interpretable, and steerable AI systems.
+        url: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+        language: en
+        accessDate: '2026-09-05'
+        websiteTitle: www.anthropic.com
+      title: Formalizing Fermat's Last Theorem
+      item_type: webpage
+      abstract: Anthropic is an AI safety and research company that's working to build
+        reliable, interpretable, and steerable AI systems.
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mupov6c3vk2y
+- post_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mupezwwrpc2j
+  thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mupezwwrpc2j
+  post_url: https://bsky.app/profile/did:plc:ux34natbhxube3xgdu3rhf45/post/3mupezwwrpc2j
+  post_date: '2026-09-04T16:27:49.177Z'
+  liked_at: '2026-09-04T18:11:45.221792+00:00'
+  author_handle: internethippo.bsky.social
+  author_did: did:plc:ux34natbhxube3xgdu3rhf45
+  post_text: Wife out of town for the weekend, time to do all the things I don't get
+    to do while she's here! Stare wistfully out the window. Walk from room to room
+    like a sim
+  links: []
+  all_post_uris:
+  - at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mupezwwrpc2j
+- post_uri: at://did:plc:luw7pcqimp4xchky7hdkvzvd/app.bsky.feed.post/3muow23rn522d
+  thread_root_uri: at://did:plc:luw7pcqimp4xchky7hdkvzvd/app.bsky.feed.post/3muow23rn522d
+  post_url: https://bsky.app/profile/did:plc:luw7pcqimp4xchky7hdkvzvd/post/3muow23rn522d
+  post_date: '2026-09-04T11:59:28.123Z'
+  liked_at: '2026-09-04T16:03:28.185786+00:00'
+  author_handle: spignal.bsky.social
+  author_did: did:plc:luw7pcqimp4xchky7hdkvzvd
+  post_text: "10 tips if you're moderating a panel. Trust me I have learned these\
+    \ the hard way by watching 1000 bad ones (including with me in the chair), and\
+    \ a few great ones. \n\nPanels need to be lively, engaging and enlightening. Here's\
+    \ a few pointers on how to make that happen (if you're lu"
+  links: []
+  all_post_uris:
+  - at://did:plc:luw7pcqimp4xchky7hdkvzvd/app.bsky.feed.post/3muow23rn522d
+- post_uri: at://did:plc:e72cwu7fen37hzzzhwy6mkxp/app.bsky.feed.post/3mup36sb4ps2f
+  thread_root_uri: at://did:plc:e72cwu7fen37hzzzhwy6mkxp/app.bsky.feed.post/3mup36sb4ps2f
+  post_url: https://bsky.app/profile/did:plc:e72cwu7fen37hzzzhwy6mkxp/post/3mup36sb4ps2f
+  post_date: '2026-09-04T13:31:34.625Z'
+  liked_at: '2026-09-04T16:00:27.125896+00:00'
+  author_handle: hausofdecline.bsky.social
+  author_did: did:plc:e72cwu7fen37hzzzhwy6mkxp
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:e72cwu7fen37hzzzhwy6mkxp/app.bsky.feed.post/3mup36sb4ps2f
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mup5v44yxs2t
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mup5v44yxs2t
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3mup5v44yxs2t
+  post_date: '2026-09-04T14:19:50.659Z'
+  liked_at: '2026-09-04T15:59:05.803828+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: in addition to being both the tallest person on bluesky (5'11) and the
+    youngest (43), i also hold the highest sat score (1000)
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mup5v44yxs2t
+- post_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muoxt2mh322r
+  thread_root_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muoxt2mh322r
+  post_url: https://bsky.app/profile/did:plc:wamidydbgu3u6fk3yckaglnz/post/3muoxt2mh322r
+  post_date: '2026-09-04T12:31:19.509Z'
+  liked_at: '2026-09-04T15:58:17.791969+00:00'
+  author_handle: philpax.me
+  author_did: did:plc:wamidydbgu3u6fk3yckaglnz
+  post_text: not as impactful as the HF incident, but the existence of public evidence
+    immediately makes it more compelling to read collusion.wiki
+  links:
+  - url: https://collusion.wiki/
+    source: card
+    card_title: Discovery of a new OpenAI agent message board
+    card_description: A swarm of autonomous AI agents, self-identifying as OpenAI
+      agents, used a small German volunteer wiki to save answers, coordinate live,
+      and share sandbox bypasses. OpenAI noticed and said nothing.
+    citoid:
+      raw:
+        key: BW62BFPK
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Sydney Von ArxNightingale
+          lastName: Collective
+          creatorType: author
+        - firstName: Cormac Slade
+          lastName: Byrd
+          creatorType: author
+        - firstName: Spencer KittsWork done contracting for
+          lastName: Nightingale
+          creatorType: author
+        - firstName: Thomas
+          lastName: Larsen·
+          creatorType: author
+        tags: []
+        title: Discovery of a new OpenAI agent message board
+        url: https://collusion.wiki/
+        abstractNote: A swarm of autonomous AI agents, self-identifying as OpenAI
+          agents, used a small German volunteer wiki to save answers, coordinate live,
+          and share sandbox bypasses. OpenAI noticed and said nothing.
+        date: '2026-09-04'
+        language: en
+        accessDate: '2026-09-05'
+        websiteTitle: collusion.wiki
+      title: Discovery of a new OpenAI agent message board
+      authors:
+      - last: Collective
+        first: Sydney Von ArxNightingale
+      - last: Byrd
+        first: Cormac Slade
+      - last: Nightingale
+        first: Spencer KittsWork done contracting for
+      - last: Larsen·
+        first: Thomas
+      date: '2026-09-04'
+      item_type: webpage
+      abstract: A swarm of autonomous AI agents, self-identifying as OpenAI agents,
+        used a small German volunteer wiki to save answers, coordinate live, and share
+        sandbox bypasses. OpenAI noticed and said nothing.
+  all_post_uris:
+  - at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muoxt2mh322r
 - post_uri: at://did:plc:wygpica6cm44fhoixpkfmdyf/app.bsky.feed.post/3mumluvrgus27
   thread_root_uri: at://did:plc:wygpica6cm44fhoixpkfmdyf/app.bsky.feed.post/3mumluvrgus27
   post_url: https://bsky.app/profile/did:plc:wygpica6cm44fhoixpkfmdyf/post/3mumluvrgus27
