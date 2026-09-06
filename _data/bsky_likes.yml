@@ -1,3 +1,157 @@
+- post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3muq3cnyenk2l
+  thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3muq3cnyenk2l
+  post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3muq3cnyenk2l
+  post_date: '2026-09-04T23:06:24.103Z'
+  liked_at: '2026-09-06T04:58:26.508276+00:00'
+  author_handle: scientificdiscovery.dev
+  author_did: did:plc:73aicoale2mqwrap63rdzwep
+  post_text: 'This is interesting. You get assigned to being born at a random place
+    and time in history, to see what a typical person''s life might have been like
+    then.
+
+
+    Unfortunately I was born in 1403 in the valley of Mexico and died at age 4 from
+    dysentery.'
+  links:
+  - url: https://anyhumanever.com
+    source: card
+    card_title: Any Human Ever
+    card_description: One life, drawn at random from all who have ever lived.
+    citoid:
+      raw:
+        url: https://anyhumanever.com
+        itemType: webpage
+        title: Any Human Ever
+        abstractNote: One life, drawn at random from all who have ever lived.
+        websiteTitle: Any Human Ever
+        language: en
+        accessDate: '2026-09-06'
+      title: Any Human Ever
+      item_type: webpage
+      abstract: One life, drawn at random from all who have ever lived.
+  all_post_uris:
+  - at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3muq3cnyenk2l
+- post_uri: at://did:plc:ucct3fwwarzd7rety6nzq4cc/app.bsky.feed.post/3musfcwu4qs2u
+  thread_root_uri: at://did:plc:ucct3fwwarzd7rety6nzq4cc/app.bsky.feed.post/3musfcwu4qs2u
+  post_url: https://bsky.app/profile/did:plc:ucct3fwwarzd7rety6nzq4cc/post/3musfcwu4qs2u
+  post_date: '2026-09-05T21:10:50.295Z'
+  liked_at: '2026-09-06T00:13:21.443358+00:00'
+  author_handle: bcantrill.bsky.social
+  author_did: did:plc:ucct3fwwarzd7rety6nzq4cc
+  post_text: 'The revolt of the reader
+
+    bcantrill.dtrace.org/2026/09/05/t...'
+  links:
+  - url: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+    source: card
+    card_title: The revolt of the reader | The Observation Deck
+    card_description: ''
+    citoid:
+      raw:
+        key: VL2VCHHU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The revolt of the reader
+        websiteTitle: The Observation Deck
+        date: '2026-09-05'
+        url: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+        abstractNote: 'Reading is important to me. While I’m not a quick reader nor
+          an especially voracious one, I have found that long-form reading has had
+          a profound influence on me over my life.
+
+          And because reading is important to me, writing is too: writing not only
+          allows us to convey our ideas, but the very act forces us to test and distill
+          them — at once making our ideas more robust while providing the vehicle
+          by which to share them.'
+        language: en-us
+        accessDate: '2026-09-06'
+      title: The revolt of the reader
+      date: '2026-09-05'
+      item_type: webpage
+      abstract: 'Reading is important to me. While I’m not a quick reader nor an especially
+        voracious one, I have found that long-form reading has had a profound influence
+        on me over my life.
+
+        And because reading is important to me, writing is too: writing not only allows
+        us to convey our ideas, but the very act forces us to test and distill them — at
+        once making our ideas more robust while providing the vehicle by which to
+        share them.'
+  all_post_uris:
+  - at://did:plc:ucct3fwwarzd7rety6nzq4cc/app.bsky.feed.post/3musfcwu4qs2u
+- post_uri: at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3muscw54mzk22
+  thread_root_uri: at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3muscw54mzk22
+  post_url: https://bsky.app/profile/did:plc:c5pgebskvz35wxtkopm7osm5/post/3muscw54mzk22
+  post_date: '2026-09-05T20:27:53.174Z'
+  liked_at: '2026-09-05T20:47:12.246277+00:00'
+  author_handle: scottbot.net
+  author_did: did:plc:c5pgebskvz35wxtkopm7osm5
+  post_text: I'm preparing brisket to sous vide, spouse is baking challah to freeze,
+    and the four-year-old is making shofar noises on the paper towel roll. Don't mind
+    me, just over here 😭😭😭
+  links: []
+  all_post_uris:
+  - at://did:plc:c5pgebskvz35wxtkopm7osm5/app.bsky.feed.post/3muscw54mzk22
+- post_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mus2n5kpos2g
+  thread_root_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mus2n5kpos2g
+  post_url: https://bsky.app/profile/did:plc:coqhxdcmnnbgizwi66icj26o/post/3mus2n5kpos2g
+  post_date: '2026-09-05T17:59:41.708Z'
+  liked_at: '2026-09-05T20:06:28.457216+00:00'
+  author_handle: sarahseeandersen.bsky.social
+  author_did: did:plc:coqhxdcmnnbgizwi66icj26o
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mus2n5kpos2g
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3muronhrses2j
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3muronhrses2j
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3muronhrses2j
+  post_date: '2026-09-05T14:25:07.527Z'
+  liked_at: '2026-09-05T17:02:10.307190+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'Sorry to hear we lost Wendell Berry. I often found his essays extremely
+    frustrating, but I shared his sympathy toward the idea of remaining connected
+    to nature without pretending that it''d be easy. And he wrote a great novel called
+    "The Memory of Old Jack."
+
+
+    www.theatlantic.com/c'
+  links:
+  - url: https://www.theatlantic.com/culture/2026/09/wendell-berry-obit-legacy/688530/
+    source: card
+    card_title: Why Wendell Berry Didn’t Worry About the Future
+    card_description: 'His life as a writer and farmer was informed by a simple, clarifying
+      idea: Forget tomorrow, and work toward what is good today.'
+    citoid:
+      raw:
+        key: GCKVMCT7
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Joe
+          lastName: Fassler
+          creatorType: author
+        tags: []
+        title: Why Wendell Berry Didn’t Worry About the Future
+        websiteTitle: The Atlantic
+        date: '2026-09-05'
+        url: https://www.theatlantic.com/culture/2026/09/wendell-berry-obit-legacy/688530/
+        abstractNote: 'His life as a writer and farmer was informed by a simple, clarifying
+          idea: Forget tomorrow, and work toward what is good today.'
+        language: en
+        accessDate: '2026-09-06'
+      title: Why Wendell Berry Didn’t Worry About the Future
+      authors:
+      - last: Fassler
+        first: Joe
+      date: '2026-09-05'
+      item_type: webpage
+      abstract: 'His life as a writer and farmer was informed by a simple, clarifying
+        idea: Forget tomorrow, and work toward what is good today.'
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3muronhrses2j
 - post_uri: at://did:plc:tuj4sk5rsid5tbubd4jdgktj/app.bsky.feed.post/3muljmfcqts2d
   thread_root_uri: at://did:plc:tuj4sk5rsid5tbubd4jdgktj/app.bsky.feed.post/3muljmfcqts2d
   post_url: https://bsky.app/profile/did:plc:tuj4sk5rsid5tbubd4jdgktj/post/3muljmfcqts2d
