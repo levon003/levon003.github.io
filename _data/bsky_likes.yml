@@ -1,3 +1,136 @@
+- post_uri: at://did:plc:e5utgfbui36qwd7qg74n6rgg/app.bsky.feed.post/3muhkfk35i22k
+  thread_root_uri: at://did:plc:e5utgfbui36qwd7qg74n6rgg/app.bsky.feed.post/3muhkfk35i22k
+  post_url: https://bsky.app/profile/did:plc:e5utgfbui36qwd7qg74n6rgg/post/3muhkfk35i22k
+  post_date: '2026-09-01T13:42:29.145Z'
+  liked_at: '2026-09-06T22:23:14.383540+00:00'
+  author_handle: matthen.com
+  author_did: did:plc:e5utgfbui36qwd7qg74n6rgg
+  post_text: 'Here I draw a circle by hand.
+
+    In a universe where it is the perfect circle- what does a sine wave look like?
+    What is its value of pi?'
+  links: []
+  all_post_uris:
+  - at://did:plc:e5utgfbui36qwd7qg74n6rgg/app.bsky.feed.post/3muhkfk35i22k
+- post_uri: at://did:web:bsky38.com/app.bsky.feed.post/3muphbj35cs2h
+  thread_root_uri: at://did:web:bsky38.com/app.bsky.feed.post/3muphbj35cs2h
+  post_url: https://bsky.app/profile/did:web:bsky38.com/post/3muphbj35cs2h
+  post_date: '2026-09-04T17:07:50.559Z'
+  liked_at: '2026-09-06T20:51:02.793836+00:00'
+  author_handle: bsky38.com
+  author_did: did:web:bsky38.com
+  post_text: 'Who are the 38 most influential Bluesky posters of 2026?
+
+
+    You get 10 votes, anyone with a Bluesky account can be voted for. The 38 with
+    the most votes make the list. 🗳️
+
+
+    Voting ends the 21st night of September. 🌎 🌬️🔥
+
+
+    Cast your ballot: bsky38.com'
+  links:
+  - url: https://bsky38.com/
+    source: card
+    card_title: 38 Most Influential Bluesky Posters of 2026
+    card_description: Vote for the 38 most influential Bluesky posters of 2026.
+    citoid:
+      raw:
+        key: QNK2ALZ7
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 38 Most Influential Bluesky Posters of 2026
+        websiteTitle: 38 Most Influential Bluesky Posters of 2026
+        url: https://bsky38.com/
+        abstractNote: Vote for the 38 most influential Bluesky posters of 2026.
+        language: en
+        accessDate: '2026-09-07'
+      title: 38 Most Influential Bluesky Posters of 2026
+      item_type: webpage
+      abstract: Vote for the 38 most influential Bluesky posters of 2026.
+  all_post_uris:
+  - at://did:web:bsky38.com/app.bsky.feed.post/3muphbj35cs2h
+- post_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muu6qyf72c22
+  thread_root_uri: at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muu6qyf72c22
+  post_url: https://bsky.app/profile/did:plc:wamidydbgu3u6fk3yckaglnz/post/3muu6qyf72c22
+  post_date: '2026-09-06T14:18:44.949Z'
+  liked_at: '2026-09-06T16:23:31.531591+00:00'
+  author_handle: philpax.me
+  author_did: did:plc:wamidydbgu3u6fk3yckaglnz
+  post_text: mildly concerning that this is how Astra talks to its subagents, and
+    that the subagents (which are Luna!) understand
+  links:
+  - url: https://github.com/the-moonwitch/Cozette
+    source: thread
+    card_title: 'GitHub - the-moonwitch/Cozette: A bitmap programming font optimized
+      for coziness 💜'
+    card_description: A bitmap programming font optimized for coziness 💜 - the-moonwitch/Cozette
+    citoid:
+      raw:
+        key: K6RI3VM4
+        version: 0
+        itemType: computerProgram
+        creators:
+        - name: samhain
+          creatorType: programmer
+        tags: []
+        url: https://github.com/the-moonwitch/Cozette
+        title: the-moonwitch/Cozette
+        abstractNote: A bitmap programming font optimized for coziness 💜
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2020-02-01T01:49:02Z'
+        date: '2026-09-07'
+        rights: MIT
+        accessDate: '2026-09-07'
+      title: the-moonwitch/Cozette
+      date: '2026-09-07'
+      item_type: computerProgram
+      abstract: A bitmap programming font optimized for coziness 💜
+  all_post_uris:
+  - at://did:plc:wamidydbgu3u6fk3yckaglnz/app.bsky.feed.post/3muu6qyf72c22
+- post_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3muhynxsst22z
+  thread_root_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3muhynxsst22z
+  post_url: https://bsky.app/profile/did:plc:2mrgzk6xlemfv6yugn644xxy/post/3muhynxsst22z
+  post_date: '2026-09-01T17:57:44.367Z'
+  liked_at: '2026-09-06T14:58:56.805490+00:00'
+  author_handle: danluu.com
+  author_did: did:plc:2mrgzk6xlemfv6yugn644xxy
+  post_text: "How accurate have Ed Zitron's AI skeptic predictions been? \n\ndanluu.com/zitron/"
+  links:
+  - url: https://danluu.com/zitron/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: JJ8YD6UK
+        version: 0
+        itemType: webpage
+        url: https://danluu.com/zitron/
+        title: Ed Zitron's AI prediction track record
+        accessDate: '2026-09-07'
+        websiteTitle: danluu.com
+      title: Ed Zitron's AI prediction track record
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3muhynxsst22z
+- post_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3musfxrb27k2t
+  thread_root_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3musfxrb27k2t
+  post_url: https://bsky.app/profile/did:plc:j3hiqh5g6il7vmphiyldeklv/post/3musfxrb27k2t
+  post_date: '2026-09-05T21:22:29.057Z'
+  liked_at: '2026-09-06T11:47:24.723344+00:00'
+  author_handle: mkirschenbaum.bsky.social
+  author_did: did:plc:j3hiqh5g6il7vmphiyldeklv
+  post_text: The problem space we’re in is one in which neither any whiff of AI risks
+    permanent reputational damage nor technocratic Dean wants to replace writing instruction
+    with AI is a good or sustainable future.
+  links: []
+  all_post_uris:
+  - at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3musfxrb27k2t
 - post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3muq3cnyenk2l
   thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3muq3cnyenk2l
   post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3muq3cnyenk2l
