@@ -1,3 +1,144 @@
+- post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3muxnczbeyc2r
+  thread_root_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3muxnczbeyc2r
+  post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3muxnczbeyc2r
+  post_date: '2026-09-07T23:17:21.454Z'
+  liked_at: '2026-09-08T03:23:56.167693+00:00'
+  author_handle: segyges.bsky.social
+  author_did: did:plc:vszw3ess46odfhnzdsy4huae
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3muxnczbeyc2r
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3muxwf43qcs2y
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3muxwf43qcs2y
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3muxwf43qcs2y
+  post_date: '2026-09-08T01:59:35.200Z'
+  liked_at: '2026-09-08T03:04:09.010172+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: this is the most sober and tame shit imaginable. come on
+  links: []
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3muxwf43qcs2y
+- post_uri: at://did:plc:szq2fo7h5ztxvq4z5hayvzen/app.bsky.feed.post/3mux7u4lbts2n
+  thread_root_uri: at://did:plc:kjixfa7wudorsmbyyfios3kp/app.bsky.feed.post/3mux6fh65vc2n
+  post_url: https://bsky.app/profile/did:plc:szq2fo7h5ztxvq4z5hayvzen/post/3mux7u4lbts2n
+  post_date: '2026-09-07T19:16:22.964Z'
+  liked_at: '2026-09-08T01:37:18.099849+00:00'
+  author_handle: balthazarspeedboat.bsky.social
+  author_did: did:plc:szq2fo7h5ztxvq4z5hayvzen
+  post_text: 'We used to not be able to have actual back and forth conversations with
+    anything other than people, and now we can, with some bumps.
+
+    It''s driven some people insane, and it''s not clear whether it can exist in a
+    safe way. I''m not sure we can really process the concept of "speech wi'
+  links: []
+  all_post_uris:
+  - at://did:plc:szq2fo7h5ztxvq4z5hayvzen/app.bsky.feed.post/3mux7u4lbts2n
+  - at://did:plc:r2bjwiwlhmo26hh2sz27fqf3/app.bsky.feed.post/3muxjhz4rns2q
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muxigutwyshx
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muxidmcbi2qh
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3muxigutwyshx
+  post_date: '2026-09-07T21:50:02.326Z'
+  liked_at: '2026-09-08T01:06:15.221717+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Sorry, not talk. Output audio which is interpreted by our ears as speech,
+    that carries a coherent meaning, as interpreted by us
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muxigutwyshx
+- post_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3muws7baov22x
+  thread_root_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3muwrqpfz7k2x
+  post_url: https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3muws7baov22x
+  post_date: '2026-09-07T15:12:04.572Z'
+  liked_at: '2026-09-07T15:36:32.025009+00:00'
+  author_handle: pfrazee.com
+  author_did: did:plc:ragtjsm2j2vknwkz3zp4oxrd
+  post_text: Well, Jerry, you don’t get a vote. This shit is happening
+  links:
+  - url: https://tangled.org/
+    source: thread
+    card_title: Tangled · The next-generation social coding platform
+    card_description: The next-generation social coding platform.
+    citoid:
+      raw:
+        url: https://tangled.org/
+        itemType: webpage
+        creators:
+        - creatorType: author
+          firstName: ''
+          lastName: Tangled
+        abstractNote: The next-generation social coding platform.
+        title: Tangled · The next-generation social coding platform
+        language: en
+        accessDate: '2026-09-08'
+        websiteTitle: tangled.org
+      title: Tangled · The next-generation social coding platform
+      authors:
+      - last: Tangled
+      item_type: webpage
+      abstract: The next-generation social coding platform.
+  - url: https://github.com/bluesky-social/
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A4HGSNGI
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: bluesky-social
+        websiteTitle: GitHub
+        url: https://github.com/bluesky-social
+        abstractNote: bluesky-social has 57 repositories available. Follow their code
+          on GitHub.
+        language: en
+        accessDate: '2026-09-08'
+      title: bluesky-social
+      item_type: webpage
+      abstract: bluesky-social has 57 repositories available. Follow their code on
+        GitHub.
+  all_post_uris:
+  - at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3muws7baov22x
+  - at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3muwrqpfz7k2x
+- post_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3muwboj5m6c2i
+  thread_root_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3muwboj5m6c2i
+  post_url: https://bsky.app/profile/did:plc:gz53felr7btxgmbxae5aooxi/post/3muwboj5m6c2i
+  post_date: '2026-09-07T10:16:22.541Z'
+  liked_at: '2026-09-07T13:25:38.279896+00:00'
+  author_handle: dingdingpeng.the100.ci
+  author_did: did:plc:gz53felr7btxgmbxae5aooxi
+  post_text: TIL that for a period of six years, prostitution was accidentally legal
+    in Rhode Island.
+  links: []
+  all_post_uris:
+  - at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3muwboj5m6c2i
+- post_uri: at://did:plc:brptsa5vnwnzgnujaauvt5x3/app.bsky.feed.post/3muwflo4eas2j
+  thread_root_uri: at://did:plc:brptsa5vnwnzgnujaauvt5x3/app.bsky.feed.post/3muwflo4eas2j
+  post_url: https://bsky.app/profile/did:plc:brptsa5vnwnzgnujaauvt5x3/post/3muwflo4eas2j
+  post_date: '2026-09-07T11:26:22.068Z'
+  liked_at: '2026-09-07T13:13:30.497929+00:00'
+  author_handle: th.alassa.pink
+  author_did: did:plc:brptsa5vnwnzgnujaauvt5x3
+  post_text: obviously this looks godawful but this is the “Will Smith eating spaghetti”
+    moment of Blender (and computer use more broadly)
+  links: []
+  all_post_uris:
+  - at://did:plc:brptsa5vnwnzgnujaauvt5x3/app.bsky.feed.post/3muwflo4eas2j
+- post_uri: at://did:plc:6eajdv6iytlolphtcsxcfh2o/app.bsky.feed.post/3muvi67mh2c2c
+  thread_root_uri: at://did:plc:6eajdv6iytlolphtcsxcfh2o/app.bsky.feed.post/3muvi67mh2c2c
+  post_url: https://bsky.app/profile/did:plc:6eajdv6iytlolphtcsxcfh2o/post/3muvi67mh2c2c
+  post_date: '2026-09-07T02:39:52.149Z'
+  liked_at: '2026-09-07T13:00:14.707041+00:00'
+  author_handle: tifaret.bsky.social
+  author_did: did:plc:6eajdv6iytlolphtcsxcfh2o
+  post_text: The standard digital clock can barely solve even one or two Erdős problems.
+  links: []
+  all_post_uris:
+  - at://did:plc:6eajdv6iytlolphtcsxcfh2o/app.bsky.feed.post/3muvi67mh2c2c
 - post_uri: at://did:plc:e5utgfbui36qwd7qg74n6rgg/app.bsky.feed.post/3muhkfk35i22k
   thread_root_uri: at://did:plc:e5utgfbui36qwd7qg74n6rgg/app.bsky.feed.post/3muhkfk35i22k
   post_url: https://bsky.app/profile/did:plc:e5utgfbui36qwd7qg74n6rgg/post/3muhkfk35i22k
