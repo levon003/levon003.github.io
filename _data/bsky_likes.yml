@@ -1,3 +1,274 @@
+- post_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3mv2dq7cm4d2x
+  thread_root_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3mv2dq7cm4d2x
+  post_url: https://bsky.app/profile/did:plc:sefgphqp2xqwh2hawaixykwz/post/3mv2dq7cm4d2x
+  post_date: '2026-09-09T01:03:45.782Z'
+  liked_at: '2026-09-09T03:22:32.485306+00:00'
+  author_handle: esqueer.net
+  author_did: did:plc:sefgphqp2xqwh2hawaixykwz
+  post_text: The alarms are all flashing red.
+  links:
+  - url: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628
+    source: thread
+    card_title: Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears
+    card_description: Concerns are rising inside AI labs that competition is pushing
+      tech companies to race toward self-improving models that risk spiraling out
+      of human control.
+    citoid:
+      raw:
+        key: ZBRVYFPI
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Amrith
+          lastName: Ramkumar
+          creatorType: author
+        tags:
+        - tag: bfe-mustread
+          type: 1
+        - tag: kwexclusive
+          type: 1
+        - tag: Artificial Intelligence Technologies
+          type: 1
+        - tag: Services
+          type: 1
+        - tag: Technology
+          type: 1
+        - tag: Dragonfly - North America
+          type: 1
+        - tag: Dragonfly - World
+          type: 1
+        - tag: North America
+          type: 1
+        - tag: United States
+          type: 1
+        - tag: Regulation/Government Policy
+          type: 1
+        - tag: Information Technology
+          type: 1
+        - tag: Corporate/Industrial News
+          type: 1
+        - tag: Artificial Intelligence/Machine Learning
+          type: 1
+        - tag: Political/General News
+          type: 1
+        - tag: Computer Science
+          type: 1
+        - tag: Sciences/Humanities
+          type: 1
+        - tag: Content Types
+          type: 1
+        - tag: Factiva Filters
+          type: 1
+        - tag: C&E Industry News Filter
+          type: 1
+        - tag: Risk Topics - Artificial Intelligence
+          type: 1
+        - tag: Risk Topics
+          type: 1
+        - tag: Risk Topics - Cyber & Privacy
+          type: 1
+        - tag: SYND
+          type: 1
+        - tag: WSJ-PRO-WSJ.com
+          type: 1
+        - tag: GCAPI
+          type: 1
+        - tag: LINK:EN|drn:realtime.linkedarticle.DNCO20260908009648
+          type: 1
+        - tag: LINK|i4-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i8-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i1-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i14-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i3-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i6-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i2-WP-WSJ-0003874498
+          type: 1
+        - tag: LINK|i5-WP-WSJ-0003874498
+          type: 1
+        - tag: regulation
+          type: 1
+        - tag: government policy
+          type: 1
+        - tag: corporate
+          type: 1
+        - tag: industrial news
+          type: 1
+        - tag: artificial intelligence
+          type: 1
+        - tag: machine learning
+          type: 1
+        - tag: political
+          type: 1
+        - tag: general news
+          type: 1
+        - tag: sciences
+          type: 1
+        - tag: humanities
+          type: 1
+        title: Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears
+        publicationTitle: Wall Street Journal
+        section: Tech
+        date: '2026-09-08'
+        url: https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628
+        abstractNote: Concerns are rising inside AI labs that competition is pushing
+          tech companies to race toward self-improving models that risk spiraling
+          out of human control.
+        language: en-US
+        libraryCatalog: www.wsj.com
+        accessDate: '2026-09-09'
+        ISSN: 0099-9660
+      title: Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears
+      authors:
+      - last: Ramkumar
+        first: Amrith
+      date: '2026-09-08'
+      item_type: newspaperArticle
+      publisher: Wall Street Journal
+      abstract: Concerns are rising inside AI labs that competition is pushing tech
+        companies to race toward self-improving models that risk spiraling out of
+        human control.
+  all_post_uris:
+  - at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3mv2dq7cm4d2x
+- post_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3muywmivuwk24
+  thread_root_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3muywmivuwk24
+  post_url: https://bsky.app/profile/did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/post/3muywmivuwk24
+  post_date: '2026-09-08T11:36:23.258Z'
+  liked_at: '2026-09-08T21:25:52.621054+00:00'
+  author_handle: dmimno.bsky.social
+  author_did: did:plc:z2bg7yzpjr5bgfnzxmgcmyvw
+  post_text: 'Cars are a surprisingly good model for public acceptance of AI. Some
+    people love them and tinker with them. Others hate and reject them. Most find
+    their own car useful. But everyone viscerally hates everyone else''s car: traffic,
+    parking, dangerous driving, pollution, etc.'
+  links: []
+  all_post_uris:
+  - at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3muywmivuwk24
+- post_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3muyzjwf4ks24
+  thread_root_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3muyzjwf4ks24
+  post_url: https://bsky.app/profile/did:plc:vksrbj3uhjpzqe42stamobyw/post/3muyzjwf4ks24
+  post_date: '2026-09-08T12:28:37.950Z'
+  liked_at: '2026-09-08T14:43:01.348246+00:00'
+  author_handle: mattbarnum.bsky.social
+  author_did: did:plc:vksrbj3uhjpzqe42stamobyw
+  post_text: 'New: The U.S. has moved up on international test score rankings —  generally
+    by falling less swiftly than other countries.
+
+
+    I don''t think that means oh nothing to worry about. But it does make me question
+    U.S.-specific explanations for these trends.
+
+
+    www.chalkbeat.org/2026/09/08/'
+  links:
+  - url: https://www.chalkbeat.org/2026/09/08/pisa-results-2025-show-us-gaining-as-other-countries-decline/
+    source: card
+    card_title: U.S. students score above average in reading. Here’s why that’s not
+      good news.
+    card_description: PISA international test results show concerning global declines
+      in student learning. U.S. students posted some of their lowest scores ever in
+      math and reading, but other countries are doing worse.
+    citoid:
+      raw:
+        key: L7U7LPC2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: U.S. students score above average in reading. Here’s why that’s not
+          good news.
+        websiteTitle: Chalkbeat
+        date: '2026-09-08'
+        url: https://www.chalkbeat.org/2026/09/08/pisa-results-2025-show-us-gaining-as-other-countries-decline/
+        abstractNote: PISA international test results show concerning global declines
+          in student learning. U.S. students posted some of their lowest scores ever
+          in math and reading, but other countries are doing worse.
+        language: en
+        accessDate: '2026-09-09'
+      title: U.S. students score above average in reading. Here’s why that’s not good
+        news.
+      date: '2026-09-08'
+      item_type: webpage
+      abstract: PISA international test results show concerning global declines in
+        student learning. U.S. students posted some of their lowest scores ever in
+        math and reading, but other countries are doing worse.
+  all_post_uris:
+  - at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3muyzjwf4ks24
+- post_uri: at://did:plc:cy5v4qqbw5mumyc7c5u5tvme/app.bsky.feed.post/3muyyb5d4rk24
+  thread_root_uri: at://did:plc:cy5v4qqbw5mumyc7c5u5tvme/app.bsky.feed.post/3muyyb5d4rk24
+  post_url: https://bsky.app/profile/did:plc:cy5v4qqbw5mumyc7c5u5tvme/post/3muyyb5d4rk24
+  post_date: '2026-09-08T12:05:49.493Z'
+  liked_at: '2026-09-08T14:41:55.386879+00:00'
+  author_handle: jerseyjazzman.bsky.social
+  author_did: did:plc:cy5v4qqbw5mumyc7c5u5tvme
+  post_text: If there is one thing I wish I could get every politician to understand
+    about education, it might be this, from @mattbarnum.bsky.social newsletter. And,
+    no, eduwonks, trust me, they do NOT get this, even though (to you) it's obvious.
+  links: []
+  all_post_uris:
+  - at://did:plc:cy5v4qqbw5mumyc7c5u5tvme/app.bsky.feed.post/3muyyb5d4rk24
+- post_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3muy34fw7ks2a
+  thread_root_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3muy34fw7ks2a
+  post_url: https://bsky.app/profile/did:plc:p72jkscm4rt4xuep3lzv6doh/post/3muy34fw7ks2a
+  post_date: '2026-09-08T03:24:12.217Z'
+  liked_at: '2026-09-08T12:32:40.078281+00:00'
+  author_handle: melaniemitchell.bsky.social
+  author_did: did:plc:p72jkscm4rt4xuep3lzv6doh
+  post_text: "Hey @ericlipton.nytimes.com \U0001F44B\n\nAI is not “evolving” on its\
+    \ own. \n\n*People* are choosing how to build it.  *People* are choosing how to\
+    \ train it.  *People* are choosing how to run it.   \n\nMaybe the problem is that\
+    \ they are the *wrong people* to make these choices."
+  links:
+  - url: https://openai.com/index/an-alien-mind/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: PSGPIX9A
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: An Alien Mind
+        websiteTitle: OpenAI
+        url: https://openai.com/index/an-alien-mind/
+        abstractNote: Jakub Pachocki reflects on increasingly capable AI and the challenge
+          of keeping it aligned. He calls for stronger safeguards and international
+          coordination.
+        date: '2026-09-08'
+        language: en-US
+        accessDate: '2026-09-09'
+      title: An Alien Mind
+      date: '2026-09-08'
+      item_type: webpage
+      abstract: Jakub Pachocki reflects on increasingly capable AI and the challenge
+        of keeping it aligned. He calls for stronger safeguards and international
+        coordination.
+  all_post_uris:
+  - at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3muy34fw7ks2a
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muyf5iolz2g5
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muyf5iolz2g5
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3muyf5iolz2g5
+  post_date: '2026-09-08T06:23:45.321Z'
+  liked_at: '2026-09-08T12:07:10.703177+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: 👀
+  links:
+  - url: https://cims.nyu.edu/~tristanb/statement.pdf
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3muyf5iolz2g5
 - post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3muxnczbeyc2r
   thread_root_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3muxnczbeyc2r
   post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3muxnczbeyc2r
