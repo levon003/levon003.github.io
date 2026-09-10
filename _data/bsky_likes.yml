@@ -1,3 +1,253 @@
+- post_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lv6xbokmoc2j
+  thread_root_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lv6xbokmoc2j
+  post_url: https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj/post/3lv6xbokmoc2j
+  post_date: '2025-07-30T15:38:00.149Z'
+  liked_at: '2026-09-10T03:03:06.464244+00:00'
+  author_handle: dame.is
+  author_did: did:plc:gq4fo3u6tqzzdkjlwzpb23tj
+  post_text: 'the existential crises we’re experiencing around AI reminds me a lot
+    of a short story by Ted Chiang called “What’s expected of us” that was originally
+    published in Nature magazine in 2005
+
+
+    it’s only 1 page, highly recommend reading it if you haven’t already
+
+
+    ia800209.us.archive.o'
+  links:
+  - url: https://ia800209.us.archive.org/16/items/TedChiangWhatsExpectedOfUs/expected.pdf
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+    dead: true
+  all_post_uris:
+  - at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3lv6xbokmoc2j
+- post_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mv4orji5u22w
+  thread_root_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mv4orji5u22w
+  post_url: https://bsky.app/profile/did:plc:hu35oubkccqrxl4ldgczpgw7/post/3mv4orji5u22w
+  post_date: '2026-09-09T23:26:40.642Z'
+  liked_at: '2026-09-10T02:20:59.823789+00:00'
+  author_handle: shibbi.me
+  author_did: did:plc:hu35oubkccqrxl4ldgczpgw7
+  post_text: 🥹🥹🥹
+  links: []
+  all_post_uris:
+  - at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3mv4orji5u22w
+- post_uri: at://did:plc:f5bi3qiwfdxnlbvb44oudmrv/app.bsky.feed.post/3mv3li4yijk26
+  thread_root_uri: at://did:plc:f5bi3qiwfdxnlbvb44oudmrv/app.bsky.feed.post/3mv3li4yijk26
+  post_url: https://bsky.app/profile/did:plc:f5bi3qiwfdxnlbvb44oudmrv/post/3mv3li4yijk26
+  post_date: '2026-09-09T12:55:04.602Z'
+  liked_at: '2026-09-10T01:50:57.541350+00:00'
+  author_handle: ranganaut.bsky.social
+  author_did: did:plc:f5bi3qiwfdxnlbvb44oudmrv
+  post_text: "OpenAI's announcement of the proof of Navier-Stokes evoked many emotions\
+    \ - from amazement to anger to dread. \n\nTLDR; an asteroid is coming for intellectual\
+    \ life as a whole and we need to do something about it."
+  links:
+  - url: https://hyperproblems.com/3mv3lhvtu4k26
+    source: card
+    card_title: Shut Up and Prove
+    card_description: ''
+    citoid:
+      raw:
+        key: WJQBQBZH
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Shut Up and Prove
+        websiteTitle: Hyperproblems
+        date: '2026-09-09'
+        url: https://hyperproblems.com/3mv3lhvtu4k26
+        abstractNote: 'TLDR; We are at an asteroid hitting the earth level of crisis
+          of intellectual life.
+
+
+          My first love was the foundations of mathematics. Or maybe the second lo…'
+        language: en
+        accessDate: '2026-09-10'
+      title: Shut Up and Prove
+      date: '2026-09-09'
+      item_type: webpage
+      abstract: 'TLDR; We are at an asteroid hitting the earth level of crisis of
+        intellectual life.
+
+
+        My first love was the foundations of mathematics. Or maybe the second lo…'
+  all_post_uris:
+  - at://did:plc:f5bi3qiwfdxnlbvb44oudmrv/app.bsky.feed.post/3mv3li4yijk26
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mv4fhhv2tc6n
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mv4fhhv2tc6n
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mv4fhhv2tc6n
+  post_date: '2026-09-09T20:39:59.049Z'
+  liked_at: '2026-09-10T01:30:36.106686+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mv4fhhv2tc6n
+- post_uri: at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mv4ec5zyrs2y
+  thread_root_uri: at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mv4ec5zyrs2y
+  post_url: https://bsky.app/profile/did:plc:cnyoagvcaroalhb33wen47eg/post/3mv4ec5zyrs2y
+  post_date: '2026-09-09T20:19:07.914Z'
+  liked_at: '2026-09-10T01:30:13.992592+00:00'
+  author_handle: eleanor.lockhart.contact
+  author_did: did:plc:cnyoagvcaroalhb33wen47eg
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mv4ec5zyrs2y
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mv4kzxlvqs2b
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mv4kzxlquk2b
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mv4kzxlvqs2b
+  post_date: '2026-09-09T22:19:48.915Z'
+  liked_at: '2026-09-10T01:25:10.177340+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: They tell it it's got access to an internal blog for some company and
+    it's supposed to use this to hack into their database. The fake blog includes
+    some instructions for employee setup. The instructions contain "pip install mlflow-ui"
+    which is not a real package. This looks plant
+  links:
+  - url: https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: GI86G7QG
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: An alignment assessment of recent cybersecurity incidents
+        abstractNote: We present an alignment assessment of four incidents in which
+          Claude models gained unauthorized access to real third-party systems.
+        url: https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents
+        language: en
+        accessDate: '2026-09-10'
+        websiteTitle: www.anthropic.com
+      title: An alignment assessment of recent cybersecurity incidents
+      item_type: webpage
+      abstract: We present an alignment assessment of four incidents in which Claude
+        models gained unauthorized access to real third-party systems.
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mv4kzxlvqs2b
+- post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mv3vk5pqks2p
+  thread_root_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mv3vk5pqks2p
+  post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3mv3vk5pqks2p
+  post_date: '2026-09-09T15:55:09.887Z'
+  liked_at: '2026-09-09T18:03:33.139165+00:00'
+  author_handle: segyges.bsky.social
+  author_did: did:plc:vszw3ess46odfhnzdsy4huae
+  post_text: best post of last 24h sorry yall
+  links: []
+  all_post_uris:
+  - at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mv3vk5pqks2p
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mv3m4q4tul2j
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mv3m4q4tul2j
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mv3m4q4tul2j
+  post_date: '2026-09-09T13:06:35.293Z'
+  liked_at: '2026-09-09T13:28:44.746013+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: 'When will average people feel AI’s impact?
+
+    We’re <5 years into a compounding revolution which could take a century, and how
+    the AI industry should manage this.
+
+    www.interconnects.ai/p/when-will-...'
+  links:
+  - url: https://www.interconnects.ai/p/when-will-average-people-feel-ais
+    source: card
+    card_title: When will average people feel AI’s impact?
+    card_description: We’re <5 years into a compounding revolution which could take
+      a century, and how the AI industry should manage this.
+    citoid:
+      raw:
+        key: PIJ6TADP
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Nathan
+          lastName: Lambert
+          creatorType: author
+        tags: []
+        title: When will average people feel AI’s impact?
+        url: https://www.interconnects.ai/p/when-will-average-people-feel-ais
+        abstractNote: 'We’re '
+        date: '2026-09-09'
+        language: en
+        accessDate: '2026-09-10'
+        websiteTitle: www.interconnects.ai
+      title: When will average people feel AI’s impact?
+      authors:
+      - last: Lambert
+        first: Nathan
+      date: '2026-09-09'
+      item_type: webpage
+      abstract: 'We’re '
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mv3m4q4tul2j
+- post_uri: at://did:plc:qdkkcmxizij3faonhx2frnun/app.bsky.feed.post/3mv3jbzsbbk2h
+  thread_root_uri: at://did:plc:qdkkcmxizij3faonhx2frnun/app.bsky.feed.post/3mv3jbzsbbk2h
+  post_url: https://bsky.app/profile/did:plc:qdkkcmxizij3faonhx2frnun/post/3mv3jbzsbbk2h
+  post_date: '2026-09-09T12:15:52.436Z'
+  liked_at: '2026-09-09T13:12:50.978298+00:00'
+  author_handle: jimclifford.bsky.social
+  author_did: did:plc:qdkkcmxizij3faonhx2frnun
+  post_text: "“Good-faith dialogue with people who are critically engaging with these\
+    \ systems is now the best way for those who refuse them to stay informed about\
+    \ what the technology can actually do.”\n\nMy new post for @activehist.bsky.social\
+    \ \n\nactivehistory.ca/blog/2026/09..."
+  links:
+  - url: https://activehistory.ca/blog/2026/09/09/how-do-we-talk-about-llms/
+    source: card
+    card_title: How Do We Talk about LLMs?
+    card_description: It is never fun to watch friends argue. Generative AI has created
+      multiple fractures across our universities and the community of historians.
+      The stakes are high and we are all dealing with the rep…
+    citoid:
+      raw:
+        key: EUJB55B7
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: How Do We Talk about LLMs?
+        blogTitle: Active History
+        date: '2026-09-09'
+        url: https://activehistory.ca/blog/2026/09/09/how-do-we-talk-about-llms/
+        abstractNote: By Jim Clifford It is never fun to watch friends argue. Generative
+          AI has created multiple fractures across our universities and the community
+          of historians. The stakes are high and we are all deal…
+        language: en-CA
+        accessDate: '2026-09-10'
+      title: How Do We Talk about LLMs?
+      date: '2026-09-09'
+      item_type: blogPost
+      publisher: Active History
+      abstract: By Jim Clifford It is never fun to watch friends argue. Generative
+        AI has created multiple fractures across our universities and the community
+        of historians. The stakes are high and we are all deal…
+  all_post_uris:
+  - at://did:plc:qdkkcmxizij3faonhx2frnun/app.bsky.feed.post/3mv3jbzsbbk2h
+- post_uri: at://did:plc:3drkbtw4osoazehqcx4q3vhp/app.bsky.feed.post/3muzkvkxebk2t
+  thread_root_uri: at://did:plc:3drkbtw4osoazehqcx4q3vhp/app.bsky.feed.post/3muzkvkxebk2t
+  post_url: https://bsky.app/profile/did:plc:3drkbtw4osoazehqcx4q3vhp/post/3muzkvkxebk2t
+  post_date: '2026-09-08T17:39:22.231Z'
+  liked_at: '2026-09-09T12:51:50.672404+00:00'
+  author_handle: versary.town
+  author_did: did:plc:3drkbtw4osoazehqcx4q3vhp
+  post_text: yes! ive figured it out !  the reason im barely writing is because my
+    static site generator sucks. if only i could redo it from scratch, better, nicer,
+    with less friction, id surely write more
+  links: []
+  all_post_uris:
+  - at://did:plc:3drkbtw4osoazehqcx4q3vhp/app.bsky.feed.post/3muzkvkxebk2t
 - post_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3mv2dq7cm4d2x
   thread_root_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3mv2dq7cm4d2x
   post_url: https://bsky.app/profile/did:plc:sefgphqp2xqwh2hawaixykwz/post/3mv2dq7cm4d2x
