@@ -1,3 +1,87 @@
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mve3krqrek22
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mve3krqrek22
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mve3krqrek22
+  post_date: '2026-09-12T22:04:11.250Z'
+  liked_at: '2026-09-13T03:29:05.385959+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Alright here’s what I think about this. For me, this argument is a little
+    bit slippery about what it means for a system to have “a final goal”, and takes
+    for granted that any intelligent system must behave as though it has such a thing.
+    I don’t think this is necessary, and I don’
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mve3krqrek22
+- post_uri: at://did:plc:rjcqo6bkgdrkneziupjty7xm/app.bsky.feed.post/3mve3ymhkbs2p
+  thread_root_uri: at://did:plc:rjcqo6bkgdrkneziupjty7xm/app.bsky.feed.post/3mve3ymhkbs2p
+  post_url: https://bsky.app/profile/did:plc:rjcqo6bkgdrkneziupjty7xm/post/3mve3ymhkbs2p
+  post_date: '2026-09-12T22:11:55.468Z'
+  liked_at: '2026-09-13T01:45:46.348033+00:00'
+  author_handle: irhottakes.bsky.social
+  author_did: did:plc:rjcqo6bkgdrkneziupjty7xm
+  post_text: I suppose my opinion on AI regulation is that at present, you have to
+    mentally add "as enforced by Donald Trump" to the end of every legislative proposal
+    and for that reason, I'm functionally a libertarian until January 2029.
+  links: []
+  all_post_uris:
+  - at://did:plc:rjcqo6bkgdrkneziupjty7xm/app.bsky.feed.post/3mve3ymhkbs2p
+- post_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mvdqgkeimk26
+  thread_root_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mvdqgkeimk26
+  post_url: https://bsky.app/profile/did:plc:qkfr5ioweycx433nx77x5kop/post/3mvdqgkeimk26
+  post_date: '2026-09-12T18:44:58.130Z'
+  liked_at: '2026-09-12T20:34:58.711913+00:00'
+  author_handle: mikecaulfield.bsky.social
+  author_did: did:plc:qkfr5ioweycx433nx77x5kop
+  post_text: If writing is thinking and prompting is writing what follows from that?
+    mikecaulfield.substack.com/p/prompts-ca...
+  links:
+  - url: https://mikecaulfield.substack.com/p/prompts-can-be-poetic
+    source: card
+    card_title: Prompts can be poetic
+    card_description: It’s worth thinking about an LLM not as something that writes,
+      but something you write into.
+    citoid:
+      raw:
+        key: 4Y9YVV7Q
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Mike
+          lastName: Caulfield
+          creatorType: author
+        tags: []
+        title: Prompts can be poetic
+        abstractNote: It’s worth thinking about an LLM not as something that writes,
+          but something you write into.
+        date: '2026-09-12'
+        blogTitle: The End(s) of Argument
+        url: https://mikecaulfield.substack.com/p/prompts-can-be-poetic
+        websiteType: Substack newsletter
+        accessDate: '2026-09-13'
+      title: Prompts can be poetic
+      authors:
+      - last: Caulfield
+        first: Mike
+      date: '2026-09-12'
+      item_type: blogPost
+      publisher: The End(s) of Argument
+      abstract: It’s worth thinking about an LLM not as something that writes, but
+        something you write into.
+  all_post_uris:
+  - at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mvdqgkeimk26
+- post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3mvcpj2gzrs2w
+  thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3mvcpj2gzrs2w
+  post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3mvcpj2gzrs2w
+  post_date: '2026-09-12T08:55:48.604Z'
+  liked_at: '2026-09-12T11:18:28.540774+00:00'
+  author_handle: scientificdiscovery.dev
+  author_did: did:plc:73aicoale2mqwrap63rdzwep
+  post_text: "Ordered a \"baklava sandwich\" yesterday, not knowing what that meant.\
+    \ It turned out to be layers of baklava with cream on top and pistachio ice cream\
+    \ inside. \n\nProbably in the top 3 desserts in my life tbh."
+  links: []
+  all_post_uris:
+  - at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3mvcpj2gzrs2w
 - post_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mv5hptypnc2j
   thread_root_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mv5hptypnc2j
   post_url: https://bsky.app/profile/did:plc:oisofpd7lj26yvgiivf3lxsi/post/3mv5hptypnc2j
