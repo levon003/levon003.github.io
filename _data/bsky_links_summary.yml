@@ -1,5 +1,5 @@
-entries_with_links: 2339
-total_links: 2872
+entries_with_links: 2341
+total_links: 2874
 unique_domains: 956
 top_domains:
 - domain: arxiv.org
@@ -17,7 +17,7 @@ top_domains:
 - domain: doi.org
   count: 53
 - domain: nytimes.com
-  count: 42
+  count: 43
 - domain: huggingface.co
   count: 40
 - domain: youtube.com
