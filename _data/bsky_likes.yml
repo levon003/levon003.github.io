@@ -1,3 +1,168 @@
+- post_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3mviql5hpn22p
+  thread_root_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3mviql5hpn22p
+  post_url: https://bsky.app/profile/did:plc:3mkmawtelml6rwbe4g2mzyks/post/3mviql5hpn22p
+  post_date: '2026-09-14T18:30:51.066Z'
+  liked_at: '2026-09-15T00:16:42.029395+00:00'
+  author_handle: cynthiadunlop.bsky.social
+  author_did: did:plc:3mkmawtelml6rwbe4g2mzyks
+  post_text: Such a good read --  👏👏👏 @charity.wtf charity.wtf/p/confession...
+  links:
+  - url: https://charity.wtf/p/confessions-of-an-unrepentant-slop
+    source: card
+    card_title: Confessions of an Unrepentant Slop Snob
+    card_description: A framework for thinking about when AI involvement is additive
+      or a violation
+    citoid:
+      raw:
+        key: QXM4TIJP
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Charity
+          lastName: Majors
+          creatorType: author
+        tags: []
+        title: Confessions of an Unrepentant Slop Snob
+        url: https://charity.wtf/p/confessions-of-an-unrepentant-slop
+        abstractNote: A framework for thinking about when AI involvement is additive
+          or a violation
+        date: '2026-09-14'
+        language: en
+        accessDate: '2026-09-15'
+        websiteTitle: charity.wtf
+      title: Confessions of an Unrepentant Slop Snob
+      authors:
+      - last: Majors
+        first: Charity
+      date: '2026-09-14'
+      item_type: webpage
+      abstract: A framework for thinking about when AI involvement is additive or
+        a violation
+  all_post_uris:
+  - at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3mviql5hpn22p
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mvi6j2dt2c2h
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mvi6j2dt2c2h
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mvi6j2dt2c2h
+  post_date: '2026-09-14T13:07:33.333Z'
+  liked_at: '2026-09-14T18:16:30.869902+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: 'This is what some of y''all sound like: arxiv.org/abs/1703.10987'
+  links:
+  - url: https://arxiv.org/abs/1703.10987
+    source: card
+    card_title: On the Impossibility of Supersized Machines
+    card_description: In recent years, a number of prominent computer scientists,
+      along with academics in fields such as philosophy and physics, have lent credence
+      to the notion that machines may one day become as large as...
+    citoid:
+      raw:
+        key: S7J2MJP6
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Ben
+          lastName: Garfinkel
+          creatorType: author
+        - firstName: Miles
+          lastName: Brundage
+          creatorType: author
+        - firstName: Daniel
+          lastName: Filan
+          creatorType: author
+        - firstName: Carrick
+          lastName: Flynn
+          creatorType: author
+        - firstName: Jelena
+          lastName: Luketina
+          creatorType: author
+        - firstName: Michael
+          lastName: Page
+          creatorType: author
+        - firstName: Anders
+          lastName: Sandberg
+          creatorType: author
+        - firstName: Andrew
+          lastName: Snyder-Beattie
+          creatorType: author
+        - firstName: Max
+          lastName: Tegmark
+          creatorType: author
+        tags:
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: Popular Physics (physics.pop-ph)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        - tag: 'FOS: Physical sciences'
+          type: 1
+        - tag: 'FOS: Physical sciences'
+          type: 1
+        title: On the Impossibility of Supersized Machines
+        repository: arXiv
+        date: '2017'
+        DOI: 10.48550/ARXIV.1703.10987
+        url: https://arxiv.org/abs/1703.10987
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: In recent years, a number of prominent computer scientists,
+          along with academics in fields such as philosophy and physics, have lent
+          credence to the notion that machines may one day become as large as humans.
+          Many have further argued that machines could even come to exceed human size
+          by a significant margin. However, there are at least seven distinct arguments
+          that preclude this outcome. We show that it is not only implausible that
+          machines will ever exceed human size, but in fact impossible.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-09-15'
+      title: On the Impossibility of Supersized Machines
+      authors:
+      - last: Garfinkel
+        first: Ben
+      - last: Brundage
+        first: Miles
+      - last: Filan
+        first: Daniel
+      - last: Flynn
+        first: Carrick
+      - last: Luketina
+        first: Jelena
+      - last: Page
+        first: Michael
+      - last: Sandberg
+        first: Anders
+      - last: Snyder-Beattie
+        first: Andrew
+      - last: Tegmark
+        first: Max
+      date: '2017'
+      item_type: preprint
+      doi: 10.48550/ARXIV.1703.10987
+      publisher: arXiv
+      abstract: In recent years, a number of prominent computer scientists, along
+        with academics in fields such as philosophy and physics, have lent credence
+        to the notion that machines may one day become as large as humans. Many have
+        further argued that machines could even come to exceed human size by a significant
+        margin. However, there are at least seven distinct arguments that preclude
+        this outcome. We show that it is not only implausible that machines will ever
+        exceed human size, but in fact impossible.
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mvi6j2dt2c2h
+- post_uri: at://did:plc:ccrabc6xdnjx4l7btvynnng4/app.bsky.feed.post/3mvi47ivei22b
+  thread_root_uri: at://did:plc:ccrabc6xdnjx4l7btvynnng4/app.bsky.feed.post/3mvi47ivei22b
+  post_url: https://bsky.app/profile/did:plc:ccrabc6xdnjx4l7btvynnng4/post/3mvi47ivei22b
+  post_date: '2026-09-14T12:26:25.557Z'
+  liked_at: '2026-09-14T15:04:15.426880+00:00'
+  author_handle: cooperlund.online
+  author_did: did:plc:ccrabc6xdnjx4l7btvynnng4
+  post_text: 'Of all the things to get mad at me Online about, having a Hmong restaurant
+    cater our wedding and following their recommendation that it be served in the
+    traditional way is the second weirdest I’ve run into online. The first is holding
+    onto a stranger’s wedding meal for two years '
+  links: []
+  all_post_uris:
+  - at://did:plc:ccrabc6xdnjx4l7btvynnng4/app.bsky.feed.post/3mvi47ivei22b
 - post_uri: at://did:plc:hjdxvrq7rh43z5umtt3mucxw/app.bsky.feed.post/3mvge7lmfrk2o
   thread_root_uri: at://did:plc:hjdxvrq7rh43z5umtt3mucxw/app.bsky.feed.post/3mvge7lmfrk2o
   post_url: https://bsky.app/profile/did:plc:hjdxvrq7rh43z5umtt3mucxw/post/3mvge7lmfrk2o
