@@ -1,3 +1,407 @@
+- post_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mvicfider22l
+  thread_root_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mvicfider22l
+  post_url: https://bsky.app/profile/did:plc:wvexgwndckqyszwviyuoeibi/post/3mvicfider22l
+  post_date: '2026-09-14T14:17:08.748Z'
+  liked_at: '2026-09-16T04:14:03.304216+00:00'
+  author_handle: littmath.bsky.social
+  author_did: did:plc:wvexgwndckqyszwviyuoeibi
+  post_text: 'I''ve written an essay on how I think the mathematics profession should
+    adapt to highly capable AI systems. It''s hosted here on "Proofs and Prompts":
+    proofsandprompts.com/2026/09/14/a...
+
+    though you should also feel free to complain/comment on my website here: daniellitt.com/blog/2'
+  links:
+  - url: https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/
+    source: card
+    card_title: A beginning for mathematics
+    card_description: Daniel Litt, professor at the University of Toronto Three years
+      ago, AI systems could not reliably add two numbers. A year ago, internal models
+      at OpenAI and DeepMind received the equivalent of a g…
+    citoid:
+      raw:
+        key: YD3WACZT
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: A beginning for mathematics
+        blogTitle: Proofs and Prompts
+        date: '2026-09-14'
+        url: https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/
+        abstractNote: Daniel Litt, professor at the University of Toronto Three years
+          ago, AI systems could not reliably add two numbers. A year ago, internal
+          models at OpenAI and DeepMind received the equivalent of a g…
+        language: en-US
+        accessDate: '2026-09-16'
+      title: A beginning for mathematics
+      date: '2026-09-14'
+      item_type: blogPost
+      publisher: Proofs and Prompts
+      abstract: Daniel Litt, professor at the University of Toronto Three years ago,
+        AI systems could not reliably add two numbers. A year ago, internal models
+        at OpenAI and DeepMind received the equivalent of a g…
+  - url: https://daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: MAU8WS5B
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: A beginning for mathematics · Daniel Litt
+        url: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/
+        abstractNote: 'A positive vision for the future of mathematics: how our institutions
+          can deepen human understanding as AI transforms mathematical research.'
+        date: '2026-09-13'
+        language: en
+        accessDate: '2026-09-16'
+        websiteTitle: www.daniellitt.com
+      title: A beginning for mathematics · Daniel Litt
+      date: '2026-09-13'
+      item_type: webpage
+      abstract: 'A positive vision for the future of mathematics: how our institutions
+        can deepen human understanding as AI transforms mathematical research.'
+  all_post_uris:
+  - at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3mvicfider22l
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mvlzgyafds2m
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mvlzgyafds2m
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mvlzgyafds2m
+  post_date: '2026-09-16T01:47:34.259Z'
+  liked_at: '2026-09-16T01:51:09.600294+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: The multi-user Turing test here is a nice way of operationalizing the
+    *variance* of human behavior.
+  links:
+  - url: https://persimmon.humansand.ai/blog/persimmon.html
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: XZRISI4B
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Introducing Persimmon | humans&
+        websiteTitle: Persimmon
+        url: https://persimmon.humansand.ai/blog/
+        abstractNote: A model of human behavior, and new ways to measure how faithfully
+          AI can simulate people.
+        date: '2026-09-10'
+        language: en
+        accessDate: '2026-09-16'
+      title: Introducing Persimmon | humans&
+      date: '2026-09-10'
+      item_type: webpage
+      abstract: A model of human behavior, and new ways to measure how faithfully
+        AI can simulate people.
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mvlzgyafds2m
+- post_uri: at://did:plc:rtxilcy6fbyjtblrioz3iobn/app.bsky.feed.post/3mvlpk5s2tk2f
+  thread_root_uri: at://did:plc:rtxilcy6fbyjtblrioz3iobn/app.bsky.feed.post/3mvlpk5s2tk2f
+  post_url: https://bsky.app/profile/did:plc:rtxilcy6fbyjtblrioz3iobn/post/3mvlpk5s2tk2f
+  post_date: '2026-09-15T22:50:23.327Z'
+  liked_at: '2026-09-16T01:06:09.258607+00:00'
+  author_handle: andymatuschak.org
+  author_did: did:plc:rtxilcy6fbyjtblrioz3iobn
+  post_text: '✍️ Playing with programmable highlighters, e.g.
+
+    * green highlight on a citation -> finds and prints the cited paper
+
+    * orange highlight on a claim -> prints a skeptical fact-check'
+  links: []
+  all_post_uris:
+  - at://did:plc:rtxilcy6fbyjtblrioz3iobn/app.bsky.feed.post/3mvlpk5s2tk2f
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mvlgrngb3c2l
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mvlgrngb3c2l
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mvlgrngb3c2l
+  post_date: '2026-09-15T20:13:30.919Z'
+  liked_at: '2026-09-16T00:21:53.859184+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'Jev: Fable-level model that doesn’t charge for output tokens because
+    they’re too cheap to meter
+
+
+    it’s not general though, it only makes decisions, doesn’t generate text, but input
+    tokens are measured by the billion ($42/btok)
+
+
+    typesafe.ai/blog/introdu...'
+  links:
+  - url: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8AZQPSXA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Introducing System One Models & Jev - TypeSafe AI Blog
+        url: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+        abstractNote: TypeSafe AI is an AI lab building machine-native intelligence
+          infrastructure for automation, designed to make decisions within software.
+          Try our first System One Model, Jev, in early access.
+        language: en
+        accessDate: '2026-09-16'
+        websiteTitle: typesafe.ai
+      title: Introducing System One Models & Jev - TypeSafe AI Blog
+      item_type: webpage
+      abstract: TypeSafe AI is an AI lab building machine-native intelligence infrastructure
+        for automation, designed to make decisions within software. Try our first
+        System One Model, Jev, in early access.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mvlgrngb3c2l
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvlqa6h46c2h
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvlqa6h46c2h
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mvlqa6h46c2h
+  post_date: '2026-09-15T23:02:42.205Z'
+  liked_at: '2026-09-16T00:18:10.770241+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: "I don’t usually share rumors but:\n1) This is from someone with inside\
+    \ knowledge & is plausible\n2) Is a real issue of policy we need to think about:\
+    \ if the norms of sharing become strained, will the labs start hoarding knowledge\
+    \ to avoid PR or regulatory issues? \n\nscottaaronson.bl"
+  links:
+  - url: https://scottaaronson.blog/?p=10062
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: ZK7P3K88
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: The Age of Wonders and Terrors
+        blogTitle: Shtetl-Optimized
+        date: '2026-09-15'
+        url: https://scottaaronson.blog/?p=10062
+        abstractNote: Twenty years ago, when the idea of AI taking over the world
+          in our lifetimes still struck most of us as the unconstrained fantasy of
+          those who knew too much science fiction and too little science, …
+        language: en-US
+        accessDate: '2026-09-16'
+      title: The Age of Wonders and Terrors
+      date: '2026-09-15'
+      item_type: blogPost
+      publisher: Shtetl-Optimized
+      abstract: Twenty years ago, when the idea of AI taking over the world in our
+        lifetimes still struck most of us as the unconstrained fantasy of those who
+        knew too much science fiction and too little science, …
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvlqa6h46c2h
+- post_uri: at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3mvl33t7pa22u
+  thread_root_uri: at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3mvl33t7pa22u
+  post_url: https://bsky.app/profile/did:plc:7mgsw35jszx6w2z3sqfd4otp/post/3mvl33t7pa22u
+  post_date: '2026-09-15T16:44:27.640Z'
+  liked_at: '2026-09-15T21:50:41.580574+00:00'
+  author_handle: laufer.bsky.social
+  author_did: did:plc:7mgsw35jszx6w2z3sqfd4otp
+  post_text: 'Every time I put a hot coffee in a car cupholder, I make a small decision:
+    which way should the hole in the lid face?
+
+
+    Forward seems risky when you brake. Backward seems risky when you accelerate.
+    Sideways seems plausible. But I wondered what the optimal direction is, and whether'
+  links:
+  - url: https://appliedoverthinking.substack.com/p/which-way-should-the-hole-in-your
+    source: thread
+    card_title: Which Way Should the Hole in Your Coffee Lid Face?
+    card_description: Using real driving data and a sloshing simulation, the answer
+      seems to be "Two O'Clock."
+    citoid:
+      raw:
+        key: X2RBGBKI
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Ben
+          lastName: Laufer
+          creatorType: author
+        tags: []
+        title: Which Way Should the Hole in Your Coffee Lid Face?
+        abstractNote: Using real driving data and a sloshing simulation, the answer
+          seems to be "Two O'Clock."
+        date: '2026-09-14'
+        blogTitle: Applied Overthinking
+        url: https://appliedoverthinking.substack.com/p/which-way-should-the-hole-in-your
+        websiteType: Substack newsletter
+        accessDate: '2026-09-16'
+      title: Which Way Should the Hole in Your Coffee Lid Face?
+      authors:
+      - last: Laufer
+        first: Ben
+      date: '2026-09-14'
+      item_type: blogPost
+      publisher: Applied Overthinking
+      abstract: Using real driving data and a sloshing simulation, the answer seems
+        to be "Two O'Clock."
+  all_post_uris:
+  - at://did:plc:7mgsw35jszx6w2z3sqfd4otp/app.bsky.feed.post/3mvl33t7pa22u
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvlcllf3aj2u
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvlcllf3aj2u
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mvlcllf3aj2u
+  post_date: '2026-09-15T18:58:32.463Z'
+  liked_at: '2026-09-15T21:07:32.156037+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: "An basic idea in scaling RL: Can we allocate more compute to the harder\
+    \ problems? \n\nWe did this: If your GRPO group has all wrong completions, sample\
+    \ more with probability P (~0.9) -- in search of more GRPO batches with nonzero\
+    \ gradient. It works!\nThe paper: arxiv.org/abs/2609.13"
+  links:
+  - url: https://arxiv.org/abs/2609.13443
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: EWNGT5IQ
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Michael
+          lastName: Noukhovitch
+          creatorType: author
+        - firstName: Hamish
+          lastName: Ivison
+          creatorType: author
+        - firstName: Nathan
+          lastName: Lambert
+          creatorType: author
+        - firstName: Aaron
+          lastName: Courville
+          creatorType: author
+        tags:
+        - tag: Machine Learning (cs.LG)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Learning to Solve Hard Problems in RL for LLMs by Never Giving Up
+        repository: arXiv
+        date: '2026-09-15'
+        DOI: 10.48550/ARXIV.2609.13443
+        url: https://arxiv.org/abs/2609.13443
+        rights: Creative Commons Attribution Non Commercial Share Alike 4.0 International
+        abstractNote: We demonstrate that training LLMs with RL does not improve performance
+          equally across a dataset. RL shows large improvements on easy problems that
+          an LLM is already good at solving, but small improvements on hard problems.
+          We call this the Matthew Effect in RL for LLMs, after the phenomenon of
+          cumulative advantage from economics and network science summarized as "the
+          rich get richer". The naive explanation is that hard problems require more
+          compute to find a solution. We argue that modern RL methods are exacerbating
+          the issue by wasting too much compute on easy problems and instead should
+          dynamically reallocate how they use compute. We introduce Never Give Up
+          (NGU), a simple adaptive sampling method that keeps generating samples for
+          a problem until one is correct. By leveraging asynchronous RL, this naturally
+          uses fewer samples to filter out easy problems and allocates more compute
+          to solving harder problems. We investigate the design choices that affect
+          NGU, such as off-policy robustness, and develop a set of best practices.
+          On the math benchmark Deepscaler, NGU improves performance per compute,
+          especially on harder problems. On a recent coding task, Manufactoria, standard
+          GRPO with a per-test reward fails to fully solve problems that have a range
+          of easy and difficult tests. NGU iteratively improves, solving harder and
+          harder tests, until it learns to fully solve coding problems.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-09-16'
+      title: Learning to Solve Hard Problems in RL for LLMs by Never Giving Up
+      authors:
+      - last: Noukhovitch
+        first: Michael
+      - last: Ivison
+        first: Hamish
+      - last: Lambert
+        first: Nathan
+      - last: Courville
+        first: Aaron
+      date: '2026-09-15'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2609.13443
+      publisher: arXiv
+      abstract: We demonstrate that training LLMs with RL does not improve performance
+        equally across a dataset. RL shows large improvements on easy problems that
+        an LLM is already good at solving, but small improvements on hard problems.
+        We call this the Matthew Effect in RL for LLMs, after the phenomenon of cumulative
+        advantage from economics and network science summarized as "the rich get richer".
+        The naive explanation is that hard problems require more compute to find a
+        solution. We argue that modern RL methods are exacerbating the issue by wasting
+        too much compute on easy problems and instead should dynamically reallocate
+        how they use compute. We introduce Never Give Up (NGU), a simple adaptive
+        sampling method that keeps generating samples for a problem until one is correct.
+        By leveraging asynchronous RL, this naturally uses fewer samples to filter
+        out easy problems and allocates more compute to solving harder problems. We
+        investigate the design choices that affect NGU, such as off-policy robustness,
+        and develop a set of best practices. On the math benchmark Deepscaler, NGU
+        improves performance per compute, especially on harder problems. On a recent
+        coding task, Manufactoria, standard GRPO with a per-test reward fails to fully
+        solve problems that have a range of easy and difficult tests. NGU iteratively
+        improves, solving harder and harder tests, until it learns to fully solve
+        coding problems.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvlcllf3aj2u
+- post_uri: at://did:plc:myyxg2mmwtez6hsxgxdxtpyi/app.bsky.feed.post/3mviztnqdw22o
+  thread_root_uri: at://did:plc:myyxg2mmwtez6hsxgxdxtpyi/app.bsky.feed.post/3mviztnqdw22o
+  post_url: https://bsky.app/profile/did:plc:myyxg2mmwtez6hsxgxdxtpyi/post/3mviztnqdw22o
+  post_date: '2026-09-14T21:16:40.240Z'
+  liked_at: '2026-09-15T18:06:49.175836+00:00'
+  author_handle: shambibble.com
+  author_did: did:plc:myyxg2mmwtez6hsxgxdxtpyi
+  post_text: If Anyone Assigns Agency To The Political Right, Everyone Dies
+  links: []
+  all_post_uris:
+  - at://did:plc:myyxg2mmwtez6hsxgxdxtpyi/app.bsky.feed.post/3mviztnqdw22o
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mvl4ye2v7k2v
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mvl4ye2v7k2v
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mvl4ye2v7k2v
+  post_date: '2026-09-15T17:18:18.575Z'
+  liked_at: '2026-09-15T18:02:09.979133+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: IMHO, if you're going to pull credentials, you should not be using them
+    to express a minority opinion your field, without indicating it as such.
+  links: []
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mvl4ye2v7k2v
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvklqhiz422r
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvklqhiz422r
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mvklqhiz422r
+  post_date: '2026-09-15T12:09:40.137Z'
+  liked_at: '2026-09-15T16:30:52.035125+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: "Lukewarm take: \n\nI feel a lot of pessimism about the present is built\
+    \ on not realizing just how bad the past was. Like if you just read a book about\
+    \ poverty in a first-world country in the 1950s it's staggeringly worse than now."
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvklqhiz422r
+- post_uri: at://did:plc:6bjwvpf5yylii26iiexfo64y/app.bsky.feed.post/3mvkobpldpk2i
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mvkiwpv6zc2i
+  post_url: https://bsky.app/profile/did:plc:6bjwvpf5yylii26iiexfo64y/post/3mvkobpldpk2i
+  post_date: '2026-09-15T12:55:06.511Z'
+  liked_at: '2026-09-15T13:51:12.356160+00:00'
+  author_handle: ealluia.bsky.social
+  author_did: did:plc:6bjwvpf5yylii26iiexfo64y
+  post_text: Just this week someone was telling me about the Princeton math department
+    having a collective freak-out about recent breakthroughs in AI capability in math.
+    It's strange to have that conversation, then log in to ye holde bluesky dot com
+    and hear the next round of stochastic parro
+  links: []
+  all_post_uris:
+  - at://did:plc:6bjwvpf5yylii26iiexfo64y/app.bsky.feed.post/3mvkobpldpk2i
 - post_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3mviql5hpn22p
   thread_root_uri: at://did:plc:3mkmawtelml6rwbe4g2mzyks/app.bsky.feed.post/3mviql5hpn22p
   post_url: https://bsky.app/profile/did:plc:3mkmawtelml6rwbe4g2mzyks/post/3mviql5hpn22p
