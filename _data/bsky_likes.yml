@@ -1,3 +1,135 @@
+- post_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mvrdgrj5l22c
+  thread_root_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mvrdgrj5l22c
+  post_url: https://bsky.app/profile/did:plc:oisofpd7lj26yvgiivf3lxsi/post/3mvrdgrj5l22c
+  post_date: '2026-09-18T04:29:43.313Z'
+  liked_at: '2026-09-18T05:49:33.034314+00:00'
+  author_handle: hailey.at
+  author_did: did:plc:oisofpd7lj26yvgiivf3lxsi
+  post_text: 'opus 5 was able to assist with breaking into openai
+
+
+    paying a bounty of 6.5k is wild when you just got pwned with write access lol
+
+
+    www.hacktron.ai/blog/hacking...'
+  links:
+  - url: https://www.hacktron.ai/blog/hacking-openai
+    source: card
+    card_title: Hacking OpenAI
+    card_description: A heap overflow and SSO misconfiguration to compromise OpenAI
+      internal repositories
+    citoid:
+      raw:
+        key: TFETV6JZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Hacking OpenAI
+        websiteTitle: Hacktron AI
+        date: '2026-09-13'
+        url: https://www.hacktron.ai/blog/hacking-openai
+        abstractNote: A heap overflow and SSO misconfiguration to compromise OpenAI
+          internal repositories
+        language: en
+        accessDate: '2026-09-18'
+      title: Hacking OpenAI
+      date: '2026-09-13'
+      item_type: webpage
+      abstract: A heap overflow and SSO misconfiguration to compromise OpenAI internal
+        repositories
+  all_post_uris:
+  - at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mvrdgrj5l22c
+- post_uri: at://did:plc:sfjxpxxyvewb2zlxwoz2vduw/app.bsky.feed.post/3mvqm7pplqs2r
+  thread_root_uri: at://did:plc:sfjxpxxyvewb2zlxwoz2vduw/app.bsky.feed.post/3mvqm7pplqs2r
+  post_url: https://bsky.app/profile/did:plc:sfjxpxxyvewb2zlxwoz2vduw/post/3mvqm7pplqs2r
+  post_date: '2026-09-17T21:34:10.482Z'
+  liked_at: '2026-09-18T03:51:33.017630+00:00'
+  author_handle: indexx.dev
+  author_did: did:plc:sfjxpxxyvewb2zlxwoz2vduw
+  post_text: 'Bonsai 2 27b! 🌳
+
+    prismml.com/news/bonsai-...
+
+    x.com/PrismML/stat...
+
+
+    5.9gb compressed version of Qwen 3.8 27b while retaining 98.2% of aggregate benchmark
+    performance'
+  links:
+  - url: https://prismml.com/news/bonsai-2-27b
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: UCSWT3W9
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a
+          9x Smaller Footprint'
+        abstractNote: Ternary Bonsai 2 27B retains 98.2% of Qwen3.8 27B benchmark
+          performance in a 5.9GB footprint, with multimodal and agentic capabilities.
+        url: https://prismml.com/news/bonsai-2-27b
+        language: en
+        accessDate: '2026-09-18'
+        shortTitle: PrismML — Introducing Bonsai 2 27B
+        websiteTitle: prismml.com
+      title: 'PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x
+        Smaller Footprint'
+      item_type: webpage
+      abstract: Ternary Bonsai 2 27B retains 98.2% of Qwen3.8 27B benchmark performance
+        in a 5.9GB footprint, with multimodal and agentic capabilities.
+  - url: https://x.com/PrismML/status/2100692248480596348
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/PrismML/status/2100692248480596348
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-09-17'
+        title: PrismML (@PrismML) on X
+        abstractNote: 'Today, we’re announcing Ternary Bonsai 2 27B.
+
+
+          Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision
+          counterpart while retaining 98.2% of its aggregate benchmark performance.
+
+
+          Two months after the first Bonsai 27B release, the biggest change is quality.
+          The footprint remains 5.9 …'
+        accessDate: '2026-09-18'
+      title: PrismML (@PrismML) on X
+      date: '2026-09-17'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: 'Today, we’re announcing Ternary Bonsai 2 27B.
+
+
+        Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counterpart
+        while retaining 98.2% of its aggregate benchmark performance.
+
+
+        Two months after the first Bonsai 27B release, the biggest change is quality.
+        The footprint remains 5.9 …'
+  all_post_uris:
+  - at://did:plc:sfjxpxxyvewb2zlxwoz2vduw/app.bsky.feed.post/3mvqm7pplqs2r
+- post_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvpwyiwvis2p
+  thread_root_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvpwyiwvis2p
+  post_url: https://bsky.app/profile/did:plc:tb2bwzxom5qv4542ru3zqcgu/post/3mvpwyiwvis2p
+  post_date: '2026-09-17T15:14:19.913Z'
+  liked_at: '2026-09-17T18:27:47.009664+00:00'
+  author_handle: jakemgrumbach.bsky.social
+  author_did: did:plc:tb2bwzxom5qv4542ru3zqcgu
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvpwyiwvis2p
 - post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mvo62wbb5s2g
   thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mvo62wbb5s2g
   post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mvo62wbb5s2g
