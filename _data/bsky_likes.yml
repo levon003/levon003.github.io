@@ -1,3 +1,237 @@
+- post_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mvsnh5veo22e
+  thread_root_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mvsnh5veo22e
+  post_url: https://bsky.app/profile/did:plc:uemns7yqb62n5kpwe34wgdhs/post/3mvsnh5veo22e
+  post_date: '2026-09-18T17:01:33.456Z'
+  liked_at: '2026-09-19T05:03:04.556805+00:00'
+  author_handle: brunodias.dev
+  author_did: did:plc:uemns7yqb62n5kpwe34wgdhs
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mvsnh5veo22e
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mvtkkr7jq2yj
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mvtkkr7jq2yj
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mvtkkr7jq2yj
+  post_date: '2026-09-19T01:42:32.885Z'
+  liked_at: '2026-09-19T02:22:49.643914+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: You think you’re having a bad day? I just learned I’m a sex cultist
+  links:
+  - url: https://gracekind.net/blog/
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: W9QFJ3F8
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Blog • Grace Kind
+        url: https://gracekind.net/blog/
+        language: en
+        accessDate: '2026-09-19'
+        websiteTitle: gracekind.net
+      title: Blog • Grace Kind
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mvtkkr7jq2yj
+- post_uri: at://did:plc:5ll7dulq37lwsog57ptve7we/app.bsky.feed.post/3mvt4qqf3xs2m
+  thread_root_uri: at://did:plc:5ll7dulq37lwsog57ptve7we/app.bsky.feed.post/3mvt4qqf3xs2m
+  post_url: https://bsky.app/profile/did:plc:5ll7dulq37lwsog57ptve7we/post/3mvt4qqf3xs2m
+  post_date: '2026-09-18T21:35:20.960Z'
+  liked_at: '2026-09-19T01:46:13.775727+00:00'
+  author_handle: ageofoddish.bsky.social
+  author_did: did:plc:5ll7dulq37lwsog57ptve7we
+  post_text: mmygod
+  links: []
+  all_post_uris:
+  - at://did:plc:5ll7dulq37lwsog57ptve7we/app.bsky.feed.post/3mvt4qqf3xs2m
+- post_uri: at://did:plc:b6eke66r3vbmnegg73qgprl6/app.bsky.feed.post/3mvsstmvznm2z
+  thread_root_uri: at://did:plc:b6eke66r3vbmnegg73qgprl6/app.bsky.feed.post/3mvsstmvznm2z
+  post_url: https://bsky.app/profile/did:plc:b6eke66r3vbmnegg73qgprl6/post/3mvsstmvznm2z
+  post_date: '2026-09-18T18:37:59.727Z'
+  liked_at: '2026-09-18T19:16:31.272692+00:00'
+  author_handle: mergesort.me
+  author_did: did:plc:b6eke66r3vbmnegg73qgprl6
+  post_text: Hooray, Anthropic finally gave up!
+  links:
+  - url: https://apps.apple.com/app/id1508706541
+    source: thread
+    card_title: ''
+    card_description: ''
+    citoid:
+      raw:
+        key: XB8UD8Q4
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Spring for Twitter App
+        websiteTitle: App Store
+        url: https://apps.apple.com/us/app/spring-for-twitter/id1508706541
+        abstractNote: Download Spring for Twitter by Junyu Kuang on the App Store.
+          See screenshots, ratings and reviews, user tips, and more apps like Spring
+          for Twitter.
+        date: '2023-02-01'
+        language: en-US
+        accessDate: '2026-09-19'
+      title: Spring for Twitter App
+      date: '2023-02-01'
+      item_type: webpage
+      abstract: Download Spring for Twitter by Junyu Kuang on the App Store. See screenshots,
+        ratings and reviews, user tips, and more apps like Spring for Twitter.
+  all_post_uris:
+  - at://did:plc:b6eke66r3vbmnegg73qgprl6/app.bsky.feed.post/3mvsstmvznm2z
+- post_uri: at://did:plc:m6ub6fozxlo3gzqn2rayoiwy/app.bsky.feed.post/3mvqx2srbt22j
+  thread_root_uri: at://did:plc:m6ub6fozxlo3gzqn2rayoiwy/app.bsky.feed.post/3mvqx2srbt22j
+  post_url: https://bsky.app/profile/did:plc:m6ub6fozxlo3gzqn2rayoiwy/post/3mvqx2srbt22j
+  post_date: '2026-09-18T00:48:17.068Z'
+  liked_at: '2026-09-18T19:15:59.803854+00:00'
+  author_handle: thiagokrause.bsky.social
+  author_did: did:plc:m6ub6fozxlo3gzqn2rayoiwy
+  post_text: This is a very good - and disheartening- essay. I disdained exams and
+    in-class writing for my first 12 years of teaching, but now I’m forced to resort
+    to them, particularly in GenEd classes. I still assign take-home research essays
+    in advanced classes for History majors/minors, t
+  links:
+  - url: https://www.insidehighered.com/opinion/views/2026/09/17/cures-ai-are-killing-humanities-opinion
+    source: card
+    card_title: The Cures for AI Are Killing the Humanities (opinion)
+    card_description: The retreat from take-home essays jeopardizes the future of
+      the humanities.
+    citoid:
+      raw:
+        key: 6NBMSWXF
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Michael
+          lastName: Genovese
+          creatorType: author
+        tags:
+        - tag: Higher
+          type: 1
+        - tag: Education
+          type: 1
+        - tag: News
+          type: 1
+        - tag: Jobs
+          type: 1
+        - tag: Events
+          type: 1
+        - tag: Career
+          type: 1
+        url: https://www.insidehighered.com/opinion/views/2026/09/17/cures-ai-are-killing-humanities-opinion
+        title: The Cures for AI Are Killing Us
+        abstractNote: The retreat from take-home essays jeopardizes the future of
+          the humanities. It’s 2030, and your English department graduate admissions
+          committee is meeting. Perusing the applicant files, its members notice,
+          maybe not for the first time, that each writing sample seems off. The main
+          argument falters after a few pages. Ideas jump around in two- to three-page
+          increments. Literary analysis goes just far enough to make a generally observable
+          point before the essay moves on. Over all, the whole sample reads like a
+          series of shorter pieces strung together under the umbrella of a general
+          topic, but not a structured argument.
+        language: en
+        accessDate: '2026-09-19'
+        websiteTitle: Inside Higher Ed
+      title: The Cures for AI Are Killing Us
+      authors:
+      - last: Genovese
+        first: Michael
+      item_type: webpage
+      abstract: The retreat from take-home essays jeopardizes the future of the humanities.
+        It’s 2030, and your English department graduate admissions committee is meeting.
+        Perusing the applicant files, its members notice, maybe not for the first
+        time, that each writing sample seems off. The main argument falters after
+        a few pages. Ideas jump around in two- to three-page increments. Literary
+        analysis goes just far enough to make a generally observable point before
+        the essay moves on. Over all, the whole sample reads like a series of shorter
+        pieces strung together under the umbrella of a general topic, but not a structured
+        argument.
+  all_post_uris:
+  - at://did:plc:m6ub6fozxlo3gzqn2rayoiwy/app.bsky.feed.post/3mvqx2srbt22j
+- post_uri: at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mvqxtl2hlc2y
+  thread_root_uri: at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mvqxtl2hlc2y
+  post_url: https://bsky.app/profile/did:plc:mencpxk4spd3xn3qotwkyyqf/post/3mvqxtl2hlc2y
+  post_date: '2026-09-18T01:02:07.848Z'
+  liked_at: '2026-09-18T12:34:09.420211+00:00'
+  author_handle: alexip718.com
+  author_did: did:plc:mencpxk4spd3xn3qotwkyyqf
+  post_text: "This guy who assaulted a sitting member of Congress got 28 years and\
+    \ 10 months less jail time than a Texas resident who transported a box of zines\
+    \ that contained constitutionally protected content opposing ICE \n\nreason.com/2026/06/25/t..."
+  links:
+  - url: https://reason.com/2026/06/25/texas-man-gets-30-years-in-prison-for-transporting-anti-government-pamphlets/
+    source: card
+    card_title: Texas man gets 30 years in prison for transporting 'anti-government'
+      pamphlets
+    card_description: The case stems from a violent anti-ICE protest, but critics
+      say the government's prosecution threatens First Amendment rights.
+    citoid:
+      raw:
+        key: GUAHMS5P
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Autumn
+          lastName: Billings
+          creatorType: author
+        tags: []
+        title: Texas man gets 30 years in prison for transporting 'anti-government'
+          pamphlets
+        blogTitle: Reason Magazine
+        date: '2026-06-25'
+        url: https://reason.com/2026/06/25/texas-man-gets-30-years-in-prison-for-transporting-anti-government-pamphlets/
+        abstractNote: The case stems from a violent anti-ICE protest, but critics
+          say the government's prosecution threatens First Amendment rights.
+        language: en-US
+        accessDate: '2026-09-19'
+      title: Texas man gets 30 years in prison for transporting 'anti-government'
+        pamphlets
+      authors:
+      - last: Billings
+        first: Autumn
+      date: '2026-06-25'
+      item_type: blogPost
+      publisher: Reason Magazine
+      abstract: The case stems from a violent anti-ICE protest, but critics say the
+        government's prosecution threatens First Amendment rights.
+  all_post_uris:
+  - at://did:plc:mencpxk4spd3xn3qotwkyyqf/app.bsky.feed.post/3mvqxtl2hlc2y
+- post_uri: at://did:plc:mod67y6i5h2mxit7xahnvguz/app.bsky.feed.post/3mvovss33us25
+  thread_root_uri: at://did:plc:cak4klqoj3bqgk5rj6b4f5do/app.bsky.feed.post/3mvotrlburs2q
+  post_url: https://bsky.app/profile/did:plc:mod67y6i5h2mxit7xahnvguz/post/3mvovss33us25
+  post_date: '2026-09-17T05:20:34.695Z'
+  liked_at: '2026-09-18T12:29:17.878406+00:00'
+  author_handle: dwillner.bsky.social
+  author_did: did:plc:mod67y6i5h2mxit7xahnvguz
+  post_text: Certain kinds of smart people tend to have a "sexy apocalypse" problem
+    when it comes to thinking about risk.  E.g. skynet turning everyone in paperclips,
+    while bad, is also *kind of cool and fun* at the same time. Where the reality
+    is that most actual disasters are both stupid an
+  links: []
+  all_post_uris:
+  - at://did:plc:mod67y6i5h2mxit7xahnvguz/app.bsky.feed.post/3mvovss33us25
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mvs5po5b4k2o
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mvs5po5b4k2o
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3mvs5po5b4k2o
+  post_date: '2026-09-18T12:19:59.058Z'
+  liked_at: '2026-09-18T12:26:52.573209+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: '"buhhh duhhh guhhh i''m going to give the pope a baseball jersey because
+    he likes baseball" -broke idiot who doesn''t understand why he''s poor
+
+
+    "i will gift his holiness with a majestic orb" -guy with head on a swivel who
+    can clearly identify and take advantage of Money Moves when '
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mvs5po5b4k2o
 - post_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mvrdgrj5l22c
   thread_root_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mvrdgrj5l22c
   post_url: https://bsky.app/profile/did:plc:oisofpd7lj26yvgiivf3lxsi/post/3mvrdgrj5l22c
