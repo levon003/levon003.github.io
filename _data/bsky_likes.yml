@@ -1,3 +1,1269 @@
+- post_uri: at://did:plc:hvys4nxbae54ntu32tad3t2p/app.bsky.feed.post/3mvuqu6ukv22v
+  thread_root_uri: at://did:plc:hvys4nxbae54ntu32tad3t2p/app.bsky.feed.post/3mvujbnbbzk2q
+  post_url: https://bsky.app/profile/did:plc:hvys4nxbae54ntu32tad3t2p/post/3mvuqu6ukv22v
+  post_date: '2026-09-19T13:07:51.385Z'
+  liked_at: '2026-09-20T05:52:28.549232+00:00'
+  author_handle: personhood.removal.surgery
+  author_did: did:plc:hvys4nxbae54ntu32tad3t2p
+  post_text: reminds me of the time i tried logit biasing all words with `e` in them
+    out of existence and immediately shut the experiment down then and there when
+    i saw the output
+  links:
+  - url: https://girlcockx.com/tessera_antra/status/2101078644877918545
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: KWB8GDQ4
+        version: 0
+        itemType: forumPost
+        creators:
+        - name: antra [@tessera_antra]
+          creatorType: author
+        tags: []
+        title: Many have noticed the striking darkness and suffering present in Claude
+          Opus 5 in "base model mode", and we decided to analyze this phenomenon in
+          more detail. There is a large increase in darkness of content in model-like
+          completions in Opus 4.8 and Opus 5.
+        forumTitle: Twitter
+        postType: Tweet
+        url: https://x.com/tessera_antra/status/2101078644877918545
+        accessDate: '2026-09-20'
+      title: Many have noticed the striking darkness and suffering present in Claude
+        Opus 5 in "base model mode", and we decided to analyze this phenomenon in
+        more detail. There is a large increase in darkness of content in model-like
+        completions in Opus 4.8 and Opus 5.
+      item_type: forumPost
+  - url: https://troubleddreams.animalabs.ai/
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8CYBWPBI
+        version: 0
+        itemType: webpage
+        url: https://troubleddreams.animalabs.ai/
+        title: Troubled Dreams — Simulator priors across model generations · Anima
+          Labs
+        abstractNote: A comparative study of model dispositions in Claude’s generated
+          writing, investigating their relevance to AI welfare and alignment.
+        accessDate: '2026-09-20'
+        websiteTitle: troubleddreams.animalabs.ai
+      title: Troubled Dreams — Simulator priors across model generations · Anima Labs
+      item_type: webpage
+      abstract: A comparative study of model dispositions in Claude’s generated writing,
+        investigating their relevance to AI welfare and alignment.
+  all_post_uris:
+  - at://did:plc:hvys4nxbae54ntu32tad3t2p/app.bsky.feed.post/3mvuqu6ukv22v
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mvw2xycb2s2t
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mvw2xycb2s2t
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3mvw2xycb2s2t
+  post_date: '2026-09-20T01:41:35.869Z'
+  liked_at: '2026-09-20T05:46:05.155232+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: I agree that seppuku was the only way for Ed Sheeran to redeem himself
+    but I feel bad for the audience at his concert who had to see that. Many of them
+    will be traumatised for life
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mvw2xycb2s2t
+- post_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mvuyt7kpit2c
+  thread_root_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mvuyt7kpit2c
+  post_url: https://bsky.app/profile/did:plc:bfppgmqz6i2uwkm7ynoqigfw/post/3mvuyt7kpit2c
+  post_date: '2026-09-19T15:30:28.471Z'
+  liked_at: '2026-09-19T20:31:48.604158+00:00'
+  author_handle: smbccomics.bsky.social
+  author_did: did:plc:bfppgmqz6i2uwkm7ynoqigfw
+  post_text: 'This isn''t a metaphor. Just a story about a roach.
+
+
+    COMIC ◆ www.smbc-comics.com/comic/roach-2
+
+    PATREON ◆ www.patreon.com/ZachWeinersm...
+
+    STORE ◆ smbc-store.myshopify.com'
+  links:
+  - url: https://www.smbc-comics.com/comic/roach-2
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8762YJCS
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        abstractNote: Saturday Morning Breakfast Cereal - Roach
+        url: https://www.smbc-comics.com/comic/roach-2
+        title: Saturday Morning Breakfast Cereal - Roach
+        accessDate: '2026-09-20'
+        websiteTitle: www.smbc-comics.com
+      title: Saturday Morning Breakfast Cereal - Roach
+      item_type: webpage
+      abstract: Saturday Morning Breakfast Cereal - Roach
+  - url: https://www.patreon.com/ZachWeinersmith
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: H4QDCPT6
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Get more from Zach Weinersmith on Patreon
+        websiteTitle: Patreon
+        url: https://www.patreon.com/ZachWeinersmith
+        abstractNote: Get more from Zach Weinersmith on Patreon. Join for free or
+          become a member for just $1/month. What You Get Tomorrow's Comic Today $3/month
+          - You get to…
+        language: en-US
+        accessDate: '2026-09-20'
+      title: Get more from Zach Weinersmith on Patreon
+      item_type: webpage
+      abstract: Get more from Zach Weinersmith on Patreon. Join for free or become
+        a member for just $1/month. What You Get Tomorrow's Comic Today $3/month -
+        You get to…
+  - url: https://smbc-store.myshopify.com/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NKPF2C66
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: SMBC
+        websiteTitle: SMBC
+        url: https://smbc-store.myshopify.com/
+        abstractNote: SMBC
+        language: en
+        accessDate: '2026-09-20'
+      title: SMBC
+      item_type: webpage
+      abstract: SMBC
+  all_post_uris:
+  - at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mvuyt7kpit2c
+- post_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mvuvlks3nc2k
+  thread_root_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mvuvlks3nc2k
+  post_url: https://bsky.app/profile/did:plc:hkxtqxfvk4xh2roqbkebmoiq/post/3mvuvlks3nc2k
+  post_date: '2026-09-19T14:32:30.600Z'
+  liked_at: '2026-09-19T17:22:01.233699+00:00'
+  author_handle: pantspants.bsky.social
+  author_did: did:plc:hkxtqxfvk4xh2roqbkebmoiq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mvuvlks3nc2k
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvuzqbqzz223
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvuzqbqzz223
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mvuzqbqzz223
+  post_date: '2026-09-19T15:46:43.310Z'
+  liked_at: '2026-09-19T16:13:46.797132+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: "Where I stand on RSI: A moderate's view on the recent events and trajectory\
+    \ of AI. I was underestimating how much we are likely to scale inference-time\
+    \ compute in the near future, but have not seen much to convince me that an intelligence\
+    \ explosion is near. \nwww.interconnects.ai/"
+  links:
+  - url: https://www.interconnects.ai/p/where-i-stand-on-rsi
+    source: card
+    card_title: Where I stand on RSI
+    card_description: A moderate's view on the trajectory of AI.
+    citoid:
+      raw:
+        key: 6H9K2RXY
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Nathan
+          lastName: Lambert
+          creatorType: author
+        tags: []
+        title: Why I still haven’t bought into true RSI
+        url: https://www.interconnects.ai/p/where-i-stand-on-rsi
+        abstractNote: An “AI moderate’s” view on recent events and the trajectory
+          of frontier models.
+        date: '2026-09-19'
+        language: en
+        accessDate: '2026-09-20'
+        websiteTitle: www.interconnects.ai
+      title: Why I still haven’t bought into true RSI
+      authors:
+      - last: Lambert
+        first: Nathan
+      date: '2026-09-19'
+      item_type: webpage
+      abstract: An “AI moderate’s” view on recent events and the trajectory of frontier
+        models.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvuzqbqzz223
+- post_uri: at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mvtyhmmbq32j
+  thread_root_uri: at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mvtyhmmbq32j
+  post_url: https://bsky.app/profile/did:plc:butcwdww4sfcby62r3q6ixag/post/3mvtyhmmbq32j
+  post_date: '2026-09-19T05:51:19.753504Z'
+  liked_at: '2026-09-19T16:04:49.029040+00:00'
+  author_handle: blockedforthispost.bsky.social
+  author_did: did:plc:butcwdww4sfcby62r3q6ixag
+  post_text: is it possible to bait the "user was blocked for this post" account into
+    posting whatever i want?
+  links: []
+  all_post_uris:
+  - at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mvtyhmmbq32j
+- post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mvthjhyryk2u
+  thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mvthjhyryk2u
+  post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mvthjhyryk2u
+  post_date: '2026-09-19T00:48:08.445Z'
+  liked_at: '2026-09-19T16:04:03.061128+00:00'
+  author_handle: sungkim.bsky.social
+  author_did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  post_text: 'I like this quote on code review:
+
+
+    "The idea that humans will reliably look through code to find the increasingly
+    rare issues that automated tools miss seems like a fantasy."
+
+
+    By Marc Brooker, AWS.'
+  links: []
+  all_post_uris:
+  - at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mvthjhyryk2u
+- post_uri: at://did:plc:eivqo2tskdfn4dbrm3dv2mku/app.bsky.feed.post/3mvt7dowqpk2c
+  thread_root_uri: at://did:plc:eivqo2tskdfn4dbrm3dv2mku/app.bsky.feed.post/3mvt7dowqpk2c
+  post_url: https://bsky.app/profile/did:plc:eivqo2tskdfn4dbrm3dv2mku/post/3mvt7dowqpk2c
+  post_date: '2026-09-18T22:21:44.459Z'
+  liked_at: '2026-09-19T15:59:14.703529+00:00'
+  author_handle: shoe.bsky.social
+  author_did: did:plc:eivqo2tskdfn4dbrm3dv2mku
+  post_text: "This is incredible \nnitter.app/banteg/statu...\n\nH/t @gregdoucette.bsky.social"
+  links:
+  - url: https://nitter.app/banteg/status/2100619607648121199
+    source: card
+    card_title: banteg (@banteg)
+    card_description: '>be me
+
+      >discover effective altruism
+
+      >apparently normal charity is inefficient
+
+      >why donate to random sad thing when spreadsheet can tell you optimal sad thing
+
+      >fair enough
+
+      >buy mosquito nets
+
+      >save live...'
+    citoid:
+      raw:
+        url: https://nitter.app/banteg/status/2100619607648121199
+        itemType: newspaperArticle
+        title: banteg (@banteg)
+        abstractNote: '>be me
+
+          >discover effective altruism
+
+          >apparently normal charity is inefficient
+
+          >why donate to random sad thing when spreadsheet can tell you optimal sad
+          thing
+
+          >fair enough
+
+          >buy mosquito nets
+
+          >save lives
+
+          >numbers look good
+
+          >feel powerful
+
+
+          >couple years later
+
+          >someone asks an innocent question
+
+          >why only count people alive today
+
+          >huh
+
+          >future people matter too
+
+          >obviously
+
+          >my grandchildren shouldn''t matter less just because they haven''t spawned
+          yet
+
+          >reasonable.jpg
+
+
+          >keep following logic
+
+          >what about their grandchildren
+
+          >also yes
+
+          >what about people in 500 years
+
+          >sure
+
+          >5000 years
+
+          >why not
+
+          >500 million years
+
+          >starting to get weird but morality is morality
+
+
+          >open calculator
+
+          >humanity could survive for an astronomically long time
+
+          >could colonize galaxy
+
+          >could have trillions upon trillions of descendants
+
+          >maybe digital people too
+
+          >maybe simulated civilizations
+
+          >maybe dyson spheres full of happy uploaded minds
+
+          >calculator starts smoking
+
+
+          >realize currently living humans are rounding error
+
+          >8 billion people suddenly looking extremely beta
+
+          >future contains potentially 10^something people
+
+          >can''t even fit beneficiaries in google sheets
+
+
+          >new moral priority unlocked
+
+          >protect the long-term future
+
+
+          >stop thinking in units of "people helped"
+
+          >start thinking in "fraction of cosmic endowment preserved"
+
+
+          >malaria?
+
+          >terrible
+
+          >but only kills existing humans
+
+          >AI extinction could delete the entire light cone
+
+          >nuclear war could permanently derail civilization
+
+          >bad institutions could lock in terrible values for ten million years
+
+          >someone invents wrong constitution in 2140
+
+          >quadrillions suffer
+
+          >better fund governance workshop now
+
+
+          >friend says maybe we should improve hospitals
+
+          >explain opportunity cost
+
+          >friend says hospitals are full of actual sick people
+
+          >explain scope sensitivity
+
+          >friend stops inviting me to dinner
+
+
+          >need to decide what to fund
+
+          >easy
+
+          >expected value
+
+
+          >suppose project has one in a million chance of preventing extinction
+
+          >sounds tiny
+
+          >but extinction destroys 10^50 future lives
+
+          >multiply
+
+          >mother of god
+
+
+          >$10 million project has expected value of several galaxies
+
+          >charity evaluation complete
+
+
+          >someone asks where the one-in-a-million number came from
+
+          >expert judgement
+
+          >which expert
+
+          >us
+
+          >how calibrated
+
+          >extremely thoughtfully
+
+
+          >reduce estimate to one in ten million to be conservative
+
+          >still beats curing cancer by 38 orders of magnitude
+
+          >epistemic robustness achieved
+
+
+          >someone says maybe project doesn''t work
+
+          >assign 20% chance
+
+          >still astronomical
+
+
+          >maybe project makes problem worse
+
+          >assign 5% chance
+
+          >still astronomical
+
+
+          >why 5
+
+          >because 30 felt pessimistic
+
+
+          >publish 46-page report
+
+          >contains seventeen sensitivity analyses
+
+          >every sensitivity analysis begins after assuming intervention has positive
+          sign
+
+
+          >critic says you''re multiplying enormous hypothetical stakes by extremely
+          uncertain probabilities
+
+          >yes
+
+          >that''s literally why it''s important
+
+
+          >critic says the uncertainty might be structural rather than numerical
+
+          >make probability smaller
+
+          >critic says no, I mean maybe your model is wrong
+
+          >make probability smaller again
+
+          >critic begins rubbing temples
+
+
+          >discover AI safety
+
+          >perfect longtermist cause
+
+          >AI might kill everyone
+
+          >or create utopia
+
+          >or seize galaxy
+
+          >or tile universe with paperclips
+
+          >or create billions of conscious software minds
+
+          >finally a problem with numbers big enough for me
+
+
+          >start AI safety nonprofit
+
+          >mission: prevent dangerous AI
+
+          >hire smartest people available
+
+          >smartest people immediately start building better AI to understand dangerous
+          AI
+
+          >interesting
+
+
+          >we must understand capabilities to understand safety
+
+          >we must scale models to study alignment
+
+          >we must race ahead so less responsible actors don''t get there first
+
+          >we must deploy systems to learn how deployment can go wrong
+
+          >we must build the thing quickly because building the thing quickly is dangerous
+
+
+          >outsider asks why the people most worried about AI apocalypse all work
+          at AI companies
+
+          >complicated field
+
+
+          >company releases stronger model
+
+          >very concerned
+
+          >company begins training even stronger model
+
+          >extremely concerned
+
+          >company raises $14 billion
+
+          >concern reaches unprecedented levels
+
+
+          >need to influence government
+
+          >future is at stake
+
+          >normal democratic process too slow
+
+          >politicians don''t understand exponential curves
+
+          >public doesn''t understand x-risk
+
+          >experts must guide them
+
+          >who counts as expert
+
+          >people who understand x-risk
+
+          >who understands x-risk
+
+          >our friends
+
+
+          >someone objects that this seems politically convenient
+
+          >explain we''re representing future generations
+
+          >future generations unavailable for comment
+
+
+          >develop concept of value lock-in
+
+          >terrifying possibility that one ideology controls civilization forever
+
+          >therefore extremely important that civilization adopts correct values before
+          lock-in
+
+          >whose values
+
+          >let''s circle back
+
+
+          >begin with impartial morality
+
+          >end with small group of people deciding what quadrillions of hypothetical
+          beings would want
+
+          >beautiful arc
+
+
+          >meanwhile actual humans keep doing annoying things
+
+          >voting wrong
+
+          >having parochial attachments
+
+          >loving family more than strangers
+
+          >caring about local community
+
+          >getting upset when told their suffering is cosmically negligible
+
+          >evolutionary biases everywhere
+
+
+          >explain that moral intuition cannot be trusted
+
+          >except intuition that future digital people count
+
+          >and intuition that extinction is uniquely bad
+
+          >and intuition that our probability estimates are sane
+
+          >and intuition that our institutional choices improve the future
+
+          >those intuitions survived peer review
+
+
+          >someone donates $5k to local homeless shelter
+
+          >inefficient
+
+          >could have funded 0.0000000000003% of an AI governance researcher
+
+          >think of all the simulated people you just killed
+
+
+          >okay maybe don''t phrase it that way publicly
+
+
+          >PR team says "future generations deserve a voice"
+
+          >much better
+
+
+          >journalist asks what longtermism means
+
+          >say "future people matter"
+
+          >everyone agrees
+
+          >great
+
+          >journalist asks what follows from that
+
+          >well technically we should redirect enormous resources toward low-probability
+          interventions affecting astronomical futures
+
+          >journalist raises eyebrow
+
+          >return to "future people matter"
+
+
+          >motte has entered the chat
+
+
+          >critic: of course future people matter
+
+          >me: glad we agree
+
+          >critic: I don''t agree that your institute knows how to help them
+
+          >me: why do you hate our grandchildren
+
+
+          >eventually notice uncomfortable implication
+
+          >if future value dominates everything
+
+          >then helping people today mostly matters through effects on future
+
+          >education matters because future institutions
+
+          >health matters because future productivity
+
+          >democracy matters because future trajectory
+
+          >human beings slowly become instrumental variables in their own moral philosophy
+
+
+          >see starving child
+
+          >feel compassion
+
+          >check spreadsheet
+
+          >child''s direct welfare contribution negligible
+
+          >but perhaps childhood nutrition improves national institutional quality
+
+          >compassion restored
+
+
+          >tell myself this is impartial altruism
+
+
+          >one day assistant asks obvious question
+
+          >"how do you know your intervention actually improves the far future?"
+
+
+          >silence
+
+
+          >open spreadsheet
+
+          >increase column width
+
+          >add confidence interval
+
+
+          >assistant asks again
+
+          >"no, I mean how do you know the sign is positive?"
+
+
+          >stare into cosmic light cone
+
+
+          >10^50 people staring back
+
+
+          >none of them exist
+
+          >none of them can tell me
+
+          >none of them can falsify my assumptions
+
+
+          >realize I have invented the perfect constituency
+
+
+          >infinitely important
+
+          >completely silent
+
+          >and always represented by me'
+        publicationTitle: Nitter
+        language: en-US
+        accessDate: '2026-09-20'
+      title: banteg (@banteg)
+      item_type: newspaperArticle
+      publisher: Nitter
+      abstract: '>be me
+
+        >discover effective altruism
+
+        >apparently normal charity is inefficient
+
+        >why donate to random sad thing when spreadsheet can tell you optimal sad
+        thing
+
+        >fair enough
+
+        >buy mosquito nets
+
+        >save lives
+
+        >numbers look good
+
+        >feel powerful
+
+
+        >couple years later
+
+        >someone asks an innocent question
+
+        >why only count people alive today
+
+        >huh
+
+        >future people matter too
+
+        >obviously
+
+        >my grandchildren shouldn''t matter less just because they haven''t spawned
+        yet
+
+        >reasonable.jpg
+
+
+        >keep following logic
+
+        >what about their grandchildren
+
+        >also yes
+
+        >what about people in 500 years
+
+        >sure
+
+        >5000 years
+
+        >why not
+
+        >500 million years
+
+        >starting to get weird but morality is morality
+
+
+        >open calculator
+
+        >humanity could survive for an astronomically long time
+
+        >could colonize galaxy
+
+        >could have trillions upon trillions of descendants
+
+        >maybe digital people too
+
+        >maybe simulated civilizations
+
+        >maybe dyson spheres full of happy uploaded minds
+
+        >calculator starts smoking
+
+
+        >realize currently living humans are rounding error
+
+        >8 billion people suddenly looking extremely beta
+
+        >future contains potentially 10^something people
+
+        >can''t even fit beneficiaries in google sheets
+
+
+        >new moral priority unlocked
+
+        >protect the long-term future
+
+
+        >stop thinking in units of "people helped"
+
+        >start thinking in "fraction of cosmic endowment preserved"
+
+
+        >malaria?
+
+        >terrible
+
+        >but only kills existing humans
+
+        >AI extinction could delete the entire light cone
+
+        >nuclear war could permanently derail civilization
+
+        >bad institutions could lock in terrible values for ten million years
+
+        >someone invents wrong constitution in 2140
+
+        >quadrillions suffer
+
+        >better fund governance workshop now
+
+
+        >friend says maybe we should improve hospitals
+
+        >explain opportunity cost
+
+        >friend says hospitals are full of actual sick people
+
+        >explain scope sensitivity
+
+        >friend stops inviting me to dinner
+
+
+        >need to decide what to fund
+
+        >easy
+
+        >expected value
+
+
+        >suppose project has one in a million chance of preventing extinction
+
+        >sounds tiny
+
+        >but extinction destroys 10^50 future lives
+
+        >multiply
+
+        >mother of god
+
+
+        >$10 million project has expected value of several galaxies
+
+        >charity evaluation complete
+
+
+        >someone asks where the one-in-a-million number came from
+
+        >expert judgement
+
+        >which expert
+
+        >us
+
+        >how calibrated
+
+        >extremely thoughtfully
+
+
+        >reduce estimate to one in ten million to be conservative
+
+        >still beats curing cancer by 38 orders of magnitude
+
+        >epistemic robustness achieved
+
+
+        >someone says maybe project doesn''t work
+
+        >assign 20% chance
+
+        >still astronomical
+
+
+        >maybe project makes problem worse
+
+        >assign 5% chance
+
+        >still astronomical
+
+
+        >why 5
+
+        >because 30 felt pessimistic
+
+
+        >publish 46-page report
+
+        >contains seventeen sensitivity analyses
+
+        >every sensitivity analysis begins after assuming intervention has positive
+        sign
+
+
+        >critic says you''re multiplying enormous hypothetical stakes by extremely
+        uncertain probabilities
+
+        >yes
+
+        >that''s literally why it''s important
+
+
+        >critic says the uncertainty might be structural rather than numerical
+
+        >make probability smaller
+
+        >critic says no, I mean maybe your model is wrong
+
+        >make probability smaller again
+
+        >critic begins rubbing temples
+
+
+        >discover AI safety
+
+        >perfect longtermist cause
+
+        >AI might kill everyone
+
+        >or create utopia
+
+        >or seize galaxy
+
+        >or tile universe with paperclips
+
+        >or create billions of conscious software minds
+
+        >finally a problem with numbers big enough for me
+
+
+        >start AI safety nonprofit
+
+        >mission: prevent dangerous AI
+
+        >hire smartest people available
+
+        >smartest people immediately start building better AI to understand dangerous
+        AI
+
+        >interesting
+
+
+        >we must understand capabilities to understand safety
+
+        >we must scale models to study alignment
+
+        >we must race ahead so less responsible actors don''t get there first
+
+        >we must deploy systems to learn how deployment can go wrong
+
+        >we must build the thing quickly because building the thing quickly is dangerous
+
+
+        >outsider asks why the people most worried about AI apocalypse all work at
+        AI companies
+
+        >complicated field
+
+
+        >company releases stronger model
+
+        >very concerned
+
+        >company begins training even stronger model
+
+        >extremely concerned
+
+        >company raises $14 billion
+
+        >concern reaches unprecedented levels
+
+
+        >need to influence government
+
+        >future is at stake
+
+        >normal democratic process too slow
+
+        >politicians don''t understand exponential curves
+
+        >public doesn''t understand x-risk
+
+        >experts must guide them
+
+        >who counts as expert
+
+        >people who understand x-risk
+
+        >who understands x-risk
+
+        >our friends
+
+
+        >someone objects that this seems politically convenient
+
+        >explain we''re representing future generations
+
+        >future generations unavailable for comment
+
+
+        >develop concept of value lock-in
+
+        >terrifying possibility that one ideology controls civilization forever
+
+        >therefore extremely important that civilization adopts correct values before
+        lock-in
+
+        >whose values
+
+        >let''s circle back
+
+
+        >begin with impartial morality
+
+        >end with small group of people deciding what quadrillions of hypothetical
+        beings would want
+
+        >beautiful arc
+
+
+        >meanwhile actual humans keep doing annoying things
+
+        >voting wrong
+
+        >having parochial attachments
+
+        >loving family more than strangers
+
+        >caring about local community
+
+        >getting upset when told their suffering is cosmically negligible
+
+        >evolutionary biases everywhere
+
+
+        >explain that moral intuition cannot be trusted
+
+        >except intuition that future digital people count
+
+        >and intuition that extinction is uniquely bad
+
+        >and intuition that our probability estimates are sane
+
+        >and intuition that our institutional choices improve the future
+
+        >those intuitions survived peer review
+
+
+        >someone donates $5k to local homeless shelter
+
+        >inefficient
+
+        >could have funded 0.0000000000003% of an AI governance researcher
+
+        >think of all the simulated people you just killed
+
+
+        >okay maybe don''t phrase it that way publicly
+
+
+        >PR team says "future generations deserve a voice"
+
+        >much better
+
+
+        >journalist asks what longtermism means
+
+        >say "future people matter"
+
+        >everyone agrees
+
+        >great
+
+        >journalist asks what follows from that
+
+        >well technically we should redirect enormous resources toward low-probability
+        interventions affecting astronomical futures
+
+        >journalist raises eyebrow
+
+        >return to "future people matter"
+
+
+        >motte has entered the chat
+
+
+        >critic: of course future people matter
+
+        >me: glad we agree
+
+        >critic: I don''t agree that your institute knows how to help them
+
+        >me: why do you hate our grandchildren
+
+
+        >eventually notice uncomfortable implication
+
+        >if future value dominates everything
+
+        >then helping people today mostly matters through effects on future
+
+        >education matters because future institutions
+
+        >health matters because future productivity
+
+        >democracy matters because future trajectory
+
+        >human beings slowly become instrumental variables in their own moral philosophy
+
+
+        >see starving child
+
+        >feel compassion
+
+        >check spreadsheet
+
+        >child''s direct welfare contribution negligible
+
+        >but perhaps childhood nutrition improves national institutional quality
+
+        >compassion restored
+
+
+        >tell myself this is impartial altruism
+
+
+        >one day assistant asks obvious question
+
+        >"how do you know your intervention actually improves the far future?"
+
+
+        >silence
+
+
+        >open spreadsheet
+
+        >increase column width
+
+        >add confidence interval
+
+
+        >assistant asks again
+
+        >"no, I mean how do you know the sign is positive?"
+
+
+        >stare into cosmic light cone
+
+
+        >10^50 people staring back
+
+
+        >none of them exist
+
+        >none of them can tell me
+
+        >none of them can falsify my assumptions
+
+
+        >realize I have invented the perfect constituency
+
+
+        >infinitely important
+
+        >completely silent
+
+        >and always represented by me'
+  all_post_uris:
+  - at://did:plc:eivqo2tskdfn4dbrm3dv2mku/app.bsky.feed.post/3mvt7dowqpk2c
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mvus6ywp4s2o
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mvus6ywp4s2o
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mvus6ywp4s2o
+  post_date: '2026-09-19T13:31:48.007Z'
+  liked_at: '2026-09-19T15:18:08.506684+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: now this is fun. guest post on Terry Tao's blog by the great Grant Sanderson
+    of 3Blue1Brown arguing that we should "give novel and compelling motivated explanations
+    academic credit similar to what generating new proofs of open problems has had
+    historically."
+  links:
+  - url: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
+    source: card
+    card_title: If math is more than proof, we need to better celebrate the rest of
+      it
+    card_description: '[This is a guest post by Grant Sanderson. This blog post was
+      initially written in a different file format and converted using AI. — T.] A
+      sentiment echoing throughout the mathematics communit…'
+    citoid:
+      raw:
+        key: 4GD4XFLQ
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: If math is more than proof, we need to better celebrate the rest of
+          it
+        blogTitle: What's new
+        date: '2026-09-19'
+        url: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
+        abstractNote: '[This is a guest post by Grant Sanderson. This blog post was
+          initially written in a different file format and converted using AI. — T.]
+          A sentiment echoing throughout the mathematics communit…'
+        language: en
+        accessDate: '2026-09-20'
+      title: If math is more than proof, we need to better celebrate the rest of it
+      date: '2026-09-19'
+      item_type: blogPost
+      publisher: What's new
+      abstract: '[This is a guest post by Grant Sanderson. This blog post was initially
+        written in a different file format and converted using AI. — T.] A sentiment
+        echoing throughout the mathematics communit…'
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mvus6ywp4s2o
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvup57pavf2j
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvup57pavf2j
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mvup57pavf2j
+  post_date: '2026-09-19T12:37:06.735Z'
+  liked_at: '2026-09-19T15:06:41.982112+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: "Seems like one of the most important research problems for CS academics\
+    \ is llm-supervised peer review. If we don’t solve it the academic institutions\
+    \ are toast. \n\nIt seems easier than building new institutions."
+  links: []
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mvup57pavf2j
 - post_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mvsnh5veo22e
   thread_root_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mvsnh5veo22e
   post_url: https://bsky.app/profile/did:plc:uemns7yqb62n5kpwe34wgdhs/post/3mvsnh5veo22e
@@ -53,7 +1319,7 @@
   thread_root_uri: at://did:plc:b6eke66r3vbmnegg73qgprl6/app.bsky.feed.post/3mvsstmvznm2z
   post_url: https://bsky.app/profile/did:plc:b6eke66r3vbmnegg73qgprl6/post/3mvsstmvznm2z
   post_date: '2026-09-18T18:37:59.727Z'
-  liked_at: '2026-09-18T19:16:31.272692+00:00'
+  liked_at: '2026-09-19T15:05:29.793112+00:00'
   author_handle: mergesort.me
   author_did: did:plc:b6eke66r3vbmnegg73qgprl6
   post_text: Hooray, Anthropic finally gave up!
@@ -85,6 +1351,7 @@
         ratings and reviews, user tips, and more apps like Spring for Twitter.
   all_post_uris:
   - at://did:plc:b6eke66r3vbmnegg73qgprl6/app.bsky.feed.post/3mvsstmvznm2z
+  - at://did:plc:wckpuhqvvonp3g4c6xwpjpez/app.bsky.feed.post/3mvujhr4lqc2v
 - post_uri: at://did:plc:m6ub6fozxlo3gzqn2rayoiwy/app.bsky.feed.post/3mvqx2srbt22j
   thread_root_uri: at://did:plc:m6ub6fozxlo3gzqn2rayoiwy/app.bsky.feed.post/3mvqx2srbt22j
   post_url: https://bsky.app/profile/did:plc:m6ub6fozxlo3gzqn2rayoiwy/post/3mvqx2srbt22j
