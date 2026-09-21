@@ -1,3 +1,242 @@
+- post_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvyegb4bbs24
+  thread_root_uri: at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mvyd6e37nc25
+  post_url: https://bsky.app/profile/did:plc:tb2bwzxom5qv4542ru3zqcgu/post/3mvyegb4bbs24
+  post_date: '2026-09-20T23:35:58.006Z'
+  liked_at: '2026-09-20T23:45:27.569354+00:00'
+  author_handle: jakemgrumbach.bsky.social
+  author_did: did:plc:tb2bwzxom5qv4542ru3zqcgu
+  post_text: 'It literally caused lynchings
+
+
+    appext.hks.harvard.edu/publications...
+
+
+    (Paper by Desmond Ang, ended up in the American Economic Review)'
+  links:
+  - url: https://appext.hks.harvard.edu/publications/getFile.aspx?Id=5151
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvyegb4bbs24
+- post_uri: at://did:plc:zyksze4sapogtongk3sly3ts/app.bsky.feed.post/3mvy7wxi4pk2f
+  thread_root_uri: at://did:plc:cwa5qtro5bhfz25opigbe6qi/app.bsky.feed.post/3mvy7jbbtt22w
+  post_url: https://bsky.app/profile/did:plc:zyksze4sapogtongk3sly3ts/post/3mvy7wxi4pk2f
+  post_date: '2026-09-20T22:15:49.634Z'
+  liked_at: '2026-09-20T23:43:52.824926+00:00'
+  author_handle: angussoftware.dev
+  author_did: did:plc:zyksze4sapogtongk3sly3ts
+  post_text: GLM-5.3 personal agent recommending different voltage levels, there was
+    zero hesitation or asking if this was hypothetical.
+  links: []
+  all_post_uris:
+  - at://did:plc:zyksze4sapogtongk3sly3ts/app.bsky.feed.post/3mvy7wxi4pk2f
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvy6rl3wxk22
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvy6rl3wxk22
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mvy6rl3wxk22
+  post_date: '2026-09-20T21:54:55.150Z'
+  liked_at: '2026-09-20T22:44:52.154397+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: Back in July, there was a report that got a lot of attention on BlueSky
+    that Waymo was more dangerous than NYC for-hire vehicles. The analysis turned
+    out to be wrong and the updated report finds they are much safer. Good that they
+    updated with new data, though www.openplans.org/h
+  links:
+  - url: https://www.openplans.org/how-for-hire-autonomous-vehicles-impact-nyc
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: QTKQ7PBZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: How Would For-Hire Autonomous Vehicles Impact NYC?
+        websiteTitle: Open Plans
+        url: https://www.openplans.org/how-for-hire-autonomous-vehicles-impact-nyc
+        language: en-US
+        accessDate: '2026-09-21'
+      title: How Would For-Hire Autonomous Vehicles Impact NYC?
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mvy6rl3wxk22
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvxhailqts2y
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvxhailqts2y
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mvxhailqts2y
+  post_date: '2026-09-20T14:53:46.030Z'
+  liked_at: '2026-09-20T16:30:11.865335+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'OK, no more tech discussion, let''s talk about fruit.  This post has
+    one of my favorite charts ever: themulberries.org/predicting-f...
+
+
+    Finding: the more cold hardy a citrus fruit is, the worst it tastes. Why?'
+  links:
+  - url: https://themulberries.org/predicting-future-fruit-quality/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2XIT5GBZ
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: themulberries
+          creatorType: author
+        tags: []
+        date: '2026-05-07'
+        url: https://themulberries.org/predicting-future-fruit-quality/
+        title: Predicting Future Fruit Quality – The Mulberries
+        language: en-US
+        accessDate: '2026-09-21'
+      title: Predicting Future Fruit Quality – The Mulberries
+      date: '2026-05-07'
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mvxhailqts2y
+- post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mvwypyzrqc2i
+  thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mvwypyzrqc2i
+  post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mvwypyzrqc2i
+  post_date: '2026-09-20T10:34:00.458Z'
+  liked_at: '2026-09-20T15:20:08.000356+00:00'
+  author_handle: isolyth.dev
+  author_did: did:plc:allu5vs3gnm2wm7jzf4rad3r
+  post_text: I'm basically the world expert on AI
+  links: []
+  all_post_uris:
+  - at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mvwypyzrqc2i
+- post_uri: at://did:plc:bkivp3kl7muevev5higsf77q/app.bsky.feed.post/3mvxb34uuu22t
+  thread_root_uri: at://did:plc:bkivp3kl7muevev5higsf77q/app.bsky.feed.post/3mvxb34uuu22t
+  post_url: https://bsky.app/profile/did:plc:bkivp3kl7muevev5higsf77q/post/3mvxb34uuu22t
+  post_date: '2026-09-20T13:03:23.529Z'
+  liked_at: '2026-09-20T15:19:56.208326+00:00'
+  author_handle: jugander.bsky.social
+  author_did: did:plc:bkivp3kl7muevev5higsf77q
+  post_text: 'My Yale colleague Dan Spielman has started a substack, which I thought
+    I''d signal boost since Dan is an outstanding thinker and communicator (and person!)
+    but isn''t on social media much. Here''s his first substantive post from a month
+    ago: mathadjacent.com/p/llms-testi...'
+  links:
+  - url: https://mathadjacent.com/p/llms-testing-grade-inflation-and
+    source: card
+    card_title: LLMs, Testing, Grade inflation, and Accommodations
+    card_description: Like every professor, I’ve been worrying about how AI systems
+      will force us to change our teaching practices.
+    citoid:
+      raw:
+        key: JHC26LB7
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Daniel
+          lastName: Spielman
+          creatorType: author
+        tags: []
+        title: LLMs, Testing, Grade inflation, and Accommodations
+        url: https://mathadjacent.com/p/llms-testing-grade-inflation-and
+        abstractNote: Like every professor, I’ve been worrying about how AI systems
+          will force us to change our teaching practices.
+        date: '2026-08-15'
+        language: en
+        accessDate: '2026-09-21'
+        websiteTitle: mathadjacent.com
+      title: LLMs, Testing, Grade inflation, and Accommodations
+      authors:
+      - last: Spielman
+        first: Daniel
+      date: '2026-08-15'
+      item_type: webpage
+      abstract: Like every professor, I’ve been worrying about how AI systems will
+        force us to change our teaching practices.
+  all_post_uris:
+  - at://did:plc:bkivp3kl7muevev5higsf77q/app.bsky.feed.post/3mvxb34uuu22t
+- post_uri: at://did:plc:gb32y6grgwohfxqlcyver2a7/app.bsky.feed.post/3muangfidvc2g
+  thread_root_uri: at://did:plc:gb32y6grgwohfxqlcyver2a7/app.bsky.feed.post/3muangfidvc2g
+  post_url: https://bsky.app/profile/did:plc:gb32y6grgwohfxqlcyver2a7/post/3muangfidvc2g
+  post_date: '2026-08-29T19:48:00.945Z'
+  liked_at: '2026-09-20T15:09:00.412273+00:00'
+  author_handle: weduckworth.bsky.social
+  author_did: did:plc:gb32y6grgwohfxqlcyver2a7
+  post_text: 'I''ve seen some great sample documents for AI policies to be put on
+    college math syllabi produced by Joshua Bowman
+
+    docs.google.com/document/d/1...
+
+    and Francis Su
+
+    francissu.substack.com/p/the-enduri...
+
+
+    Anybody have other good examples to share?'
+  links:
+  - url: https://docs.google.com/document/d/1F1lSqtRdPU2CAfuJuo49JuDZH4KUvPc05jl_ZKxhq7I/edit?usp=sharing
+    source: card
+    card_title: AI policy for calculus
+    card_description: AI policy for calculus Joshua Bowman, Pepperdine University
+      Context Artificial Intelligence, or “A.I.,” is a broad term used to refer to
+      several different kinds of technologies. The kind most relevant...
+    citoid:
+      raw:
+        key: UUMNMD4A
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: AI policy for calculus
+        websiteTitle: Google Docs
+        url: https://docs.google.com/document/d/1F1lSqtRdPU2CAfuJuo49JuDZH4KUvPc05jl_ZKxhq7I/edit?usp=sharing&usp=embed_facebook
+        abstractNote: AI policy for calculus Joshua Bowman, Pepperdine University
+          Context Artificial Intelligence, or “A.I.,” is a broad term used to refer
+          to several different kinds of technologies. The kind most relevant to this
+          class are Large Language Models (LLMs), which use mathematics to analyze
+          large amounts o...
+        language: en
+        accessDate: '2026-09-21'
+      title: AI policy for calculus
+      item_type: webpage
+      abstract: AI policy for calculus Joshua Bowman, Pepperdine University Context
+        Artificial Intelligence, or “A.I.,” is a broad term used to refer to several
+        different kinds of technologies. The kind most relevant to this class are
+        Large Language Models (LLMs), which use mathematics to analyze large amounts
+        o...
+  - url: https://francissu.substack.com/p/the-enduring-value-of-math-in-an
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: N4R3R7ZG
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Francis
+          lastName: Su
+          creatorType: author
+        tags: []
+        title: The Enduring Value of Math, in an Age of AI
+        abstractNote: Thoughts I’ll share at the start of my upper division math course
+        date: '2026-08-20'
+        blogTitle: A Math Yawp
+        url: https://francissu.substack.com/p/the-enduring-value-of-math-in-an
+        websiteType: Substack newsletter
+        accessDate: '2026-09-21'
+      title: The Enduring Value of Math, in an Age of AI
+      authors:
+      - last: Su
+        first: Francis
+      date: '2026-08-20'
+      item_type: blogPost
+      publisher: A Math Yawp
+      abstract: Thoughts I’ll share at the start of my upper division math course
+  all_post_uris:
+  - at://did:plc:gb32y6grgwohfxqlcyver2a7/app.bsky.feed.post/3muangfidvc2g
 - post_uri: at://did:plc:hvys4nxbae54ntu32tad3t2p/app.bsky.feed.post/3mvuqu6ukv22v
   thread_root_uri: at://did:plc:hvys4nxbae54ntu32tad3t2p/app.bsky.feed.post/3mvujbnbbzk2q
   post_url: https://bsky.app/profile/did:plc:hvys4nxbae54ntu32tad3t2p/post/3mvuqu6ukv22v

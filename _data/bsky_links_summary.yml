@@ -1,11 +1,11 @@
-entries_with_links: 2367
-total_links: 2906
-unique_domains: 971
+entries_with_links: 2372
+total_links: 2912
+unique_domains: 974
 top_domains:
 - domain: arxiv.org
   count: 239
 - domain: substack.com
-  count: 168
+  count: 169
 - domain: github.com
   count: 86
 - domain: simonwillison.net
@@ -31,7 +31,7 @@ top_accounts:
   count: 65
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
-  count: 36
+  count: 37
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 35
