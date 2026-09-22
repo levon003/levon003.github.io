@@ -1,3 +1,68 @@
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw2tsop42c2u
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw2tsop42c2u
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw2tsop42c2u
+  post_date: '2026-09-21T23:16:40.533Z'
+  liked_at: '2026-09-21T23:25:58.817727+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: Put together some notes on Jev and the new category of system one aka
+    decision models simonwillison.net/2026/Sep/21/...
+  links:
+  - url: https://simonwillison.net/2026/Sep/21/jev/
+    source: card
+    card_title: Jev introduces a new shape of LLM—System One, aka Decision Models
+    card_description: Last week TypeSafe AI unveiled Jev, their first example of a
+      new category of model that they are calling “System One models” (I’m with Maggie
+      Appleton, I think “decision models” …
+    citoid:
+      raw:
+        key: F77NNMQW
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: Jev introduces a new shape of LLM—System One, aka Decision Models
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Sep/21/jev/
+        abstractNote: Last week TypeSafe AI unveiled Jev, their first example of a
+          new category of model that they are calling “System One models” (I’m with
+          Maggie Appleton, I think “decision models” …
+        language: en-gb
+        accessDate: '2026-09-22'
+      title: Jev introduces a new shape of LLM—System One, aka Decision Models
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: Last week TypeSafe AI unveiled Jev, their first example of a new category
+        of model that they are calling “System One models” (I’m with Maggie Appleton,
+        I think “decision models” …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw2tsop42c2u
+- post_uri: at://did:plc:jkbwdtlb3kasunavk4btjdf5/app.bsky.feed.post/3moxkw7z66k2o
+  thread_root_uri: at://did:plc:jkbwdtlb3kasunavk4btjdf5/app.bsky.feed.post/3moxkw7z66k2o
+  post_url: https://bsky.app/profile/did:plc:jkbwdtlb3kasunavk4btjdf5/post/3moxkw7z66k2o
+  post_date: '2026-06-23T14:03:15.065Z'
+  liked_at: '2026-09-21T19:59:53.604672+00:00'
+  author_handle: patqdasilva.bsky.social
+  author_did: did:plc:jkbwdtlb3kasunavk4btjdf5
+  post_text: '🚩 AI-assisted scientific writing faces increasing scrutiny
+
+
+    Can human or LLM editing fix it?
+
+
+    👇 240k edits on scientific abstracts expose LLM writing flaws, and show that human
+    editing fails to fix them
+
+
+    cc Sanchaita Hazra, Doeun Lee, @shocheen.bsky.social, Bodhisattwa Prasad Maj'
+  links: []
+  all_post_uris:
+  - at://did:plc:jkbwdtlb3kasunavk4btjdf5/app.bsky.feed.post/3moxkw7z66k2o
 - post_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mvyegb4bbs24
   thread_root_uri: at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mvyd6e37nc25
   post_url: https://bsky.app/profile/did:plc:tb2bwzxom5qv4542ru3zqcgu/post/3mvyegb4bbs24
