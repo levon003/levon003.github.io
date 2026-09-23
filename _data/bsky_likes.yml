@@ -1,3 +1,421 @@
+- post_uri: at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mw4afdu52k2k
+  thread_root_uri: at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mw4afdu52k2k
+  post_url: https://bsky.app/profile/did:plc:pulwqklvmu4jhv7qc52wud47/post/3mw4afdu52k2k
+  post_date: '2026-09-22T12:34:31.338Z'
+  liked_at: '2026-09-23T06:06:37.031030+00:00'
+  author_handle: eatonphil.bsky.social
+  author_did: did:plc:pulwqklvmu4jhv7qc52wud47
+  post_text: Man there's no way to crash your reputation so quickly as an engineering
+    org as publishing obviously AI-written articles.
+  links: []
+  all_post_uris:
+  - at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mw4afdu52k2k
+- post_uri: at://did:web:bsky38.com/app.bsky.feed.post/3mw4uvc7zok2k
+  thread_root_uri: at://did:web:bsky38.com/app.bsky.feed.post/3mw4uvc7zok2k
+  post_url: https://bsky.app/profile/did:web:bsky38.com/post/3mw4uvc7zok2k
+  post_date: '2026-09-22T18:41:21.337Z'
+  liked_at: '2026-09-23T06:01:00.778069+00:00'
+  author_handle: bsky38.com
+  author_did: did:web:bsky38.com
+  post_text: 'Good afternoon, bsk38.com was a 2-week sociological study conducted
+    by Bluesky University. We are now complete with our study. Thank you for your
+    time.
+
+
+    But for real, congrats to @moara.bsky.social, @jamellebouie.net, @atrupar.com,
+    and all 38 influential Bluesky posters, as voted'
+  links:
+  - url: https://bsk38.com
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+    dead: true
+  all_post_uris:
+  - at://did:web:bsky38.com/app.bsky.feed.post/3mw4uvc7zok2k
+- post_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mw5rgmm2bk2k
+  thread_root_uri: at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mw5rgmm2bk2k
+  post_url: https://bsky.app/profile/did:plc:oisofpd7lj26yvgiivf3lxsi/post/3mw5rgmm2bk2k
+  post_date: '2026-09-23T03:12:07.414Z'
+  liked_at: '2026-09-23T05:57:22.601028+00:00'
+  author_handle: hailey.at
+  author_did: did:plc:oisofpd7lj26yvgiivf3lxsi
+  post_text: P(doom) - Nightcore Remix
+  links: []
+  all_post_uris:
+  - at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mw5rgmm2bk2k
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mw5elayqy2cr
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mw5elayqy2cr
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mw5elayqy2cr
+  post_date: '2026-09-22T23:22:04.374Z'
+  liked_at: '2026-09-23T05:15:01.824064+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: New animation from Opus 5.5!
+  links:
+  - url: https://x.com/other__reality/status/2102514581684052169?s=20
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/other__reality/status/2102514581684052169?s=20
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-09-22'
+        title: NotinReality (@other__reality) on X
+        abstractNote: Claude Opus 5.5 has the best visual design of any model I have
+          tested so far
+        accessDate: '2026-09-23'
+      title: NotinReality (@other__reality) on X
+      date: '2026-09-22'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: Claude Opus 5.5 has the best visual design of any model I have tested
+        so far
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mw5elayqy2cr
+- post_uri: at://did:plc:4t2ziwnnescprzorvmrfduey/app.bsky.feed.post/3mw5gubh7ds25
+  thread_root_uri: at://did:plc:4t2ziwnnescprzorvmrfduey/app.bsky.feed.post/3mw5ahyrhrk22
+  post_url: https://bsky.app/profile/did:plc:4t2ziwnnescprzorvmrfduey/post/3mw5gubh7ds25
+  post_date: '2026-09-23T00:02:54.320Z'
+  liked_at: '2026-09-23T03:30:13.736002+00:00'
+  author_handle: sarahjeong.bsky.social
+  author_did: did:plc:4t2ziwnnescprzorvmrfduey
+  post_text: girl dinner
+  links: []
+  all_post_uris:
+  - at://did:plc:4t2ziwnnescprzorvmrfduey/app.bsky.feed.post/3mw5gubh7ds25
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw5g6izoms2n
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw5g6izoms2n
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw5g6izoms2n
+  post_date: '2026-09-22T23:50:44.072Z'
+  liked_at: '2026-09-23T01:54:53.635433+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: Big model release today - I wrote about Claude Opus 5.5, GPT-6 Sol, and
+    GPT-6 Luna - plus comparison grids of pelicans by the different model families
+    at different reasoning levels simonwillison.net/2026/Sep/22/...
+  links:
+  - url: https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
+    source: card
+    card_title: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war
+    card_description: Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more
+      pelicans). Today Anthropic released Claude Opus 5.5, and around an hour later
+      OpenAI released GPT-6 Sol and GPT-6 Luna. It’s …
+    citoid:
+      raw:
+        key: 4CYRT248
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/
+        abstractNote: Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more
+          pelicans). Today Anthropic released Claude Opus 5.5, and around an hour
+          later OpenAI released GPT-6 Sol and GPT-6 Luna. It’s …
+        language: en-gb
+        accessDate: '2026-09-23'
+      title: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans).
+        Today Anthropic released Claude Opus 5.5, and around an hour later OpenAI
+        released GPT-6 Sol and GPT-6 Luna. It’s …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw5g6izoms2n
+- post_uri: at://did:plc:i4tuim5btxgzc3wnig3m7o2h/app.bsky.feed.post/3mvnizovtp22v
+  thread_root_uri: at://did:plc:i4tuim5btxgzc3wnig3m7o2h/app.bsky.feed.post/3mvnizovtp22v
+  post_url: https://bsky.app/profile/did:plc:i4tuim5btxgzc3wnig3m7o2h/post/3mvnizovtp22v
+  post_date: '2026-09-16T15:59:07.875Z'
+  liked_at: '2026-09-23T00:11:37.934804+00:00'
+  author_handle: econimate.bsky.social
+  author_did: did:plc:i4tuim5btxgzc3wnig3m7o2h
+  post_text: 'How polluted is U.S. drinking water?
+
+
+    From @davidkeiserecon.bsky.social (Yale), @bhashmazumder.bsky.social (@ucirvine.bsky.social),
+    @davidmolitor.bsky.social (@giesbusiness.bsky.social) & @joseph-s-shapiro.bsky.social
+    (@ucberkeleyofficial.bsky.social):
+
+
+    youtu.be/HkDebSfreZ0'
+  links:
+  - url: https://youtu.be/HkDebSfreZ0
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BIF4RTBE
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: econimate
+          creatorType: author
+        tags: []
+        title: Safe Drinking Water in America
+        url: https://www.youtube.com/watch?v=HkDebSfreZ0
+        runningTime: '7:2'
+        date: '2026-09-16'
+        abstractNote: 'David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S.
+          Shapiro. 2026. “Water Works: Causes and Consequences of Safe Drinking Water
+          in America.” Working...'
+        libraryCatalog: YouTube
+        accessDate: '2026-09-23'
+      title: Safe Drinking Water in America
+      date: '2026-09-16'
+      item_type: videoRecording
+      abstract: 'David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S. Shapiro.
+        2026. “Water Works: Causes and Consequences of Safe Drinking Water in America.”
+        Working...'
+  all_post_uris:
+  - at://did:plc:i4tuim5btxgzc3wnig3m7o2h/app.bsky.feed.post/3mvnizovtp22v
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mw52nhjlxk2d
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mw52nhjlxk2d
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mw52nhjlxk2d
+  post_date: '2026-09-22T20:24:20.910Z'
+  liked_at: '2026-09-22T22:02:39.199976+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: Models like Talkie-1930 sound like voices from the past. If they could
+    reliably speak from specified historical vantage points, researchers might also
+    use them to simulate the past. But how reliable are they? Today we release a benchmark
+    answering that question for English contex
+  links:
+  - url: https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 7UQVYAH3
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Benjamin
+          lastName: Breen
+          creatorType: author
+        tags: []
+        title: Are "Vintage LLMs" the start of a new humanistic field?
+        abstractNote: Thoughts on Historical Language Models and Talkie-1930
+        date: '2026-04-29'
+        blogTitle: Res Obscura
+        url: https://resobscura.substack.com/p/are-vintage-llms-the-start-of-a-new
+        websiteType: Substack newsletter
+        accessDate: '2026-09-23'
+      title: Are "Vintage LLMs" the start of a new humanistic field?
+      authors:
+      - last: Breen
+        first: Benjamin
+      date: '2026-04-29'
+      item_type: blogPost
+      publisher: Res Obscura
+      abstract: Thoughts on Historical Language Models and Talkie-1930
+  - url: https://historical-ai-lab.github.io/Chronologic-EN/
+    source: thread
+    card_title: 'Chronologic-EN: how well can language models represent the past?'
+    card_description: A benchmark for how well language models ventriloquize English-language
+      contexts across the century from 1831 to 1930.
+    citoid:
+      raw:
+        key: E48TH6VN
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Ted
+          lastName: Underwood
+          creatorType: author
+        - firstName: Ziliang
+          lastName: Qiu
+          creatorType: author
+        - firstName: Sarah
+          lastName: Griebel
+          creatorType: author
+        - firstName: Laura K.
+          lastName: Nelson
+          creatorType: author
+        - firstName: Edwin
+          lastName: Roland
+          creatorType: author
+        - firstName: Wenyi
+          lastName: Shang
+          creatorType: author
+        - firstName: Matthew Wilkens ·
+          lastName: September 2026
+          creatorType: author
+        tags: []
+        title: 'Chronologic-EN: how well can language models represent the past?'
+        abstractNote: A benchmark for how well language models ventriloquize English-language
+          contexts across the century from 1831 to 1930.
+        url: https://historical-ai-lab.github.io/Chronologic-EN/
+        language: en
+        accessDate: '2026-09-23'
+        shortTitle: Chronologic-EN
+        websiteTitle: historical-ai-lab.github.io
+      title: 'Chronologic-EN: how well can language models represent the past?'
+      authors:
+      - last: Underwood
+        first: Ted
+      - last: Qiu
+        first: Ziliang
+      - last: Griebel
+        first: Sarah
+      - last: Nelson
+        first: Laura K.
+      - last: Roland
+        first: Edwin
+      - last: Shang
+        first: Wenyi
+      - last: September 2026
+        first: Matthew Wilkens ·
+      item_type: webpage
+      abstract: A benchmark for how well language models ventriloquize English-language
+        contexts across the century from 1831 to 1930.
+  - url: https://arxiv.org/abs/2609.23178
+    source: thread
+    card_title: 'Chronologic: Measuring Language Models'' Ability to Represent the
+      Past'
+    card_description: Language models are appealing tools for research on the past.
+      But to trust the evidence a model provides, researchers need to know whether
+      its responses fit the period represented. Validation is chall...
+    citoid:
+      raw:
+        key: T883VX43
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Ted
+          lastName: Underwood
+          creatorType: author
+        - firstName: Ziliang
+          lastName: Qiu
+          creatorType: author
+        - firstName: Sarah
+          lastName: Griebel
+          creatorType: author
+        - firstName: Laura K.
+          lastName: Nelson
+          creatorType: author
+        - firstName: Edwin
+          lastName: Roland
+          creatorType: author
+        - firstName: Wenyi
+          lastName: Shang
+          creatorType: author
+        - firstName: Matthew
+          lastName: Wilkens
+          creatorType: author
+        tags:
+        - tag: Computation and Language (cs.CL)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: 'Chronologic: Measuring Language Models'' Ability to Represent the
+          Past'
+        repository: arXiv
+        date: '2026-09-22'
+        DOI: 10.48550/ARXIV.2609.23178
+        url: https://arxiv.org/abs/2609.23178
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Language models are appealing tools for research on the past.
+          But to trust the evidence a model provides, researchers need to know whether
+          its responses fit the period represented. Validation is challenging, because
+          this is not a task living people ordinarily perform, and because many questions
+          have multiple correct answers. We use historical texts to develop a benchmark
+          for a model's representation of English-language contexts 1831-1930, relying
+          on pairwise comparisons to multiple ground truths and strong distractors
+          to score the hardest questions in an appropriately graduated way. We find
+          that generative tasks are harder than discriminative ones; in fact, reasoning
+          models can typically discern the weakness of their own generated answers.
+          While models pretrained exclusively on historical text lead the pack when
+          evaluated by answer likelihood, they cannot compete with commercial models
+          in free generation. None of the models we tested represent historical contexts
+          in a fully persuasive way yet, but progress toward that goal is evident.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-09-23'
+        shortTitle: Chronologic
+      title: 'Chronologic: Measuring Language Models'' Ability to Represent the Past'
+      authors:
+      - last: Underwood
+        first: Ted
+      - last: Qiu
+        first: Ziliang
+      - last: Griebel
+        first: Sarah
+      - last: Nelson
+        first: Laura K.
+      - last: Roland
+        first: Edwin
+      - last: Shang
+        first: Wenyi
+      - last: Wilkens
+        first: Matthew
+      date: '2026-09-22'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2609.23178
+      publisher: arXiv
+      abstract: Language models are appealing tools for research on the past. But
+        to trust the evidence a model provides, researchers need to know whether its
+        responses fit the period represented. Validation is challenging, because this
+        is not a task living people ordinarily perform, and because many questions
+        have multiple correct answers. We use historical texts to develop a benchmark
+        for a model's representation of English-language contexts 1831-1930, relying
+        on pairwise comparisons to multiple ground truths and strong distractors to
+        score the hardest questions in an appropriately graduated way. We find that
+        generative tasks are harder than discriminative ones; in fact, reasoning models
+        can typically discern the weakness of their own generated answers. While models
+        pretrained exclusively on historical text lead the pack when evaluated by
+        answer likelihood, they cannot compete with commercial models in free generation.
+        None of the models we tested represent historical contexts in a fully persuasive
+        way yet, but progress toward that goal is evident.
+  - url: https://github.com/Historical-AI-Lab/Chronologic-EN/tree/main
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: VGE3QFIT
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/Historical-AI-Lab/Chronologic-EN
+        title: Historical-AI-Lab/Chronologic-EN
+        libraryCatalog: GitHub
+        programmingLanguage: Jupyter Notebook
+        extra: 'original-date: 2026-09-17T18:21:25Z'
+        date: '2026-09-22'
+        rights: MIT
+        company: Historical AI Lab
+        accessDate: '2026-09-23'
+      title: Historical-AI-Lab/Chronologic-EN
+      date: '2026-09-22'
+      item_type: computerProgram
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mw52nhjlxk2d
+- post_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mw4z67evic2j
+  thread_root_uri: at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mw4z67evic2j
+  post_url: https://bsky.app/profile/did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/post/3mw4z67evic2j
+  post_date: '2026-09-22T19:57:55.309Z'
+  liked_at: '2026-09-22T20:25:23.740795+00:00'
+  author_handle: dmimno.bsky.social
+  author_did: did:plc:z2bg7yzpjr5bgfnzxmgcmyvw
+  post_text: It's possible for Jev/Laya/Decision Models to be not that big a deal
+    as tech and massive as a new paradigm. Here's why I'm really excited from an NLP
+    history perspective (thread)
+  links: []
+  all_post_uris:
+  - at://did:plc:z2bg7yzpjr5bgfnzxmgcmyvw/app.bsky.feed.post/3mw4z67evic2j
 - post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw2tsop42c2u
   thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mw2tsop42c2u
   post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mw2tsop42c2u
