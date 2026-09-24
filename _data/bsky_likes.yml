@@ -1,3 +1,325 @@
+- post_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mwae5bfeak2z
+  thread_root_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mwae5bfeak2z
+  post_url: https://bsky.app/profile/did:plc:nbfjoeficjzf3pejpontvril/post/3mwae5bfeak2z
+  post_date: '2026-09-24T03:52:14.238Z'
+  liked_at: '2026-09-24T05:02:52.223240+00:00'
+  author_handle: astrra.space
+  author_did: did:plc:nbfjoeficjzf3pejpontvril
+  post_text: do you ever just get messages like this out of nowhere
+  links: []
+  all_post_uris:
+  - at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mwae5bfeak2z
+- post_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mwacg6n3s22y
+  thread_root_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mwacg6n3s22y
+  post_url: https://bsky.app/profile/did:plc:s5zwyygnkcdgblepvwused47/post/3mwacg6n3s22y
+  post_date: '2026-09-24T03:21:25.856Z'
+  liked_at: '2026-09-24T04:26:34.742211+00:00'
+  author_handle: elucidating.extradimensional.space
+  author_did: did:plc:s5zwyygnkcdgblepvwused47
+  post_text: "Last night a professor I know was upset because their students pushed\
+    \ back on the \"absurd amount of reading\" her class requires.\n\nI offered to\
+    \ test the assignment. I read half the assignment in ~60 minutes with the TV on.\
+    \ I finished the rest of it during lunch. \n\nI'm sort of terr"
+  links: []
+  all_post_uris:
+  - at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mwacg6n3s22y
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mw7nyu257c2t
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mw7k6hzuzc2b
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mw7nyu257c2t
+  post_date: '2026-09-23T21:16:03.706Z'
+  liked_at: '2026-09-24T03:19:03.493239+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: they're deliberately programming free money glitches into the game and
+    they can't convince the smartest models in the world to use them. Zero dog. It
+    automatically knows it's supposed to only make a normal number of paperclips.
+  links:
+  - url: https://andonlabs.com/evals/vending-bench-2
+    source: thread
+    card_title: Vending-Bench 2 | Andon Labs
+    card_description: We're releasing Vending-Bench 2, a benchmark for measuring AI
+      model performance on running a business over long time horizons. Models are
+      tasked with running a simulated vending machine business over ...
+    citoid:
+      raw:
+        key: G7F3PBVW
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Vending-Bench 2 | Andon Labs
+        url: https://andonlabs.com/evals/vending-bench-2
+        abstractNote: We're releasing Vending-Bench 2, a benchmark for measuring AI
+          model performance on running a business over long time horizons. Models
+          are tasked with running a simulated vending machine business over a year
+          and scored on their bank account balance at the end.
+        language: en
+        accessDate: '2026-09-24'
+        websiteTitle: andonlabs.com
+      title: Vending-Bench 2 | Andon Labs
+      item_type: webpage
+      abstract: We're releasing Vending-Bench 2, a benchmark for measuring AI model
+        performance on running a business over long time horizons. Models are tasked
+        with running a simulated vending machine business over a year and scored on
+        their bank account balance at the end.
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mw7nyu257c2t
+- post_uri: at://did:plc:r2whjvupgfw55mllpksnombn/app.bsky.feed.post/3mwa5suifns26
+  thread_root_uri: at://did:plc:r2whjvupgfw55mllpksnombn/app.bsky.feed.post/3mwa5suifns26
+  post_url: https://bsky.app/profile/did:plc:r2whjvupgfw55mllpksnombn/post/3mwa5suifns26
+  post_date: '2026-09-24T01:59:02.712Z'
+  liked_at: '2026-09-24T03:06:25.108306+00:00'
+  author_handle: austegard.com
+  author_did: did:plc:r2whjvupgfw55mllpksnombn
+  post_text: 'well... this is certainly ...something
+
+
+    I asked Claude for an imaginative use of Jev, it rolled a random dictionary dice
+    and came up with the word "hymnal" - from which it decided to create this music
+    video - Jev is picking (real time) from a set of chords Claude created, based
+    o'
+  links:
+  - url: https://github.com/oaustegard/experiments/blob/main/jev-hymnal/RESULTS.md
+    source: thread
+    card_title: experiments/jev-hymnal/RESULTS.md at main · oaustegard/experiments
+    card_description: Random vibe-experiments. Contribute to oaustegard/experiments
+      development by creating an account on GitHub.
+    citoid:
+      raw:
+        key: EK38DVET
+        version: 0
+        itemType: webpage
+        creators:
+        - name: oaustegard
+          creatorType: author
+        tags: []
+        title: experiments/jev-hymnal/RESULTS.md at main · oaustegard/experiments
+        websiteTitle: GitHub
+        url: https://github.com/oaustegard/experiments/blob/main/jev-hymnal/RESULTS.md
+        abstractNote: Random vibe-experiments. Contribute to oaustegard/experiments
+          development by creating an account on GitHub.
+        language: en
+        accessDate: '2026-09-24'
+      title: experiments/jev-hymnal/RESULTS.md at main · oaustegard/experiments
+      item_type: webpage
+      abstract: Random vibe-experiments. Contribute to oaustegard/experiments development
+        by creating an account on GitHub.
+  all_post_uris:
+  - at://did:plc:r2whjvupgfw55mllpksnombn/app.bsky.feed.post/3mwa5suifns26
+- post_uri: at://did:plc:jdum3zo5iqmx4gcnt5vuy7s4/app.bsky.feed.post/3mw637gbcr223
+  thread_root_uri: at://did:plc:jdum3zo5iqmx4gcnt5vuy7s4/app.bsky.feed.post/3mw637gbcr223
+  post_url: https://bsky.app/profile/did:plc:jdum3zo5iqmx4gcnt5vuy7s4/post/3mw637gbcr223
+  post_date: '2026-09-23T06:07:03.309Z'
+  liked_at: '2026-09-24T01:33:26.550194+00:00'
+  author_handle: mikeyass.bsky.social
+  author_did: did:plc:jdum3zo5iqmx4gcnt5vuy7s4
+  post_text: incredible progress in the field of AI
+  links: []
+  all_post_uris:
+  - at://did:plc:jdum3zo5iqmx4gcnt5vuy7s4/app.bsky.feed.post/3mw637gbcr223
+- post_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mw7iuvq3mk2o
+  thread_root_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mw7iuvq3mk2o
+  post_url: https://bsky.app/profile/did:plc:oxaernim5mj2mmy3ytrvb42n/post/3mw7iuvq3mk2o
+  post_date: '2026-09-23T19:44:22.545Z'
+  liked_at: '2026-09-23T22:12:10.145194+00:00'
+  author_handle: minimaxir.bsky.social
+  author_did: did:plc:oxaernim5mj2mmy3ytrvb42n
+  post_text: Anthropic just posted a write up on how they made the Claude frontend
+    faster which legit coincidentally uses the same agentic optimization techniques
+    as described in the blog post.
+  links:
+  - url: https://claude.dev/blog/how-we-made-claude-ai-faster/
+    source: card
+    card_title: How we made claude.ai 3x faster in two weeks / claude.dev
+    card_description: 'Inside our performance sprint: the benchmarks Claude built,
+      the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes
+      safely.'
+    citoid:
+      raw:
+        key: PY8NLRB9
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Raymond
+          lastName: Wang
+          creatorType: author
+        - firstName: Sam
+          lastName: Attard
+          creatorType: author
+        - firstName: Issac
+          lastName: G
+          creatorType: author
+        tags: []
+        title: How we made claude.ai 3x faster in two weeks / claude.dev
+        date: '2026-09-23'
+        url: https://claude.dev/blog/how-we-made-claude-ai-faster/
+        abstractNote: 'Inside our performance sprint: the benchmarks Claude built,
+          the loop each Slack thread ran, and the guardrails that let us ship 3,000
+          changes safely.'
+        language: en
+        accessDate: '2026-09-24'
+        websiteTitle: claude.dev
+      title: How we made claude.ai 3x faster in two weeks / claude.dev
+      authors:
+      - last: Wang
+        first: Raymond
+      - last: Attard
+        first: Sam
+      - last: G
+        first: Issac
+      date: '2026-09-23'
+      item_type: webpage
+      abstract: 'Inside our performance sprint: the benchmarks Claude built, the loop
+        each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.'
+  all_post_uris:
+  - at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mw7iuvq3mk2o
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mw7nfpde7k26
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mw7nfpde7k26
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mw7nfpde7k26
+  post_date: '2026-09-23T21:05:21.231Z'
+  liked_at: '2026-09-23T22:03:40.425161+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: Well well well www.skild.ai/blogs/physic...
+  links:
+  - url: https://www.skild.ai/blogs/physical-self-play
+    source: card
+    card_title: Physical Self-Play
+    card_description: 'A breakthrough post-training result for physical AI via self-play:
+      a strong base model like S1 can learn to complete extremely dexterous and dynamic
+      tasks, like soccer, by competing against itself in ...'
+    citoid:
+      raw:
+        key: LZBHS9PD
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Skild
+          lastName: Team
+          creatorType: author
+        tags: []
+        title: Physical Self-Play
+        date: '2026-09-23'
+        abstractNote: 'A breakthrough post-training result for physical AI via self-play:
+          a strong base model like S1 can learn to complete extremely dexterous and
+          dynamic tasks, like soccer, by competing against itself in a simulation.'
+        url: https://www.skild.ai/blogs/physical-self-play
+        language: en
+        accessDate: '2026-09-24'
+        websiteTitle: www.skild.ai
+      title: Physical Self-Play
+      authors:
+      - last: Team
+        first: Skild
+      date: '2026-09-23'
+      item_type: webpage
+      abstract: 'A breakthrough post-training result for physical AI via self-play:
+        a strong base model like S1 can learn to complete extremely dexterous and
+        dynamic tasks, like soccer, by competing against itself in a simulation.'
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mw7nfpde7k26
+- post_uri: at://did:plc:athozkmjt2lpo3gfkwvz3kze/app.bsky.feed.post/3mw7222nunc2o
+  thread_root_uri: at://did:plc:athozkmjt2lpo3gfkwvz3kze/app.bsky.feed.post/3mw7222nunc2o
+  post_url: https://bsky.app/profile/did:plc:athozkmjt2lpo3gfkwvz3kze/post/3mw7222nunc2o
+  post_date: '2026-09-23T15:18:49.361Z'
+  liked_at: '2026-09-23T18:00:18.715160+00:00'
+  author_handle: zephoria.bsky.social
+  author_did: did:plc:athozkmjt2lpo3gfkwvz3kze
+  post_text: 'It''s the end of an era. The Social Media Collective is shutting down.
+    Thanks to everyone who was a part of this crazy endeavor, but especially @nancybaym.bsky.social,
+    Tarleton Gillespie, and @marylgray.bsky.social. I adore you all!
+
+
+    socialmediacollective.org/2026/09/23/s...'
+  links:
+  - url: https://socialmediacollective.org/2026/09/23/smc-closes/
+    source: card
+    card_title: The Social Media Collective Comes to a Close
+    card_description: It is with both celebration and sadness that we announce that
+      the Social Media Collective, our research team of critical, humanistic social
+      sciences at Microsoft Research’s New England lab, is comi…
+    citoid:
+      raw:
+        key: 5UQ8HXZ6
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Social Media
+          lastName: Collective
+          creatorType: author
+        tags: []
+        title: The Social Media Collective Comes to a Close
+        blogTitle: Social Media Collective
+        date: '2026-09-23'
+        url: https://socialmediacollective.org/2026/09/23/smc-closes/
+        abstractNote: It is with both celebration and sadness that we announce that
+          the Social Media Collective, our research team of critical, humanistic social
+          sciences at Microsoft Research’s New England lab, is comi…
+        language: en
+        accessDate: '2026-09-24'
+      title: The Social Media Collective Comes to a Close
+      authors:
+      - last: Collective
+        first: Social Media
+      date: '2026-09-23'
+      item_type: blogPost
+      publisher: Social Media Collective
+      abstract: It is with both celebration and sadness that we announce that the
+        Social Media Collective, our research team of critical, humanistic social
+        sciences at Microsoft Research’s New England lab, is comi…
+  all_post_uris:
+  - at://did:plc:athozkmjt2lpo3gfkwvz3kze/app.bsky.feed.post/3mw7222nunc2o
+- post_uri: at://did:plc:k3i3d2xfibssxz2lbm45x54o/app.bsky.feed.post/3mw6y7kxof22g
+  thread_root_uri: at://did:plc:k3i3d2xfibssxz2lbm45x54o/app.bsky.feed.post/3mw6y7kxof22g
+  post_url: https://bsky.app/profile/did:plc:k3i3d2xfibssxz2lbm45x54o/post/3mw6y7kxof22g
+  post_date: '2026-09-23T14:46:06.740Z'
+  liked_at: '2026-09-23T15:21:00.237191+00:00'
+  author_handle: joshgondelman.bsky.social
+  author_did: did:plc:k3i3d2xfibssxz2lbm45x54o
+  post_text: I came up with some more inane bullshit for everyone to argue about!
+  links: []
+  all_post_uris:
+  - at://did:plc:k3i3d2xfibssxz2lbm45x54o/app.bsky.feed.post/3mw6y7kxof22g
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mw6s5mchdk2x
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mw6s5mchdk2x
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3mw6s5mchdk2x
+  post_date: '2026-09-23T12:57:38.586Z'
+  liked_at: '2026-09-23T15:08:18.889189+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: i love walking past an iconic cartoon death opportunity. city management
+    is all about minimizing such events so it's a little refreshing to see one so
+    thoroughly unguarded
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mw6s5mchdk2x
+- post_uri: at://did:plc:gyniebpoewfxhiat54i2jbnt/app.bsky.feed.post/3muwvtks75c2f
+  thread_root_uri: at://did:plc:gyniebpoewfxhiat54i2jbnt/app.bsky.feed.post/3muwvtks75c2f
+  post_url: https://bsky.app/profile/did:plc:gyniebpoewfxhiat54i2jbnt/post/3muwvtks75c2f
+  post_date: '2026-09-07T16:17:06.898Z'
+  liked_at: '2026-09-23T14:51:36.837134+00:00'
+  author_handle: stfj.net
+  author_did: did:plc:gyniebpoewfxhiat54i2jbnt
+  post_text: 'Ok im gonna say something here that is going to draw a lot of different
+    feelings from everyone, and I want to be clear i''m not "in support of this" or
+    "against it". i''m just saying it as an observation that seems true to me:
+
+
+    I think with the latest frontier LLMs, the “music” era'
+  links: []
+  all_post_uris:
+  - at://did:plc:gyniebpoewfxhiat54i2jbnt/app.bsky.feed.post/3muwvtks75c2f
+- post_uri: at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mw5biicack27
+  thread_root_uri: at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mw5biicack27
+  post_url: https://bsky.app/profile/did:plc:butcwdww4sfcby62r3q6ixag/post/3mw5biicack27
+  post_date: '2026-09-22T22:26:50.100135Z'
+  liked_at: '2026-09-23T14:43:26.423167+00:00'
+  author_handle: blockedforthispost.bsky.social
+  author_did: did:plc:butcwdww4sfcby62r3q6ixag
+  post_text: heyyyyyyyyy *snuggles up to you*
+  links: []
+  all_post_uris:
+  - at://did:plc:butcwdww4sfcby62r3q6ixag/app.bsky.feed.post/3mw5biicack27
 - post_uri: at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mw4afdu52k2k
   thread_root_uri: at://did:plc:pulwqklvmu4jhv7qc52wud47/app.bsky.feed.post/3mw4afdu52k2k
   post_url: https://bsky.app/profile/did:plc:pulwqklvmu4jhv7qc52wud47/post/3mw4afdu52k2k
