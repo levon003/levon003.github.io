@@ -1,3 +1,263 @@
+- post_uri: at://did:plc:4jjekvbxopsdtmezsmycpveb/app.bsky.feed.post/3mwcoagf6ac2o
+  thread_root_uri: at://did:plc:4jjekvbxopsdtmezsmycpveb/app.bsky.feed.post/3mwcoagf6ac2o
+  post_url: https://bsky.app/profile/did:plc:4jjekvbxopsdtmezsmycpveb/post/3mwcoagf6ac2o
+  post_date: '2026-09-25T01:58:17.038Z'
+  liked_at: '2026-09-25T06:50:30.343421+00:00'
+  author_handle: bluespacecanary.bsky.social
+  author_did: did:plc:4jjekvbxopsdtmezsmycpveb
+  post_text: the way some people LLMs baffles me. like, just ending out whatever their
+    agent shit out with maybe a bit of cursory spot-checking, zero professional embarrassment
+    when it turns out to be garbage
+  links: []
+  all_post_uris:
+  - at://did:plc:4jjekvbxopsdtmezsmycpveb/app.bsky.feed.post/3mwcoagf6ac2o
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwc7qa2kcc2c
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwc7qa2kcc2c
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3mwc7qa2kcc2c
+  post_date: '2026-09-24T21:38:41.142Z'
+  liked_at: '2026-09-25T06:46:41.045515+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: At 45k followers I will reveal exactly what terminology correctly carves
+    AI at its joints.
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwc7qa2kcc2c
+- post_uri: at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mwcosi4e3c2o
+  thread_root_uri: at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mwcosi4e3c2o
+  post_url: https://bsky.app/profile/did:plc:klhtmrnregub7we7h6jwiljm/post/3mwcosi4e3c2o
+  post_date: '2026-09-25T02:08:22.826Z'
+  liked_at: '2026-09-25T06:43:58.082515+00:00'
+  author_handle: ed3d.net
+  author_did: did:plc:klhtmrnregub7we7h6jwiljm
+  post_text: when it comes to LLMs, I have been trying to beat the technician/expert
+    drum. LLMs are becoming master technicians, but they obviously lack integrative
+    capabilities to deploy expertise. but I'm starting to realize that a lot of people
+    don't understand, or don't value the differen
+  links:
+  - url: https://staffeng.com
+    source: thread
+    card_title: 'Staff Engineer: Leadership beyond the management track'
+    card_description: ''
+    citoid:
+      raw:
+        key: 3TVHF9J6
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: map[name:Will
+          lastName: Larson
+          creatorType: author
+        tags: []
+        title: 'Staff Engineer: Leadership beyond the management track'
+        websiteTitle: 'Staff Engineer: Leadership beyond the management track'
+        url: https://staffeng.com/
+        language: en-us
+        accessDate: '2026-09-25'
+        shortTitle: Staff Engineer
+      title: 'Staff Engineer: Leadership beyond the management track'
+      authors:
+      - last: Larson
+        first: map[name:Will
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mwcosi4e3c2o
+- post_uri: at://did:plc:3e5gk56m3bbo3wf6p7pquzwj/app.bsky.feed.post/3mwcusuxp7u2t
+  thread_root_uri: at://did:plc:3e5gk56m3bbo3wf6p7pquzwj/app.bsky.feed.post/3mwcusuxp7u2t
+  post_url: https://bsky.app/profile/did:plc:3e5gk56m3bbo3wf6p7pquzwj/post/3mwcusuxp7u2t
+  post_date: '2026-09-25T03:55:58.755Z'
+  liked_at: '2026-09-25T05:33:50.662517+00:00'
+  author_handle: lauraknelson.bsky.social
+  author_did: did:plc:3e5gk56m3bbo3wf6p7pquzwj
+  post_text: You are talking to a bright, eager undergraduate student in CS. They
+    are convinced that scientific reasoning is not socially/culturally conditioned.
+    That is, the scientific method is the scientific method, whether it's 2026 Canada
+    or 1850 China. What would you recommend they read
+  links: []
+  all_post_uris:
+  - at://did:plc:3e5gk56m3bbo3wf6p7pquzwj/app.bsky.feed.post/3mwcusuxp7u2t
+- post_uri: at://did:plc:yx2zvduuqgb5va7imdicx2ij/app.bsky.feed.post/3mvlcxswhhk2n
+  thread_root_uri: at://did:plc:yx2zvduuqgb5va7imdicx2ij/app.bsky.feed.post/3mvlcxswhhk2n
+  post_url: https://bsky.app/profile/did:plc:yx2zvduuqgb5va7imdicx2ij/post/3mvlcxswhhk2n
+  post_date: '2026-09-15T19:05:23.054Z'
+  liked_at: '2026-09-25T02:26:19.545556+00:00'
+  author_handle: bentarnoff.com
+  author_did: did:plc:yx2zvduuqgb5va7imdicx2ij
+  post_text: I took the bait and blogged on pacing, frontiers, AI, "the left" bentarnoff.substack.com/p/on-the-pac...
+  links:
+  - url: https://bentarnoff.substack.com/p/on-the-pacing-of-frontiers
+    source: card
+    card_title: On the pacing of frontiers
+    card_description: Everybody’s talking about “pacing the frontier.” A funny phrase.
+    citoid:
+      raw:
+        key: HW84DYMQ
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Ben
+          lastName: Tarnoff
+          creatorType: author
+        tags: []
+        title: On the pacing of frontiers
+        abstractNote: Everybody’s talking about “pacing the frontier.” A funny phrase.
+        date: '2026-09-15'
+        blogTitle: Metal Machine Music by Ben Tarnoff
+        url: https://bentarnoff.substack.com/p/on-the-pacing-of-frontiers
+        websiteType: Substack newsletter
+        accessDate: '2026-09-25'
+      title: On the pacing of frontiers
+      authors:
+      - last: Tarnoff
+        first: Ben
+      date: '2026-09-15'
+      item_type: blogPost
+      publisher: Metal Machine Music by Ben Tarnoff
+      abstract: Everybody’s talking about “pacing the frontier.” A funny phrase.
+  all_post_uris:
+  - at://did:plc:yx2zvduuqgb5va7imdicx2ij/app.bsky.feed.post/3mvlcxswhhk2n
+- post_uri: at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3mwchwedwm22u
+  thread_root_uri: at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3mwchwedwm22u
+  post_url: https://bsky.app/profile/did:plc:gttrfs4hfmrclyxvwkwcgpj7/post/3mwchwedwm22u
+  post_date: '2026-09-25T00:05:16.905Z'
+  liked_at: '2026-09-25T01:56:39.926388+00:00'
+  author_handle: aparker.io
+  author_did: did:plc:gttrfs4hfmrclyxvwkwcgpj7
+  post_text: i told opus to remix the pdoom video and take liberties
+  links: []
+  all_post_uris:
+  - at://did:plc:gttrfs4hfmrclyxvwkwcgpj7/app.bsky.feed.post/3mwchwedwm22u
+- post_uri: at://did:plc:wmzynryvf7dhxeimg3l6lr2c/app.bsky.feed.post/3mwbun3xzvc2s
+  thread_root_uri: at://did:plc:wmzynryvf7dhxeimg3l6lr2c/app.bsky.feed.post/3mwbun3xzvc2s
+  post_url: https://bsky.app/profile/did:plc:wmzynryvf7dhxeimg3l6lr2c/post/3mwbun3xzvc2s
+  post_date: '2026-09-24T18:20:05.039Z'
+  liked_at: '2026-09-24T23:05:40.164468+00:00'
+  author_handle: migueldeicaza.bsky.social
+  author_did: did:plc:wmzynryvf7dhxeimg3l6lr2c
+  post_text: From twitter bad_pote
+  links: []
+  all_post_uris:
+  - at://did:plc:wmzynryvf7dhxeimg3l6lr2c/app.bsky.feed.post/3mwbun3xzvc2s
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mwbe4vav7s2v
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mwbe4vav7s2v
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mwbe4vav7s2v
+  post_date: '2026-09-24T13:24:41.246Z'
+  liked_at: '2026-09-24T13:45:25.138382+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: Slop papers can be filtered. Building the institutions that do it is
+    a maybe 2-5 year job. *Good* papers are a lot scarier, imo. In sufficient volume,
+    they could turn a discipline into a backwater town bypassed by the railroad.
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mwbe4vav7s2v
+- post_uri: at://did:plc:7jtnmx2hpn4duamuqr4xqase/app.bsky.feed.post/3mwasujzes22z
+  thread_root_uri: at://did:plc:7jtnmx2hpn4duamuqr4xqase/app.bsky.feed.post/3mwasujzes22z
+  post_url: https://bsky.app/profile/did:plc:7jtnmx2hpn4duamuqr4xqase/post/3mwasujzes22z
+  post_date: '2026-09-24T08:15:47.422Z'
+  liked_at: '2026-09-24T11:53:32.662392+00:00'
+  author_handle: christinaviehmann.bsky.social
+  author_did: did:plc:7jtnmx2hpn4duamuqr4xqase
+  post_text: '🔍 How robust are findings based on topic modeling?
+
+
+    Our 🏆 Top Faculty Award article on #TopicModeling + #MultiverseAnalysis is now
+    #openaccess in Communication Methods & Measures.
+
+
+    📄 doi.org/10.1080/19312458.2026.2714769
+
+    🔁 gesistsa.github.io/multiverse_tm/
+
+
+    wonderful teamwork @ge'
+  links:
+  - url: https://doi.org/10.1080/19312458.2026.2714769
+    source: card
+    card_title: 'Beyond beyond standardization: studying robustness of empirical claims
+      based on topic modeling through multiverse analysis'
+    card_description: While topic modeling is widely used, some scholars have already
+      announced that the application of topic modeling in social science research
+      is impossible to standardize. Meanwhile, researchers have...
+    citoid:
+      raw:
+        key: A29FI6WB
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Paul
+          lastName: Balluff
+          creatorType: author
+        - firstName: Christina
+          lastName: Viehmann
+          creatorType: author
+        - firstName: Maximilian
+          lastName: Linde
+          creatorType: author
+        - firstName: Yannik
+          lastName: Peters
+          creatorType: author
+        - firstName: Jun
+          lastName: Sun
+          creatorType: author
+        - firstName: Chung-Hong
+          lastName: Chan
+          creatorType: author
+        tags: []
+        publicationTitle: Communication Methods and Measures
+        language: en
+        ISSN: 1931-2458, 1931-2466
+        date: '2026-08-31'
+        pages: 1–36
+        DOI: 10.1080/19312458.2026.2714769
+        url: https://www.tandfonline.com/doi/full/10.1080/19312458.2026.2714769
+        title: 'Beyond beyond standardization: studying robustness of empirical claims
+          based on topic modeling through multiverse analysis'
+        libraryCatalog: CrossRef
+        accessDate: '2026-09-25'
+        shortTitle: Beyond beyond standardization
+      title: 'Beyond beyond standardization: studying robustness of empirical claims
+        based on topic modeling through multiverse analysis'
+      authors:
+      - last: Balluff
+        first: Paul
+      - last: Viehmann
+        first: Christina
+      - last: Linde
+        first: Maximilian
+      - last: Peters
+        first: Yannik
+      - last: Sun
+        first: Jun
+      - last: Chan
+        first: Chung-Hong
+      date: '2026-08-31'
+      item_type: journalArticle
+      doi: 10.1080/19312458.2026.2714769
+      publisher: Communication Methods and Measures
+  - url: https://gesistsa.github.io/multiverse_tm/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://gesistsa.github.io/multiverse_tm/
+        itemType: webpage
+        creators:
+        - creatorType: author
+          firstName: Paul
+          lastName: Balluff
+        title: 'Beyond Beyond Standardization: Online Appendix'
+        language: en
+        accessDate: '2026-09-25'
+        websiteTitle: gesistsa.github.io
+      title: 'Beyond Beyond Standardization: Online Appendix'
+      authors:
+      - last: Balluff
+        first: Paul
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:7jtnmx2hpn4duamuqr4xqase/app.bsky.feed.post/3mwasujzes22z
 - post_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mwae5bfeak2z
   thread_root_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mwae5bfeak2z
   post_url: https://bsky.app/profile/did:plc:nbfjoeficjzf3pejpontvril/post/3mwae5bfeak2z
