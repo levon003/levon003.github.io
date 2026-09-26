@@ -1,3 +1,288 @@
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwf7t7occk2h
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwf7bkcevk2n
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mwf7t7occk2h
+  post_date: '2026-09-26T02:18:20.618Z'
+  liked_at: '2026-09-26T05:27:07.262745+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: for the record I am broadly a skeptic of the too-little-friction hypothesis.
+    there will be a transition period though. also you cannot base your worries about
+    the future on present capabilities. they will keep getting better, the problems
+    with that are different
+  links:
+  - url: https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html
+    source: thread
+    card_title: Opinion | Being a Doctor Will Never Be the Same After A.I.
+    card_description: I’m confident in my mastery over what doctors do — and less
+      confident about my continued mastery of an ever-evolving universe of facts.
+    citoid:
+      raw:
+        key: A7R8A3W8
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Rachael
+          lastName: Bedard
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence
+          type: 1
+        - tag: Medicine and Health
+          type: 1
+        - tag: Doctors
+          type: 1
+        - tag: Medical Schools
+          type: 1
+        - tag: Labor and Jobs
+          type: 1
+        - tag: Careers and Professions
+          type: 1
+        title: Opinion | Being a Doctor Will Never Be the Same After A.I.
+        section: Opinion
+        date: '2026-09-25'
+        url: https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html
+        abstractNote: I’m confident in my mastery over what doctors do — and less
+          confident about my continued mastery of an ever-evolving universe of facts.
+        language: en-US
+        libraryCatalog: NYTimes.com
+        accessDate: '2026-09-26'
+        publicationTitle: The New York Times
+        ISSN: 0362-4331
+      title: Opinion | Being a Doctor Will Never Be the Same After A.I.
+      authors:
+      - last: Bedard
+        first: Rachael
+      date: '2026-09-25'
+      item_type: newspaperArticle
+      publisher: The New York Times
+      abstract: I’m confident in my mastery over what doctors do — and less confident
+        about my continued mastery of an ever-evolving universe of facts.
+  - url: https://x.com/orgnlthghts/status/2103669264431604035
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/orgnlthghts/status/2103669264431604035
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-09-26'
+        title: original-thought (@orgnlthghts) on X
+        abstractNote: '@_nonfigurativ_ exactly. i keep studying, researching and doing
+          R&amp;D hands on. Then using agents to move fast when i need to compose
+          the lego blocks'
+        accessDate: '2026-09-26'
+      title: original-thought (@orgnlthghts) on X
+      date: '2026-09-26'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: '@_nonfigurativ_ exactly. i keep studying, researching and doing R&amp;D
+        hands on. Then using agents to move fast when i need to compose the lego blocks'
+  - url: https://x.com/kcimc/status/2103669600127000765
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/kcimc/status/2103669600127000765
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-09-26'
+        title: Kyle McDonald (@kcimc) on X
+        abstractNote: i also have this sense that the generating code is becoming
+          an inseparable feature of daily life. it's so obvious it's not even worth
+          mentioning. "artist working with code" is like saying "artist working with
+          physical matter".
+        accessDate: '2026-09-26'
+      title: Kyle McDonald (@kcimc) on X
+      date: '2026-09-26'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: i also have this sense that the generating code is becoming an inseparable
+        feature of daily life. it's so obvious it's not even worth mentioning. "artist
+        working with code" is like saying "artist working with physical matter".
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwf7t7occk2h
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwfdufd7n223
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwfdufd7n223
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mwfdufd7n223
+  post_date: '2026-09-26T03:30:35.069Z'
+  liked_at: '2026-09-26T05:12:48.640783+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'How do you explain recursion? This one is pretty fun.
+
+
+    I had Claude Opus 5.5 make: "A video explaining recursion, where every explanation
+    about recursion has a radically different video style, make this self-referential
+    & clever & fast moving." All code, no images.
+
+
+    Nine genre sh'
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwfdufd7n223
+- post_uri: at://did:plc:kumkpeo7y6hjtijoe4l4k3hl/app.bsky.feed.post/3mwefjqkfb22m
+  thread_root_uri: at://did:plc:kumkpeo7y6hjtijoe4l4k3hl/app.bsky.feed.post/3mwefjqkfb22m
+  post_url: https://bsky.app/profile/did:plc:kumkpeo7y6hjtijoe4l4k3hl/post/3mwefjqkfb22m
+  post_date: '2026-09-25T18:27:45.483Z'
+  liked_at: '2026-09-26T03:26:10.177841+00:00'
+  author_handle: mlbarnett.bsky.social
+  author_did: did:plc:kumkpeo7y6hjtijoe4l4k3hl
+  post_text: 'TIL bears killed 232 people in Japan in 2025 (!!!!)
+
+
+    as far as i can tell, the same number for the US is <3 in 2025'
+  links:
+  - url: https://scim.ag/46HG5xB
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8KCPEQTR
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Hengjun
+          lastName: Xiao
+          creatorType: author
+        - firstName: Zhengwang
+          lastName: Zhang
+          creatorType: author
+        - firstName: Yoshiaki
+          lastName: Miyamoto
+          creatorType: author
+        - firstName: Tomohiro
+          lastName: Ichinose
+          creatorType: author
+        tags: []
+        DOI: 10.1126/sciadv.aej8134
+        pages: eaej8134
+        publisher: American Association for the Advancement of Science
+        url: https://www.science.org/doi/10.1126/sciadv.aej8134
+        title: Compound food failure on a deteriorated mast system drives Japan’s
+          bear conflict crisis
+        publicationTitle: Science Advances
+        volume: '12'
+        issue: '39'
+        date: '2026-09-23'
+        abstractNote: Climate change is recognized as a key amplifier of human-wildlife
+          conflict, yet the underlying mechanism remains poorly understood. Japan’s
+          2025 bear crisis, which produced 232 casualties, has been widely attributed
+          to rapid population growth, but demographic processes are far too gradual
+          to explain the surge. Using an 18-year dataset across five Tohoku prefectures,
+          we find that it reflects bears responding to a rhythm breakdown of the forest’s
+          food supply. Conflict rises sharply once mast production falls below a threshold.
+          Around 2006, the mast system passed a break point, after which lean years
+          grew more severe and crossed that threshold more often. Conflict is further
+          amplified when the alternative food source, indexed by primary productivity,
+          fails alongside mast, and the 2023/2025 outbreaks provide a natural experiment
+          separating compound from single-source failure. Beyond the Japanese bear-mast
+          system, our analysis yields a generalized diagnostic framework that considers
+          failing food rhythms, compound shortages, and the thresholds at which animals
+          enter human space.
+        libraryCatalog: science.org (Atypon)
+        accessDate: '2026-09-26'
+      title: Compound food failure on a deteriorated mast system drives Japan’s bear
+        conflict crisis
+      authors:
+      - last: Xiao
+        first: Hengjun
+      - last: Zhang
+        first: Zhengwang
+      - last: Miyamoto
+        first: Yoshiaki
+      - last: Ichinose
+        first: Tomohiro
+      date: '2026-09-23'
+      item_type: journalArticle
+      doi: 10.1126/sciadv.aej8134
+      publisher: Science Advances
+      abstract: Climate change is recognized as a key amplifier of human-wildlife
+        conflict, yet the underlying mechanism remains poorly understood. Japan’s
+        2025 bear crisis, which produced 232 casualties, has been widely attributed
+        to rapid population growth, but demographic processes are far too gradual
+        to explain the surge. Using an 18-year dataset across five Tohoku prefectures,
+        we find that it reflects bears responding to a rhythm breakdown of the forest’s
+        food supply. Conflict rises sharply once mast production falls below a threshold.
+        Around 2006, the mast system passed a break point, after which lean years
+        grew more severe and crossed that threshold more often. Conflict is further
+        amplified when the alternative food source, indexed by primary productivity,
+        fails alongside mast, and the 2023/2025 outbreaks provide a natural experiment
+        separating compound from single-source failure. Beyond the Japanese bear-mast
+        system, our analysis yields a generalized diagnostic framework that considers
+        failing food rhythms, compound shortages, and the thresholds at which animals
+        enter human space.
+  all_post_uris:
+  - at://did:plc:kumkpeo7y6hjtijoe4l4k3hl/app.bsky.feed.post/3mwefjqkfb22m
+- post_uri: at://did:plc:27u6urclrgh6uijeiqb2wcts/app.bsky.feed.post/3mwejadwtrk2t
+  thread_root_uri: at://did:plc:27u6urclrgh6uijeiqb2wcts/app.bsky.feed.post/3mwejadwtrk2t
+  post_url: https://bsky.app/profile/did:plc:27u6urclrgh6uijeiqb2wcts/post/3mwejadwtrk2t
+  post_date: '2026-09-25T19:34:05.239Z'
+  liked_at: '2026-09-25T23:29:32.226731+00:00'
+  author_handle: carbonadoks.com
+  author_did: did:plc:27u6urclrgh6uijeiqb2wcts
+  post_text: Do you ever wanted to see the complete edit history of a wikipedia article?
+    Introducting wikipedia timemachine at timemachine.carbonadoks.com
+  links:
+  - url: https://timemachine.carbonadoks.com
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 69NKBM8W
+        version: 0
+        itemType: webpage
+        url: https://timemachine.carbonadoks.com/
+        title: Wiki Time Machine
+        abstractNote: Read Wikipedia and replay every edit of an article as an animation.
+        accessDate: '2026-09-26'
+        websiteTitle: timemachine.carbonadoks.com
+      title: Wiki Time Machine
+      item_type: webpage
+      abstract: Read Wikipedia and replay every edit of an article as an animation.
+  all_post_uris:
+  - at://did:plc:27u6urclrgh6uijeiqb2wcts/app.bsky.feed.post/3mwejadwtrk2t
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mwdws3gzg22b
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mwdws3gzg22b
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3mwdws3gzg22b
+  post_date: '2026-09-25T14:03:59.213Z'
+  liked_at: '2026-09-25T17:01:41.068698+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: Be serious. Bert and Ernie are not “in love.” Maybe they used to be,
+    once
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mwdws3gzg22b
+- post_uri: at://did:plc:hfgcux5vaescpudyidw3xz6z/app.bsky.feed.post/3mwdouemkpc2z
+  thread_root_uri: at://did:plc:hfgcux5vaescpudyidw3xz6z/app.bsky.feed.post/3mwdouemkpc2z
+  post_url: https://bsky.app/profile/did:plc:hfgcux5vaescpudyidw3xz6z/post/3mwdouemkpc2z
+  post_date: '2026-09-25T11:42:06.009Z'
+  liked_at: '2026-09-25T14:26:49.643678+00:00'
+  author_handle: michaelchesnut.bsky.social
+  author_did: did:plc:hfgcux5vaescpudyidw3xz6z
+  post_text: 'This whole vote remains an absolutely bizarre development, and hopefully
+    this upcoming vote kills off any talk of Alberta separatism for the rest of my
+    life.
+
+    www.cbc.ca/news/canada/...'
+  links:
+  - url: https://www.cbc.ca/news/canada/calgary/alberta-separatism-janet-brown-poll-danielle-smith-9.7357333
+    source: card
+    card_title: With time running out, new poll suggests Alberta separatism support
+      is slipping | CBC News
+    card_description: With a little more than three weeks to go until the Oct. 19
+      referendum, a new poll done for CBC News suggests support for separation has
+      softened since spring.
+    citoid:
+      citoid_status: error
+  all_post_uris:
+  - at://did:plc:hfgcux5vaescpudyidw3xz6z/app.bsky.feed.post/3mwdouemkpc2z
 - post_uri: at://did:plc:4jjekvbxopsdtmezsmycpveb/app.bsky.feed.post/3mwcoagf6ac2o
   thread_root_uri: at://did:plc:4jjekvbxopsdtmezsmycpveb/app.bsky.feed.post/3mwcoagf6ac2o
   post_url: https://bsky.app/profile/did:plc:4jjekvbxopsdtmezsmycpveb/post/3mwcoagf6ac2o
