@@ -1,13 +1,13 @@
-entries_with_links: 2390
-total_links: 2936
-unique_domains: 982
+entries_with_links: 2401
+total_links: 2950
+unique_domains: 986
 top_domains:
 - domain: arxiv.org
-  count: 240
+  count: 242
 - domain: substack.com
-  count: 171
+  count: 173
 - domain: github.com
-  count: 88
+  count: 90
 - domain: simonwillison.net
   count: 81
 - domain: github.io
@@ -19,7 +19,7 @@ top_domains:
 - domain: nytimes.com
   count: 44
 - domain: huggingface.co
-  count: 40
+  count: 41
 - domain: youtube.com
   count: 36
 top_accounts:
@@ -43,13 +43,13 @@ top_accounts:
   count: 31
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
-  count: 28
+  count: 29
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
   count: 28
 - handle: mariaa.bsky.social
   did: did:plc:y32vdst3y7r4f4pkrveb7jhi
-  count: 25
+  count: 26
 - handle: eugenevinitsky.bsky.social
   did: did:plc:5wm25vgenhgut3iqfjf4ozj5
   count: 24
