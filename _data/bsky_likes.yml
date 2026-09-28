@@ -1,3 +1,40 @@
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mwjje3lbp22q
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mwjje3lbp22q
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mwjje3lbp22q
+  post_date: '2026-09-27T19:19:29.377Z'
+  liked_at: '2026-09-28T01:48:32.139235+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: A whole lot of people think controlling models is easy who a month ago
+    didn't think controlling models was necessary.
+  links: []
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mwjje3lbp22q
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwixgr35f22b
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwixgr35f22b
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3mwixgr35f22b
+  post_date: '2026-09-27T13:58:51.670Z'
+  liked_at: '2026-09-27T16:53:07.522080+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: This to me is BlueSkyism
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mwixgr35f22b
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwirxozdjk2s
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwirxozdjk2s
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mwirxozdjk2s
+  post_date: '2026-09-27T12:20:57.492Z'
+  liked_at: '2026-09-27T16:50:21.216157+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: "i would say, in most contexts it is probably unwise to focus on risks\
+    \ you’ve never experienced \n\ne.g. in software engineering i’ve developed a bit\
+    \ of a gag reflex whenever an engineer is solving a problem that doesn’t exist\
+    \ yet\n\ntrouble is the severity of x-risks puts them in a u"
+  links: []
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwirxozdjk2s
 - post_uri: at://did:plc:4rnej33af5ly4yjgpuaeupd3/app.bsky.feed.post/3mwhrfqgqs225
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwhr4lfx6c2y
   post_url: https://bsky.app/profile/did:plc:4rnej33af5ly4yjgpuaeupd3/post/3mwhrfqgqs225
