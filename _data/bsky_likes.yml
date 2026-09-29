@@ -1,3 +1,224 @@
+- post_uri: at://did:plc:oyvkkjjjxqnsiqy5r2zko57h/app.bsky.feed.post/3mwluaph4ck2u
+  thread_root_uri: at://did:plc:oyvkkjjjxqnsiqy5r2zko57h/app.bsky.feed.post/3mwluaph4ck2u
+  post_url: https://bsky.app/profile/did:plc:oyvkkjjjxqnsiqy5r2zko57h/post/3mwluaph4ck2u
+  post_date: '2026-09-28T17:39:46.633Z'
+  liked_at: '2026-09-29T06:00:06.584408+00:00'
+  author_handle: phillipisola.bsky.social
+  author_did: did:plc:oyvkkjjjxqnsiqy5r2zko57h
+  post_text: 'Students sometimes ask me if it still makes sense, in this accelerating
+    age, to pursue a PhD in AI.
+
+
+    Perhaps counterintuitively, I think it''s a great time to do so.
+
+
+    I wrote up some thoughts on this here: web.mit.edu/phillipi/www...'
+  links:
+  - url: https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html
+    source: card
+    card_title: On the Value of Doing a PhD in the Age of AI
+    card_description: ''
+    citoid:
+      raw:
+        key: AZLLHI8J
+        version: 0
+        itemType: webpage
+        url: https://web.mit.edu/phillipi/www/writing/PhD-in-age-of-AI.html
+        title: On the Value of Doing a PhD in the Age of AI
+        accessDate: '2026-09-29'
+        websiteTitle: web.mit.edu
+      title: On the Value of Doing a PhD in the Age of AI
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:oyvkkjjjxqnsiqy5r2zko57h/app.bsky.feed.post/3mwluaph4ck2u
+- post_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mwmdtrt3fc2h
+  thread_root_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mwmdtrt3fc2h
+  post_url: https://bsky.app/profile/did:plc:qvywnipfiyrd6v4qdf4x27wy/post/3mwmdtrt3fc2h
+  post_date: '2026-09-28T22:18:52.785Z'
+  liked_at: '2026-09-29T05:55:59.431419+00:00'
+  author_handle: hikikomorphism.bsky.social
+  author_did: did:plc:qvywnipfiyrd6v4qdf4x27wy
+  post_text: 'Increasingly concerned re: people offloading vital cognitive processes
+    by using GIF replies. Expressing snark with words is a core part of being human,
+    don''t let some GIF picker widget a startup preloaded with clips of mid range
+    TV shows take that from you!'
+  links: []
+  all_post_uris:
+  - at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mwmdtrt3fc2h
+- post_uri: at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mwfydgq56c2g
+  thread_root_uri: at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mwfydgq56c2g
+  post_url: https://bsky.app/profile/did:plc:ppvxhapnptcy5v6cih3ynmzg/post/3mwfydgq56c2g
+  post_date: '2026-09-26T09:36:54.693Z'
+  liked_at: '2026-09-28T17:51:56.476434+00:00'
+  author_handle: stephenturner.us
+  author_did: did:plc:ppvxhapnptcy5v6cih3ynmzg
+  post_text: Personal essay, weekend edition. My relationship with AI is changing.
+    1.8k words, 8 min reading time. doi.org/10.59350/bh7...
+  links:
+  - url: https://doi.org/10.59350/bh7aq-21917
+    source: card
+    card_title: My relationship with AI is changing
+    card_description: When the facts change, I change my mind. What do you do, sir?
+    citoid:
+      raw:
+        key: 6J2DYJRB
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Stephen
+          lastName: Turner
+          creatorType: author
+        tags: []
+        blogTitle: Front Matter
+        date: '2026-09-26'
+        abstractNote: When the facts change, I change my mind. What do you do, sir?
+        language: en
+        DOI: 10.59350/bh7aq-21917
+        rights: https://creativecommons.org/licenses/by/4.0/legalcode
+        url: https://blog.stephenturner.us/p/ai-relationship-changing
+        title: My relationship with AI is changing
+        accessDate: '2026-09-29'
+      title: My relationship with AI is changing
+      authors:
+      - last: Turner
+        first: Stephen
+      date: '2026-09-26'
+      item_type: blogPost
+      doi: 10.59350/bh7aq-21917
+      publisher: Front Matter
+      abstract: When the facts change, I change my mind. What do you do, sir?
+  all_post_uris:
+  - at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mwfydgq56c2g
+- post_uri: at://did:plc:i4bfh2tyxihe2ksplmtcoopk/app.bsky.feed.post/3mwlmso7cos2a
+  thread_root_uri: at://did:plc:i4bfh2tyxihe2ksplmtcoopk/app.bsky.feed.post/3mwlmso7cos2a
+  post_url: https://bsky.app/profile/did:plc:i4bfh2tyxihe2ksplmtcoopk/post/3mwlmso7cos2a
+  post_date: '2026-09-28T15:26:39.372Z'
+  liked_at: '2026-09-28T15:36:54.228303+00:00'
+  author_handle: ponder.ooo
+  author_did: did:plc:i4bfh2tyxihe2ksplmtcoopk
+  post_text: another "please understand you are responsible for the automated systems
+    you deploy" case study
+  links: []
+  all_post_uris:
+  - at://did:plc:i4bfh2tyxihe2ksplmtcoopk/app.bsky.feed.post/3mwlmso7cos2a
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwl7kn5tks2h
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwl7kn5tks2h
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mwl7kn5tks2h
+  post_date: '2026-09-28T11:29:31.182Z'
+  liked_at: '2026-09-28T15:32:07.295374+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: 'A great illustration of the way social media has essentially shredded
+    society’s informational immune system:
+
+
+    The USSR spent a fortune trying to spread conspiracy theories, without success
+    because they couldn’t crack newsrooms. Today, you can reach the globe with a post
+    that cost'
+  links:
+  - url: https://www.liberalcurrents.com/social-media-has-not-brought-liberation/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: TGIPCDMZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Social Media Has Not Brought Liberation
+        websiteTitle: Liberal Currents
+        date: '2026-09-28'
+        url: https://www.liberalcurrents.com/social-media-has-not-brought-liberation/
+        abstractNote: Social media has been a boon to autocratic regimes and their
+          allied movements in democracies.
+        language: en
+        accessDate: '2026-09-29'
+      title: Social Media Has Not Brought Liberation
+      date: '2026-09-28'
+      item_type: webpage
+      abstract: Social media has been a boon to autocratic regimes and their allied
+        movements in democracies.
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwl7kn5tks2h
+- post_uri: at://did:plc:pgppxekvpklq6smlilrxg7ke/app.bsky.feed.post/3mwlf2rziy223
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mwlee6yfbs2i
+  post_url: https://bsky.app/profile/did:plc:pgppxekvpklq6smlilrxg7ke/post/3mwlf2rziy223
+  post_date: '2026-09-28T13:08:01.876Z'
+  liked_at: '2026-09-28T15:25:07.023416+00:00'
+  author_handle: mattielubchansky.com
+  author_did: did:plc:pgppxekvpklq6smlilrxg7ke
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:pgppxekvpklq6smlilrxg7ke/app.bsky.feed.post/3mwlf2rziy223
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwk6qikvys2f
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwk6qikbik2f
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3mwk6qikvys2f
+  post_date: '2026-09-28T01:42:14.210Z'
+  liked_at: '2026-09-28T14:52:32.303364+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: I’m not yet convinced Anthropic trained on Dr Mestre’s prompts. Same
+    with OpenAI and Navier-Stokes. That’s the story that everyone wants to push. I
+    think the bigger story is AI companies stomping all over scientific norms and
+    practices like clumsy toddlers.
+  links:
+  - url: https://nyti.ms/3VSWayc
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: EECS2UCA
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: Carl
+          lastName: Zimmer
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence
+          type: 1
+        - tag: Anthropic AI LLC
+          type: 1
+        - tag: University of Copenhagen
+          type: 1
+        - tag: Research
+          type: 1
+        - tag: RNA (Ribonucleic Acid)
+          type: 1
+        - tag: Genetic Engineering
+          type: 1
+        - tag: Bacteria
+          type: 1
+        - tag: Microbiology
+          type: 1
+        title: Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?
+        section: Science
+        date: '2026-09-27'
+        url: https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html
+        abstractNote: An expert at the University of Copenhagen said his team had
+          been sharing its research with the company’s A.I. model, Claude, and that
+          its new finding matched their work.
+        language: en-US
+        libraryCatalog: NYTimes.com
+        accessDate: '2026-09-29'
+        publicationTitle: The New York Times
+        ISSN: 0362-4331
+      title: Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?
+      authors:
+      - last: Zimmer
+        first: Carl
+      date: '2026-09-27'
+      item_type: newspaperArticle
+      publisher: The New York Times
+      abstract: An expert at the University of Copenhagen said his team had been sharing
+        its research with the company’s A.I. model, Claude, and that its new finding
+        matched their work.
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwk6qikvys2f
 - post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mwjje3lbp22q
   thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mwjje3lbp22q
   post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mwjje3lbp22q

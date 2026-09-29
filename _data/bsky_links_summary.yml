@@ -1,6 +1,6 @@
-entries_with_links: 2401
-total_links: 2950
-unique_domains: 986
+entries_with_links: 2405
+total_links: 2954
+unique_domains: 987
 top_domains:
 - domain: arxiv.org
   count: 242
@@ -13,7 +13,7 @@ top_domains:
 - domain: github.io
   count: 78
 - domain: doi.org
-  count: 54
+  count: 55
 - domain: acm.org
   count: 54
 - domain: nytimes.com
