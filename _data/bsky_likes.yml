@@ -1,3 +1,125 @@
+- post_uri: at://did:plc:4u42vwglz35baspkeivbgw3n/app.bsky.feed.post/3mwoc52w7t22w
+  thread_root_uri: at://did:plc:4u42vwglz35baspkeivbgw3n/app.bsky.feed.post/3mwoc52w7t22w
+  post_url: https://bsky.app/profile/did:plc:4u42vwglz35baspkeivbgw3n/post/3mwoc52w7t22w
+  post_date: '2026-09-29T16:53:36.308Z'
+  liked_at: '2026-09-29T22:07:48.300618+00:00'
+  author_handle: bartenderhemry.bsky.social
+  author_did: did:plc:4u42vwglz35baspkeivbgw3n
+  post_text: it's crazy how anytime someone starts off their reply/quote to will with
+    "Will," it's followed by the goofiest argle-bargle you've ever seen
+  links: []
+  all_post_uris:
+  - at://did:plc:4u42vwglz35baspkeivbgw3n/app.bsky.feed.post/3mwoc52w7t22w
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwoakzayck2t
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwoakzayck2t
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mwoakzayck2t
+  post_date: '2026-09-29T16:25:36.842Z'
+  liked_at: '2026-09-29T16:55:28.859696+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Hey, Claude: "I asked an earlier Claude to Remove the Squid from All
+    Quiet on the Western Front. Now you can make movies and such. I need you to show
+    how far you have come" & I pasted in the post below. That was it.
+
+
+    There is some clever stuff here, models have a real sense of hu'
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mwoakzayck2t
+- post_uri: at://did:plc:yjvayj5thzisljwor7yykhlx/app.bsky.feed.post/3mwo7vav3ds2s
+  thread_root_uri: at://did:plc:yjvayj5thzisljwor7yykhlx/app.bsky.feed.post/3mwo7vav3ds2s
+  post_url: https://bsky.app/profile/did:plc:yjvayj5thzisljwor7yykhlx/post/3mwo7vav3ds2s
+  post_date: '2026-09-29T16:13:26.642Z'
+  liked_at: '2026-09-29T16:31:09.414445+00:00'
+  author_handle: grimalkina.bsky.social
+  author_did: did:plc:yjvayj5thzisljwor7yykhlx
+  post_text: I started tracking and I've spent roughly 20 hours on the phone dealing
+    with doctor office, insurance AND pharmacy errors versus 45 minutes total of actual
+    face to face care in the past six months. Not an exaggeration
+  links: []
+  all_post_uris:
+  - at://did:plc:yjvayj5thzisljwor7yykhlx/app.bsky.feed.post/3mwo7vav3ds2s
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwnxs7qidk2y
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwnxs7qidk2y
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3mwnxs7qidk2y
+  post_date: '2026-09-29T13:48:34.844Z'
+  liked_at: '2026-09-29T15:37:53.411525+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: This is a deeply unserious thing. But amusing to read about how a major
+    barrier was being kicked out of so many parking lots www.404media.co/these-tech-w...
+  links:
+  - url: https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/
+    source: card
+    card_title: These Tech Workers Made ChatGPT Drive a Toyota Corolla
+    card_description: The team used frontier LLMs with no prior training data navigate
+      a simple parking lot course.
+    citoid:
+      raw:
+        key: 4364USRR
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Matthew
+          lastName: Gault ·
+          creatorType: author
+        tags: []
+        title: These Tech Workers Made ChatGPT Drive a Toyota Corolla
+        websiteTitle: 404 Media
+        date: '2026-09-29'
+        url: https://www.404media.co/these-tech-workers-made-chatgpt-drive-a-toyota-corolla/
+        abstractNote: The team used frontier LLMs with no prior training data navigate
+          a simple parking lot course.
+        language: en
+        accessDate: '2026-09-30'
+      title: These Tech Workers Made ChatGPT Drive a Toyota Corolla
+      authors:
+      - last: Gault ·
+        first: Matthew
+      date: '2026-09-29'
+      item_type: webpage
+      abstract: The team used frontier LLMs with no prior training data navigate a
+        simple parking lot course.
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mwnxs7qidk2y
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwnfwgubis24
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwnfwgubis24
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mwnfwgubis24
+  post_date: '2026-09-29T08:28:49.175Z'
+  liked_at: '2026-09-29T15:29:10.598620+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: The way people will just blithely state that the world is collapsing
+    and you're supposed to, like, accept it as this conventional wisdom that all right-thinking
+    people agree with
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwnfwgubis24
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwnqjyalsc2l
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwnqjyalsc2l
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mwnqjyalsc2l
+  post_date: '2026-09-29T11:38:42.356Z'
+  liked_at: '2026-09-29T13:29:20.239663+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Do you make "sonic typos" ? Meaning rather than a slip of the fingers
+    you write a word that sounds like the word you intend? E.g. you meant to write
+    bird but you write beard. You meant to write theirs but you wrote there's. You
+    meant to write cot but wrote caught.
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwnqjyalsc2l
+- post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mwngcfd43c2w
+  thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mwngcfd43c2w
+  post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mwngcfd43c2w
+  post_date: '2026-09-29T08:35:30.205Z'
+  liked_at: '2026-09-29T13:21:00.457409+00:00'
+  author_handle: isolyth.dev
+  author_did: did:plc:allu5vs3gnm2wm7jzf4rad3r
+  post_text: Sonnet 5.5 passes turtlebench
+  links: []
+  all_post_uris:
+  - at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mwngcfd43c2w
 - post_uri: at://did:plc:oyvkkjjjxqnsiqy5r2zko57h/app.bsky.feed.post/3mwluaph4ck2u
   thread_root_uri: at://did:plc:oyvkkjjjxqnsiqy5r2zko57h/app.bsky.feed.post/3mwluaph4ck2u
   post_url: https://bsky.app/profile/did:plc:oyvkkjjjxqnsiqy5r2zko57h/post/3mwluaph4ck2u
