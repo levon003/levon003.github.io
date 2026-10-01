@@ -11,10 +11,18 @@ A few links related to agentic coding.
 *   [Placeholder]
 
 ## Skills
-*   [Placeholder ]
+* Learning opportunities: <https://github.com/DrCatHicks/learning-opportunities>
+* Grill Me: <https://www.aihero.dev/my-grill-me-skill-has-gone-viral>
+* ed3d-plugins: <https://github.com/ed3dai/ed3d-plugins>
 
 ## GitHub repositories
 *   [Placeholder]
+
+## Agents
+* OpenClaw: <https://github.com/openclaw/openclaw>
+* NanoClaw: <https://github.com/nanocoai/nanoclaw>
+* Hermes Agent: <https://github.com/nousresearch/hermes-agent>
+* Pi Coding Agent: <https://pi.dev/>
 
 ## Other
 *   [Placeholder]

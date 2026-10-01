@@ -44,6 +44,15 @@ this isn't a real draft, it's just a collection of post ideas I want to flesh ou
     Avoid categories (edit list articles instead)
          but do play Catfishing
     Tips here: https://en.wikipedia.org/wiki/User:Asilvering
+    What do *I* do on Wikipedia?
+        Add sources to unreferenced articles
+        Participate in AfD discussions
+        Complete merges of stubs into larger pages
+        Watchlist
+            Check for vandalism
+            Welcome new editors
+        Add references to intriguing uncited claims
+        Add an interesting source to a page discussing it (e.g. reading an interesting paper or article about a subject, adding it to the article about that subject)
  - ANN for vector search
     pgvector's two options
     How much slower the exact approach is than the approximation
