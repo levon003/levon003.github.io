@@ -1,3 +1,535 @@
+- post_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mwrpffj77k2r
+  thread_root_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mwrpffj77k2r
+  post_url: https://bsky.app/profile/did:plc:kbdtfnqrqpwwf62f6eekr7m2/post/3mwrpffj77k2r
+  post_date: '2026-10-01T01:28:53.711Z'
+  liked_at: '2026-10-01T05:38:38.204841+00:00'
+  author_handle: abeliansoup.bsky.social
+  author_did: did:plc:kbdtfnqrqpwwf62f6eekr7m2
+  post_text: 'burying a time capsule: a frontier model explainer on transformers in
+    the style of a 60s documentary. autonomously created by Opus 5.5 given some initial
+    style pointers and occasional redirection. 10.26.'
+  links: []
+  all_post_uris:
+  - at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mwrpffj77k2r
+- post_uri: at://did:plc:qu32s4qnz6t5yprqnzxb6rvj/app.bsky.feed.post/3mwr76tc4s22l
+  thread_root_uri: at://did:plc:qu32s4qnz6t5yprqnzxb6rvj/app.bsky.feed.post/3mwr76tc4s22l
+  post_url: https://bsky.app/profile/did:plc:qu32s4qnz6t5yprqnzxb6rvj/post/3mwr76tc4s22l
+  post_date: '2026-09-30T20:38:53.409Z'
+  liked_at: '2026-10-01T04:19:49.388812+00:00'
+  author_handle: soodoku.bsky.social
+  author_did: did:plc:qu32s4qnz6t5yprqnzxb6rvj
+  post_text: 'alarming rate of errors or there is error in error rates ...
+
+
+    jimbobrand.substack.com/p/are-llms-m...'
+  links:
+  - url: https://jimbobrand.substack.com/p/are-llms-making-papers-better
+    source: card
+    card_title: Are LLMs making papers better?
+    card_description: Another look at science acceleration
+    citoid:
+      raw:
+        key: 98D8R9AC
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Jimbo
+          lastName: Brand
+          creatorType: author
+        tags: []
+        title: Are LLMs making papers better?
+        abstractNote: Another look at science acceleration
+        date: '2026-09-29'
+        blogTitle: Jimbo's Substack
+        url: https://jimbobrand.substack.com/p/are-llms-making-papers-better
+        websiteType: Substack newsletter
+        accessDate: '2026-10-01'
+      title: Are LLMs making papers better?
+      authors:
+      - last: Brand
+        first: Jimbo
+      date: '2026-09-29'
+      item_type: blogPost
+      publisher: Jimbo's Substack
+      abstract: Another look at science acceleration
+  all_post_uris:
+  - at://did:plc:qu32s4qnz6t5yprqnzxb6rvj/app.bsky.feed.post/3mwr76tc4s22l
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwrpyxyc2c2y
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwrpyxyc2c2y
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mwrpyxyc2c2y
+  post_date: '2026-10-01T01:39:50.613Z'
+  liked_at: '2026-10-01T03:07:10.004026+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: they really did fix the writing in opus 5.5. it is a really good model.
+    it feels like fable but less than half the cost and twice as fast. it feels like
+    a mainstream-accessible fable. maybe a big deal. 6.1 sol feels a bit dumb by comparison
+  links: []
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mwrpyxyc2c2y
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwrfschsn22p
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwrfschsn22p
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mwrfschsn22p
+  post_date: '2026-09-30T22:37:09.307Z'
+  liked_at: '2026-10-01T02:59:32.139866+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: I really wasn’t trying to start a fight with Prof. Bender but now that
+    she has created a long thread subtweeting me and her disciples are all yelling
+    at me, let me just say that this is the crux right here. She seems to respond
+    as though I am describing something a priori impossi
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwrfschsn22p
+- post_uri: at://did:plc:45gr6dxc6v5ev5tswup3ef2y/app.bsky.feed.post/3mwrmadaerk2g
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwrhgsfiq22w
+  post_url: https://bsky.app/profile/did:plc:45gr6dxc6v5ev5tswup3ef2y/post/3mwrmadaerk2g
+  post_date: '2026-10-01T00:32:22.327Z'
+  liked_at: '2026-10-01T01:27:38.145927+00:00'
+  author_handle: andybrnr.bsky.social
+  author_did: did:plc:45gr6dxc6v5ev5tswup3ef2y
+  post_text: Seeing this sort of thing always makes me paranoid about where I’m personally
+    being intellectually incurious, rigid in my thinking, and incapable of updating
+    on clear evidence, as clearly someone smarter and more successful than myself
+    is far from immune.
+  links: []
+  all_post_uris:
+  - at://did:plc:45gr6dxc6v5ev5tswup3ef2y/app.bsky.feed.post/3mwrmadaerk2g
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwqs2lv2ck2p
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwqs2lv2ck2p
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mwqs2lv2ck2p
+  post_date: '2026-09-30T16:43:52.779Z'
+  liked_at: '2026-09-30T22:17:35.136685+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: FWIW I don’t think this is a good description of me
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwqs2lv2ck2p
+- post_uri: at://did:plc:4ndrbqakxpzgumqdgmx4jzu5/app.bsky.feed.post/3mwqkkfqkv22b
+  thread_root_uri: at://did:plc:4ndrbqakxpzgumqdgmx4jzu5/app.bsky.feed.post/3mwqkkfqkv22b
+  post_url: https://bsky.app/profile/did:plc:4ndrbqakxpzgumqdgmx4jzu5/post/3mwqkkfqkv22b
+  post_date: '2026-09-30T14:29:33.276Z'
+  liked_at: '2026-09-30T21:23:44.988811+00:00'
+  author_handle: benjaminschneider.ch
+  author_did: did:plc:4ndrbqakxpzgumqdgmx4jzu5
+  post_text: Werner Herzog will be the last human being whose next word no language
+    model can predict
+  links: []
+  all_post_uris:
+  - at://did:plc:4ndrbqakxpzgumqdgmx4jzu5/app.bsky.feed.post/3mwqkkfqkv22b
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mwr2ihoxnc2y
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mwr2ihoxnc2y
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3mwr2ihoxnc2y
+  post_date: '2026-09-30T19:14:48.081Z'
+  liked_at: '2026-09-30T21:22:31.102948+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: "Important IMHO. \n\n\"Our results separate two properties that are easy\
+    \ to conflate: whether a thinking trace is useful computation for producing an\
+    \ answer, and whether the emitted trace is itself a correct derivation of that\
+    \ answer.\"\n\narxiv.org/abs/2609.38107"
+  links:
+  - url: https://arxiv.org/abs/2609.38107
+    source: card
+    card_title: 'Correct Answers, Invalid Traces: What Verifiable Grade-School Math
+      Reveals About Chain-of-Thought Traces'
+    card_description: Chain-of-thought traces are widely read as records of how models
+      reach their answers, informing debugging, agent auditing, and claims about reasoning.
+      Testing this interpretation is difficult because ...
+    citoid:
+      raw:
+        key: G2CWIBPU
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Ratish
+          lastName: Puduppully
+          creatorType: author
+        - firstName: Pranabendu
+          lastName: Misra
+          creatorType: author
+        - firstName: Paarth
+          lastName: Iyer
+          creatorType: author
+        - firstName: Durgesh
+          lastName: Kalwar
+          creatorType: author
+        - firstName: Vardhan
+          lastName: Palod
+          creatorType: author
+        - firstName: Subbarao
+          lastName: Kambhampati
+          creatorType: author
+        tags:
+        - tag: Computer Science - Computation and Language
+          type: 1
+        - tag: Computer Science - Artificial Intelligence
+          type: 1
+        title: 'Correct Answers, Invalid Traces: What Verifiable Grade-School Math
+          Reveals About Chain-of-Thought Traces'
+        date: '2026-09-29'
+        abstractNote: 'Chain-of-thought traces are widely read as records of how models
+          reach their answers, informing debugging, agent auditing, and claims about
+          reasoning. Testing this interpretation is difficult because natural-language
+          thinking traces are rarely mechanically verifiable. We revisit it in iGSM,
+          a synthetic grade-school mathematics benchmark designed to study thinking
+          traces and used to support claims of learned reasoning and planning. Crucially,
+          iGSM exposes the exact quantities and dependencies that a correct solution
+          should use, allowing generated traces to be checked programmatically step
+          by step and enabling us to test whether correct answers are reliably accompanied
+          by valid traces. We first evaluate models trained exclusively on valid,
+          minimal traces. Answer correctness and trace validity nearly coincide in
+          distribution but decouple out of distribution: on the hardest instances,
+          31.6% of correct answers have invalid traces, over half of which pass all
+          syntactic and arithmetic checks but fail semantic dependency checks. We
+          then intervene on trace supervision. Non-minimal training traces induce
+          non-minimal outputs, while re-asking the same problem with a different query
+          reveals computations inherited from the original query, weakening minimality
+          as evidence of selective planning. Shuffling tokens in 10% of training trace
+          sentences preserves near-clean accuracy even out of distribution despite
+          no trace passing verification. Swapped training traces likewise retain high
+          in-distribution accuracy. We discuss the implications of these findings
+          for chain-of-thought monitoring and interpretation in the context of AI
+          safety.'
+        url: http://arxiv.org/abs/2609.38107
+        extra: arXiv:2609.38107 [cs.CL]
+        repository: arXiv
+        archiveID: arXiv:2609.38107
+        DOI: 10.48550/arXiv.2609.38107
+        libraryCatalog: arXiv.org
+        accessDate: '2026-10-01'
+        shortTitle: Correct Answers, Invalid Traces
+      title: 'Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals
+        About Chain-of-Thought Traces'
+      authors:
+      - last: Puduppully
+        first: Ratish
+      - last: Misra
+        first: Pranabendu
+      - last: Iyer
+        first: Paarth
+      - last: Kalwar
+        first: Durgesh
+      - last: Palod
+        first: Vardhan
+      - last: Kambhampati
+        first: Subbarao
+      date: '2026-09-29'
+      item_type: preprint
+      doi: 10.48550/arXiv.2609.38107
+      publisher: arXiv
+      abstract: 'Chain-of-thought traces are widely read as records of how models
+        reach their answers, informing debugging, agent auditing, and claims about
+        reasoning. Testing this interpretation is difficult because natural-language
+        thinking traces are rarely mechanically verifiable. We revisit it in iGSM,
+        a synthetic grade-school mathematics benchmark designed to study thinking
+        traces and used to support claims of learned reasoning and planning. Crucially,
+        iGSM exposes the exact quantities and dependencies that a correct solution
+        should use, allowing generated traces to be checked programmatically step
+        by step and enabling us to test whether correct answers are reliably accompanied
+        by valid traces. We first evaluate models trained exclusively on valid, minimal
+        traces. Answer correctness and trace validity nearly coincide in distribution
+        but decouple out of distribution: on the hardest instances, 31.6% of correct
+        answers have invalid traces, over half of which pass all syntactic and arithmetic
+        checks but fail semantic dependency checks. We then intervene on trace supervision.
+        Non-minimal training traces induce non-minimal outputs, while re-asking the
+        same problem with a different query reveals computations inherited from the
+        original query, weakening minimality as evidence of selective planning. Shuffling
+        tokens in 10% of training trace sentences preserves near-clean accuracy even
+        out of distribution despite no trace passing verification. Swapped training
+        traces likewise retain high in-distribution accuracy. We discuss the implications
+        of these findings for chain-of-thought monitoring and interpretation in the
+        context of AI safety.'
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mwr2ihoxnc2y
+- post_uri: at://did:plc:qiknc4t5rq7yngvz7g4aezq7/app.bsky.feed.post/3mwp54aljr223
+  thread_root_uri: at://did:plc:qiknc4t5rq7yngvz7g4aezq7/app.bsky.feed.post/3mwp54aljr223
+  post_url: https://bsky.app/profile/did:plc:qiknc4t5rq7yngvz7g4aezq7/post/3mwp54aljr223
+  post_date: '2026-09-30T00:56:19.722Z'
+  liked_at: '2026-09-30T16:58:06.004853+00:00'
+  author_handle: faineg.com
+  author_did: did:plc:qiknc4t5rq7yngvz7g4aezq7
+  post_text: GOAT OR BIRD????
+  links: []
+  all_post_uris:
+  - at://did:plc:qiknc4t5rq7yngvz7g4aezq7/app.bsky.feed.post/3mwp54aljr223
+- post_uri: at://did:plc:y5aqbaiscl465n5dviqhfwh4/app.bsky.feed.post/3mwqpxq4agc2z
+  thread_root_uri: at://did:plc:y5aqbaiscl465n5dviqhfwh4/app.bsky.feed.post/3mwqpxq4agc2z
+  post_url: https://bsky.app/profile/did:plc:y5aqbaiscl465n5dviqhfwh4/post/3mwqpxq4agc2z
+  post_date: '2026-09-30T16:06:29.061Z'
+  liked_at: '2026-09-30T16:57:29.574796+00:00'
+  author_handle: mcognetta.bsky.social
+  author_did: did:plc:y5aqbaiscl465n5dviqhfwh4
+  post_text: '🚨 [Token][ization] Paper Alert 🚨
+
+
+    Tokenization is a wildly understudied area of language modeling despite it having
+    effects across all of NLP. Over the past ~8 months, 32 (!) tokenizer researchers
+    put together the most comprehensive survey of the field. Check it out!'
+  links:
+  - url: https://www.alphaxiv.org/abs/2609.tokenization-survey-modern-nlp
+    source: thread
+    card_title: 'Tokenization: A Survey for Modern NLP'
+    card_description: While modern language models take raw text as their input and
+      produce raw text as output, they do not operate over text directly. Hidden in
+      the very first step of language model pipelines is...
+    citoid:
+      raw:
+        key: 7X9ILAT2
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Marco
+          lastName: Cognetta
+          creatorType: author
+        - firstName: Christopher
+          lastName: Akiki
+          creatorType: author
+        - firstName: Pawan Sasanka
+          lastName: Ammanamanchi
+          creatorType: author
+        - firstName: Catherine
+          lastName: Arnett
+          creatorType: author
+        - firstName: Thomas
+          lastName: Bauwens
+          creatorType: author
+        - firstName: Pavel
+          lastName: Chizhov
+          creatorType: author
+        - firstName: Pieter
+          lastName: Delobelle
+          creatorType: author
+        - firstName: Konstantin
+          lastName: Dobler
+          creatorType: author
+        - firstName: Desmond
+          lastName: Elliott
+          creatorType: author
+        - firstName: Omer
+          lastName: Goldman
+          creatorType: author
+        - firstName: Tatsuya
+          lastName: Hiraoka
+          creatorType: author
+        - firstName: Valentin
+          lastName: Hofmann
+          creatorType: author
+        - firstName: Eugene
+          lastName: Jang
+          creatorType: author
+        - firstName: Julie
+          lastName: Kallini
+          creatorType: author
+        - firstName: Ilker
+          lastName: Kesen
+          creatorType: author
+        - firstName: Sachin
+          lastName: Kumar
+          creatorType: author
+        - firstName: Sander
+          lastName: Land
+          creatorType: author
+        - firstName: Jindřich
+          lastName: Libovický
+          creatorType: author
+        - firstName: Tomasz
+          lastName: Limisiewicz
+          creatorType: author
+        - firstName: Alisa
+          lastName: Liu
+          creatorType: author
+        - firstName: Clara
+          lastName: Meister
+          creatorType: author
+        - firstName: Benjamin
+          lastName: Minixhofer
+          creatorType: author
+        - firstName: Sangwhan
+          lastName: Moon
+          creatorType: author
+        - firstName: Tiago
+          lastName: Pimentel
+          creatorType: author
+        - firstName: David
+          lastName: Pohl
+          creatorType: author
+        - firstName: Suchir
+          lastName: Salhan
+          creatorType: author
+        - firstName: Tomohiro
+          lastName: Sawada
+          creatorType: author
+        - firstName: Pavel
+          lastName: Stepachev
+          creatorType: author
+        - firstName: Gianluca
+          lastName: Vico
+          creatorType: author
+        - firstName: Philip
+          lastName: Whittington
+          creatorType: author
+        - firstName: Xiulin
+          lastName: Yang
+          creatorType: author
+        - firstName: Yuval
+          lastName: Pinter
+          creatorType: author
+        tags: []
+        title: 'Tokenization: A Survey for Modern NLP'
+        url: https://www.alphaxiv.org/abs/2609.tokenization-survey-modern-nlp
+        abstractNote: Tokenization is presented as a core language-model design choice
+          that shapes sequence length, computational cost, multilingual equity, evaluation,
+          and security—not merely as preprocessing. The...
+        date: '2026-09-30'
+        language: en
+        libraryCatalog: www.alphaxiv.org
+        accessDate: '2026-10-01'
+        shortTitle: Tokenization
+      title: 'Tokenization: A Survey for Modern NLP'
+      authors:
+      - last: Cognetta
+        first: Marco
+      - last: Akiki
+        first: Christopher
+      - last: Ammanamanchi
+        first: Pawan Sasanka
+      - last: Arnett
+        first: Catherine
+      - last: Bauwens
+        first: Thomas
+      - last: Chizhov
+        first: Pavel
+      - last: Delobelle
+        first: Pieter
+      - last: Dobler
+        first: Konstantin
+      - last: Elliott
+        first: Desmond
+      - last: Goldman
+        first: Omer
+      - last: Hiraoka
+        first: Tatsuya
+      - last: Hofmann
+        first: Valentin
+      - last: Jang
+        first: Eugene
+      - last: Kallini
+        first: Julie
+      - last: Kesen
+        first: Ilker
+      - last: Kumar
+        first: Sachin
+      - last: Land
+        first: Sander
+      - last: Libovický
+        first: Jindřich
+      - last: Limisiewicz
+        first: Tomasz
+      - last: Liu
+        first: Alisa
+      - last: Meister
+        first: Clara
+      - last: Minixhofer
+        first: Benjamin
+      - last: Moon
+        first: Sangwhan
+      - last: Pimentel
+        first: Tiago
+      - last: Pohl
+        first: David
+      - last: Salhan
+        first: Suchir
+      - last: Sawada
+        first: Tomohiro
+      - last: Stepachev
+        first: Pavel
+      - last: Vico
+        first: Gianluca
+      - last: Whittington
+        first: Philip
+      - last: Yang
+        first: Xiulin
+      - last: Pinter
+        first: Yuval
+      date: '2026-09-30'
+      item_type: journalArticle
+      abstract: Tokenization is presented as a core language-model design choice that
+        shapes sequence length, computational cost, multilingual equity, evaluation,
+        and security—not merely as preprocessing. The...
+  all_post_uris:
+  - at://did:plc:y5aqbaiscl465n5dviqhfwh4/app.bsky.feed.post/3mwqpxq4agc2z
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwotcauco223
+  thread_root_uri: at://did:plc:aeug3w4mdhnc2wv73hmrh36v/app.bsky.feed.post/3mvxtsdrkm22y
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mwotcauco223
+  post_date: '2026-09-29T22:00:43.919Z'
+  liked_at: '2026-09-30T14:58:10.535848+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: well, I just used OpenRouter to send 20 12x12 addition questions to GLM-4.7,
+    an open source Chinese model, and it returned correct sums in every case.
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwotcauco223
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mwpmkdlzas2o
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mwpmkdlzas2o
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mwpmkdlzas2o
+  post_date: '2026-09-30T05:32:38.775Z'
+  liked_at: '2026-09-30T14:45:11.663763+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: I missed that Al Gore takes my exact position that data centers aren’t
+    that bad but x-risk is real techcrunch.com/2026/09/16/a...
+  links:
+  - url: https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/
+    source: card
+    card_title: Al Gore says the real AI risk isn't data centers | TechCrunch
+    card_description: In an interview with TechCrunch, Al Gore suggested he isn't
+      losing sleep over AI data center emissions — he's more worried about the AI
+      industry's own warnings about where the technology is headed.
+    citoid:
+      raw:
+        key: I6Q9HY54
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Connie
+          lastName: Loizos
+          creatorType: author
+        tags: []
+        title: Al Gore says the real AI risk isn't data centers
+        blogTitle: TechCrunch
+        date: '2026-09-16'
+        url: https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/
+        abstractNote: In an interview with TechCrunch, Al Gore suggested he isn't
+          losing sleep over AI data center emissions — he's more worried about the
+          AI industry's own warnings about where the technology is headed.
+        language: en-US
+        accessDate: '2026-10-01'
+      title: Al Gore says the real AI risk isn't data centers
+      authors:
+      - last: Loizos
+        first: Connie
+      date: '2026-09-16'
+      item_type: blogPost
+      publisher: TechCrunch
+      abstract: In an interview with TechCrunch, Al Gore suggested he isn't losing
+        sleep over AI data center emissions — he's more worried about the AI industry's
+        own warnings about where the technology is headed.
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mwpmkdlzas2o
+- post_uri: at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3mwq7pzsno22a
+  thread_root_uri: at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3mwq7pzsno22a
+  post_url: https://bsky.app/profile/did:plc:sgqw2zixdcjtjjhrm4bw64ny/post/3mwq7pzsno22a
+  post_date: '2026-09-30T11:15:50.928Z'
+  liked_at: '2026-09-30T14:28:28.853855+00:00'
+  author_handle: mattkeeter.com
+  author_did: did:plc:sgqw2zixdcjtjjhrm4bw64ny
+  post_text: 'Typical OpenAI agent during its training run:'
+  links: []
+  all_post_uris:
+  - at://did:plc:sgqw2zixdcjtjjhrm4bw64ny/app.bsky.feed.post/3mwq7pzsno22a
 - post_uri: at://did:plc:4u42vwglz35baspkeivbgw3n/app.bsky.feed.post/3mwoc52w7t22w
   thread_root_uri: at://did:plc:4u42vwglz35baspkeivbgw3n/app.bsky.feed.post/3mwoc52w7t22w
   post_url: https://bsky.app/profile/did:plc:4u42vwglz35baspkeivbgw3n/post/3mwoc52w7t22w
