@@ -1,9 +1,9 @@
-entries_with_links: 2410
-total_links: 2959
+entries_with_links: 2416
+total_links: 2965
 unique_domains: 987
 top_domains:
 - domain: arxiv.org
-  count: 243
+  count: 244
 - domain: substack.com
   count: 174
 - domain: github.com
@@ -52,4 +52,4 @@ top_accounts:
   count: 26
 - handle: eugenevinitsky.bsky.social
   did: did:plc:5wm25vgenhgut3iqfjf4ozj5
-  count: 24
+  count: 25

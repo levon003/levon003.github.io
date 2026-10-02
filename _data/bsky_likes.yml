@@ -1,3 +1,375 @@
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwu5y34n5c2x
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwtewia5gc2p
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mwu5y34n5c2x
+  post_date: '2026-10-02T00:55:12.210Z'
+  liked_at: '2026-10-02T03:46:20.015166+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: If human cognition is substrate dependent, as with Anil Seth's "bridge
+    made of string cheese" argument, you can apply similar logic to LLM cognition
+    with regards to running on chips versus the same computations being done by hand
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwu5y34n5c2x
+- post_uri: at://did:plc:tpg43qhh4lw4ksiffs4nbda3/app.bsky.feed.post/3mwtg322vjs2k
+  thread_root_uri: at://did:plc:tpg43qhh4lw4ksiffs4nbda3/app.bsky.feed.post/3mwtg322vjs2k
+  post_url: https://bsky.app/profile/did:plc:tpg43qhh4lw4ksiffs4nbda3/post/3mwtg322vjs2k
+  post_date: '2026-10-01T17:47:21.964Z'
+  liked_at: '2026-10-02T03:46:06.945233+00:00'
+  author_handle: jacob.gold
+  author_did: did:plc:tpg43qhh4lw4ksiffs4nbda3
+  post_text: 'Everyone says "I am jev" no one asking "how is jev?"
+
+
+    I genuinely feel bad for the team, they spent 2 years in stealth to build something
+    others cloned in 2 weeks...
+
+
+    This is why we launch quickly, folks.'
+  links:
+  - url: https://blog.cloudflare.com/clef-decision-models/
+    source: card
+    card_title: 'Introducing Clef: our open-source decision models, and new RL fine-tuning
+      platform'
+    card_description: 'We are introducing Clef and Clef-flash, open-source decision
+      models hosted on Workers AI for high-speed classification and agentic workflows.
+      Also launching: a new reinforcement learning platform that...'
+    citoid:
+      raw:
+        key: MPBIMUJN
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Introducing Clef: our open-source decision models, and new RL fine-tuning
+          platform'
+        websiteTitle: Cloudflare Blog
+        date: '2026-10-01'
+        url: https://blog.cloudflare.com/clef-decision-models/
+        abstractNote: 'We are introducing Clef and Clef-flash, open-source decision
+          models hosted on Workers AI for high-speed classification and agentic workflows.
+          Also launching: a new reinforcement learning platform that allows developers
+          to fine-tune decision models using their own data.'
+        language: en-us
+        accessDate: '2026-10-02'
+        shortTitle: Introducing Clef
+      title: 'Introducing Clef: our open-source decision models, and new RL fine-tuning
+        platform'
+      date: '2026-10-01'
+      item_type: webpage
+      abstract: 'We are introducing Clef and Clef-flash, open-source decision models
+        hosted on Workers AI for high-speed classification and agentic workflows.
+        Also launching: a new reinforcement learning platform that allows developers
+        to fine-tune decision models using their own data.'
+  all_post_uris:
+  - at://did:plc:tpg43qhh4lw4ksiffs4nbda3/app.bsky.feed.post/3mwtg322vjs2k
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwu4dro5vs2h
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwu4dro5vs2h
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mwu4dro5vs2h
+  post_date: '2026-10-02T00:25:57.468Z'
+  liked_at: '2026-10-02T03:28:59.581232+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Bluesky fork moderated by jev
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwu4dro5vs2h
+- post_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mwtoatkifs2f
+  thread_root_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mwtoatkifs2f
+  post_url: https://bsky.app/profile/did:plc:b35wwuj336x4ufo5dyykfolz/post/3mwtoatkifs2f
+  post_date: '2026-10-01T20:13:46.395Z'
+  liked_at: '2026-10-02T03:26:45.139196+00:00'
+  author_handle: tdietterich.bsky.social
+  author_did: did:plc:b35wwuj336x4ufo5dyykfolz
+  post_text: "Attention arXiv authors. Because of the exponential increase in submissions,\
+    \ arXiv is limiting the number of papers that a person can submit each month to\
+    \ two. \n\nblog.arxiv.org/2025/10/31/a..."
+  links:
+  - url: https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
+    source: card
+    card_title: 'Attention Authors: Updated Practice for Review Articles and Position
+      Papers in arXiv CS Category'
+    card_description: arXiv’s computer science (CS) category has updated its moderation
+      practice with respect to review (or survey) articles and position papers. Before
+      being…
+    citoid:
+      raw:
+        key: P2345KN7
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Kat
+          lastName: Boboris·
+          creatorType: author
+        tags: []
+        title: 'Attention Authors: Updated Practice for Review Articles and Position
+          Papers in arXiv CS Category'
+        blogTitle: News from arXiv
+        date: '2025-10-31'
+        url: https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
+        abstractNote: arXiv’s computer science (CS) category has updated its moderation
+          practice with respect to review (or survey) articles and position papers.
+          Before being…
+        language: en-US
+        accessDate: '2026-10-02'
+        shortTitle: Attention Authors
+      title: 'Attention Authors: Updated Practice for Review Articles and Position
+        Papers in arXiv CS Category'
+      authors:
+      - last: Boboris·
+        first: Kat
+      date: '2025-10-31'
+      item_type: blogPost
+      publisher: News from arXiv
+      abstract: arXiv’s computer science (CS) category has updated its moderation
+        practice with respect to review (or survey) articles and position papers.
+        Before being…
+  all_post_uris:
+  - at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mwtoatkifs2f
+- post_uri: at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mwtq4h2rhs2j
+  thread_root_uri: at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mwtq4h2rhs2j
+  post_url: https://bsky.app/profile/did:plc:yym5dkfbnzf6lspvh4hnstjg/post/3mwtq4h2rhs2j
+  post_date: '2026-10-01T20:47:06.564Z'
+  liked_at: '2026-10-02T03:26:40.520220+00:00'
+  author_handle: mitsuhiko.at
+  author_did: did:plc:yym5dkfbnzf6lspvh4hnstjg
+  post_text: We released Pi 1.0! earendil.com/posts/pi-1-0/
+  links:
+  - url: https://earendil.com/posts/pi-1-0/
+    source: card
+    card_title: Pi 1.0 | Earendil
+    card_description: Today we are shipping Pi 1.0, a hardened, minimal, extensible
+      agent harness, alongside Pi Durable, a new experimental substrate for long-running
+      agentic applications.
+    citoid:
+      raw:
+        key: LTV6H957
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Pi 1.0
+        websiteTitle: Earendil
+        url: https://earendil.com/posts/pi-1-0/
+        abstractNote: Today we are shipping Pi 1.0, a hardened, minimal, extensible
+          agent harness, alongside Pi Durable, a new experimental substrate for long-running
+          agentic applications.
+        date: '2026-10-01'
+        language: en
+        accessDate: '2026-10-02'
+      title: Pi 1.0
+      date: '2026-10-01'
+      item_type: webpage
+      abstract: Today we are shipping Pi 1.0, a hardened, minimal, extensible agent
+        harness, alongside Pi Durable, a new experimental substrate for long-running
+        agentic applications.
+  all_post_uris:
+  - at://did:plc:yym5dkfbnzf6lspvh4hnstjg/app.bsky.feed.post/3mwtq4h2rhs2j
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwqzxdpa3k2m
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwqzxdpa3k2m
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mwqzxdpa3k2m
+  post_date: '2026-09-30T19:05:13.470Z'
+  liked_at: '2026-10-02T01:05:26.084201+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: In our Nature paper, we introduce the first superhuman Stratego AI, which
+    we built using general techniques that we developed for RL & test-time compute
+    under imperfect information. www.nature.com/articles/s41...
+  links:
+  - url: https://www.nature.com/articles/s41586-026-11036-y
+    source: card
+    card_title: Scalable decision-making for games of imperfect information - Nature
+    card_description: Ataraxos, an AI for the board wargame Stratego, establishes
+      a design pattern for reinforcement learning and search that is effective under
+      large amounts of hidden information, a longstanding desiderat...
+    citoid:
+      raw:
+        key: LJHSU7AW
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Samuel
+          lastName: Sokota
+          creatorType: author
+        - firstName: Eugene
+          lastName: Vinitsky
+          creatorType: author
+        - firstName: Hengyuan
+          lastName: Hu
+          creatorType: author
+        - firstName: Zhiyuan
+          lastName: Fan
+          creatorType: author
+        - firstName: J. Zico
+          lastName: Kolter
+          creatorType: author
+        - firstName: Gabriele
+          lastName: Farina
+          creatorType: author
+        tags:
+        - tag: Computer science
+          type: 1
+        - tag: Computational science
+          type: 1
+        title: Scalable decision-making for games of imperfect information
+        publicationTitle: Nature
+        rights: 2026 The Author(s)
+        volume: '658'
+        issue: '8134'
+        pages: 55–59
+        publisher: Nature Publishing Group
+        date: 2026-10
+        DOI: 10.1038/s41586-026-11036-y
+        ISSN: 1476-4687
+        url: https://www.nature.com/articles/s41586-026-11036-y
+        abstractNote: Real-world decision-making generally involves hidden information,
+          that is, information that is unknown to one agent but possessed by another.
+          Unfortunately, the presence of large amounts of hidden information renders
+          established reinforcement learning and search approaches ineffective. Even
+          with multimillion-dollar industrial research efforts1, top-human-level play
+          at Stratego—a board wargame with hidden information on a massive scale—has
+          remained beyond the reach of artificial intelligence (AI). Here we introduce
+          Ataraxos, an AI for Stratego based on general techniques that we developed
+          for both self-play reinforcement learning and test-time search under hidden
+          information. Ataraxos defeated the most decorated human Stratego player
+          of all time by a large margin—achieving, to our knowledge, the first superhuman
+          result in the game’s history—while consuming orders of magnitude less compute
+          and data than previous efforts. Using the same techniques, we built a superhuman
+          AI for Barrage Stratego and state-of-the-art AIs for Hanabi and dou dizhu,
+          all with low cost and high sample efficiency. The success of this approach
+          across adversarial, cooperative and team games establishes a design pattern
+          for reinforcement learning and search that is effective under large amounts
+          of hidden information, a longstanding desideratum of the field of strategic
+          decision-making.
+        language: en
+        libraryCatalog: www.nature.com
+        accessDate: '2026-10-02'
+      title: Scalable decision-making for games of imperfect information
+      authors:
+      - last: Sokota
+        first: Samuel
+      - last: Vinitsky
+        first: Eugene
+      - last: Hu
+        first: Hengyuan
+      - last: Fan
+        first: Zhiyuan
+      - last: Kolter
+        first: J. Zico
+      - last: Farina
+        first: Gabriele
+      date: 2026-10
+      item_type: journalArticle
+      doi: 10.1038/s41586-026-11036-y
+      publisher: Nature
+      abstract: Real-world decision-making generally involves hidden information,
+        that is, information that is unknown to one agent but possessed by another.
+        Unfortunately, the presence of large amounts of hidden information renders
+        established reinforcement learning and search approaches ineffective. Even
+        with multimillion-dollar industrial research efforts1, top-human-level play
+        at Stratego—a board wargame with hidden information on a massive scale—has
+        remained beyond the reach of artificial intelligence (AI). Here we introduce
+        Ataraxos, an AI for Stratego based on general techniques that we developed
+        for both self-play reinforcement learning and test-time search under hidden
+        information. Ataraxos defeated the most decorated human Stratego player of
+        all time by a large margin—achieving, to our knowledge, the first superhuman
+        result in the game’s history—while consuming orders of magnitude less compute
+        and data than previous efforts. Using the same techniques, we built a superhuman
+        AI for Barrage Stratego and state-of-the-art AIs for Hanabi and dou dizhu,
+        all with low cost and high sample efficiency. The success of this approach
+        across adversarial, cooperative and team games establishes a design pattern
+        for reinforcement learning and search that is effective under large amounts
+        of hidden information, a longstanding desideratum of the field of strategic
+        decision-making.
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwqzxdpa3k2m
+- post_uri: at://did:plc:xuzgwzfczpvmxay4yke247se/app.bsky.feed.post/3mwok6fuvi22f
+  thread_root_uri: at://did:plc:xuzgwzfczpvmxay4yke247se/app.bsky.feed.post/3mwok6fuvi22f
+  post_url: https://bsky.app/profile/did:plc:xuzgwzfczpvmxay4yke247se/post/3mwok6fuvi22f
+  post_date: '2026-09-29T19:17:31.288Z'
+  liked_at: '2026-10-01T15:07:43.140050+00:00'
+  author_handle: techyben.bsky.social
+  author_did: did:plc:xuzgwzfczpvmxay4yke247se
+  post_text: '@abeliansoup.bsky.social This isn''t even my final form:'
+  links: []
+  all_post_uris:
+  - at://did:plc:xuzgwzfczpvmxay4yke247se/app.bsky.feed.post/3mwok6fuvi22f
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mwqswvbz7k2r
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mwqswvbz7k2r
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mwqswvbz7k2r
+  post_date: '2026-09-30T16:59:42.142Z'
+  liked_at: '2026-10-01T14:59:57.963047+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: The latest Interconnects plot - showing the exponential growth of the
+    open model inference economy. Plot is showing the daily tokens processed by the
+    leading companies, based on public disclosures (for Together, Baseten, and Fireworks)
+    and the OpenRouter API. I underestimated Ope
+  links:
+  - url: https://dashboard.interconnects.ai/extra#inference-volume
+    source: thread
+    card_title: Open Models Dashboard
+    card_description: Daily-updated Hugging Face downloads and derivatives of open-weight
+      AI models — USA vs China vs EU.
+    citoid:
+      raw:
+        key: 2D9BZCCN
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Open Models Dashboard
+        websiteTitle: Interconnects
+        url: https://dashboard.interconnects.ai/
+        abstractNote: Daily-updated Hugging Face downloads and derivatives of open-weight
+          AI models — USA vs China vs EU.
+        language: en
+        accessDate: '2026-10-02'
+      title: Open Models Dashboard
+      item_type: webpage
+      abstract: Daily-updated Hugging Face downloads and derivatives of open-weight
+        AI models — USA vs China vs EU.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mwqswvbz7k2r
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwsrlkeq5s2m
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwsrlkeq5s2m
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mwsrlkeq5s2m
+  post_date: '2026-10-01T11:40:47.355Z'
+  liked_at: '2026-10-01T14:56:28.567107+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'I was reading someone who put into words a way to discern ai writing
+    (and which also makes AI writing annoying): that it tries to end every paragraph
+    with a mic drop.
+
+
+    I had mentally categorized this as "writes like a teenager trying to show off"
+    but this is much more specific.'
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mwsrlkeq5s2m
+- post_uri: at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mwsf6sm5ec27
+  thread_root_uri: at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mwsf6sm5ec27
+  post_url: https://bsky.app/profile/did:plc:ta2whs6wjtpljvpqgs5leu36/post/3mwsf6sm5ec27
+  post_date: '2026-10-01T07:58:54.877Z'
+  liked_at: '2026-10-01T14:54:48.369046+00:00'
+  author_handle: rmcelreath.bsky.social
+  author_did: did:plc:ta2whs6wjtpljvpqgs5leu36
+  post_text: 'My priors about chimp anti-sociality confirmed: They stole from "friends"
+    61% of trials, from non-friends 70% of trials.
+
+
+    Continues to be one of the biggest puzzles about human evolution, which mechanisms
+    and evolutionary history make humans qualitatively more cooperative than ot'
+  links:
+  - url: https://www.sciencedirect.com/science/article/pii/S1090513826001273
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mwsf6sm5ec27
 - post_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mwrpffj77k2r
   thread_root_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mwrpffj77k2r
   post_url: https://bsky.app/profile/did:plc:kbdtfnqrqpwwf62f6eekr7m2/post/3mwrpffj77k2r
