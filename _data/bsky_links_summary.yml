@@ -1,11 +1,11 @@
-entries_with_links: 2416
-total_links: 2965
-unique_domains: 987
+entries_with_links: 2421
+total_links: 2972
+unique_domains: 988
 top_domains:
 - domain: arxiv.org
   count: 244
 - domain: substack.com
-  count: 174
+  count: 176
 - domain: github.com
   count: 90
 - domain: simonwillison.net
@@ -20,7 +20,7 @@ top_domains:
   count: 44
 - domain: huggingface.co
   count: 41
-- domain: youtube.com
+- domain: youtu.be
   count: 36
 top_accounts:
 - handle: simonwillison.net
@@ -31,10 +31,10 @@ top_accounts:
   count: 66
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
-  count: 37
+  count: 39
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 36
+  count: 37
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 34
