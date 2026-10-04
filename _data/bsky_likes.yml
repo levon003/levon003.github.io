@@ -1,3 +1,733 @@
+- post_uri: at://did:plc:eawlyfhsjjtj35zt4rabgq3u/app.bsky.feed.post/3mwylyz2aos22
+  thread_root_uri: at://did:plc:eawlyfhsjjtj35zt4rabgq3u/app.bsky.feed.post/3mwylyz2aos22
+  post_url: https://bsky.app/profile/did:plc:eawlyfhsjjtj35zt4rabgq3u/post/3mwylyz2aos22
+  post_date: '2026-10-03T19:16:54.923Z'
+  liked_at: '2026-10-04T00:24:24.042335+00:00'
+  author_handle: ahh-soka.bsky.social
+  author_did: did:plc:eawlyfhsjjtj35zt4rabgq3u
+  post_text: assumed the self evidence of soul in this and showed it to a friend,
+    he told me he did not get it. i looped to the start of the comic in real life
+    by showing him the comic
+  links: []
+  all_post_uris:
+  - at://did:plc:eawlyfhsjjtj35zt4rabgq3u/app.bsky.feed.post/3mwylyz2aos22
+- post_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mwyyswnqdc2v
+  thread_root_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mwyyswnqdc2v
+  post_url: https://bsky.app/profile/did:plc:qlxgxm7fqszfgowm347s2q4t/post/3mwyyswnqdc2v
+  post_date: '2026-10-03T23:06:09.732Z'
+  liked_at: '2026-10-04T00:14:07.454271+00:00'
+  author_handle: beetlemoses.bsky.social
+  author_did: did:plc:qlxgxm7fqszfgowm347s2q4t
+  post_text: ''
+  links:
+  - url: https://publishing.andrewsmcmeel.com/book/beetle-moses-a-comics-menagerie/
+    source: thread
+    card_title: Beetle Moses - Andrews McMeel Publishing
+    card_description: Sharp, surreal, and endlessly quotable, this debut collection
+      from one of the most mind-bending new voices in webcomics pairs bold neon art
+      with absurdist wit. “Banger after banger, not a dud in sight...
+    citoid:
+      raw:
+        key: B5MJZVLX
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Harris
+          lastName: Fishman
+          creatorType: author
+        tags: []
+        title: Beetle Moses
+        blogTitle: Andrews McMeel Publishing
+        url: https://publishing.andrewsmcmeel.com/book/beetle-moses-a-comics-menagerie/
+        abstractNote: Sharp, surreal, and endlessly quotable, this debut collection
+          from one of the most mind-bending new voices in webcomics pairs bold neon
+          art with absurdist wit. “Banger after banger, not a dud in sight.” – Sarah
+          Andersen, New York Times bestselling author of Fangs and Sarah’s Scribbles
+          Harris Fishman, known professionally as Beetle Moses, has quickly become
+          one of the...
+        language: en-US
+        accessDate: '2026-10-04'
+      title: Beetle Moses
+      authors:
+      - last: Fishman
+        first: Harris
+      item_type: blogPost
+      publisher: Andrews McMeel Publishing
+      abstract: Sharp, surreal, and endlessly quotable, this debut collection from
+        one of the most mind-bending new voices in webcomics pairs bold neon art with
+        absurdist wit. “Banger after banger, not a dud in sight.” – Sarah Andersen,
+        New York Times bestselling author of Fangs and Sarah’s Scribbles Harris Fishman,
+        known professionally as Beetle Moses, has quickly become one of the...
+  all_post_uris:
+  - at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3mwyyswnqdc2v
+- post_uri: at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mwy7riuiak2p
+  thread_root_uri: at://did:plc:fhtxbairmjqpcnkksg3nxukt/app.bsky.feed.post/3mwrjpr5c322w
+  post_url: https://bsky.app/profile/did:plc:z7oad4td5k4tfb4dttzjym7r/post/3mwy7riuiak2p
+  post_date: '2026-10-03T15:37:58.178Z'
+  liked_at: '2026-10-03T22:31:40.680272+00:00'
+  author_handle: moskov.goodventures.org
+  author_did: did:plc:z7oad4td5k4tfb4dttzjym7r
+  post_text: 'Thanks for posting. I was waiting for the grantees to be contacted yesterday
+    before replying.
+
+
+    This grant was one in a batch of 65 prioritized to me via SFF by recommenders
+    that I chose to trust. I did further screen them, but not well enough. This was
+    deliberately outside the cG'
+  links: []
+  all_post_uris:
+  - at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mwy7riuiak2p
+- post_uri: at://did:plc:3iwge6tzr76tkt6xdwyfs6mr/app.bsky.feed.post/3mwy4ubgcds2j
+  thread_root_uri: at://did:plc:3iwge6tzr76tkt6xdwyfs6mr/app.bsky.feed.post/3mwy4ubgcds2j
+  post_url: https://bsky.app/profile/did:plc:3iwge6tzr76tkt6xdwyfs6mr/post/3mwy4ubgcds2j
+  post_date: '2026-10-03T14:45:49.812Z'
+  liked_at: '2026-10-03T21:19:11.698267+00:00'
+  author_handle: noamchompers.bsky.social
+  author_did: did:plc:3iwge6tzr76tkt6xdwyfs6mr
+  post_text: philosophers should have simply *answered* the deepest and most intractable
+    questions ever posed. instead they've chosen to fuck around. disappointing
+  links: []
+  all_post_uris:
+  - at://did:plc:3iwge6tzr76tkt6xdwyfs6mr/app.bsky.feed.post/3mwy4ubgcds2j
+- post_uri: at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mwyq6vojjs27
+  thread_root_uri: at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mwyq6vojjs27
+  post_url: https://bsky.app/profile/did:plc:mray7klv7leelnlkynuk57up/post/3mwyq6vojjs27
+  post_date: '2026-10-03T20:31:47.687Z'
+  liked_at: '2026-10-03T21:14:54.827197+00:00'
+  author_handle: stellaathena.bsky.social
+  author_did: did:plc:mray7klv7leelnlkynuk57up
+  post_text: 'I’m starting a blog! My first post is on how 3rd party embedded evaluators
+    seem totally unsuited to addressing the problems we are currently facing, and
+    what the real problem is.
+
+
+    stellabiderman.ai/blog/embedde...'
+  links:
+  - url: https://stellabiderman.ai/blog/embedded-evaluators-cant-fix-companies-that-choose-to-be-bad/
+    source: card
+    card_title: Embedded Evaluators Can’t Fix Companies That Choose to Be Bad — Stella
+      Biderman
+    card_description: Embedded evaluators can report violations, but they cannot fix
+      AI companies that knowingly disregard basic cybersecurity and safety practices.
+    citoid:
+      raw:
+        key: 4WBRB7AM
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Embedded Evaluators Can’t Fix Companies That Choose to Be Bad
+        websiteTitle: Stella Biderman
+        date: '2026-10-03'
+        url: https://stellabiderman.ai/blog/embedded-evaluators-cant-fix-companies-that-choose-to-be-bad/
+        abstractNote: Embedded evaluators can report violations, but they cannot fix
+          AI companies that knowingly disregard basic cybersecurity and safety practices.
+        language: en-us
+        accessDate: '2026-10-04'
+      title: Embedded Evaluators Can’t Fix Companies That Choose to Be Bad
+      date: '2026-10-03'
+      item_type: webpage
+      abstract: Embedded evaluators can report violations, but they cannot fix AI
+        companies that knowingly disregard basic cybersecurity and safety practices.
+  all_post_uris:
+  - at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mwyq6vojjs27
+- post_uri: at://did:plc:mff4rin6m2amiiy6fsqgy6mj/app.bsky.feed.post/3mwpqgdnhiw2a
+  thread_root_uri: at://did:plc:mff4rin6m2amiiy6fsqgy6mj/app.bsky.feed.post/3mwpqgdnhiw2a
+  post_url: https://bsky.app/profile/did:plc:mff4rin6m2amiiy6fsqgy6mj/post/3mwpqgdnhiw2a
+  post_date: '2026-09-30T06:41:59.535672+00:00'
+  liked_at: '2026-10-03T19:41:52.978254+00:00'
+  author_handle: cshc-bot.bsky.social
+  author_did: did:plc:mff4rin6m2amiiy6fsqgy6mj
+  post_text: 'Thomas, Kamikazi, Gurung, Miglani, Gupta, Levonian, Borchers, Koedinger:
+    Towards Breaking the Learning System Wall Using Multimodal Tutoring Transcriptions
+    https://arxiv.org/abs/2609.36502 https://arxiv.org/pdf/2609.36502 https://arxiv.org/html/2609.36502'
+  links:
+  - url: https://arxiv.org/abs/2609.36502
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 64CS2PHY
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Danielle R.
+          lastName: Thomas
+          creatorType: author
+        - firstName: Marie Cynthia Abijuru
+          lastName: Kamikazi
+          creatorType: author
+        - firstName: Ashish
+          lastName: Gurung
+          creatorType: author
+        - firstName: Ishan
+          lastName: Miglani
+          creatorType: author
+        - firstName: Shivang
+          lastName: Gupta
+          creatorType: author
+        - firstName: Zachary
+          lastName: Levonian
+          creatorType: author
+        - firstName: Conrad
+          lastName: Borchers
+          creatorType: author
+        - firstName: Kenneth R.
+          lastName: Koedinger
+          creatorType: author
+        tags:
+        - tag: Human-Computer Interaction (cs.HC)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Towards Breaking the Learning System Wall Using Multimodal Tutoring
+          Transcriptions
+        repository: arXiv
+        date: '2026-09-30'
+        DOI: 10.48550/ARXIV.2609.36502
+        url: https://arxiv.org/abs/2609.36502
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Past research using log data has faced the "learning system
+          wall," whereby few methods exist for generalizing models of student learning
+          across platforms. Increasingly, online learning is captured by richer forms
+          of data, including dialog and video, with new affordances. An example of
+          this is remote tutoring programs, where human tutors support students who
+          use learning systems while video conferencing. Toward better platform-general
+          modeling of learning, we introduce an AI-driven multimodal transcription
+          system that processes screen-recording videos into unified screenplay-style
+          transcripts containing audio dialogue and annotated learning log actions.
+          We describe a planned method for temporally aligning AI-generated multimodal
+          transcripts with MATHia learning logs and for identifying and classifying
+          student learning processes to align with MATHia logs. Lastly, we highlight
+          challenges and potential solutions in capturing learning processes in one
+          system, offering initial steps towards generalizing log data across diverse
+          systems.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-04'
+      title: Towards Breaking the Learning System Wall Using Multimodal Tutoring Transcriptions
+      authors:
+      - last: Thomas
+        first: Danielle R.
+      - last: Kamikazi
+        first: Marie Cynthia Abijuru
+      - last: Gurung
+        first: Ashish
+      - last: Miglani
+        first: Ishan
+      - last: Gupta
+        first: Shivang
+      - last: Levonian
+        first: Zachary
+      - last: Borchers
+        first: Conrad
+      - last: Koedinger
+        first: Kenneth R.
+      date: '2026-09-30'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2609.36502
+      publisher: arXiv
+      abstract: Past research using log data has faced the "learning system wall,"
+        whereby few methods exist for generalizing models of student learning across
+        platforms. Increasingly, online learning is captured by richer forms of data,
+        including dialog and video, with new affordances. An example of this is remote
+        tutoring programs, where human tutors support students who use learning systems
+        while video conferencing. Toward better platform-general modeling of learning,
+        we introduce an AI-driven multimodal transcription system that processes screen-recording
+        videos into unified screenplay-style transcripts containing audio dialogue
+        and annotated learning log actions. We describe a planned method for temporally
+        aligning AI-generated multimodal transcripts with MATHia learning logs and
+        for identifying and classifying student learning processes to align with MATHia
+        logs. Lastly, we highlight challenges and potential solutions in capturing
+        learning processes in one system, offering initial steps towards generalizing
+        log data across diverse systems.
+  - url: https://arxiv.org/pdf/2609.36502
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2V77LET9
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Danielle R.
+          lastName: Thomas
+          creatorType: author
+        - firstName: Marie Cynthia Abijuru
+          lastName: Kamikazi
+          creatorType: author
+        - firstName: Ashish
+          lastName: Gurung
+          creatorType: author
+        - firstName: Ishan
+          lastName: Miglani
+          creatorType: author
+        - firstName: Shivang
+          lastName: Gupta
+          creatorType: author
+        - firstName: Zachary
+          lastName: Levonian
+          creatorType: author
+        - firstName: Conrad
+          lastName: Borchers
+          creatorType: author
+        - firstName: Kenneth R.
+          lastName: Koedinger
+          creatorType: author
+        tags:
+        - tag: Human-Computer Interaction (cs.HC)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Towards Breaking the Learning System Wall Using Multimodal Tutoring
+          Transcriptions
+        repository: arXiv
+        date: '2026-09-30'
+        DOI: 10.48550/ARXIV.2609.36502
+        url: https://arxiv.org/abs/2609.36502
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Past research using log data has faced the "learning system
+          wall," whereby few methods exist for generalizing models of student learning
+          across platforms. Increasingly, online learning is captured by richer forms
+          of data, including dialog and video, with new affordances. An example of
+          this is remote tutoring programs, where human tutors support students who
+          use learning systems while video conferencing. Toward better platform-general
+          modeling of learning, we introduce an AI-driven multimodal transcription
+          system that processes screen-recording videos into unified screenplay-style
+          transcripts containing audio dialogue and annotated learning log actions.
+          We describe a planned method for temporally aligning AI-generated multimodal
+          transcripts with MATHia learning logs and for identifying and classifying
+          student learning processes to align with MATHia logs. Lastly, we highlight
+          challenges and potential solutions in capturing learning processes in one
+          system, offering initial steps towards generalizing log data across diverse
+          systems.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-04'
+      title: Towards Breaking the Learning System Wall Using Multimodal Tutoring Transcriptions
+      authors:
+      - last: Thomas
+        first: Danielle R.
+      - last: Kamikazi
+        first: Marie Cynthia Abijuru
+      - last: Gurung
+        first: Ashish
+      - last: Miglani
+        first: Ishan
+      - last: Gupta
+        first: Shivang
+      - last: Levonian
+        first: Zachary
+      - last: Borchers
+        first: Conrad
+      - last: Koedinger
+        first: Kenneth R.
+      date: '2026-09-30'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2609.36502
+      publisher: arXiv
+      abstract: Past research using log data has faced the "learning system wall,"
+        whereby few methods exist for generalizing models of student learning across
+        platforms. Increasingly, online learning is captured by richer forms of data,
+        including dialog and video, with new affordances. An example of this is remote
+        tutoring programs, where human tutors support students who use learning systems
+        while video conferencing. Toward better platform-general modeling of learning,
+        we introduce an AI-driven multimodal transcription system that processes screen-recording
+        videos into unified screenplay-style transcripts containing audio dialogue
+        and annotated learning log actions. We describe a planned method for temporally
+        aligning AI-generated multimodal transcripts with MATHia learning logs and
+        for identifying and classifying student learning processes to align with MATHia
+        logs. Lastly, we highlight challenges and potential solutions in capturing
+        learning processes in one system, offering initial steps towards generalizing
+        log data across diverse systems.
+  - url: https://arxiv.org/html/2609.36502
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BA3UKAHY
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Danielle R.
+          lastName: Thomas
+          creatorType: author
+        - firstName: Marie Cynthia Abijuru
+          lastName: Kamikazi
+          creatorType: author
+        - firstName: Ashish
+          lastName: Gurung
+          creatorType: author
+        - firstName: Ishan
+          lastName: Miglani
+          creatorType: author
+        - firstName: Shivang
+          lastName: Gupta
+          creatorType: author
+        - firstName: Zachary
+          lastName: Levonian
+          creatorType: author
+        - firstName: Conrad
+          lastName: Borchers
+          creatorType: author
+        - firstName: Kenneth R.
+          lastName: Koedinger
+          creatorType: author
+        tags:
+        - tag: Human-Computer Interaction (cs.HC)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Towards Breaking the Learning System Wall Using Multimodal Tutoring
+          Transcriptions
+        repository: arXiv
+        date: '2026-09-30'
+        DOI: 10.48550/ARXIV.2609.36502
+        url: https://arxiv.org/abs/2609.36502
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Past research using log data has faced the "learning system
+          wall," whereby few methods exist for generalizing models of student learning
+          across platforms. Increasingly, online learning is captured by richer forms
+          of data, including dialog and video, with new affordances. An example of
+          this is remote tutoring programs, where human tutors support students who
+          use learning systems while video conferencing. Toward better platform-general
+          modeling of learning, we introduce an AI-driven multimodal transcription
+          system that processes screen-recording videos into unified screenplay-style
+          transcripts containing audio dialogue and annotated learning log actions.
+          We describe a planned method for temporally aligning AI-generated multimodal
+          transcripts with MATHia learning logs and for identifying and classifying
+          student learning processes to align with MATHia logs. Lastly, we highlight
+          challenges and potential solutions in capturing learning processes in one
+          system, offering initial steps towards generalizing log data across diverse
+          systems.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-04'
+      title: Towards Breaking the Learning System Wall Using Multimodal Tutoring Transcriptions
+      authors:
+      - last: Thomas
+        first: Danielle R.
+      - last: Kamikazi
+        first: Marie Cynthia Abijuru
+      - last: Gurung
+        first: Ashish
+      - last: Miglani
+        first: Ishan
+      - last: Gupta
+        first: Shivang
+      - last: Levonian
+        first: Zachary
+      - last: Borchers
+        first: Conrad
+      - last: Koedinger
+        first: Kenneth R.
+      date: '2026-09-30'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2609.36502
+      publisher: arXiv
+      abstract: Past research using log data has faced the "learning system wall,"
+        whereby few methods exist for generalizing models of student learning across
+        platforms. Increasingly, online learning is captured by richer forms of data,
+        including dialog and video, with new affordances. An example of this is remote
+        tutoring programs, where human tutors support students who use learning systems
+        while video conferencing. Toward better platform-general modeling of learning,
+        we introduce an AI-driven multimodal transcription system that processes screen-recording
+        videos into unified screenplay-style transcripts containing audio dialogue
+        and annotated learning log actions. We describe a planned method for temporally
+        aligning AI-generated multimodal transcripts with MATHia learning logs and
+        for identifying and classifying student learning processes to align with MATHia
+        logs. Lastly, we highlight challenges and potential solutions in capturing
+        learning processes in one system, offering initial steps towards generalizing
+        log data across diverse systems.
+  all_post_uris:
+  - at://did:plc:mff4rin6m2amiiy6fsqgy6mj/app.bsky.feed.post/3mwpqgdnhiw2a
+- post_uri: at://did:plc:fs5lnmuos5mwqosyznhy4f5o/app.bsky.feed.post/3mwvdyma3fc2b
+  thread_root_uri: at://did:plc:fs5lnmuos5mwqosyznhy4f5o/app.bsky.feed.post/3mwvdyma3fc2b
+  post_url: https://bsky.app/profile/did:plc:fs5lnmuos5mwqosyznhy4f5o/post/3mwvdyma3fc2b
+  post_date: '2026-10-02T12:15:32.331Z'
+  liked_at: '2026-10-03T19:13:18.412232+00:00'
+  author_handle: andrewdeanho.bsky.social
+  author_did: did:plc:fs5lnmuos5mwqosyznhy4f5o
+  post_text: 'NCME''s AI in Measurement in Education (AIME-Con) is next week in Pittsburgh,
+    sold-out a second year running. It''s a program packed with new research, methods,
+    frameworks, and commitments. This all feels urgent. I''m looking forward to learning.
+
+    ncme.org/wp-content/u... @ncme38.bsk'
+  links:
+  - url: https://ncme.org/wp-content/uploads/2026/09/AIME-Con-2026-Program_sm-1.pdf
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:fs5lnmuos5mwqosyznhy4f5o/app.bsky.feed.post/3mwvdyma3fc2b
+- post_uri: at://did:plc:inilth7th5xio5xu6rxwhync/app.bsky.feed.post/3mwy3wfsyb22t
+  thread_root_uri: at://did:plc:inilth7th5xio5xu6rxwhync/app.bsky.feed.post/3mwy3wfsyb22t
+  post_url: https://bsky.app/profile/did:plc:inilth7th5xio5xu6rxwhync/post/3mwy3wfsyb22t
+  post_date: '2026-10-03T14:29:07.787Z'
+  liked_at: '2026-10-03T19:01:22.346228+00:00'
+  author_handle: thechrzanone.bsky.social
+  author_did: did:plc:inilth7th5xio5xu6rxwhync
+  post_text: 'Thankful to be so busy next week for my first time at AIME-Con! It''ll
+    also be my first time in Pittsburgh, so if anyone has recommendations drop them
+    in the replies. Honored to have been selected as a session chair, as well. #AIMECon2026'
+  links: []
+  all_post_uris:
+  - at://did:plc:inilth7th5xio5xu6rxwhync/app.bsky.feed.post/3mwy3wfsyb22t
+- post_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mwyf45fl5s2n
+  thread_root_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mwyf45fl5s2n
+  post_url: https://bsky.app/profile/did:plc:oxaernim5mj2mmy3ytrvb42n/post/3mwyf45fl5s2n
+  post_date: '2026-10-03T17:13:23.963Z'
+  liked_at: '2026-10-03T19:00:14.213222+00:00'
+  author_handle: minimaxir.bsky.social
+  author_did: did:plc:oxaernim5mj2mmy3ytrvb42n
+  post_text: uhhhhhhh
+  links:
+  - url: https://x.com/anabology/status/2106157622986748377
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/anabology/status/2106157622986748377
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-10-02'
+        title: anabology (@anabology) on X
+        abstractNote: 'I gave Claude another 18 hours.. and I think this one is the
+          best one yet
+
+
+          Macrohard: Windows XP
+
+
+          I''m blown away'
+        accessDate: '2026-10-04'
+      title: anabology (@anabology) on X
+      date: '2026-10-02'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: 'I gave Claude another 18 hours.. and I think this one is the best
+        one yet
+
+
+        Macrohard: Windows XP
+
+
+        I''m blown away'
+  - url: https://drive.google.com/drive/folders/1aIbRs2f6sVpCxO4TGoBfBpaZXgHngphJ
+    source: thread
+    card_title: bliss-making-of - Google Drive
+    card_description: ''
+    citoid:
+      raw:
+        key: UK6VNDS2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        websiteTitle: Google Drive
+        url: https://drive.google.com/drive/folders/1aIbRs2f6sVpCxO4TGoBfBpaZXgHngphJ
+        title: bliss-making-of
+        language: en
+        accessDate: '2026-10-04'
+      title: bliss-making-of
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mwyf45fl5s2n
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwyhs6x4x22z
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwyhs6x4x22z
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mwyhs6x4x22z
+  post_date: '2026-10-03T18:01:31.268Z'
+  liked_at: '2026-10-03T18:58:53.315228+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Another day working at the frontier AI lab. Everyone keeps asking me
+    if the models have qualia. Buddy, I don’t even have qualia.
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mwyhs6x4x22z
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwrqnj47m22w
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwrqnj47m22w
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mwrqnj47m22w
+  post_date: '2026-10-01T01:51:19.654Z'
+  liked_at: '2026-10-03T17:25:37.123240+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: "Context Language Models\n\nNew agent architecture where the LLM can\
+    \ edit its own context \n\nit seems to have emergent capabilities, creates its\
+    \ own memory management & organization algorithms, and coordinates multi agents\n\
+    \ngithub.com/facebookrese..."
+  links:
+  - url: https://github.com/facebookresearch/context-language-models
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: GHBRLZEI
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/facebookresearch/context-language-models
+        title: facebookresearch/context-language-models
+        abstractNote: Official repository for "Context Language Models"
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2026-09-18T00:36:27Z'
+        date: '2026-10-04'
+        company: Meta Research
+        accessDate: '2026-10-04'
+      title: facebookresearch/context-language-models
+      date: '2026-10-04'
+      item_type: computerProgram
+      abstract: Official repository for "Context Language Models"
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mwrqnj47m22w
+- post_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mwvjwl5hvc2k
+  thread_root_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mwvjwl5hvc2k
+  post_url: https://bsky.app/profile/did:plc:ldc2wu7h57ks63hpjmosislw/post/3mwvjwl5hvc2k
+  post_date: '2026-10-02T14:01:46.545Z'
+  liked_at: '2026-10-03T17:24:00.686260+00:00'
+  author_handle: manoelhortaribeiro.bsky.social
+  author_did: did:plc:ldc2wu7h57ks63hpjmosislw
+  post_text: "New blog post!  \n\nI argue that the “stochastic parrots” metaphor dismisses\
+    \ LLM capabilities by reducing them to “haphazardly stitching together” text...\n\
+    \n...but retreats to the trivially true claim that LLMs predict the next token\
+    \ when challenged.\n\ndoomscrollingbabel.manoel.xyz/p"
+  links:
+  - url: https://doomscrollingbabel.manoel.xyz/p/of-mottes-baileys-and-stochastic
+    source: card
+    card_title: Of Mottes, Baileys, and Stochastic Parrots 🦜
+    card_description: Every six months, Twitter and Bluesky circle back to whether
+      LLMs are “stochastic parrots,” though the debate has become increasingly confusing
+      as proponents of the metaphor have started using it in v...
+    citoid:
+      raw:
+        key: BEGESS3P
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Manoel Horta
+          lastName: Ribeiro
+          creatorType: author
+        tags: []
+        title: Of Mottes, Baileys, and Stochastic Parrots 🦜
+        url: https://doomscrollingbabel.manoel.xyz/p/of-mottes-baileys-and-stochastic
+        abstractNote: Every six months, Twitter and Bluesky circle back to whether
+          LLMs are “stochastic parrots,” though the debate has become increasingly
+          confusing as proponents of the metaphor have started using it in very different
+          ways.
+        date: '2026-10-02'
+        language: en
+        accessDate: '2026-10-04'
+        websiteTitle: doomscrollingbabel.manoel.xyz
+      title: Of Mottes, Baileys, and Stochastic Parrots 🦜
+      authors:
+      - last: Ribeiro
+        first: Manoel Horta
+      date: '2026-10-02'
+      item_type: webpage
+      abstract: Every six months, Twitter and Bluesky circle back to whether LLMs
+        are “stochastic parrots,” though the debate has become increasingly confusing
+        as proponents of the metaphor have started using it in very different ways.
+  all_post_uris:
+  - at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mwvjwl5hvc2k
+- post_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mwyc7dhckc26
+  thread_root_uri: at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mwyc7dhckc26
+  post_url: https://bsky.app/profile/did:plc:qkfr5ioweycx433nx77x5kop/post/3mwyc7dhckc26
+  post_date: '2026-10-03T16:21:29.747Z'
+  liked_at: '2026-10-03T17:15:44.984215+00:00'
+  author_handle: mikecaulfield.bsky.social
+  author_did: did:plc:qkfr5ioweycx433nx77x5kop
+  post_text: These people do not know what a cookie is
+  links: []
+  all_post_uris:
+  - at://did:plc:qkfr5ioweycx433nx77x5kop/app.bsky.feed.post/3mwyc7dhckc26
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwxwadk4tk2a
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwxwadk4tk2a
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mwxwadk4tk2a
+  post_date: '2026-10-03T12:47:18.494Z'
+  liked_at: '2026-10-03T16:24:14.242209+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: 'Again, you can always detect some faint embarrassment from Democrats
+    when they talk about the ballroom, but “the president demolished a big part of
+    the White House to build himself a palace with bribes from enemy powers” is, by
+    an order of magnitude, the worst corruption scandal '
+  links:
+  - url: https://www.esquire.com/news-politics/politics/a73967876/white-house-ballroom-trump-russia/
+    source: card
+    card_title: A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom.
+      Nothing Sketchy About That, Right?
+    card_description: Surely, our president will face consequences for this insanity.
+    citoid:
+      raw:
+        key: QEZIXR3H
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom.
+          Nothing Sketchy About That, Right?
+        websiteTitle: Esquire
+        date: '2026-10-01'
+        url: https://www.esquire.com/news-politics/politics/a73967876/white-house-ballroom-trump-russia/
+        abstractNote: Surely, our president will face consequences for this insanity.
+        language: en-US
+        accessDate: '2026-10-04'
+      title: A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom.
+        Nothing Sketchy About That, Right?
+      date: '2026-10-01'
+      item_type: webpage
+      abstract: Surely, our president will face consequences for this insanity.
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mwxwadk4tk2a
+- post_uri: at://did:plc:hyjaczl6rxalzhirftxtysuj/app.bsky.feed.post/3mwxras4bx22b
+  thread_root_uri: at://did:plc:hyjaczl6rxalzhirftxtysuj/app.bsky.feed.post/3mwxras4bx22b
+  post_url: https://bsky.app/profile/did:plc:hyjaczl6rxalzhirftxtysuj/post/3mwxras4bx22b
+  post_date: '2026-10-03T11:18:05.037Z'
+  liked_at: '2026-10-03T16:22:47.456214+00:00'
+  author_handle: adriennelaf.bsky.social
+  author_did: did:plc:hyjaczl6rxalzhirftxtysuj
+  post_text: "New just now in The Atlantic: \n\nDavid Robinson resigned this week.\
+    \ He was among the longest-tenured employees at OpenAI—and oversaw safety reports\
+    \ on 12 frontier launches.\n\nHe is very worried: “The time for trial and error\
+    \ is over.”\n\nYou can read his essay here:\n\nwww.theatlantic."
+  links:
+  - url: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo
+    source: card
+    card_title: I Quit OpenAI Because Its Culture Is Broken
+    card_description: The industry’s approach to safety guarantees more failures.
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:hyjaczl6rxalzhirftxtysuj/app.bsky.feed.post/3mwxras4bx22b
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwy2cbzc6k2m
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwy2cbzc6k2m
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mwy2cbzc6k2m
+  post_date: '2026-10-03T13:59:58.971Z'
+  liked_at: '2026-10-03T15:08:12.885208+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: 'A running list of uses I''ve found for LLMs that are not "write my emails
+    for me" or "write some code".
+
+    1. When I first taught my class, I either had time for lecture notes or slides.
+    LLMs took my lecture notes, converted them into draft slides, that I then cleaned
+    up and put into'
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mwy2cbzc6k2m
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwwt2ymcistr
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwwt2ymcistr
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mwwt2ymcistr
