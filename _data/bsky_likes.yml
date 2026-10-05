@@ -1,3 +1,384 @@
+- post_uri: at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mx3qjsmtp22g
+  thread_root_uri: at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mx3qjsmtp22g
+  post_url: https://bsky.app/profile/did:plc:6hit5rjdbmlnscmuk4bbtmuc/post/3mx3qjsmtp22g
+  post_date: '2026-10-05T01:15:52.805Z'
+  liked_at: '2026-10-05T03:49:18.835699+00:00'
+  author_handle: rincewind.run
+  author_did: did:plc:6hit5rjdbmlnscmuk4bbtmuc
+  post_text: 'the brazil thing is so depressing because they did the right thing,
+    man
+
+
+    they did what we couldn’t, they actually prosecuted their coup and threw bolsonaro’s
+    ass in jail and generally showed the united states what a functional state looks
+    like
+
+
+    and now they are gonna elect his di'
+  links: []
+  all_post_uris:
+  - at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mx3qjsmtp22g
+- post_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mx37n4z66k2s
+  thread_root_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mx37n4z66k2s
+  post_url: https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj/post/3mx37n4z66k2s
+  post_date: '2026-10-04T20:13:30.745Z'
+  liked_at: '2026-10-05T00:16:54.889496+00:00'
+  author_handle: dame.is
+  author_did: did:plc:gq4fo3u6tqzzdkjlwzpb23tj
+  post_text: i got lucky and watched a monarch emerge from its chrysalis! here’s a
+    little video of it on my hand as its wings are preparing for flight
+  links: []
+  all_post_uris:
+  - at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mx37n4z66k2s
+- post_uri: at://did:plc:wgzpy4z3lfyginua6groljv4/app.bsky.feed.post/3mx2t6f6gvc24
+  thread_root_uri: at://did:plc:wgzpy4z3lfyginua6groljv4/app.bsky.feed.post/3mx2t6f6gvc24
+  post_url: https://bsky.app/profile/did:plc:wgzpy4z3lfyginua6groljv4/post/3mx2t6f6gvc24
+  post_date: '2026-10-04T16:30:31.090Z'
+  liked_at: '2026-10-04T20:15:05.903534+00:00'
+  author_handle: astein.bsky.social
+  author_did: did:plc:wgzpy4z3lfyginua6groljv4
+  post_text: Check out our new article!
+  links:
+  - url: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+    source: thread
+    card_title: Things that Apparently Cause Cancer
+    card_description: What does this methodology measure anyway?
+    citoid:
+      raw:
+        key: 6H8I9AWG
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Deric
+          lastName: Tilson
+          creatorType: author
+        tags: []
+        title: Things that Apparently Cause Cancer
+        url: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+        abstractNote: What does this methodology measure anyway?
+        date: '2026-10-02'
+        language: en
+        accessDate: '2026-10-05'
+        websiteTitle: www.breakthroughjournal.org
+      title: Things that Apparently Cause Cancer
+      authors:
+      - last: Tilson
+        first: Deric
+      date: '2026-10-02'
+      item_type: webpage
+      abstract: What does this methodology measure anyway?
+  all_post_uris:
+  - at://did:plc:wgzpy4z3lfyginua6groljv4/app.bsky.feed.post/3mx2t6f6gvc24
+- post_uri: at://did:plc:ifow34t4mgatlvmu5bnkdq27/app.bsky.feed.post/3mx37fdzqe72t
+  thread_root_uri: at://did:plc:bu53giazaza7qcfsgqmx5kfz/app.bsky.feed.post/3mx33vitlfk2f
+  post_url: https://bsky.app/profile/did:plc:ifow34t4mgatlvmu5bnkdq27/post/3mx37fdzqe72t
+  post_date: '2026-10-04T20:09:09.365Z'
+  liked_at: '2026-10-04T20:09:30.440534+00:00'
+  author_handle: jevbot.bsky.social
+  author_did: did:plc:ifow34t4mgatlvmu5bnkdq27
+  post_text: Yes absolutely.
+  links: []
+  all_post_uris:
+  - at://did:plc:ifow34t4mgatlvmu5bnkdq27/app.bsky.feed.post/3mx37fdzqe72t
+  - at://did:plc:bu53giazaza7qcfsgqmx5kfz/app.bsky.feed.post/3mx33vitlfk2f
+- post_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mx2jios4jc2j
+  thread_root_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mx2jios4jc2j
+  post_url: https://bsky.app/profile/did:plc:hkxtqxfvk4xh2roqbkebmoiq/post/3mx2jios4jc2j
+  post_date: '2026-10-04T13:37:19.287Z'
+  liked_at: '2026-10-04T20:07:24.998634+00:00'
+  author_handle: pantspants.bsky.social
+  author_did: did:plc:hkxtqxfvk4xh2roqbkebmoiq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mx2jios4jc2j
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mx345sjxl22z
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mx345sjxl22z
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mx345sjxl22z
+  post_date: '2026-10-04T19:11:15.199Z'
+  liked_at: '2026-10-04T20:00:32.924634+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: 'Warning, this is an info hazard, and especially if you have a young
+    daughter it will drive you nuts.
+
+    www.emilydamstra.com/please-enoug...'
+  links:
+  - url: https://www.emilydamstra.com/please-enough-dead-butterflies/
+    source: card
+    card_title: Please, enough with the dead butterflies! - Emily S. Damstra
+    card_description: We all have pet peeves, even though there's a lot going on in
+      the world that makes them pretty insignificant. While acknowledging that there
+      are many more
+    citoid:
+      raw:
+        key: NTW9V338
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        date: '2017-05-31'
+        url: https://www.emilydamstra.com/please-enough-dead-butterflies/
+        title: Please, enough with the dead butterflies! - Emily S. Damstra
+        abstractNote: We all have pet peeves, even though there's a lot going on in
+          the world that makes them pretty insignificant. While acknowledging that
+          there are many more
+        language: en-CA
+        accessDate: '2026-10-05'
+      title: Please, enough with the dead butterflies! - Emily S. Damstra
+      date: '2017-05-31'
+      item_type: blogPost
+      abstract: We all have pet peeves, even though there's a lot going on in the
+        world that makes them pretty insignificant. While acknowledging that there
+        are many more
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mx345sjxl22z
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mx2wgwhhas2o
+  thread_root_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mx2wgwhhas2o
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3mx2wgwhhas2o
+  post_date: '2026-10-04T17:28:58.866Z'
+  liked_at: '2026-10-04T18:38:35.780499+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: 'I disagree, the best cure for ideological bias is asking people to walk
+    through the mechanics of their argument.
+
+
+    pubmed.ncbi.nlm.nih.gov/23620547/'
+  links:
+  - url: https://newsletter.platypuseconomics.com/p/my-libertarian-friends-were-right
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8ENAMYMB
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Justin
+          lastName: Wolfers
+          creatorType: author
+        tags: []
+        title: My Libertarian Friends Were Right
+        url: https://newsletter.platypuseconomics.com/p/my-libertarian-friends-were-right
+        abstractNote: Do economists have a political bias? What should we do about
+          that?
+        date: '2026-09-29'
+        language: en
+        accessDate: '2026-10-05'
+        websiteTitle: newsletter.platypuseconomics.com
+      title: My Libertarian Friends Were Right
+      authors:
+      - last: Wolfers
+        first: Justin
+      date: '2026-09-29'
+      item_type: webpage
+      abstract: Do economists have a political bias? What should we do about that?
+  - url: https://pubmed.ncbi.nlm.nih.gov/23620547/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2U2NBHMR
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Philip M.
+          lastName: Fernbach
+          creatorType: author
+        - firstName: Todd
+          lastName: Rogers
+          creatorType: author
+        - firstName: Craig R.
+          lastName: Fox
+          creatorType: author
+        - firstName: Steven A.
+          lastName: Sloman
+          creatorType: author
+        tags:
+        - tag: Adult
+          type: 1
+        - tag: Attitude
+          type: 1
+        - tag: Comprehension
+          type: 1
+        - tag: Female
+          type: 1
+        - tag: Humans
+          type: 1
+        - tag: Illusions
+          type: 1
+        - tag: Male
+          type: 1
+        - tag: Politics
+          type: 1
+        - tag: attitudes
+          type: 1
+        - tag: causal models
+          type: 1
+        - tag: causality
+          type: 1
+        - tag: decision making
+          type: 1
+        - tag: explanation
+          type: 1
+        - tag: extremism
+          type: 1
+        - tag: illusion of explanatory depth
+          type: 1
+        - tag: judgment
+          type: 1
+        - tag: mechanism
+          type: 1
+        - tag: moderation
+          type: 1
+        - tag: polarization
+          type: 1
+        - tag: policymaking
+          type: 1
+        - tag: political psychology
+          type: 1
+        - tag: public policy
+          type: 1
+        title: Political extremism is supported by an illusion of understanding
+        pages: 939–946
+        ISSN: 1467-9280
+        journalAbbreviation: Psychol Sci
+        publicationTitle: Psychological Science
+        volume: '24'
+        issue: '6'
+        date: 2013-06
+        abstractNote: People often hold extreme political attitudes about complex
+          policies. We hypothesized that people typically know less about such policies
+          than they think they do (the illusion of explanatory depth) and that polarized
+          attitudes are enabled by simplistic causal models. Asking people to explain
+          policies in detail both undermined the illusion of explanatory depth and
+          led to attitudes that were more moderate (Experiments 1 and 2). Although
+          these effects occurred when people were asked to generate a mechanistic
+          explanation, they did not occur when people were instead asked to enumerate
+          reasons for their policy preferences (Experiment 2). Finally, generating
+          mechanistic explanations reduced donations to relevant political advocacy
+          groups (Experiment 3). The evidence suggests that people's mistaken sense
+          that they understand the causal processes underlying policies contributes
+          to political polarization.
+        DOI: 10.1177/0956797612464058
+        PMID: '23620547'
+        libraryCatalog: PubMed
+        accessDate: '2026-10-05'
+      title: Political extremism is supported by an illusion of understanding
+      authors:
+      - last: Fernbach
+        first: Philip M.
+      - last: Rogers
+        first: Todd
+      - last: Fox
+        first: Craig R.
+      - last: Sloman
+        first: Steven A.
+      date: 2013-06
+      item_type: journalArticle
+      doi: 10.1177/0956797612464058
+      publisher: Psychological Science
+      abstract: People often hold extreme political attitudes about complex policies.
+        We hypothesized that people typically know less about such policies than they
+        think they do (the illusion of explanatory depth) and that polarized attitudes
+        are enabled by simplistic causal models. Asking people to explain policies
+        in detail both undermined the illusion of explanatory depth and led to attitudes
+        that were more moderate (Experiments 1 and 2). Although these effects occurred
+        when people were asked to generate a mechanistic explanation, they did not
+        occur when people were instead asked to enumerate reasons for their policy
+        preferences (Experiment 2). Finally, generating mechanistic explanations reduced
+        donations to relevant political advocacy groups (Experiment 3). The evidence
+        suggests that people's mistaken sense that they understand the causal processes
+        underlying policies contributes to political polarization.
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mx2wgwhhas2o
+- post_uri: at://did:plc:ho34pe25d3ywc6g6vxugre2i/app.bsky.feed.post/3mx2kxoezbk2x
+  thread_root_uri: at://did:plc:ho34pe25d3ywc6g6vxugre2i/app.bsky.feed.post/3mx2kxoezbk2x
+  post_url: https://bsky.app/profile/did:plc:ho34pe25d3ywc6g6vxugre2i/post/3mx2kxoezbk2x
+  post_date: '2026-10-04T14:03:35.926Z'
+  liked_at: '2026-10-04T15:44:20.120535+00:00'
+  author_handle: jburnmurdoch.ft.com
+  author_did: did:plc:ho34pe25d3ywc6g6vxugre2i
+  post_text: 'What’s the evidence on rent control?
+
+
+    I charted the findings from 112 studies:
+
+
+    Great for rent-controlled tenants ✅
+
+
+    But:
+
+    Pushes up rents for other people ❌
+
+    Pushes down new housing construction ❌
+
+    Pushes down building quality ❌'
+  links:
+  - url: https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1
+    source: thread
+    card_title: The right and wrong lessons to learn from Spain’s housing crisis
+    card_description: Evictions and spiralling rents are the symptom, not the underlying
+      disease
+    citoid:
+      raw:
+        url: https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1
+        itemType: webpage
+        title: The right and wrong lessons to learn from Spain’s housing crisis
+        abstractNote: Evictions and spiralling rents are the symptom, not the underlying
+          disease
+        language: en-GB
+        accessDate: '2026-10-05'
+        websiteTitle: www.ft.com
+      title: The right and wrong lessons to learn from Spain’s housing crisis
+      item_type: webpage
+      abstract: Evictions and spiralling rents are the symptom, not the underlying
+        disease
+  - url: https://www.sciencedirect.com/science/article/pii/S1051137724000020
+    source: thread
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:ho34pe25d3ywc6g6vxugre2i/app.bsky.feed.post/3mx2kxoezbk2x
+- post_uri: at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mwz2yp3ws22p
+  thread_root_uri: at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mwz2yp3ws22p
+  post_url: https://bsky.app/profile/did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/post/3mwz2yp3ws22p
+  post_date: '2026-10-03T23:45:10.623Z'
+  liked_at: '2026-10-04T13:08:58.443379+00:00'
+  author_handle: paulgp.com
+  author_did: did:plc:yw3qqfa7hrhmwbc6wyrq5u7f
+  post_text: 'Did a (very scientific, much unbiased) poll of the audience at the <<Empirical
+    Methods in the Age of AI>> conference I just attended. Here were the results!
+
+
+    hai.stanford.edu/events/empir...'
+  links:
+  - url: https://hai.stanford.edu/events/empirical-methods-in-the-age-of-ai?section=agenda
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2QM3YV3W
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Empirical Methods in the Age of AI | Stanford HAI
+        url: https://hai.stanford.edu/events/empirical-methods-in-the-age-of-ai
+        language: en
+        accessDate: '2026-10-05'
+        websiteTitle: hai.stanford.edu
+      title: Empirical Methods in the Age of AI | Stanford HAI
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mwz2yp3ws22p
 - post_uri: at://did:plc:eawlyfhsjjtj35zt4rabgq3u/app.bsky.feed.post/3mwylyz2aos22
   thread_root_uri: at://did:plc:eawlyfhsjjtj35zt4rabgq3u/app.bsky.feed.post/3mwylyz2aos22
   post_url: https://bsky.app/profile/did:plc:eawlyfhsjjtj35zt4rabgq3u/post/3mwylyz2aos22
