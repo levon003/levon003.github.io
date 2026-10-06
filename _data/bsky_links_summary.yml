@@ -1,5 +1,5 @@
-entries_with_links: 2435
-total_links: 2991
+entries_with_links: 2436
+total_links: 2992
 unique_domains: 994
 top_domains:
 - domain: arxiv.org
@@ -34,7 +34,7 @@ top_accounts:
   count: 39
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 37
+  count: 38
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 34

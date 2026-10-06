@@ -1,3 +1,59 @@
+- post_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3mx7cuubrec2u
+  thread_root_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3mx7cuubrec2u
+  post_url: https://bsky.app/profile/did:plc:3zyo4iakhqs47bttjalqgbk7/post/3mx7cuubrec2u
+  post_date: '2026-10-06T11:22:10.206Z'
+  liked_at: '2026-10-06T11:31:55.189030+00:00'
+  author_handle: statsepi.bsky.social
+  author_did: did:plc:3zyo4iakhqs47bttjalqgbk7
+  post_text: "Many papers I see:\n\nA global problem\nSearch for modifiable \"risk\
+    \ factors\"\nA cohort study sorry I mean real-world data \n\"Multivariate\" regression\
+    \ \nSome associations\nCan't say cause \nResidual confounding \nPolicy must change\
+    \ in ways having nothing to do with our findings\nMore resear"
+  links: []
+  all_post_uris:
+  - at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3mx7cuubrec2u
+- post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mx5fyzn2e226
+  thread_root_uri: at://did:plc:ptwfknk5mn2c7mwpvjrfnoay/app.bsky.feed.post/3mx5fuw6nuc2q
+  post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3mx5fyzn2e226
+  post_date: '2026-10-05T17:12:51.784Z'
+  liked_at: '2026-10-05T18:18:06.752837+00:00'
+  author_handle: segyges.bsky.social
+  author_did: did:plc:vszw3ess46odfhnzdsy4huae
+  post_text: i would try to pull stuff towards mostly openly licensed data but every
+    indication is that nobody complaining about this actually cares about it
+  links: []
+  all_post_uris:
+  - at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mx5fyzn2e226
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mx5a3ae5akzq
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mx5a3ae5akzq
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mx5a3ae5akzq
+  post_date: '2026-10-05T15:26:42.347Z'
+  liked_at: '2026-10-05T16:45:30.323833+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: ''
+  links:
+  - url: https://x.com/entropicbloom/status/2107026868322869581?s=20
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://x.com/entropicbloom/status/2107026868322869581?s=20
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-10-05'
+        title: ☼ (@entropicbloom) on X
+        abstractNote: '@repligate had to run the experiment'
+        accessDate: '2026-10-06'
+      title: ☼ (@entropicbloom) on X
+      date: '2026-10-05'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: '@repligate had to run the experiment'
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mx5a3ae5akzq
 - post_uri: at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mx3qjsmtp22g
   thread_root_uri: at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mx3qjsmtp22g
   post_url: https://bsky.app/profile/did:plc:6hit5rjdbmlnscmuk4bbtmuc/post/3mx3qjsmtp22g
@@ -853,7 +909,7 @@
   thread_root_uri: at://did:plc:inilth7th5xio5xu6rxwhync/app.bsky.feed.post/3mwy3wfsyb22t
   post_url: https://bsky.app/profile/did:plc:inilth7th5xio5xu6rxwhync/post/3mwy3wfsyb22t
   post_date: '2026-10-03T14:29:07.787Z'
-  liked_at: '2026-10-03T19:01:22.346228+00:00'
+  liked_at: '2026-10-05T13:56:44.643812+00:00'
   author_handle: thechrzanone.bsky.social
   author_did: did:plc:inilth7th5xio5xu6rxwhync
   post_text: 'Thankful to be so busy next week for my first time at AIME-Con! It''ll
@@ -862,6 +918,7 @@
   links: []
   all_post_uris:
   - at://did:plc:inilth7th5xio5xu6rxwhync/app.bsky.feed.post/3mwy3wfsyb22t
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mx52rjrsfa2m
 - post_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mwyf45fl5s2n
   thread_root_uri: at://did:plc:oxaernim5mj2mmy3ytrvb42n/app.bsky.feed.post/3mwyf45fl5s2n
   post_url: https://bsky.app/profile/did:plc:oxaernim5mj2mmy3ytrvb42n/post/3mwyf45fl5s2n
