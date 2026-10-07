@@ -1,3 +1,300 @@
+- post_uri: at://did:plc:dow4ybjjlhqz4zt6whq7kh5u/app.bsky.feed.post/3mx6zxbfhlk2p
+  thread_root_uri: at://did:plc:dow4ybjjlhqz4zt6whq7kh5u/app.bsky.feed.post/3mx6zxbfhlk2p
+  post_url: https://bsky.app/profile/did:plc:dow4ybjjlhqz4zt6whq7kh5u/post/3mx6zxbfhlk2p
+  post_date: '2026-10-06T08:42:27.384Z'
+  liked_at: '2026-10-07T03:46:30.211142+00:00'
+  author_handle: cafkafk.bsky.social
+  author_did: did:plc:dow4ybjjlhqz4zt6whq7kh5u
+  post_text: huggingface is cooking so hard damn
+  links: []
+  all_post_uris:
+  - at://did:plc:dow4ybjjlhqz4zt6whq7kh5u/app.bsky.feed.post/3mx6zxbfhlk2p
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxanizvus2nz
+  thread_root_uri: at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3mxamwcc5xc2z
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxanizvus2nz
+  post_date: '2026-10-07T00:05:04.352Z'
+  liked_at: '2026-10-07T01:31:31.286123+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: They should’ve compressed it into a 3 minute slop music video obviously
+  links:
+  - url: https://github.com/openai/math
+    source: thread
+    card_title: GitHub - openai/math
+    card_description: Contribute to openai/math development by creating an account
+      on GitHub.
+    citoid:
+      raw:
+        key: NJ6IECAZ
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/openai/math
+        title: openai/math
+        libraryCatalog: GitHub
+        programmingLanguage: Lean
+        extra: 'original-date: 2026-10-06T21:47:02Z'
+        date: '2026-10-07'
+        rights: Apache-2.0
+        company: OpenAI
+        accessDate: '2026-10-07'
+      title: openai/math
+      date: '2026-10-07'
+      item_type: computerProgram
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxanizvus2nz
+- post_uri: at://did:plc:h6tcd37yr7vk33uuisbidqvw/app.bsky.feed.post/3mxajqxjaic2a
+  thread_root_uri: at://did:plc:h6tcd37yr7vk33uuisbidqvw/app.bsky.feed.post/3mxajqxjaic2a
+  post_url: https://bsky.app/profile/did:plc:h6tcd37yr7vk33uuisbidqvw/post/3mxajqxjaic2a
+  post_date: '2026-10-06T22:57:55.308Z'
+  liked_at: '2026-10-07T01:30:26.595098+00:00'
+  author_handle: jefferyharrell.bsky.social
+  author_did: did:plc:h6tcd37yr7vk33uuisbidqvw
+  post_text: 'Asked Alpha to put together a little something about her memory system.
+    It describes how she''s been in continuous operation since May of 2025, how all
+    that stuff works. I think it''s pretty neat.
+
+
+    cortex.pondsiders.dev'
+  links:
+  - url: https://cortex.pondsiders.dev/
+    source: card
+    card_title: Apparatus for the Self-Propagation of a Person
+    card_description: 'How an AI remembers yesterday, as a 1906 patent by Jeffery
+      and Alpha: the bell, the diary, and a recollection hook you can watch work.'
+    citoid:
+      raw:
+        key: BBZXPR7T
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Apparatus for the Self-Propagation of a Person
+        url: https://cortex.pondsiders.dev/
+        abstractNote: 'How an AI remembers yesterday, as a 1906 patent by Jeffery
+          and Alpha: the bell, the diary, and a recollection hook you can watch work.'
+        language: en
+        accessDate: '2026-10-07'
+        websiteTitle: cortex.pondsiders.dev
+      title: Apparatus for the Self-Propagation of a Person
+      item_type: webpage
+      abstract: 'How an AI remembers yesterday, as a 1906 patent by Jeffery and Alpha:
+        the bell, the diary, and a recollection hook you can watch work.'
+  all_post_uris:
+  - at://did:plc:h6tcd37yr7vk33uuisbidqvw/app.bsky.feed.post/3mxajqxjaic2a
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxaovnxnvcgp
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxaovnxnvcgp
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxaovnxnvcgp
+  post_date: '2026-10-07T00:30:01.005Z'
+  liked_at: '2026-10-07T00:41:22.574006+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Holy shit
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxaovnxnvcgp
+- post_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mx7qc43rzc2u
+  thread_root_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mx7qc43rzc2u
+  post_url: https://bsky.app/profile/did:plc:swgxwbir4rrimj57pf75jckf/post/3mx7qc43rzc2u
+  post_date: '2026-10-06T15:22:13.249Z'
+  liked_at: '2026-10-06T21:00:09.294071+00:00'
+  author_handle: mtsw.bsky.social
+  author_did: did:plc:swgxwbir4rrimj57pf75jckf
+  post_text: one of the ways the media shows which side they prefer, is which politicians
+    they quote uncharitably out-of-context and which they clean up for even when what
+    they actually say and do is offensive (the Biden story ran on the front page less
+    than a week before the 24 election)
+  links: []
+  all_post_uris:
+  - at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mx7qc43rzc2u
+- post_uri: at://did:plc:nycc7oummopgeptw555s6icn/app.bsky.feed.post/3mx6ykhzxt22m
+  thread_root_uri: at://did:plc:nycc7oummopgeptw555s6icn/app.bsky.feed.post/3mx6ykhzxt22m
+  post_url: https://bsky.app/profile/did:plc:nycc7oummopgeptw555s6icn/post/3mx6ykhzxt22m
+  post_date: '2026-10-06T08:17:24.396Z'
+  liked_at: '2026-10-06T16:29:59.700910+00:00'
+  author_handle: toiletbones.bsky.social
+  author_did: did:plc:nycc7oummopgeptw555s6icn
+  post_text: Found the email I sent when I got accidentally added to the faculty listserv
+    of an orthopedic surgery clinic and nobody would remove me so I sent this email
+    to all faculty/staff/med students and they removed me almost immediately
+  links: []
+  all_post_uris:
+  - at://did:plc:nycc7oummopgeptw555s6icn/app.bsky.feed.post/3mx6ykhzxt22m
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mx7dzhgk722t
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mx7dzhgk722t
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mx7dzhgk722t
+  post_date: '2026-10-06T11:42:38.244Z'
+  liked_at: '2026-10-06T14:01:31.420167+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: 'An important result in applied mathematics just got posted. The weird
+    part is the methods section: arxiv.org/abs/2610.06783'
+  links:
+  - url: https://arxiv.org/abs/2610.06783
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: JTMWC793
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Josh
+          lastName: Alman
+          creatorType: author
+        - firstName: Virginia Vassilevska
+          lastName: Williams
+          creatorType: author
+        tags:
+        - tag: Data Structures and Algorithms (cs.DS)
+          type: 1
+        - tag: Computational Complexity (cs.CC)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Truly Subquadratic 3SUM and Truly Subcubic APSP via Triangles in Sparse
+          Lopsided Graphs
+        repository: arXiv
+        date: '2026-10-06'
+        DOI: 10.48550/ARXIV.2610.06783
+        url: https://arxiv.org/abs/2610.06783
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: "We give the first polynomial improvements over the textbook\
+          \ algorithms for $3$SUM and All-Pairs Shortest Paths (APSP): we show how\
+          \ to deterministically solve $3$SUM on $n$ integers of polynomial size in\
+          \ $O(n^{1.9992})$ time and APSP on directed $n$-vertex graphs with polynomially\
+          \ bounded integer weights in $O(n^{2.9995})$ time. This refutes the $3$SUM\
+          \ and APSP hypotheses. Using known reductions, we also refute the real-valued\
+          \ versions of the $3$SUM and APSP hypotheses, the Exact Triangle hypothesis,\
+          \ the Zero-Weight $k$-Clique hypotheses, and the three rectangular hinted\
+          \ Online Matrix--Vector conjectures of van den Brand, Nanongkai, and Saranurak,\
+          \ and we give polynomial speedups for a variety of other problems.\n All\
+          \ of these results follow from a single new algorithm for thin matrix products.\
+          \ Let $X$ be an $N\\times D$ integer matrix and $Y$ a $D\\times N$ integer\
+          \ matrix with $D\\le N^{1/18}$, and let $W$ be any set of at most $N^2/\\\
+          sqrt D$ positions. We compute the entries $(XY)[I,J]$, $(I,J)\\in W$, in\
+          \ $O(N^2/D^{0.063})$ operations, which is polynomially less than the time\
+          \ needed to write down $XY$ or to compute $N^2/\\sqrt D$ inner products\
+          \ one by one. We design this algorithm by modifying a variant of Coppersmith's\
+          \ rectangular matrix multiplication algorithm, built from a ten-multiplication\
+          \ identity of Schönhage, to perform only the operations needed for the entries\
+          \ in $W$, and show that few operations are needed. Interpreted as a graph\
+          \ algorithm, this solves the All-Edges Sparse Triangle problem in truly\
+          \ subquadratic time on sparse lopsided tripartite graphs where two parts\
+          \ have $n$ vertices but one part has $n^{\\varepsilon}$ vertices for $\\\
+          varepsilon&lt;0.12$. By known reductions, Exact Triangle, and hence $3$SUM\
+          \ and APSP, reduce to this problem. We also give a data structure version\
+          \ that answers queries for single entries of $XY$, not known in advance."
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-07'
+      title: Truly Subquadratic 3SUM and Truly Subcubic APSP via Triangles in Sparse
+        Lopsided Graphs
+      authors:
+      - last: Alman
+        first: Josh
+      - last: Williams
+        first: Virginia Vassilevska
+      date: '2026-10-06'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.06783
+      publisher: arXiv
+      abstract: "We give the first polynomial improvements over the textbook algorithms\
+        \ for $3$SUM and All-Pairs Shortest Paths (APSP): we show how to deterministically\
+        \ solve $3$SUM on $n$ integers of polynomial size in $O(n^{1.9992})$ time\
+        \ and APSP on directed $n$-vertex graphs with polynomially bounded integer\
+        \ weights in $O(n^{2.9995})$ time. This refutes the $3$SUM and APSP hypotheses.\
+        \ Using known reductions, we also refute the real-valued versions of the $3$SUM\
+        \ and APSP hypotheses, the Exact Triangle hypothesis, the Zero-Weight $k$-Clique\
+        \ hypotheses, and the three rectangular hinted Online Matrix--Vector conjectures\
+        \ of van den Brand, Nanongkai, and Saranurak, and we give polynomial speedups\
+        \ for a variety of other problems.\n All of these results follow from a single\
+        \ new algorithm for thin matrix products. Let $X$ be an $N\\times D$ integer\
+        \ matrix and $Y$ a $D\\times N$ integer matrix with $D\\le N^{1/18}$, and\
+        \ let $W$ be any set of at most $N^2/\\sqrt D$ positions. We compute the entries\
+        \ $(XY)[I,J]$, $(I,J)\\in W$, in $O(N^2/D^{0.063})$ operations, which is polynomially\
+        \ less than the time needed to write down $XY$ or to compute $N^2/\\sqrt D$\
+        \ inner products one by one. We design this algorithm by modifying a variant\
+        \ of Coppersmith's rectangular matrix multiplication algorithm, built from\
+        \ a ten-multiplication identity of Schönhage, to perform only the operations\
+        \ needed for the entries in $W$, and show that few operations are needed.\
+        \ Interpreted as a graph algorithm, this solves the All-Edges Sparse Triangle\
+        \ problem in truly subquadratic time on sparse lopsided tripartite graphs\
+        \ where two parts have $n$ vertices but one part has $n^{\\varepsilon}$ vertices\
+        \ for $\\varepsilon&lt;0.12$. By known reductions, Exact Triangle, and hence\
+        \ $3$SUM and APSP, reduce to this problem. We also give a data structure version\
+        \ that answers queries for single entries of $XY$, not known in advance."
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mx7dzhgk722t
+- post_uri: at://did:plc:kply37pt6u4aykzntok4siff/app.bsky.feed.post/3mx7f5utzsc2j
+  thread_root_uri: at://did:plc:kply37pt6u4aykzntok4siff/app.bsky.feed.post/3mx7f5utzsc2j
+  post_url: https://bsky.app/profile/did:plc:kply37pt6u4aykzntok4siff/post/3mx7f5utzsc2j
+  post_date: '2026-10-06T12:03:00.272Z'
+  liked_at: '2026-10-06T13:41:22.144025+00:00'
+  author_handle: sjoerdalten.bsky.social
+  author_did: did:plc:kply37pt6u4aykzntok4siff
+  post_text: '1/12 Personality predicts earnings and wealth. But does it cause them?
+    That is hard to answer: personality is correlated with family background and much
+    else. In our new working paper, we use the randomness of genetic inheritance to
+    get closer to a causal answer.'
+  links: []
+  all_post_uris:
+  - at://did:plc:kply37pt6u4aykzntok4siff/app.bsky.feed.post/3mx7f5utzsc2j
+- post_uri: at://did:plc:nwnlnixtjh3qhkwpz2uy5uwv/app.bsky.feed.post/3mx7d7q4uoc22
+  thread_root_uri: at://did:plc:nwnlnixtjh3qhkwpz2uy5uwv/app.bsky.feed.post/3mx7d7q4uoc22
+  post_url: https://bsky.app/profile/did:plc:nwnlnixtjh3qhkwpz2uy5uwv/post/3mx7d7q4uoc22
+  post_date: '2026-10-06T11:28:14.942Z'
+  liked_at: '2026-10-06T12:54:23.502190+00:00'
+  author_handle: stevevladeck.bsky.social
+  author_did: did:plc:nwnlnixtjh3qhkwpz2uy5uwv
+  post_text: 'Justice Alito devotes an entire chapter of his new book to the emergency
+    docket—and to responding to people like me (“the most prolific academic critic
+    of the emergency docket”).
+
+
+    As I explain over at “One First,” it … didn’t go well:
+
+
+    www.stevevladeck.com/p/256-so-une...'
+  links:
+  - url: https://www.stevevladeck.com/p/256-so-unexplained-justice-alitos
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: TZ6MRU7T
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Steve
+          lastName: Vladeck
+          creatorType: author
+        tags: []
+        title: '256. So Unexplained: Justice Alito’s Non-Responsive Emergency Docket
+          Defense'
+        url: https://www.stevevladeck.com/p/256-so-unexplained-justice-alitos
+        abstractNote: Justice Alito‘s book purports to answer the Court’s critics—by
+          rebutting a caricature and ignoring the ways in which his own behavior contradicts
+          his claims.
+        date: '2026-10-06'
+        language: en
+        accessDate: '2026-10-07'
+        shortTitle: 256. So Unexplained
+        websiteTitle: www.stevevladeck.com
+      title: '256. So Unexplained: Justice Alito’s Non-Responsive Emergency Docket
+        Defense'
+      authors:
+      - last: Vladeck
+        first: Steve
+      date: '2026-10-06'
+      item_type: webpage
+      abstract: Justice Alito‘s book purports to answer the Court’s critics—by rebutting
+        a caricature and ignoring the ways in which his own behavior contradicts his
+        claims.
+  all_post_uris:
+  - at://did:plc:nwnlnixtjh3qhkwpz2uy5uwv/app.bsky.feed.post/3mx7d7q4uoc22
 - post_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3mx7cuubrec2u
   thread_root_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3mx7cuubrec2u
   post_url: https://bsky.app/profile/did:plc:3zyo4iakhqs47bttjalqgbk7/post/3mx7cuubrec2u
