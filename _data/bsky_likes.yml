@@ -1,3 +1,317 @@
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxd5abev722j
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxd5abev722j
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mxd5abev722j
+  post_date: '2026-10-07T23:51:49.537Z'
+  liked_at: '2026-10-08T02:28:15.780394+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Calculators are impressive
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxd5abev722j
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mxclwtcgzs26
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mxclwtcgzs26
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3mxclwtcgzs26
+  post_date: '2026-10-07T18:42:19.180Z'
+  liked_at: '2026-10-07T22:41:23.254457+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: People have argued that LLMs are incapable of certain kinds of innovation
+    (see e.g. LLMs Can't Jump, openreview.net/forum?id=klU...). But even if that's
+    true there might be other kinds of innovation —  perhaps requiring broad interdisciplinary
+    knowledge — that unassisted humans a
+  links:
+  - url: https://openreview.net/forum?id=klU4737opt
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: VVYBBGJM
+        version: 0
+        itemType: webpage
+        url: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
+        title: Verifying your browser | OpenReview
+        accessDate: '2026-10-08'
+        websiteTitle: openreview.net
+      title: Verifying your browser | OpenReview
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3mxclwtcgzs26
+- post_uri: at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mfp66y6pc22s
+  thread_root_uri: at://did:plc:k55lv2gs2tqqvotmpxclht6y/app.bsky.feed.post/3mfp5wrfcpc2l
+  post_url: https://bsky.app/profile/did:plc:sz6lf2qphcdgxtoh67sky5ul/post/3mfp66y6pc22s
+  post_date: '2026-02-25T17:07:27.648Z'
+  liked_at: '2026-10-07T17:56:23.619260+00:00'
+  author_handle: stephenjwild.bsky.social
+  author_did: did:plc:sz6lf2qphcdgxtoh67sky5ul
+  post_text: 'Me, taking Tylenol while eating a snack and drinking a huge glass of
+    water: "Man, that Tylenol sure helped."
+
+
+    Causal inference is my passion.'
+  links: []
+  all_post_uris:
+  - at://did:plc:sz6lf2qphcdgxtoh67sky5ul/app.bsky.feed.post/3mfp66y6pc22s
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxc5rimcrk2v
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxc5rimcrk2v
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mxc5rimcrk2v
+  post_date: '2026-10-07T14:28:47.773Z'
+  liked_at: '2026-10-07T14:58:39.126294+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: 'In case you missed my hot take yesterday.
+
+    www.interconnects.ai/p/the-cyber-...'
+  links:
+  - url: https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: WA9VZMZJ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Nathan
+          lastName: Lambert
+          creatorType: author
+        tags: []
+        title: The Cyber Risk Discourse is Broken
+        url: https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken
+        abstractNote: Open-weights, ideology, and acknowledging trade-offs.
+        date: '2026-10-06'
+        language: en
+        accessDate: '2026-10-08'
+        websiteTitle: www.interconnects.ai
+      title: The Cyber Risk Discourse is Broken
+      authors:
+      - last: Lambert
+        first: Nathan
+      date: '2026-10-06'
+      item_type: webpage
+      abstract: Open-weights, ideology, and acknowledging trade-offs.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxc5rimcrk2v
+- post_uri: at://did:plc:ayoll3ww3v3zgh6m6damfaaf/app.bsky.feed.post/3mxbeb444qp2w
+  thread_root_uri: at://did:plc:ayoll3ww3v3zgh6m6damfaaf/app.bsky.feed.post/3mxbeb444qp2w
+  post_url: https://bsky.app/profile/did:plc:ayoll3ww3v3zgh6m6damfaaf/post/3mxbeb444qp2w
+  post_date: '2026-10-07T06:52:13.850Z'
+  liked_at: '2026-10-07T12:36:44.822311+00:00'
+  author_handle: arnicas.bsky.social
+  author_did: did:plc:ayoll3ww3v3zgh6m6damfaaf
+  post_text: EmbeddingGemma 2, a tiny multimodal mobile ready embedding model
+  links:
+  - url: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+    source: card
+    card_title: 'EmbeddingGemma 2: an open, lightweight multimodal embedding model'
+    card_description: Introducing EmbeddingGemma 2, an open multimodal embedding model
+      optimized for privacy-first use cases
+    citoid:
+      raw:
+        key: WF9L2BXU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'EmbeddingGemma 2: an open, lightweight multimodal embedding model'
+        websiteTitle: Google
+        date: '2026-10-06'
+        url: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+        abstractNote: Introducing EmbeddingGemma 2, an open multimodal embedding model
+          optimized for privacy-first use cases
+        language: en-us
+        accessDate: '2026-10-08'
+        shortTitle: EmbeddingGemma 2
+      title: 'EmbeddingGemma 2: an open, lightweight multimodal embedding model'
+      date: '2026-10-06'
+      item_type: webpage
+      abstract: Introducing EmbeddingGemma 2, an open multimodal embedding model optimized
+        for privacy-first use cases
+  all_post_uris:
+  - at://did:plc:ayoll3ww3v3zgh6m6damfaaf/app.bsky.feed.post/3mxbeb444qp2w
+- post_uri: at://did:plc:f6znunbzuh6qhkiqox2frmpk/app.bsky.feed.post/3mxb2knqn5k2w
+  thread_root_uri: at://did:plc:f6znunbzuh6qhkiqox2frmpk/app.bsky.feed.post/3mxb2knqn5k2w
+  post_url: https://bsky.app/profile/did:plc:f6znunbzuh6qhkiqox2frmpk/post/3mxb2knqn5k2w
+  post_date: '2026-10-07T03:58:37.350Z'
+  liked_at: '2026-10-07T12:36:38.911254+00:00'
+  author_handle: umakarma.bsky.social
+  author_did: did:plc:f6znunbzuh6qhkiqox2frmpk
+  post_text: "Ah, I heard this talk, but missed when the paper actually came out.\
+    \ LLMs aren't ready to be used as \"humans\" for social science research. \n\n\
+    Congrats to the extraordinary list of authors!\n\nwww.science.org/doi/10.1126/..."
+  links:
+  - url: https://www.science.org/doi/10.1126/sciadv.aeh8260
+    source: card
+    card_title: 'Digital twins are funhouse mirrors: Five systematic distortions'
+    card_description: Scientists and practitioners are aggressively moving to deploy
+      digital twins—large language model (LLM)-based models of individuals—across
+      social science and policy research. We conducted 19 preregist...
+    citoid:
+      raw:
+        key: XWD92LEL
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Tianyi
+          lastName: Peng
+          creatorType: author
+        - firstName: Melanie
+          lastName: Brucks
+          creatorType: author
+        - firstName: George
+          lastName: Gui
+          creatorType: author
+        - firstName: Daniel J.
+          lastName: Merlau
+          creatorType: author
+        - firstName: Grace Jiarui
+          lastName: Fan
+          creatorType: author
+        - firstName: Malek Ben
+          lastName: Sliman
+          creatorType: author
+        - firstName: Eric J.
+          lastName: Johnson
+          creatorType: author
+        - firstName: Abdullah
+          lastName: Althenayyan
+          creatorType: author
+        - firstName: Silvia
+          lastName: Bellezza
+          creatorType: author
+        - firstName: Dante
+          lastName: Donati
+          creatorType: author
+        - firstName: Hortense
+          lastName: Fong
+          creatorType: author
+        - firstName: Elizabeth
+          lastName: Friedman
+          creatorType: author
+        - firstName: Ariana
+          lastName: Guevara
+          creatorType: author
+        - firstName: Mohamed
+          lastName: Hussein
+          creatorType: author
+        - firstName: Kinshuk
+          lastName: Jerath
+          creatorType: author
+        - firstName: Bruce
+          lastName: Kogut
+          creatorType: author
+        - firstName: Akshit
+          lastName: Kumar
+          creatorType: author
+        - firstName: Kristen
+          lastName: Lane
+          creatorType: author
+        - firstName: Hannah
+          lastName: Li
+          creatorType: author
+        - firstName: Vicki
+          lastName: Morwitz
+          creatorType: author
+        - firstName: Oded
+          lastName: Netzer
+          creatorType: author
+        - firstName: Patryk
+          lastName: Perkowski
+          creatorType: author
+        - firstName: Olivier
+          lastName: Toubia
+          creatorType: author
+        tags: []
+        publicationTitle: Science Advances
+        volume: '12'
+        issue: '36'
+        language: en
+        ISSN: 2375-2548
+        date: '2026-09-04'
+        DOI: 10.1126/sciadv.aeh8260
+        url: https://www.science.org/doi/10.1126/sciadv.aeh8260
+        title: 'Digital twins are funhouse mirrors: Five systematic distortions'
+        libraryCatalog: CrossRef
+        accessDate: '2026-10-08'
+        shortTitle: Digital twins are funhouse mirrors
+      title: 'Digital twins are funhouse mirrors: Five systematic distortions'
+      authors:
+      - last: Peng
+        first: Tianyi
+      - last: Brucks
+        first: Melanie
+      - last: Gui
+        first: George
+      - last: Merlau
+        first: Daniel J.
+      - last: Fan
+        first: Grace Jiarui
+      - last: Sliman
+        first: Malek Ben
+      - last: Johnson
+        first: Eric J.
+      - last: Althenayyan
+        first: Abdullah
+      - last: Bellezza
+        first: Silvia
+      - last: Donati
+        first: Dante
+      - last: Fong
+        first: Hortense
+      - last: Friedman
+        first: Elizabeth
+      - last: Guevara
+        first: Ariana
+      - last: Hussein
+        first: Mohamed
+      - last: Jerath
+        first: Kinshuk
+      - last: Kogut
+        first: Bruce
+      - last: Kumar
+        first: Akshit
+      - last: Lane
+        first: Kristen
+      - last: Li
+        first: Hannah
+      - last: Morwitz
+        first: Vicki
+      - last: Netzer
+        first: Oded
+      - last: Perkowski
+        first: Patryk
+      - last: Toubia
+        first: Olivier
+      date: '2026-09-04'
+      item_type: journalArticle
+      doi: 10.1126/sciadv.aeh8260
+      publisher: Science Advances
+  all_post_uris:
+  - at://did:plc:f6znunbzuh6qhkiqox2frmpk/app.bsky.feed.post/3mxb2knqn5k2w
+- post_uri: at://did:plc:qqrgwtnzwr7ymeu2rrefkuhs/app.bsky.feed.post/3mxahmqpzok2n
+  thread_root_uri: at://did:plc:qqrgwtnzwr7ymeu2rrefkuhs/app.bsky.feed.post/3mxahmqpzok2n
+  post_url: https://bsky.app/profile/did:plc:qqrgwtnzwr7ymeu2rrefkuhs/post/3mxahmqpzok2n
+  post_date: '2026-10-06T22:19:46.488Z'
+  liked_at: '2026-10-07T12:31:32.611244+00:00'
+  author_handle: cdsamii.bsky.social
+  author_did: did:plc:qqrgwtnzwr7ymeu2rrefkuhs
+  post_text: 'A thoughtful provocation: not disclosing about LLM use or nonuse is
+    either dishonest (if you actually did use it) or reflects carelessness (if you
+    actually didn’t use it).
+
+
+    pmaronow.github.io/llm-disclosu...'
+  links:
+  - url: https://pmaronow.github.io/llm-disclosure.pdf
+    source: card
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:qqrgwtnzwr7ymeu2rrefkuhs/app.bsky.feed.post/3mxahmqpzok2n
 - post_uri: at://did:plc:dow4ybjjlhqz4zt6whq7kh5u/app.bsky.feed.post/3mx6zxbfhlk2p
   thread_root_uri: at://did:plc:dow4ybjjlhqz4zt6whq7kh5u/app.bsky.feed.post/3mx6zxbfhlk2p
   post_url: https://bsky.app/profile/did:plc:dow4ybjjlhqz4zt6whq7kh5u/post/3mx6zxbfhlk2p

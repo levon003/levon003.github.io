@@ -1,5 +1,5 @@
-entries_with_links: 2440
-total_links: 2996
+entries_with_links: 2445
+total_links: 3001
 unique_domains: 995
 top_domains:
 - domain: arxiv.org
@@ -11,7 +11,7 @@ top_domains:
 - domain: simonwillison.net
   count: 81
 - domain: github.io
-  count: 78
+  count: 79
 - domain: doi.org
   count: 55
 - domain: acm.org
@@ -37,7 +37,7 @@ top_accounts:
   count: 39
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
-  count: 34
+  count: 35
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
