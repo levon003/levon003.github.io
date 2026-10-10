@@ -1,3 +1,214 @@
+- post_uri: at://did:plc:kpt756yhyqav7asgte6k7l7m/app.bsky.feed.post/3mxepywf4ec2j
+  thread_root_uri: at://did:plc:kpt756yhyqav7asgte6k7l7m/app.bsky.feed.post/3mxepywf4ec2j
+  post_url: https://bsky.app/profile/did:plc:kpt756yhyqav7asgte6k7l7m/post/3mxepywf4ec2j
+  post_date: '2026-10-08T15:00:23.966Z'
+  liked_at: '2026-10-10T03:10:05.299762+00:00'
+  author_handle: mikelacher.bsky.social
+  author_did: did:plc:kpt756yhyqav7asgte6k7l7m
+  post_text: i rebooted minesweeper as a AAA shooter. loot boxes coming soon minesweeper.mikelacher.com
+  links:
+  - url: https://minesweeper.mikelacher.com/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: ARWYMAR3
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Triple-A Minesweeper
+        url: https://minesweeper.mikelacher.com/
+        abstractNote: Sweep to survive in the action-packed, AAA reboot of the classic
+          puzzle game.
+        language: en
+        accessDate: '2026-10-10'
+        websiteTitle: minesweeper.mikelacher.com
+      title: Triple-A Minesweeper
+      item_type: webpage
+      abstract: Sweep to survive in the action-packed, AAA reboot of the classic puzzle
+        game.
+  all_post_uris:
+  - at://did:plc:kpt756yhyqav7asgte6k7l7m/app.bsky.feed.post/3mxepywf4ec2j
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhhpyndbk2x
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhhpyndbk2x
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mxhhpyndbk2x
+  post_date: '2026-10-09T17:10:13.622Z'
+  liked_at: '2026-10-09T18:14:36.235915+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: What is art for? What is art? Has anyone thought about these questions?
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhhpyndbk2x
+- post_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mxhgt4jv5c25
+  thread_root_uri: at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mxhgt4jv5c25
+  post_url: https://bsky.app/profile/did:plc:tb2bwzxom5qv4542ru3zqcgu/post/3mxhgt4jv5c25
+  post_date: '2026-10-09T16:54:04.619Z'
+  liked_at: '2026-10-09T18:12:50.554692+00:00'
+  author_handle: jakemgrumbach.bsky.social
+  author_did: did:plc:tb2bwzxom5qv4542ru3zqcgu
+  post_text: 'New working paper: the Norwegian wealth tax was a huge success. The
+    "exodus" of wealthy people never happened (less than 100 individuals left). Tax
+    revenue increased by 71.5%. No changes in business activity or investment.
+
+
+    www.nber.org/papers/w35854'
+  links:
+  - url: https://www.nber.org/papers/w35854
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: Z5JTF24X
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Marius A. K.
+          lastName: Ring
+          creatorType: author
+        tags: []
+        title: 'Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025'
+        genre: Working Paper
+        series: Working Paper Series
+        DOI: 10.3386/w35854
+        url: https://www.nber.org/papers/w35854
+        abstractNote: Whether imposing higher taxes on business owners adversely affects
+          business activity by constraining investment and inducing capitalist flight
+          is a central question in the ongoing debate on how to tax the ultra wealthy.
+          To shed new light, I exploit a series of related Norwegian reforms during
+          2021–2024 that increased dividend tax rates, removed migration-related capital
+          gains tax loopholes, and nearly doubled the effective marginal tax rate
+          on business wealth. These reforms spurred international debate and, allegedly,
+          an “exodus” of Norwegian billionaires (Financial Times, 2023). While I document
+          clear effects on migration, these responses are concentrated among the top
+          0.1% of the wealth distribution and mostly confined to 2022 and 2023. My
+          results indicate that at most 100 individuals left due to the reforms. I
+          find no evidence of significant outmigration or reduced inflows of startup
+          founders or inventors. I estimate that absent any outmigration, wealth tax
+          revenues would have increased by 75% from 2021 to 2024. Reform-driven outmigration
+          lowers the revenue gain to 71.5%. My findings further show that outmigrating
+          owners’ firms remain economically active and do not reduce investment. In
+          a broader set of analyses, I examine whether business outcomes are affected,
+          regardless of whether owners outmigrate, since firms may reduce investment
+          both due to liquidity constraints or distortions to owners’ savings decisions.
+          I compare firms owned by Norwegian individuals subject to the wealth tax
+          with firms owned by foreigners and other tax-exempt entities. By merging
+          historical ownership data from Orbis with the Norwegian shareholder register,
+          I perform these analyses on both Norwegian and foreign-domiciled firms.
+          Across settings, I find no evidence that Norwegian-owned firms pay out more
+          dividends or invest less after the reforms, nor is there any evidence that
+          the reform induced more bankruptcies. These findings indicate that the short-run
+          economic costs of wealth taxation, in terms of migration and firm investment,
+          are more limited than the public debate implies.
+        date: 2026-10
+        repository: National Bureau of Economic Research
+        archiveID: '35854'
+        libraryCatalog: National Bureau of Economic Research
+        accessDate: '2026-10-10'
+        shortTitle: Taxing Entrepreneurial Wealth
+      title: 'Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025'
+      authors:
+      - last: Ring
+        first: Marius A. K.
+      date: 2026-10
+      item_type: preprint
+      doi: 10.3386/w35854
+      publisher: National Bureau of Economic Research
+      abstract: Whether imposing higher taxes on business owners adversely affects
+        business activity by constraining investment and inducing capitalist flight
+        is a central question in the ongoing debate on how to tax the ultra wealthy.
+        To shed new light, I exploit a series of related Norwegian reforms during
+        2021–2024 that increased dividend tax rates, removed migration-related capital
+        gains tax loopholes, and nearly doubled the effective marginal tax rate on
+        business wealth. These reforms spurred international debate and, allegedly,
+        an “exodus” of Norwegian billionaires (Financial Times, 2023). While I document
+        clear effects on migration, these responses are concentrated among the top
+        0.1% of the wealth distribution and mostly confined to 2022 and 2023. My results
+        indicate that at most 100 individuals left due to the reforms. I find no evidence
+        of significant outmigration or reduced inflows of startup founders or inventors.
+        I estimate that absent any outmigration, wealth tax revenues would have increased
+        by 75% from 2021 to 2024. Reform-driven outmigration lowers the revenue gain
+        to 71.5%. My findings further show that outmigrating owners’ firms remain
+        economically active and do not reduce investment. In a broader set of analyses,
+        I examine whether business outcomes are affected, regardless of whether owners
+        outmigrate, since firms may reduce investment both due to liquidity constraints
+        or distortions to owners’ savings decisions. I compare firms owned by Norwegian
+        individuals subject to the wealth tax with firms owned by foreigners and other
+        tax-exempt entities. By merging historical ownership data from Orbis with
+        the Norwegian shareholder register, I perform these analyses on both Norwegian
+        and foreign-domiciled firms. Across settings, I find no evidence that Norwegian-owned
+        firms pay out more dividends or invest less after the reforms, nor is there
+        any evidence that the reform induced more bankruptcies. These findings indicate
+        that the short-run economic costs of wealth taxation, in terms of migration
+        and firm investment, are more limited than the public debate implies.
+  all_post_uris:
+  - at://did:plc:tb2bwzxom5qv4542ru3zqcgu/app.bsky.feed.post/3mxhgt4jv5c25
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhftljeps2x
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhftljeps2x
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mxhftljeps2x
+  post_date: '2026-10-09T16:36:26.595Z'
+  liked_at: '2026-10-09T18:03:12.917768+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: I don’t believe AI in its current form could have come up with this idea
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxhftljeps2x
+- post_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mxhjftivac2u
+  thread_root_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mxhjftivac2u
+  post_url: https://bsky.app/profile/did:plc:bfiewdcm26qhrtdvymrdcriz/post/3mxhjftivac2u
+  post_date: '2026-10-09T17:40:20.172Z'
+  liked_at: '2026-10-09T18:02:03.201810+00:00'
+  author_handle: jessicahullman.bsky.social
+  author_did: did:plc:bfiewdcm26qhrtdvymrdcriz
+  post_text: A few recent analyses paint a more skeptical picture of digital twins.
+    It's good to see researchers preregistering new studies, comparing to simpler
+    baselines, & paying more attention to how well they recover individual variation,
+    instead of just how well they predict averages.
+  links:
+  - url: https://statmodeling.stat.columbia.edu/2026/10/09/digital-twins-version-2-0-the-skeptics-speak-up/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://statmodeling.stat.columbia.edu/2026/10/09/digital-twins-version-2-0-the-skeptics-speak-up/
+        itemType: webpage
+        title: 'Digital twins version 2.0: The skeptics speak up | Statistical Modeling,
+          Causal Inference, and Social Science'
+        language: en-US
+        accessDate: '2026-10-10'
+        websiteTitle: statmodeling.stat.columbia.edu
+      title: 'Digital twins version 2.0: The skeptics speak up | Statistical Modeling,
+        Causal Inference, and Social Science'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mxhjftivac2u
+- post_uri: at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mxh3iatn6226
+  thread_root_uri: at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mxh3iatn6226
+  post_url: https://bsky.app/profile/did:plc:dki5xu3vgyo7ubl7vaw55zzq/post/3mxh3iatn6226
+  post_date: '2026-10-09T13:31:08.865Z'
+  liked_at: '2026-10-09T17:56:15.001914+00:00'
+  author_handle: neutral.zone
+  author_did: did:plc:dki5xu3vgyo7ubl7vaw55zzq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mxh3iatn6226
+- post_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxh5fnab7c22
+  thread_root_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxh5fnab7c22
+  post_url: https://bsky.app/profile/did:plc:gz53felr7btxgmbxae5aooxi/post/3mxh5fnab7c22
+  post_date: '2026-10-09T14:05:28.684Z'
+  liked_at: '2026-10-09T17:22:12.710912+00:00'
+  author_handle: dingdingpeng.the100.ci
+  author_did: did:plc:gz53felr7btxgmbxae5aooxi
+  post_text: Oh jfc
+  links: []
+  all_post_uris:
+  - at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxh5fnab7c22
 - post_uri: at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3mxeeee46cc2o
   thread_root_uri: at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3mxeeee46cc2o
   post_url: https://bsky.app/profile/did:plc:myqic77tkmdhmaufgkvj43hr/post/3mxeeee46cc2o
