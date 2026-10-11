@@ -1,3 +1,85 @@
+- post_uri: at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mxktxahpxc2x
+  thread_root_uri: at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mxktxahpxc2x
+  post_url: https://bsky.app/profile/did:plc:w2jujqedsm6kqfamnhzlml6b/post/3mxktxahpxc2x
+  post_date: '2026-10-11T01:27:00.825Z'
+  liked_at: '2026-10-11T10:57:20.448444+00:00'
+  author_handle: jdcmedlock.bsky.social
+  author_did: did:plc:w2jujqedsm6kqfamnhzlml6b
+  post_text: Turns out the friction of having to learn photoshop was a crucial firewall
+    protecting society from the terrible taste of small business owners
+  links: []
+  all_post_uris:
+  - at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mxktxahpxc2x
+- post_uri: at://did:plc:pjlhgjhb34k4zufrtbh2jyms/app.bsky.feed.post/3mxixhh3jnc26
+  thread_root_uri: at://did:plc:pjlhgjhb34k4zufrtbh2jyms/app.bsky.feed.post/3mxixhh3jnc26
+  post_url: https://bsky.app/profile/did:plc:pjlhgjhb34k4zufrtbh2jyms/post/3mxixhh3jnc26
+  post_date: '2026-10-10T07:24:26.385Z'
+  liked_at: '2026-10-10T15:45:01.752014+00:00'
+  author_handle: croissanthology.com
+  author_did: did:plc:pjlhgjhb34k4zufrtbh2jyms
+  post_text: 'New post on how as AIs continue to get smarter, confusing their outputs
+    with your own (e.g. undisclosed AI-written essays) increasingly resembles plagiarism,
+    with all its nasty side-effects including disempowerment.
+
+
+    croissanthology.substack.com/p/anthropomo...'
+  links:
+  - url: https://croissanthology.substack.com/p/anthropomorphizing-ais-too-little
+    source: card
+    card_title: Anthropomorphizing AIs too little may be harmful to your 🫵 agency
+    card_description: Don't disempower yourself!
+    citoid:
+      raw:
+        key: ISJZ7UL4
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: Croissanthology
+          creatorType: author
+        tags: []
+        title: Anthropomorphizing AIs too little may be harmful to your 🫵 agency
+        abstractNote: Don't disempower yourself!
+        date: '2026-10-10'
+        blogTitle: Croiss Lite
+        url: https://croissanthology.substack.com/p/anthropomorphizing-ais-too-little
+        websiteType: Substack newsletter
+        accessDate: '2026-10-11'
+      title: Anthropomorphizing AIs too little may be harmful to your 🫵 agency
+      date: '2026-10-10'
+      item_type: blogPost
+      publisher: Croiss Lite
+      abstract: Don't disempower yourself!
+  all_post_uris:
+  - at://did:plc:pjlhgjhb34k4zufrtbh2jyms/app.bsky.feed.post/3mxixhh3jnc26
+- post_uri: at://did:plc:oflombnj6v6xyohhatfkbzyd/app.bsky.feed.post/3mxjcro24cs2y
+  thread_root_uri: at://did:plc:oflombnj6v6xyohhatfkbzyd/app.bsky.feed.post/3mxjcro24cs2y
+  post_url: https://bsky.app/profile/did:plc:oflombnj6v6xyohhatfkbzyd/post/3mxjcro24cs2y
+  post_date: '2026-10-10T10:47:00.370Z'
+  liked_at: '2026-10-10T14:46:06.358067+00:00'
+  author_handle: tomgauld.bsky.social
+  author_did: did:plc:oflombnj6v6xyohhatfkbzyd
+  post_text: My latest @newscientist.com cartoon
+  links:
+  - url: https://www.tomgauld.com/contact
+    source: thread
+    card_title: Contact — tomgauld.com
+    card_description: ''
+    citoid:
+      raw:
+        key: Z6VBNYKR
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Contact
+        websiteTitle: tomgauld.com
+        url: https://www.tomgauld.com/contact
+        language: en-US
+        accessDate: '2026-10-11'
+      title: Contact
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:oflombnj6v6xyohhatfkbzyd/app.bsky.feed.post/3mxjcro24cs2y
 - post_uri: at://did:plc:kpt756yhyqav7asgte6k7l7m/app.bsky.feed.post/3mxepywf4ec2j
   thread_root_uri: at://did:plc:kpt756yhyqav7asgte6k7l7m/app.bsky.feed.post/3mxepywf4ec2j
   post_url: https://bsky.app/profile/did:plc:kpt756yhyqav7asgte6k7l7m/post/3mxepywf4ec2j
