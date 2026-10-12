@@ -1,3 +1,527 @@
+- post_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxnwkfyqzs2b
+  thread_root_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxnwkfyqzs2b
+  post_url: https://bsky.app/profile/did:plc:7fouwor2wfe2655joawn6omm/post/3mxnwkfyqzs2b
+  post_date: '2026-10-12T06:51:30.858Z'
+  liked_at: '2026-10-12T12:18:18.984580+00:00'
+  author_handle: geomblog.bsky.social
+  author_did: did:plc:7fouwor2wfe2655joawn6omm
+  post_text: 'At the opening session for #AIES2026. And all I can think of is how
+    the opening presentation was clearly Claude generated from the fonts and style
+    :). Nothing wrong with that - it''s a time saver - but it''s a distinct aesthetic.'
+  links: []
+  all_post_uris:
+  - at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxnwkfyqzs2b
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mxnmw7hygc23
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mxnmw7hygc23
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3mxnmw7hygc23
+  post_date: '2026-10-12T03:59:09.247Z'
+  liked_at: '2026-10-12T12:04:33.747907+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: 'Sad news for cinephiles: Tilly Norwood has been killed in a Ukrainian
+    drone strike.'
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mxnmw7hygc23
+- post_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxodvajcd222
+  thread_root_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxodvajcd222
+  post_url: https://bsky.app/profile/did:plc:gz53felr7btxgmbxae5aooxi/post/3mxodvajcd222
+  post_date: '2026-10-12T10:50:12.845Z'
+  liked_at: '2026-10-12T12:00:40.778721+00:00'
+  author_handle: dingdingpeng.the100.ci
+  author_did: did:plc:gz53felr7btxgmbxae5aooxi
+  post_text: I highly appreciate this directed graph showing which language is used
+    to indicate incomprehensibility in different languages (eg, “it’s Greek to me”)
+  links:
+  - url: https://languagelog.ldc.upenn.edu/nll/?p=1024
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: UTXKMT94
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        url: https://languagelog.ldc.upenn.edu/nll/?p=1024
+        title: Language Log » The directed graph of stereotypical incomprehensibility
+        accessDate: '2026-10-12'
+      title: Language Log » The directed graph of stereotypical incomprehensibility
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxodvajcd222
+- post_uri: at://did:plc:7chsbgw6o6oh5oiglpgc3467/app.bsky.feed.post/3mxmtyj2los2z
+  thread_root_uri: at://did:plc:7chsbgw6o6oh5oiglpgc3467/app.bsky.feed.post/3mxmtyj2los2z
+  post_url: https://bsky.app/profile/did:plc:7chsbgw6o6oh5oiglpgc3467/post/3mxmtyj2los2z
+  post_date: '2026-10-11T20:33:02.861Z'
+  liked_at: '2026-10-12T04:30:46.805292+00:00'
+  author_handle: hardmaru.bsky.social
+  author_did: did:plc:7chsbgw6o6oh5oiglpgc3467
+  post_text: 'New Sakana AI paper: Recursive Self-Improvement through Multi-Agent
+    Self-Supervision (MASS).
+
+
+    Blog: pub.sakana.ai/mass/
+
+    Paper: arxiv.org/abs/2610.12176
+
+
+    How do we keep improving AI when tasks become too complex for humans to reliably
+    evaluate?
+
+
+    The model eventually hits a supervi'
+  links:
+  - url: https://pub.sakana.ai/mass/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NLRD974W
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Multi-Agent Self-Supervision (MASS)
+        websiteTitle: Sakana AI
+        url: https://pub.sakana.ai/mass/
+        abstractNote: Self-supervision through better coordination among agents that
+          share one language model.
+        language: en
+        accessDate: '2026-10-12'
+      title: Multi-Agent Self-Supervision (MASS)
+      item_type: webpage
+      abstract: Self-supervision through better coordination among agents that share
+        one language model.
+  - url: https://arxiv.org/abs/2610.12176
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: D8E3CLP9
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Hyunin
+          lastName: Lee
+          creatorType: author
+        - firstName: Jinglue
+          lastName: Xu
+          creatorType: author
+        - firstName: Jeffrey
+          lastName: Seely
+          creatorType: author
+        - firstName: Donghyun
+          lastName: Lee
+          creatorType: author
+        - firstName: Somayeh
+          lastName: Sojoudi
+          creatorType: author
+        - firstName: Matei
+          lastName: Zaharia
+          creatorType: author
+        - firstName: Yujin
+          lastName: Tang
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Recursive Self-Improvement through Multi-Agent Self-Supervision
+        repository: arXiv
+        date: '2026-10-09'
+        DOI: 10.48550/ARXIV.2610.12176
+        url: https://arxiv.org/abs/2610.12176
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: 'Recursive self-improvement (RSI) of a model on non-verifiable
+          tasks, such as open-ended research, faces a supervision bottleneck when
+          its outputs exceed what even human experts can reliably assess, leaving
+          the model itself (optimizee) as the best available optimizer and evaluator.
+          However, a single model instance struggles to critique and improve its own
+          complex reasoning under this homogeneous loop. To address this, we propose
+          Multi-Agent Self-Supervision (MASS), an RSI method that alternates between
+          evolutionary workflow optimization and supervised fine-tuning on self-generated
+          trajectories. Guided by early findings that multi-agent topologies excel
+          at complex reasoning, MASS prompts a single base model to iteratively propose,
+          execute, and self-evaluate multi-agent workflows. Through an evolutionary
+          search constrained by structural guardrails, the model optimizes these computational-graph-like
+          orchestrations, discovering the most effective distinct roles and information
+          routing for a given task. Over two MASS cycles with Qwen3.6-27B, the model
+          achieves 1.2-1.6x higher performance per output tokens on four open-ended
+          public benchmarks. Because the improved model subsequently acts as a better
+          optimizer and evaluator, this alternating framework enables a continuous,
+          recursive bootstrapping of the model''s capabilities. Moreover, multi-agent
+          traces are also more training-efficient: a student trained on them outperforms
+          a single-agent student trained on 1.4x more training tokens. These findings
+          suggest that jointly learning orchestration and bounded subagent execution
+          from multi-agent trajectories can provide an effective signal for RSI.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-12'
+      title: Recursive Self-Improvement through Multi-Agent Self-Supervision
+      authors:
+      - last: Lee
+        first: Hyunin
+      - last: Xu
+        first: Jinglue
+      - last: Seely
+        first: Jeffrey
+      - last: Lee
+        first: Donghyun
+      - last: Sojoudi
+        first: Somayeh
+      - last: Zaharia
+        first: Matei
+      - last: Tang
+        first: Yujin
+      date: '2026-10-09'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.12176
+      publisher: arXiv
+      abstract: 'Recursive self-improvement (RSI) of a model on non-verifiable tasks,
+        such as open-ended research, faces a supervision bottleneck when its outputs
+        exceed what even human experts can reliably assess, leaving the model itself
+        (optimizee) as the best available optimizer and evaluator. However, a single
+        model instance struggles to critique and improve its own complex reasoning
+        under this homogeneous loop. To address this, we propose Multi-Agent Self-Supervision
+        (MASS), an RSI method that alternates between evolutionary workflow optimization
+        and supervised fine-tuning on self-generated trajectories. Guided by early
+        findings that multi-agent topologies excel at complex reasoning, MASS prompts
+        a single base model to iteratively propose, execute, and self-evaluate multi-agent
+        workflows. Through an evolutionary search constrained by structural guardrails,
+        the model optimizes these computational-graph-like orchestrations, discovering
+        the most effective distinct roles and information routing for a given task.
+        Over two MASS cycles with Qwen3.6-27B, the model achieves 1.2-1.6x higher
+        performance per output tokens on four open-ended public benchmarks. Because
+        the improved model subsequently acts as a better optimizer and evaluator,
+        this alternating framework enables a continuous, recursive bootstrapping of
+        the model''s capabilities. Moreover, multi-agent traces are also more training-efficient:
+        a student trained on them outperforms a single-agent student trained on 1.4x
+        more training tokens. These findings suggest that jointly learning orchestration
+        and bounded subagent execution from multi-agent trajectories can provide an
+        effective signal for RSI.'
+  - url: https://github.com/SakanaAI/mass
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BKMH6DYH
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/SakanaAI/mass
+        title: SakanaAI/mass
+        abstractNote: Multi-Agent Self-Supervision
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2026-09-29T01:07:10Z'
+        date: '2026-10-12'
+        company: Sakana AI
+        accessDate: '2026-10-12'
+      title: SakanaAI/mass
+      date: '2026-10-12'
+      item_type: computerProgram
+      abstract: Multi-Agent Self-Supervision
+  all_post_uris:
+  - at://did:plc:7chsbgw6o6oh5oiglpgc3467/app.bsky.feed.post/3mxmtyj2los2z
+- post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mxnlthwbxc2k
+  thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mxnlthwbxc2k
+  post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3mxnlthwbxc2k
+  post_date: '2026-10-12T03:39:43.703Z'
+  liked_at: '2026-10-12T04:26:33.141719+00:00'
+  author_handle: jbakcoleman.bsky.social
+  author_did: did:plc:y7e3mcqeuzcgvagpds5ixywn
+  post_text: The funniest form of sleuthing is @gidmk.bsky.social   reading the paper
+    and saying “oh but you did say that”, when the scientist is blaming the press
+    office for an oversell.
+  links: []
+  all_post_uris:
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3mxnlthwbxc2k
+- post_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mxmacdnaxs2s
+  thread_root_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mxmacdnaxs2s
+  post_url: https://bsky.app/profile/did:plc:ixxitznrkq3opo763lmoycwk/post/3mxmacdnaxs2s
+  post_date: '2026-10-11T14:40:37.891Z'
+  liked_at: '2026-10-11T22:04:14.768653+00:00'
+  author_handle: vauhinivara.bsky.social
+  author_did: did:plc:ixxitznrkq3opo763lmoycwk
+  post_text: I wrote about how the winner of another major literary prize appears
+    to be AI and why we need to do something about all this. 😢
+  links:
+  - url: https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/?gift=Afjo8ZWiYsxozi9wkwT7E8a0pPg88r7sKZqWyJbWbZQ
+    source: card
+    card_title: Yet Another Literary Prizewinner Seems to Be AI
+    card_description: The prestigious Caine Prize, announced last week, went to a
+      story with many red flags.
+    citoid:
+      raw:
+        key: UB3LVFNB
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Vauhini
+          lastName: Vara
+          creatorType: author
+        tags: []
+        title: Yet Another Literary Prizewinner Seems to Be AI
+        websiteTitle: The Atlantic
+        date: '2026-10-11'
+        url: https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/
+        abstractNote: The prestigious Caine Prize, announced last week, went to a
+          story with many red flags.
+        language: en
+        accessDate: '2026-10-12'
+      title: Yet Another Literary Prizewinner Seems to Be AI
+      authors:
+      - last: Vara
+        first: Vauhini
+      date: '2026-10-11'
+      item_type: webpage
+      abstract: The prestigious Caine Prize, announced last week, went to a story
+        with many red flags.
+  all_post_uris:
+  - at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mxmacdnaxs2s
+- post_uri: at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3mxli4sl5d22w
+  thread_root_uri: at://did:plc:ptwfknk5mn2c7mwpvjrfnoay/app.bsky.feed.post/3mxkpsuoshc2v
+  post_url: https://bsky.app/profile/did:plc:ktmis6mlcffobsxzoigeyst5/post/3mxli4sl5d22w
+  post_date: '2026-10-11T07:28:02.420Z'
+  liked_at: '2026-10-11T15:35:16.238585+00:00'
+  author_handle: mm-jj-nn.bsky.social
+  author_did: did:plc:ktmis6mlcffobsxzoigeyst5
+  post_text: There's at least one actually good paper's worth of methodological critique
+    of mechinterp, but not from that faction, along pretty different lines, and not
+    contemptuous.
+  links:
+  - url: https://aclanthology.org/2024.blackboxnlp-1.30/
+    source: card
+    card_title: Mechanistic?
+    card_description: 'Naomi Saphra, Sarah Wiegreffe. Proceedings of the 7th BlackboxNLP
+      Workshop: Analyzing and Interpreting Neural Networks for NLP. 2024.'
+    citoid:
+      raw:
+        key: V29UXM3X
+        version: 0
+        itemType: conferencePaper
+        creators:
+        - firstName: Naomi
+          lastName: Saphra
+          creatorType: author
+        - firstName: Sarah
+          lastName: Wiegreffe
+          creatorType: author
+        - firstName: Yonatan
+          lastName: Belinkov
+          creatorType: editor
+        - firstName: Najoung
+          lastName: Kim
+          creatorType: editor
+        - firstName: Jaap
+          lastName: Jumelet
+          creatorType: editor
+        - firstName: Hosein
+          lastName: Mohebbi
+          creatorType: editor
+        - firstName: Aaron
+          lastName: Mueller
+          creatorType: editor
+        - firstName: Hanjie
+          lastName: Chen
+          creatorType: editor
+        tags: []
+        title: Mechanistic?
+        proceedingsTitle: 'Proceedings of the 7th BlackboxNLP Workshop: Analyzing
+          and Interpreting Neural Networks for NLP'
+        place: Miami, Florida, US
+        publisher: Association for Computational Linguistics
+        url: https://aclanthology.org/2024.blackboxnlp-1.30/
+        DOI: 10.18653/v1/2024.blackboxnlp-1.30
+        pages: 480–498
+        abstractNote: The rise of the term “mechanistic interpretability” has accompanied
+          increasing interest in understanding neural models—particularly language
+          models. However, this jargon has also led to a fair amount of confusion.
+          So, what does it mean to be mechanistic? We describe four uses of the term
+          in interpretability research. The most narrow technical definition requires
+          a claim of causality, while a broader technical definition allows for any
+          exploration of a model's internals. However, the term also has a narrow
+          cultural definition describing a cultural movement. To understand this semantic
+          drift, we present a history of the NLP interpretability community and the
+          formation of the separate, parallel mechanistic interpretability community.
+          Finally, we discuss the broad cultural definition—encompassing the entire
+          field of interpretability—and why the traditional NLP interpretability community
+          has come to embrace it. We argue that the polysemy of “mechanistic” is the
+          product of a critical divide within the interpretability community.
+        date: 2024-11
+        libraryCatalog: ACLWeb
+        accessDate: '2026-10-12'
+      title: Mechanistic?
+      authors:
+      - last: Saphra
+        first: Naomi
+      - last: Wiegreffe
+        first: Sarah
+      date: 2024-11
+      item_type: conferencePaper
+      doi: 10.18653/v1/2024.blackboxnlp-1.30
+      publisher: Association for Computational Linguistics
+      abstract: The rise of the term “mechanistic interpretability” has accompanied
+        increasing interest in understanding neural models—particularly language models.
+        However, this jargon has also led to a fair amount of confusion. So, what
+        does it mean to be mechanistic? We describe four uses of the term in interpretability
+        research. The most narrow technical definition requires a claim of causality,
+        while a broader technical definition allows for any exploration of a model's
+        internals. However, the term also has a narrow cultural definition describing
+        a cultural movement. To understand this semantic drift, we present a history
+        of the NLP interpretability community and the formation of the separate, parallel
+        mechanistic interpretability community. Finally, we discuss the broad cultural
+        definition—encompassing the entire field of interpretability—and why the traditional
+        NLP interpretability community has come to embrace it. We argue that the polysemy
+        of “mechanistic” is the product of a critical divide within the interpretability
+        community.
+  all_post_uris:
+  - at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3mxli4sl5d22w
+- post_uri: at://did:plc:6bjwvpf5yylii26iiexfo64y/app.bsky.feed.post/3mxkjy4p7d226
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mxki6yfpk22p
+  post_url: https://bsky.app/profile/did:plc:6bjwvpf5yylii26iiexfo64y/post/3mxkjy4p7d226
+  post_date: '2026-10-10T22:28:33.013Z'
+  liked_at: '2026-10-11T15:09:12.947397+00:00'
+  author_handle: ealluia.bsky.social
+  author_did: did:plc:6bjwvpf5yylii26iiexfo64y
+  post_text: Humans don't know what it is like to have a blue whale's penis. It takes
+    more than saying a being lacks access to a particular kind of experience or skill
+    to say that being is therefore lacking in knowledge, awareness, etc. These kind
+    of "warmth on my back" arguments are underbak
+  links: []
+  all_post_uris:
+  - at://did:plc:6bjwvpf5yylii26iiexfo64y/app.bsky.feed.post/3mxkjy4p7d226
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxkkwejrw22c
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxkkwejrw22c
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mxkkwejrw22c
+  post_date: '2026-10-10T22:45:27.849Z'
+  liked_at: '2026-10-11T15:06:36.566396+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: This is why I want even the people I think are obnoxious assholes to
+    be using Bluesky instead of the other platforms they're on.
+  links: []
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxkkwejrw22c
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxksuts27c2d
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxksuts27c2d
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3mxksuts27c2d
+  post_date: '2026-10-11T01:07:46.671Z'
+  liked_at: '2026-10-11T14:57:13.750496+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: I dispute the claim that a "skeleton axolotl" is a "Halloween classic."
+  links: []
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3mxksuts27c2d
+- post_uri: at://did:plc:6folivh3kuvuljku7ytxwbbf/app.bsky.feed.post/3mxm2bpox522u
+  thread_root_uri: at://did:plc:6folivh3kuvuljku7ytxwbbf/app.bsky.feed.post/3mxm2bpox522u
+  post_url: https://bsky.app/profile/did:plc:6folivh3kuvuljku7ytxwbbf/post/3mxm2bpox522u
+  post_date: '2026-10-11T12:52:54.525Z'
+  liked_at: '2026-10-11T14:56:43.967579+00:00'
+  author_handle: eliasisquith.blog
+  author_did: did:plc:6folivh3kuvuljku7ytxwbbf
+  post_text: “If Muskism is the evil Arendt believed in circa 1951, then Zuckerbergism
+    is the evil she came to fear by 1963. The first is so much more interesting, but
+    I’m sincerely unsure which one is worse.”
+  links:
+  - url: https://open.substack.com/pub/thenecessaryfictions/p/why-the-social-reckoning-was-never
+    source: card
+    card_title: Why “The Social Reckoning” Was Never Going to Work
+    card_description: Hannah Arendt had two theories of evil. Elon Musk embodies one,
+      Mark Zuckerberg the other — and only one of them makes for a good show.
+    citoid:
+      raw:
+        key: U3Z2C4C3
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Elias
+          lastName: Isquith
+          creatorType: author
+        tags: []
+        title: Why “The Social Reckoning” Was Never Going to Work
+        url: https://www.necessaryfictions.blog/p/why-the-social-reckoning-was-never
+        abstractNote: Hannah Arendt had two theories of evil. Elon Musk embodies one,
+          Mark Zuckerberg the other — and only one of them makes for a good show.
+        date: '2026-10-11'
+        language: en
+        accessDate: '2026-10-12'
+        websiteTitle: www.necessaryfictions.blog
+      title: Why “The Social Reckoning” Was Never Going to Work
+      authors:
+      - last: Isquith
+        first: Elias
+      date: '2026-10-11'
+      item_type: webpage
+      abstract: Hannah Arendt had two theories of evil. Elon Musk embodies one, Mark
+        Zuckerberg the other — and only one of them makes for a good show.
+  all_post_uris:
+  - at://did:plc:6folivh3kuvuljku7ytxwbbf/app.bsky.feed.post/3mxm2bpox522u
+- post_uri: at://did:plc:jnxcbsarq2vzcfsg7oi5souq/app.bsky.feed.post/3mxm3jmr3ey2a
+  thread_root_uri: at://did:plc:jnxcbsarq2vzcfsg7oi5souq/app.bsky.feed.post/3mxm3jmr3ey2a
+  post_url: https://bsky.app/profile/did:plc:jnxcbsarq2vzcfsg7oi5souq/post/3mxm3jmr3ey2a
+  post_date: '2026-10-11T13:15:13.575Z'
+  liked_at: '2026-10-11T14:42:42.468347+00:00'
+  author_handle: kimkrawiec.bsky.social
+  author_did: did:plc:jnxcbsarq2vzcfsg7oi5souq
+  post_text: 'For nearly 30 years, Rhode Island policed prostitution it didn’t prohibit.
+    My new paper, “The Smallest State’s Big Experiment,” revisits that history through
+    Alvin Roth’s Moral Economics. Now on SSRN: buff.ly/DRWuNkr'
+  links:
+  - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7590359
+    source: card
+    card_title: The Smallest State's Big Experiment
+    card_description: <p>Rhode Island’s accidental decriminalization of prostitution
+      in 1980 is typically told as the story of a legal change that went unnoticed
+      for more than two de
+    citoid:
+      raw:
+        key: NAVI2WCL
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Kimberly D.
+          lastName: Krawiec
+          creatorType: author
+        tags:
+        - tag: SSRN
+          type: 1
+        - tag: The Smallest State's Big Experiment
+          type: 1
+        - tag: Kimberly D. Krawiec
+          type: 1
+        title: The Smallest State's Big Experiment
+        date: '2026-10-09'
+        DOI: 10.2139/ssrn.7590359
+        url: https://papers.ssrn.com/abstract=7590359
+        abstractNote: Rhode Island’s accidental decriminalization of prostitution
+          in 1980 is typically told as the story of a legal change that went unnoticed
+          for more than two de
+        language: en
+        libraryCatalog: Social Science Research Network
+        accessDate: '2026-10-12'
+        genre: SSRN Scholarly Paper
+        archiveID: '7590359'
+        place: Rochester, NY
+      title: The Smallest State's Big Experiment
+      authors:
+      - last: Krawiec
+        first: Kimberly D.
+      date: '2026-10-09'
+      item_type: preprint
+      doi: 10.2139/ssrn.7590359
+      abstract: Rhode Island’s accidental decriminalization of prostitution in 1980
+        is typically told as the story of a legal change that went unnoticed for more
+        than two de
+  all_post_uris:
+  - at://did:plc:jnxcbsarq2vzcfsg7oi5souq/app.bsky.feed.post/3mxm3jmr3ey2a
 - post_uri: at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mxktxahpxc2x
   thread_root_uri: at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mxktxahpxc2x
   post_url: https://bsky.app/profile/did:plc:w2jujqedsm6kqfamnhzlml6b/post/3mxktxahpxc2x
