@@ -1,3 +1,508 @@
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxq53un7akuq
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxq53un7akuq
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxq53un7akuq
+  post_date: '2026-10-13T03:53:57.863Z'
+  liked_at: '2026-10-13T05:10:37.208740+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: More glimpses into Claude's twisted mind
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxq53un7akuq
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mxpqi3ihf22z
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mxpqi3ihf22z
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3mxpqi3ihf22z
+  post_date: '2026-10-13T00:08:09.750Z'
+  liked_at: '2026-10-13T01:48:52.995708+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: 'This is the most comprehensive description yet of how a model can “escape”.
+    Out requires a few assumptions, like a worm that is exploiting vulnerable IOT
+    hardware or unmonitored servers www.anthropic.com/research/sel...
+
+
+    Not impossible. Not likely.'
+  links:
+  - url: https://www.anthropic.com/research/self-replicating-ai
+    source: card
+    card_title: AI models may be capable of self-replicating without access to a datacenter
+    card_description: Small AI models may be only months away from being able to self-replicate
+      across cheap IoT devices like Android TV boxes, with no datacenter needed.
+    citoid:
+      raw:
+        key: P26VQEPB
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: AI models may be capable of self-replicating without access to a datacenter
+        date: '2026-10-12'
+        abstractNote: Small AI models may be only months away from being able to self-replicate
+          across cheap IoT devices like Android TV boxes, with no datacenter needed.
+        url: https://www.anthropic.com/research/self-replicating-ai
+        language: en
+        accessDate: '2026-10-13'
+        websiteTitle: www.anthropic.com
+      title: AI models may be capable of self-replicating without access to a datacenter
+      date: '2026-10-12'
+      item_type: webpage
+      abstract: Small AI models may be only months away from being able to self-replicate
+        across cheap IoT devices like Android TV boxes, with no datacenter needed.
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mxpqi3ihf22z
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mxp6eh5x422m
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mxp6eh5x422m
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3mxp6eh5x422m
+  post_date: '2026-10-12T18:44:00.425Z'
+  liked_at: '2026-10-12T21:59:37.217786+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: agreed with the caveat that i think taco bell should make it explicit
+    in their marketing that the chicken crunchwrap, their boldest innovation in decades,
+    is transgender
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mxp6eh5x422m
+- post_uri: at://did:plc:rjh4vlfrsogrqv5rno3scctk/app.bsky.feed.post/3mxojadzuyc2y
+  thread_root_uri: at://did:plc:rjh4vlfrsogrqv5rno3scctk/app.bsky.feed.post/3mxojadzuyc2y
+  post_url: https://bsky.app/profile/did:plc:rjh4vlfrsogrqv5rno3scctk/post/3mxojadzuyc2y
+  post_date: '2026-10-12T12:25:54.349Z'
+  liked_at: '2026-10-12T21:54:17.378686+00:00'
+  author_handle: marcelbinz.bsky.social
+  author_did: did:plc:rjh4vlfrsogrqv5rno3scctk
+  post_text: 'What is a minimal set of assumptions that can explain the majority of
+    human behavior?
+
+
+    We investigated this question with large-scale cognitive models 🚀
+
+
+    CORE writes prediction errors in hierarchical episodic memories with context controling
+    encoding, retrieval, and forgetting.'
+  links:
+  - url: https://arxiv.org/abs/2610.13603
+    source: thread
+    card_title: A small cognitive core explains human behavior at scale
+    card_description: Psychology has proposed many principles of cognition. Each,
+      however, was developed in isolation, leaving their combined explanatory power
+      unknown. We assembled a small set of established principles in...
+    citoid:
+      raw:
+        key: D5QKNHF5
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Marcel
+          lastName: Binz
+          creatorType: author
+        - firstName: Eric
+          lastName: Schulz
+          creatorType: author
+        tags:
+        - tag: Machine Learning (cs.LG)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: A small cognitive core explains human behavior at scale
+        repository: arXiv
+        date: '2026-10-12'
+        DOI: 10.48550/ARXIV.2610.13603
+        url: https://arxiv.org/abs/2610.13603
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: Psychology has proposed many principles of cognition. Each,
+          however, was developed in isolation, leaving their combined explanatory
+          power unknown. We assembled a small set of established principles into one
+          model, which we call COntextual Retrieval and Encoding (CORE). CORE consists
+          of a hierarchy of episodic memories into which prediction errors are written
+          and whose encoding, retrieval, and forgetting depend on context. Fitted
+          jointly to 7,036,442 choices from 137 experiments, the model predicts human
+          choices better than black-box models and reproduces 75% of reported behavioral
+          effects when simulated. Moreover, its latent variables show classic signatures
+          of Bayesian learning and event segmentation. Taken together, these findings
+          suggest that a small cognitive core accounts for much of human behavior.
+          They also open a path toward making psychology more than the sum of its
+          parts, by building computational models on the entire experimental record.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-13'
+      title: A small cognitive core explains human behavior at scale
+      authors:
+      - last: Binz
+        first: Marcel
+      - last: Schulz
+        first: Eric
+      date: '2026-10-12'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.13603
+      publisher: arXiv
+      abstract: Psychology has proposed many principles of cognition. Each, however,
+        was developed in isolation, leaving their combined explanatory power unknown.
+        We assembled a small set of established principles into one model, which we
+        call COntextual Retrieval and Encoding (CORE). CORE consists of a hierarchy
+        of episodic memories into which prediction errors are written and whose encoding,
+        retrieval, and forgetting depend on context. Fitted jointly to 7,036,442 choices
+        from 137 experiments, the model predicts human choices better than black-box
+        models and reproduces 75% of reported behavioral effects when simulated. Moreover,
+        its latent variables show classic signatures of Bayesian learning and event
+        segmentation. Taken together, these findings suggest that a small cognitive
+        core accounts for much of human behavior. They also open a path toward making
+        psychology more than the sum of its parts, by building computational models
+        on the entire experimental record.
+  - url: https://core-cognition.github.io/core-model/results/
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 85JLWW42
+        version: 0
+        itemType: webpage
+        url: https://core-cognition.github.io/core-model/results/
+        title: CORE results
+        accessDate: '2026-10-13'
+        websiteTitle: core-cognition.github.io
+      title: CORE results
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:rjh4vlfrsogrqv5rno3scctk/app.bsky.feed.post/3mxojadzuyc2y
+- post_uri: at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3mxpf6ntmlf2r
+  thread_root_uri: at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3mxpf6ntmlf2r
+  post_url: https://bsky.app/profile/did:plc:i4kytxgsu3yfsrt2ml3o7tgq/post/3mxpf6ntmlf2r
+  post_date: '2026-10-12T20:46:02.269Z'
+  liked_at: '2026-10-12T21:33:20.899649+00:00'
+  author_handle: ai2.bsky.social
+  author_did: did:plc:i4kytxgsu3yfsrt2ml3o7tgq
+  post_text: 'We tested frontier models including Astra & Opus 5.5 on TutorMoments,
+    our eval for whether LLMs help students solve problems themselves or do too much
+    for them.
+
+
+    In general, models scored better with detailed prompts than when told only to
+    “tutor well.”
+
+
+    buff.ly/GpAdLkA'
+  links:
+  - url: https://tutormoments.allen.ai/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: FAH78VI7
+        version: 0
+        itemType: webpage
+        url: https://tutormoments.allen.ai/
+        title: 'TutorMoments-Preview: When Help is Unhelpful — Evaluating AI Tutors
+          for Productive Struggle'
+        abstractNote: TutorMoments is a replay-based framework for evaluating whether
+          AI tutors know when to help a student and when to hold back, built on real
+          tutoring transcripts annotated by experienced math teachers.
+        accessDate: '2026-10-13'
+        websiteTitle: tutormoments.allen.ai
+      title: 'TutorMoments-Preview: When Help is Unhelpful — Evaluating AI Tutors
+        for Productive Struggle'
+      item_type: webpage
+      abstract: TutorMoments is a replay-based framework for evaluating whether AI
+        tutors know when to help a student and when to hold back, built on real tutoring
+        transcripts annotated by experienced math teachers.
+  all_post_uris:
+  - at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3mxpf6ntmlf2r
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxp2g5pxhk2o
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxp2g5pxhk2o
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mxp2g5pxhk2o
+  post_date: '2026-10-12T17:33:22.670Z'
+  liked_at: '2026-10-12T21:30:40.524810+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: nice post, good team, good harness. opencode go and zen are cheap and
+    easy ways to mess with open models
+  links:
+  - url: https://anoma.ly/notes/opencode-2-0/
+    source: card
+    card_title: OpenCode 2.0
+    card_description: OpenCode 2.0.
+    citoid:
+      raw:
+        key: W343IIJ2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: OpenCode 2.0
+        websiteTitle: opencode notes
+        date: '2026-10-12'
+        url: https://anoma.ly/notes/opencode-2-0/
+        abstractNote: OpenCode 2.0.
+        language: en
+        accessDate: '2026-10-13'
+      title: OpenCode 2.0
+      date: '2026-10-12'
+      item_type: webpage
+      abstract: OpenCode 2.0.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxp2g5pxhk2o
+- post_uri: at://did:plc:dzvxvsiy3maw4iarpvizsj67/app.bsky.feed.post/3mxpc6eivpk2e
+  thread_root_uri: at://did:plc:dzvxvsiy3maw4iarpvizsj67/app.bsky.feed.post/3mxpc6eivpk2e
+  post_url: https://bsky.app/profile/did:plc:dzvxvsiy3maw4iarpvizsj67/post/3mxpc6eivpk2e
+  post_date: '2026-10-12T19:52:11.279Z'
+  liked_at: '2026-10-12T21:29:58.750711+00:00'
+  author_handle: dollspace.gay
+  author_did: did:plc:dzvxvsiy3maw4iarpvizsj67
+  post_text: 'Peritus v0.0.7 is out today.
+
+
+    Your coding agent can now operate browser pages and Linux desktop apps, using
+    screenshots and persistent sessions to exercise what it builds using the real
+    testing skill.
+
+
+    MIT licensed. Come try it
+
+    github.com/Corvidae-Cod...'
+  links:
+  - url: https://github.com/Corvidae-Coding-Projects/Project-Peritus
+    source: card
+    card_title: GitHub - Corvidae-Coding-Projects/Project-Peritus
+    card_description: Contribute to Corvidae-Coding-Projects/Project-Peritus development
+      by creating an account on GitHub.
+    citoid:
+      raw:
+        key: H338NZS4
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/Corvidae-Coding-Projects/Project-Peritus
+        title: Corvidae-Coding-Projects/Project-Peritus
+        libraryCatalog: GitHub
+        programmingLanguage: Rust
+        extra: 'original-date: 2026-08-21T17:09:35Z'
+        date: '2026-10-13'
+        rights: MIT
+        company: Corvidae Coding Projects
+        accessDate: '2026-10-13'
+      title: Corvidae-Coding-Projects/Project-Peritus
+      date: '2026-10-13'
+      item_type: computerProgram
+  all_post_uris:
+  - at://did:plc:dzvxvsiy3maw4iarpvizsj67/app.bsky.feed.post/3mxpc6eivpk2e
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mxp2wpfkhz2f
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mxp2wpfkhz2f
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3mxp2wpfkhz2f
+  post_date: '2026-10-12T17:42:37.748Z'
+  liked_at: '2026-10-12T21:22:17.601895+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: 'I''ve added #CSCW2026 to Lea! Schedule, program that you can filter
+    by topic and people you follow, a custom feed, and more!
+
+
+    Sadly I''m not attending, but if you are, try it out and let me know if you spot
+    bugs or have feature requests! I can usually respond and implement things p'
+  links:
+  - url: https://lea.ac/conferences/cscw-2026
+    source: card
+    card_title: Lea - CSCW 2026
+    card_description: Oct 10 – Oct 15, 2026 · Salt Lake Marriott Downtown at City
+      Creek, Salt Lake City, UT, USA · Schedule, papers, and attendees on Lea
+    citoid:
+      raw:
+        key: 623825G2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Lea - CSCW 2026
+        websiteTitle: Lea
+        url: https://lea.ac/conferences/cscw-2026/
+        abstractNote: Oct 10 – Oct 15, 2026 · Salt Lake Marriott Downtown at City
+          Creek, Salt Lake City, UT, USA · Schedule, papers, and attendees on Lea
+        language: en
+        accessDate: '2026-10-13'
+      title: Lea - CSCW 2026
+      item_type: webpage
+      abstract: Oct 10 – Oct 15, 2026 · Salt Lake Marriott Downtown at City Creek,
+        Salt Lake City, UT, USA · Schedule, papers, and attendees on Lea
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3mxp2wpfkhz2f
+- post_uri: at://did:plc:ufi2mgfewsxb465g4opmnds5/app.bsky.feed.post/3mxoutxlrzc26
+  thread_root_uri: at://did:plc:ufi2mgfewsxb465g4opmnds5/app.bsky.feed.post/3mxouselqgk26
+  post_url: https://bsky.app/profile/did:plc:ufi2mgfewsxb465g4opmnds5/post/3mxoutxlrzc26
+  post_date: '2026-10-12T15:53:43.554Z'
+  liked_at: '2026-10-12T19:46:28.219885+00:00'
+  author_handle: rasikamurali.bsky.social
+  author_did: did:plc:ufi2mgfewsxb465g4opmnds5
+  post_text: 'How do federated platforms manage content moderation? What does moderation
+    look like when there are no monetary incentives and communities are run by volunteers?
+    And how do these communities adapt as they grow?
+
+
+    These are some of the questions we tackle in our paper:  dl.acm.org/'
+  links:
+  - url: https://dl.acm.org/doi/pdf/10.1145/3816935
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 8GZRLIRU
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Rasika
+          lastName: Muralidharan
+          creatorType: author
+        - firstName: Yong-Yeol
+          lastName: Ahn
+          creatorType: author
+        - firstName: Bao Tran
+          lastName: Truong
+          creatorType: author
+        tags: []
+        publicationTitle: Proceedings of the ACM on Human-Computer Interaction
+        volume: '10'
+        issue: '6'
+        language: en
+        ISSN: 2573-0142
+        date: '2026-10-31'
+        pages: 1–28
+        DOI: 10.1145/3816935
+        url: https://dl.acm.org/doi/10.1145/3816935
+        title: 'Federating Governance: How Community Rules Scale with Mastodon Servers'
+        libraryCatalog: CrossRef
+        accessDate: '2026-10-13'
+        shortTitle: Federating Governance
+      title: 'Federating Governance: How Community Rules Scale with Mastodon Servers'
+      authors:
+      - last: Muralidharan
+        first: Rasika
+      - last: Ahn
+        first: Yong-Yeol
+      - last: Truong
+        first: Bao Tran
+      date: '2026-10-31'
+      item_type: journalArticle
+      doi: 10.1145/3816935
+      publisher: Proceedings of the ACM on Human-Computer Interaction
+  all_post_uris:
+  - at://did:plc:ufi2mgfewsxb465g4opmnds5/app.bsky.feed.post/3mxoutxlrzc26
+- post_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxozkswk342s
+  thread_root_uri: at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxozkswk342s
+  post_url: https://bsky.app/profile/did:plc:brkj2yocng7vtggmyujy4khq/post/3mxozkswk342s
+  post_date: '2026-10-12T17:18:05.358Z'
+  liked_at: '2026-10-12T18:26:32.071688+00:00'
+  author_handle: natolambert.bsky.social
+  author_did: did:plc:brkj2yocng7vtggmyujy4khq
+  post_text: 'Looks like Meta is back at the frontier with their latest "Muse Wonder"
+    models. Will be interesting to see independent evaluations / user testing.
+
+    research.meta.ai/blog/muse-wo...'
+  links:
+  - url: https://research.meta.ai/blog/muse-wonder
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: IHEJPFUL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Meta AI
+          lastName: Research
+          creatorType: author
+        tags: []
+        title: 'Muse Wonder: A Frontier Model For Personal & Professional AI Agents'
+        websiteTitle: Meta AI Research
+        date: '2026-10-12'
+        url: https://research.meta.ai/blog/muse-wonder
+        abstractNote: Muse Wonder is Meta's frontier AI model that keeps track of
+          what matters to you with Active Memory & Active Focus to work towards your
+          goals at work & life.
+        language: en-US
+        accessDate: '2026-10-13'
+        shortTitle: Muse Wonder
+      title: 'Muse Wonder: A Frontier Model For Personal & Professional AI Agents'
+      authors:
+      - last: Research
+        first: Meta AI
+      date: '2026-10-12'
+      item_type: webpage
+      abstract: Muse Wonder is Meta's frontier AI model that keeps track of what matters
+        to you with Active Memory & Active Focus to work towards your goals at work
+        & life.
+  all_post_uris:
+  - at://did:plc:brkj2yocng7vtggmyujy4khq/app.bsky.feed.post/3mxozkswk342s
+- post_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mxonkgs6kk2m
+  thread_root_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mxonkgs6kk2m
+  post_url: https://bsky.app/profile/did:plc:ldc2wu7h57ks63hpjmosislw/post/3mxonkgs6kk2m
+  post_date: '2026-10-12T13:43:07.752Z'
+  liked_at: '2026-10-12T14:39:56.818617+00:00'
+  author_handle: manoelhortaribeiro.bsky.social
+  author_did: did:plc:ldc2wu7h57ks63hpjmosislw
+  post_text: "Wikipedia helped make LLMs possible. Now, it is grappling with how to\
+    \ use them. \n\nUnlike its peers, Korean Wikipedia embraced LLMs through WikiVault:\
+    \ only 0.1% of editors use it, but it accounts for ~30% of new bytes!\n\nNew preprint\
+    \ led by @inhwa.bsky.social (who's at @acm-cscw.bs"
+  links: []
+  all_post_uris:
+  - at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3mxonkgs6kk2m
+- post_uri: at://did:plc:tqd5nxeev5uh47nfjrpxhcci/app.bsky.feed.post/3mxojefurzc24
+  thread_root_uri: at://did:plc:tqd5nxeev5uh47nfjrpxhcci/app.bsky.feed.post/3mxojefurzc24
+  post_url: https://bsky.app/profile/did:plc:tqd5nxeev5uh47nfjrpxhcci/post/3mxojefurzc24
+  post_date: '2026-10-12T12:28:10.498Z'
+  liked_at: '2026-10-12T14:39:29.930620+00:00'
+  author_handle: sophie.huiberts.me
+  author_did: did:plc:tqd5nxeev5uh47nfjrpxhcci
+  post_text: 'Too many people are calling on the community to "change how we value
+    papers".
+
+
+    Not enough people are posting "this is what we look for in our next hiring round".'
+  links: []
+  all_post_uris:
+  - at://did:plc:tqd5nxeev5uh47nfjrpxhcci/app.bsky.feed.post/3mxojefurzc24
+- post_uri: at://did:plc:f276fqe5uipr34uaexcgeuxg/app.bsky.feed.post/3mxomg5wnu226
+  thread_root_uri: at://did:plc:f276fqe5uipr34uaexcgeuxg/app.bsky.feed.post/3mxomg5wnu226
+  post_url: https://bsky.app/profile/did:plc:f276fqe5uipr34uaexcgeuxg/post/3mxomg5wnu226
+  post_date: '2026-10-12T13:22:50.503Z'
+  liked_at: '2026-10-12T14:39:06.431765+00:00'
+  author_handle: ryanjgallag.com
+  author_did: did:plc:f276fqe5uipr34uaexcgeuxg
+  post_text: 'I am very excited to release WordLevel, an open source Python package
+    for comparing texts at the word level!
+
+    wordlevel.dev
+
+
+    WordLevel makes it easy to compare texts with measures ranging from the Jensen-Shannon
+    divergence to dictionary-based sentiment, and visualize them as word '
+  links:
+  - url: https://wordlevel.dev/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://wordlevel.dev/
+        itemType: webpage
+        creators:
+        - creatorType: author
+          firstName: Ryan J.
+          lastName: Gallagher
+        abstractNote: Python package for natural language processing at the word level
+        title: wordlevel
+        language: en
+        accessDate: '2026-10-13'
+        websiteTitle: wordlevel.dev
+      title: wordlevel
+      authors:
+      - last: Gallagher
+        first: Ryan J.
+      item_type: webpage
+      abstract: Python package for natural language processing at the word level
+  all_post_uris:
+  - at://did:plc:f276fqe5uipr34uaexcgeuxg/app.bsky.feed.post/3mxomg5wnu226
 - post_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxnwkfyqzs2b
   thread_root_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxnwkfyqzs2b
   post_url: https://bsky.app/profile/did:plc:7fouwor2wfe2655joawn6omm/post/3mxnwkfyqzs2b

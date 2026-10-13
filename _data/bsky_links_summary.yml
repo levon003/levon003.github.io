@@ -1,21 +1,21 @@
-entries_with_links: 2460
-total_links: 3019
-unique_domains: 999
+entries_with_links: 2469
+total_links: 3029
+unique_domains: 1004
 top_domains:
 - domain: arxiv.org
-  count: 249
+  count: 250
 - domain: substack.com
   count: 178
 - domain: github.com
-  count: 93
+  count: 94
 - domain: simonwillison.net
   count: 81
 - domain: github.io
-  count: 79
+  count: 80
+- domain: acm.org
+  count: 55
 - domain: doi.org
   count: 55
-- domain: acm.org
-  count: 54
 - domain: nytimes.com
   count: 44
 - domain: huggingface.co
@@ -28,7 +28,7 @@ top_accounts:
   count: 72
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 66
+  count: 67
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 40
@@ -49,7 +49,7 @@ top_accounts:
   count: 29
 - handle: mariaa.bsky.social
   did: did:plc:y32vdst3y7r4f4pkrveb7jhi
-  count: 26
+  count: 27
 - handle: eugenevinitsky.bsky.social
   did: did:plc:5wm25vgenhgut3iqfjf4ozj5
   count: 25
