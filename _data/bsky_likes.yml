@@ -1,3 +1,263 @@
+- post_uri: at://did:plc:oyutroj66br2qe2mtl6v6ekl/app.bsky.feed.post/3mxoqzvvzys27
+  thread_root_uri: at://did:plc:oyutroj66br2qe2mtl6v6ekl/app.bsky.feed.post/3mxoqzvvzys27
+  post_url: https://bsky.app/profile/did:plc:oyutroj66br2qe2mtl6v6ekl/post/3mxoqzvvzys27
+  post_date: '2026-10-12T14:45:28.152Z'
+  liked_at: '2026-10-14T01:37:41.897428+00:00'
+  author_handle: asura.dev
+  author_did: did:plc:oyutroj66br2qe2mtl6v6ekl
+  post_text: 'The vLLM team steps into the ring
+
+
+    Multimodal jev-like from the semantic router team'
+  links:
+  - url: https://huggingface.co/vllm-sr/d3-flash
+    source: card
+    card_title: vllm-sr/d3-flash · Hugging Face
+    card_description: We’re on a journey to advance and democratize artificial intelligence
+      through open source and open science.
+    citoid:
+      raw:
+        key: 99Y5BVN4
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: vllm-sr/d3-flash · Hugging Face
+        url: https://huggingface.co/vllm-sr/d3-flash
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-10-14'
+        accessDate: '2026-10-14'
+        websiteTitle: huggingface.co
+      title: vllm-sr/d3-flash · Hugging Face
+      date: '2026-10-14'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  all_post_uris:
+  - at://did:plc:oyutroj66br2qe2mtl6v6ekl/app.bsky.feed.post/3mxoqzvvzys27
+- post_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mxs3tcxrzk2l
+  thread_root_uri: at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mxs3tcxrzk2l
+  post_url: https://bsky.app/profile/did:plc:kbdtfnqrqpwwf62f6eekr7m2/post/3mxs3tcxrzk2l
+  post_date: '2026-10-13T22:36:37.335Z'
+  liked_at: '2026-10-14T00:49:39.159422+00:00'
+  author_handle: abeliansoup.bsky.social
+  author_did: did:plc:kbdtfnqrqpwwf62f6eekr7m2
+  post_text: ok yeah we need a pause  now
+  links: []
+  all_post_uris:
+  - at://did:plc:kbdtfnqrqpwwf62f6eekr7m2/app.bsky.feed.post/3mxs3tcxrzk2l
+- post_uri: at://did:plc:uah3txazftrdttrbjslg7yq7/app.bsky.feed.post/3mxrcuisxh22o
+  thread_root_uri: at://did:plc:uah3txazftrdttrbjslg7yq7/app.bsky.feed.post/3mxrcuisxh22o
+  post_url: https://bsky.app/profile/did:plc:uah3txazftrdttrbjslg7yq7/post/3mxrcuisxh22o
+  post_date: '2026-10-13T15:09:53.476Z'
+  liked_at: '2026-10-13T22:52:03.216292+00:00'
+  author_handle: hunglv.bsky.social
+  author_did: did:plc:uah3txazftrdttrbjslg7yq7
+  post_text: 'Virginia Vassilevska Williams reflected on the recent 3SUM and APSP:
+
+
+    people.csail.mit.edu/virgi/though...'
+  links:
+  - url: https://people.csail.mit.edu/virgi/thoughts.txt
+    source: card
+    card_title: https://people.csail.mit.edu/virgi/thoughts.txt
+    card_description: "A week has passed since Josh and I posted our write-up on the\
+      \ arXiv, and I decided to write a few things.\r\n\r\nMuch was said about our\
+      \ write-up. Some were excited, others enraged. Most everyone was scar..."
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:uah3txazftrdttrbjslg7yq7/app.bsky.feed.post/3mxrcuisxh22o
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mxrmpwfmkc2f
+  thread_root_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mxrmpwfmkc2f
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3mxrmpwfmkc2f
+  post_date: '2026-10-13T18:06:17.365Z'
+  liked_at: '2026-10-13T22:44:11.260155+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: 'FWIW, I think this is fine.
+
+
+    All of us make some sort of calculation *like* this when deciding whether/where
+    to donate to charity. I don''t think being less explicit about your reasoning
+    should make it better?'
+  links:
+  - url: https://blog.givewell.org/2010/06/03/my-donation-for-2009-guest-post-from-dario-amodei/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 9BC3WUTB
+        version: 0
+        itemType: blogPost
+        creators:
+        - name: Guest
+          creatorType: author
+        tags: []
+        title: My donation for 2009 (guest post from Dario Amodei)
+        blogTitle: The GiveWell Blog
+        date: '2010-06-03'
+        url: https://blog.givewell.org/2010/06/03/my-donation-for-2009-guest-post-from-dario-amodei/
+        abstractNote: This is a guest post from Dario Amodei about how he decided
+          what charity to support for his most recent donation. Dario and GiveWell
+          staff had several
+        language: en-US
+        accessDate: '2026-10-14'
+      title: My donation for 2009 (guest post from Dario Amodei)
+      date: '2010-06-03'
+      item_type: blogPost
+      publisher: The GiveWell Blog
+      abstract: This is a guest post from Dario Amodei about how he decided what charity
+        to support for his most recent donation. Dario and GiveWell staff had several
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3mxrmpwfmkc2f
+- post_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxrfhcy34k2y
+  thread_root_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxrfhcy34k2y
+  post_url: https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3mxrfhcy34k2y
+  post_date: '2026-10-13T15:56:12.370Z'
+  liked_at: '2026-10-13T22:42:01.707430+00:00'
+  author_handle: pfrazee.com
+  author_did: did:plc:ragtjsm2j2vknwkz3zp4oxrd
+  post_text: Meanwhile, at anthropic
+  links:
+  - url: https://github.com/pfrazee/pdoom-kaboom
+    source: thread
+    card_title: 'GitHub - pfrazee/pdoom-kaboom: Meanwhile, at anthropic'
+    card_description: Meanwhile, at anthropic. Contribute to pfrazee/pdoom-kaboom
+      development by creating an account on GitHub.
+    citoid:
+      raw:
+        key: D8XUTAK6
+        version: 0
+        itemType: computerProgram
+        creators:
+        - firstName: Paul
+          lastName: Frazee
+          creatorType: programmer
+        tags: []
+        url: https://github.com/pfrazee/pdoom-kaboom
+        title: pfrazee/pdoom-kaboom
+        abstractNote: Meanwhile, at anthropic
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2026-10-13T15:59:54Z'
+        date: '2026-10-13'
+        rights: MIT
+        accessDate: '2026-10-14'
+      title: pfrazee/pdoom-kaboom
+      date: '2026-10-13'
+      item_type: computerProgram
+      abstract: Meanwhile, at anthropic
+  all_post_uris:
+  - at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxrfhcy34k2y
+- post_uri: at://did:plc:h3t5rqlvuaorq42yckpijirj/app.bsky.feed.post/3mxrjoq7cqs2b
+  thread_root_uri: at://did:plc:h3t5rqlvuaorq42yckpijirj/app.bsky.feed.post/3mxrjoq7cqs2b
+  post_url: https://bsky.app/profile/did:plc:h3t5rqlvuaorq42yckpijirj/post/3mxrjoq7cqs2b
+  post_date: '2026-10-13T17:11:56.082Z'
+  liked_at: '2026-10-13T22:24:22.545133+00:00'
+  author_handle: katestarbird.bsky.social
+  author_did: did:plc:h3t5rqlvuaorq42yckpijirj
+  post_text: 'Y’all, I hate to rain on the dead bot parade, but the Yandex data center
+    destruction doesn’t seem to have significantly impacted social media bots. I made
+    temporal graphs of X posts about AfD around the time of the attack and there’s
+    no sign of a sudden dip or residual impact on '
+  links: []
+  all_post_uris:
+  - at://did:plc:h3t5rqlvuaorq42yckpijirj/app.bsky.feed.post/3mxrjoq7cqs2b
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxr64iahd224
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxr64iahd224
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mxr64iahd224
+  post_date: '2026-10-13T13:44:52.596Z'
+  liked_at: '2026-10-13T16:12:38.056018+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: watch Apple's short film ad for their new kitchen counter screen thing.
+    fundamentally this is a vision of computerization of everyday life
+  links:
+  - url: https://www.youtube.com/watch?v=hkrYiZ_g9tw
+    source: card
+    card_title: 'Welcome Apple HomeView: Designed for life at home.'
+    card_description: YouTube video by Apple
+    citoid:
+      raw:
+        key: I2LKS4CP
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Apple
+          creatorType: author
+        tags: []
+        title: 'Welcome Apple HomeView: Designed for life at home.'
+        url: https://www.youtube.com/watch?v=hkrYiZ_g9tw
+        runningTime: '3:13'
+        date: '2026-10-13'
+        abstractNote: The new Apple HomeView is designed to help you stay connected,
+          entertained, and in the know. Built-in speakers with Spatial Audio fill
+          the room with your fav...
+        libraryCatalog: YouTube
+        accessDate: '2026-10-14'
+        shortTitle: Welcome Apple HomeView
+      title: 'Welcome Apple HomeView: Designed for life at home.'
+      date: '2026-10-13'
+      item_type: videoRecording
+      abstract: The new Apple HomeView is designed to help you stay connected, entertained,
+        and in the know. Built-in speakers with Spatial Audio fill the room with your
+        fav...
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxr64iahd224
+- post_uri: at://did:plc:kpxj7utcy6mjv4rmzitnnrmv/app.bsky.feed.post/3mxn7hahv4k2g
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mxmxvdvta222
+  post_url: https://bsky.app/profile/did:plc:kpxj7utcy6mjv4rmzitnnrmv/post/3mxn7hahv4k2g
+  post_date: '2026-10-11T23:58:08.338Z'
+  liked_at: '2026-10-13T14:51:04.895850+00:00'
+  author_handle: ver.ooo
+  author_did: did:plc:kpxj7utcy6mjv4rmzitnnrmv
+  post_text: This is the future Europeans want
+  links: []
+  all_post_uris:
+  - at://did:plc:kpxj7utcy6mjv4rmzitnnrmv/app.bsky.feed.post/3mxn7hahv4k2g
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mxpbwvpbic26
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mxpbwvpbic26
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3mxpbwvpbic26
+  post_date: '2026-10-12T19:48:00.878Z'
+  liked_at: '2026-10-13T14:31:55.979117+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: I think it’s important for anyone who (completely understandably) checked
+    out on AI the second the crypto/nft/metaverse/snake oil chuds started pushing
+    it to realize that, in at least the domain of software development, we are very
+    much living in a scenario where the snake oil ac
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3mxpbwvpbic26
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mxqcove6bk2i
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mxqcove6bk2i
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3mxqcove6bk2i
+  post_date: '2026-10-13T05:34:05.556Z'
+  liked_at: '2026-10-13T14:20:55.254034+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: One fun History of Logical Positivism fact is that A.J. Ayer played a
+    non-trivial role in mid 20th century gay rights legislation in the UK. His self-description
+    on this always amuses me. In any case, they were a big part of the process which
+    went from the Wolfenden Report to dec
+  links: []
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3mxqcove6bk2i
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwymh6h3vcwn
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwym265b2sv6
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mwymh6h3vcwn
+  post_date: '2026-10-03T19:24:50.353Z'
+  liked_at: '2026-10-13T14:07:31.409200+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: “Here’s a guy who says generally reasonable things in the most smug and
+    irritating way possible, have fun defending him”
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mwymh6h3vcwn
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxq53un7akuq
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxq53un7akuq
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxq53un7akuq
