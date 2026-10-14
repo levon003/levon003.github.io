@@ -72,3 +72,21 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+# Note: on Jekyll 3.x (GitHub Pages), setting `exclude:` *replaces* the default
+# list, so the defaults are repeated below.
+# src/ holds Python projects, not site content. Excluding it also keeps the
+# src/misc/notebooks symlink (-> notebooks/) from tripping the `jekyll serve`
+# file watcher. Put images for posts in images/, not src/.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - src/
