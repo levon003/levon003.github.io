@@ -2,7 +2,7 @@
 layout: post
 title:  "Transcribing Zoom recordings with WhisperX on AWS Fargate"
 date:   2024-05-23
-tags: code short
+tags: code asr short
 excerpt: "A Dockerized transcription and diarization pipeline using WhisperX."
 ---
 
