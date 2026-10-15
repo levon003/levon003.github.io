@@ -1,3 +1,446 @@
+- post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mxg4sqnms222
+  thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mxg4sqnms222
+  post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mxg4sqnms222
+  post_date: '2026-10-09T04:22:15.009Z'
+  liked_at: '2026-10-15T03:16:11.209649+00:00'
+  author_handle: sungkim.bsky.social
+  author_did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  post_text: 'Underdog Saluki 27B in 7.89GB
+
+
+    Based on Qwen 3.8 27B, Saluki is almost 7x smaller than its full-precision counterpart
+    while it keeps 96% of its benchmark performance and beats Qwen at tool calling
+
+
+    Blog and Model: underdog.ai/saluki'
+  links:
+  - url: https://underdog.ai/saluki
+    source: card
+    card_title: Underdog Saluki 27B
+    card_description: Qwen3.8-27B in a 7.89 GB file that loads in stock llama.cpp,
+      and how it compares with other 2-bit builds.
+    citoid:
+      raw:
+        key: 3BTBVS2M
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: The Underdog
+          lastName: team
+          creatorType: author
+        tags: []
+        title: Underdog Saluki 27B
+        websiteTitle: Underdog
+        url: https://underdog.ai/saluki
+        abstractNote: Qwen3.8-27B in a 7.89 GB file that loads in stock llama.cpp,
+          and how it compares with other 2-bit builds.
+        date: '2026-10-07'
+        language: en
+        accessDate: '2026-10-15'
+      title: Underdog Saluki 27B
+      authors:
+      - last: team
+        first: The Underdog
+      date: '2026-10-07'
+      item_type: webpage
+      abstract: Qwen3.8-27B in a 7.89 GB file that loads in stock llama.cpp, and how
+        it compares with other 2-bit builds.
+  all_post_uris:
+  - at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mxg4sqnms222
+- post_uri: at://did:plc:gzvucotqb7rp6y2lxw4cxl7p/app.bsky.feed.post/3mxm45haork2s
+  thread_root_uri: at://did:plc:gzvucotqb7rp6y2lxw4cxl7p/app.bsky.feed.post/3mxm45haork2s
+  post_url: https://bsky.app/profile/did:plc:gzvucotqb7rp6y2lxw4cxl7p/post/3mxm45haork2s
+  post_date: '2026-10-11T13:26:18.934Z'
+  liked_at: '2026-10-15T02:10:07.515715+00:00'
+  author_handle: lakens.bsky.social
+  author_did: did:plc:gzvucotqb7rp6y2lxw4cxl7p
+  post_text: "In preparation for a discussion with the lab on AI use tomorrow morning,\
+    \ I thought I would come prepared and write down my thoughts in a blog post: How\
+    \ I use AI in my work \n\ndaniellakens.blogspot.com/2026/10/how-..."
+  links:
+  - url: https://daniellakens.blogspot.com/2026/10/how-i-use-ai-in-my-work.html
+    source: card
+    card_title: How I use AI in my work
+    card_description: Tomorrow we will have a discussion in our lab about how to use
+      AI as a scientist. I have increasingly started to use AI, having moved from
+      C...
+    citoid:
+      raw:
+        key: 5EIZMQ5S
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Daniel
+          lastName: Lakens
+          creatorType: author
+        tags: []
+        title: 'The 20% Statistician: How I use AI in my work'
+        date: '2026-10-11'
+        blogTitle: The 20% Statistician
+        url: https://daniellakens.blogspot.com/2026/10/how-i-use-ai-in-my-work.html
+        accessDate: '2026-10-15'
+        shortTitle: The 20% Statistician
+      title: 'The 20% Statistician: How I use AI in my work'
+      authors:
+      - last: Lakens
+        first: Daniel
+      date: '2026-10-11'
+      item_type: blogPost
+      publisher: The 20% Statistician
+  all_post_uris:
+  - at://did:plc:gzvucotqb7rp6y2lxw4cxl7p/app.bsky.feed.post/3mxm45haork2s
+- post_uri: at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mxlrqgio3c2i
+  thread_root_uri: at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mxlrqgio3c2i
+  post_url: https://bsky.app/profile/did:plc:ppvxhapnptcy5v6cih3ynmzg/post/3mxlrqgio3c2i
+  post_date: '2026-10-11T10:20:04.521Z'
+  liked_at: '2026-10-15T01:56:32.843750+00:00'
+  author_handle: stephenturner.us
+  author_did: did:plc:ppvxhapnptcy5v6cih3ynmzg
+  post_text: 'Weekend essay and a recommendation: AI in the workplace vs. AI in education
+    blog.stephenturner.us/p/ai-workpla...'
+  links:
+  - url: https://blog.stephenturner.us/p/ai-workplace-education
+    source: card
+    card_title: AI in the workplace vs. AI in education
+    card_description: 'Quoting Dan Willingham: Students should only use AI for things
+      that they already know how to do well.'
+    citoid:
+      raw:
+        key: 2G5R3HDP
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Stephen D.
+          lastName: Turner
+          creatorType: author
+        tags: []
+        title: AI in the workplace vs. AI in education
+        url: https://blog.stephenturner.us/p/ai-workplace-education
+        abstractNote: 'Quoting Dan Willingham: Students should only use AI for things
+          that they already know how to do well.'
+        date: '2026-10-11'
+        language: en
+        accessDate: '2026-10-15'
+        websiteTitle: blog.stephenturner.us
+      title: AI in the workplace vs. AI in education
+      authors:
+      - last: Turner
+        first: Stephen D.
+      date: '2026-10-11'
+      item_type: webpage
+      abstract: 'Quoting Dan Willingham: Students should only use AI for things that
+        they already know how to do well.'
+  all_post_uris:
+  - at://did:plc:ppvxhapnptcy5v6cih3ynmzg/app.bsky.feed.post/3mxlrqgio3c2i
+- post_uri: at://did:plc:cvgnjyegmpq4d55avizhkgv6/app.bsky.feed.post/3mxtszcsl4k2w
+  thread_root_uri: at://did:plc:cvgnjyegmpq4d55avizhkgv6/app.bsky.feed.post/3mxtszcsl4k2w
+  post_url: https://bsky.app/profile/did:plc:cvgnjyegmpq4d55avizhkgv6/post/3mxtszcsl4k2w
+  post_date: '2026-10-14T15:04:14.289Z'
+  liked_at: '2026-10-14T23:41:59.025727+00:00'
+  author_handle: poormojo.bsky.social
+  author_did: did:plc:cvgnjyegmpq4d55avizhkgv6
+  post_text: No joke. I think this is the most important video I have ever seen about
+    mobile games. This guy breaks down how this game psychologically profiles you,
+    and makes the game harder or easier in order to show you ads
+  links: []
+  all_post_uris:
+  - at://did:plc:cvgnjyegmpq4d55avizhkgv6/app.bsky.feed.post/3mxtszcsl4k2w
+- post_uri: at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mxtwtqljr22b
+  thread_root_uri: at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mxtwtqljr22b
+  post_url: https://bsky.app/profile/did:plc:e5yna6cmvlsyrbc7ehtunvwc/post/3mxtwtqljr22b
+  post_date: '2026-10-14T16:12:42.380Z'
+  liked_at: '2026-10-14T20:10:38.401673+00:00'
+  author_handle: jayvanbavel.bsky.social
+  author_did: did:plc:e5yna6cmvlsyrbc7ehtunvwc
+  post_text: "Initial actions to promote diversity can be followed by decisions “blind”\
+    \ to candidates’ demographics \n\nThis intervention reduces concerns about a diversity–meritocracy\
+    \ trade-off in workplace hiring & grad admissions\npsycnet.apa.org/record/2027-..."
+  links:
+  - url: https://psycnet.apa.org/record/2027-22438-001
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://psycnet.apa.org/record/2027-22438-001
+        itemType: journalArticle
+        publicationTitle: Journal of Personality and Social Psychology
+        creators:
+        - creatorType: author
+          firstName: Apfelbaum, Evan
+          lastName: P.
+        - creatorType: author
+          firstName: Suh, Eileen
+          lastName: Y.
+        - creatorType: author
+          firstName: Wu,
+          lastName: Yue
+        title: Belief in a diversity–meritocracy trade-off.
+        date: 2026-07
+        volume: '131'
+        issue: '1'
+        ISSN: 1939-1315, 0022-3514
+        language: English
+        abstractNote: 'Organizations and academic institutions often pursue two goals
+          in their selection processes: They seek to uphold a meritocracy wherein
+          the “best” candidates are selected and to increase the diversity of their
+          workforces and student bodies. Across four large, preregistered experiments
+          (N = 5,805) in laboratory and field settings, we theorize a belief in a
+          diversity–meritocracy trade-off—that efforts to promote diversity in selection
+          processes undermine a meritocracy. Using nationally representative U.S.
+          samples, we find that a majority of Americans endorse this belief, even
+          when (a) selection criteria explicitly prioritize meritocratic principles
+          and (b) diversity-promoting actions are not directly related to candidate
+          evaluations. This belief emerges across varying types of diversity—racial,
+          gender, and general (Study 2)—but is starkly politically polarized: Liberals
+          do not believe efforts to promote diversity subvert a meritocracy, whereas
+          those with more moderate and conservative views do (Studies 1–4). Past research
+          focuses on prejudice to explain political divides regarding diversity in
+          selection. Our evidence highlights an additional dynamic: Diversity-promoting
+          actions are divisive because they produce divergent concerns about how fairly
+          candidates will be evaluated (Studies 1–3). To address these fairness concerns,
+          we test an intervention wherein initial actions to promote diversity are
+          followed by selection decisions made “blind” to candidates’ demographic
+          background. We find that this intervention curbs the belief in a diversity–meritocracy
+          trade-off in two distinct contexts: workplace hiring (Study 3) and graduate
+          admissions (Study 4). Our results carry important implications for formulating
+          selection processes that promote both diversity and meritocracy in the eyes
+          of liberals and conservatives alike. (PsycInfo Database Record (c) 2026
+          APA, all rights reserved)'
+        accessDate: '2026-10-15'
+        DOI: 10.1037/p
+      title: Belief in a diversity–meritocracy trade-off.
+      authors:
+      - last: P.
+        first: Apfelbaum, Evan
+      - last: Y.
+        first: Suh, Eileen
+      - last: Yue
+        first: Wu,
+      date: 2026-07
+      item_type: journalArticle
+      doi: 10.1037/p
+      publisher: Journal of Personality and Social Psychology
+      abstract: 'Organizations and academic institutions often pursue two goals in
+        their selection processes: They seek to uphold a meritocracy wherein the “best”
+        candidates are selected and to increase the diversity of their workforces
+        and student bodies. Across four large, preregistered experiments (N = 5,805)
+        in laboratory and field settings, we theorize a belief in a diversity–meritocracy
+        trade-off—that efforts to promote diversity in selection processes undermine
+        a meritocracy. Using nationally representative U.S. samples, we find that
+        a majority of Americans endorse this belief, even when (a) selection criteria
+        explicitly prioritize meritocratic principles and (b) diversity-promoting
+        actions are not directly related to candidate evaluations. This belief emerges
+        across varying types of diversity—racial, gender, and general (Study 2)—but
+        is starkly politically polarized: Liberals do not believe efforts to promote
+        diversity subvert a meritocracy, whereas those with more moderate and conservative
+        views do (Studies 1–4). Past research focuses on prejudice to explain political
+        divides regarding diversity in selection. Our evidence highlights an additional
+        dynamic: Diversity-promoting actions are divisive because they produce divergent
+        concerns about how fairly candidates will be evaluated (Studies 1–3). To address
+        these fairness concerns, we test an intervention wherein initial actions to
+        promote diversity are followed by selection decisions made “blind” to candidates’
+        demographic background. We find that this intervention curbs the belief in
+        a diversity–meritocracy trade-off in two distinct contexts: workplace hiring
+        (Study 3) and graduate admissions (Study 4). Our results carry important implications
+        for formulating selection processes that promote both diversity and meritocracy
+        in the eyes of liberals and conservatives alike. (PsycInfo Database Record
+        (c) 2026 APA, all rights reserved)'
+  all_post_uris:
+  - at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mxtwtqljr22b
+- post_uri: at://did:plc:jbdjgiorq25fmg2stce7it35/app.bsky.feed.post/3mxqygj5mkc2q
+  thread_root_uri: at://did:plc:jbdjgiorq25fmg2stce7it35/app.bsky.feed.post/3mxqygj5mkc2q
+  post_url: https://bsky.app/profile/did:plc:jbdjgiorq25fmg2stce7it35/post/3mxqygj5mkc2q
+  post_date: '2026-10-13T12:03:06.646Z'
+  liked_at: '2026-10-14T14:43:37.934820+00:00'
+  author_handle: gleech.org
+  author_did: did:plc:jbdjgiorq25fmg2stce7it35
+  post_text: Hard to believe how bad this piece is; each answer contains at least
+    one straightforward falsehood or fallacy
+  links:
+  - url: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2QBBD6S4
+        version: 0
+        itemType: webpage
+        url: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html
+        title: 'Michael I. Jordan on AI: “Superintelligence is science fiction”'
+        accessDate: '2026-10-15'
+        websiteTitle: www.di.ens.fr
+      title: 'Michael I. Jordan on AI: “Superintelligence is science fiction”'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:jbdjgiorq25fmg2stce7it35/app.bsky.feed.post/3mxqygj5mkc2q
+- post_uri: at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mxsp46wb5d2i
+  thread_root_uri: at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mxsp46wb5d2i
+  post_url: https://bsky.app/profile/did:plc:pza5gx5a26conwupxebwefqq/post/3mxsp46wb5d2i
+  post_date: '2026-10-14T04:21:36.089Z'
+  liked_at: '2026-10-14T14:18:04.366406+00:00'
+  author_handle: lu.is
+  author_did: did:plc:pza5gx5a26conwupxebwefqq
+  post_text: "Downloaded 10,000 citations from recent English Wikipedia Good Article\
+    \ candidates and their non-English same-topic counterparts. \n\nOnly 61% fetchable,\
+    \ between 404s, paywalls, botwalls, etc. Not great."
+  links:
+  - url: https://archive.org
+    source: thread
+    card_title: 'Internet Archive: Digital Library of Free & Borrowable Texts, Movies,
+      Music & Wayback Machine'
+    card_description: ''
+    citoid:
+      raw:
+        key: I7W9232L
+        version: 0
+        itemType: webpage
+        url: https://archive.org/
+        title: 'Internet Archive: Digital Library of Free & Borrowable Texts, Movies,
+          Music & Wayback Machine'
+        accessDate: '2026-10-15'
+        websiteTitle: archive.org
+      title: 'Internet Archive: Digital Library of Free & Borrowable Texts, Movies,
+        Music & Wayback Machine'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mxsp46wb5d2i
+- post_uri: at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mxspyt2f6c2j
+  thread_root_uri: at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mxspyt2f6c2j
+  post_url: https://bsky.app/profile/did:plc:cnyoagvcaroalhb33wen47eg/post/3mxspyt2f6c2j
+  post_date: '2026-10-14T04:37:36.800Z'
+  liked_at: '2026-10-14T14:15:17.416504+00:00'
+  author_handle: eleanor.lockhart.contact
+  author_did: did:plc:cnyoagvcaroalhb33wen47eg
+  post_text: Saw really dumb “men with a Time Machine/women with a Time Machine” memes
+    on Reddit and I asked AI to make ones that make even less sense
+  links: []
+  all_post_uris:
+  - at://did:plc:cnyoagvcaroalhb33wen47eg/app.bsky.feed.post/3mxspyt2f6c2j
+- post_uri: at://did:plc:dubjhz4acqecltz6dmp6bbqx/app.bsky.feed.post/3mxofxsaddc2q
+  thread_root_uri: at://did:plc:dubjhz4acqecltz6dmp6bbqx/app.bsky.feed.post/3mxofxsaddc2q
+  post_url: https://bsky.app/profile/did:plc:dubjhz4acqecltz6dmp6bbqx/post/3mxofxsaddc2q
+  post_date: '2026-10-12T11:27:26.022Z'
+  liked_at: '2026-10-14T13:55:28.630613+00:00'
+  author_handle: nmwilkinson.eurosky.social
+  author_did: did:plc:dubjhz4acqecltz6dmp6bbqx
+  post_text: 'New paper! Accepted at Perspectives on Psychological Science.
+
+
+    A textbook finding in infant psychology is that newborns - within ~1 hour of birth
+    - visually track a simplified ''three blob'' facelike stimulus further than its
+    inverted control (see picture). This suggested inborn kn'
+  links:
+  - url: https://www.researchgate.net/publication/415497857_Is_there_an_innate_face_detection_module_in_the_human_newborn_A_systematic_review_meta-_analysis_and_theoretical_examination_of_the_newborn_face_preference_and_its_implications
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 95TR7DJC
+        version: 0
+        itemType: book
+        creators:
+        - firstName: Nicholas
+          lastName: Wilkinson
+          creatorType: author
+        - firstName: Jenny
+          lastName: Kiessling
+          creatorType: author
+        - firstName: Gustaf
+          lastName: Gredebäck
+          creatorType: author
+        tags: []
+        abstractNote: Reports of 'newborn face preference' are widely cited as evidence
+          for an innate face detector, yet the literature has not been systematically
+          reviewed. We report a systematic review and meta-analysis of experimental
+          studies comparing newborns' attention to face-like versus non-face-like
+          stimuli. 15 publications reported 22 experiments, of which 5 tested face-naïve
+          newborns (≤1 hr postnatal). Robust preference was observed for one face-like
+          stimulus, but not another. 17 experiments tested face-experienced newborns
+          (2-7 days postnatal), mostly reporting moderate-to-large face preference
+          effects. Moderate heterogeneity was observed in the 11 experiments amenable
+          to meta-analysis. Interpretations supporting innate face detector models
+          rested on discounting the potential role of postnatal learning, and/or a
+          flawed reinterpretation of a foundational result (Johnson et al., 1991).
+          Resultant misattributions of this result in the secondary literature have
+          in aggregate created a dominant narrative of a robust, consistent evidence
+          base. This overstates the evidence. Whilst our results do not prove the
+          negative, the evidence reviewed here provides limited, inconsistent support
+          for a general inborn face preference and/or a dedicated innate face detection
+          module. We highlight the need for more precise theoretical models, rigorous
+          tests, and cautious interpretations, and for re-evaluation of how 'newborn
+          face preference' results have been interpreted.
+        title: Is there an innate face detection module in the human newborn? A systematic
+          review, meta- analysis and theoretical examination of the newborn face preference
+          and its implications (accepted at Perspectives on Psychological Science)
+        date: '2026-10-09'
+        libraryCatalog: ResearchGate
+        shortTitle: Is there an innate face detection module in the human newborn?
+        url: https://www.researchgate.net/publication/415497857_Is_there_an_innate_face_detection_module_in_the_human_newborn_A_systematic_review_meta-_analysis_and_theoretical_examination_of_the_newborn_face_preference_and_its_implications_accepted_at_Perspective
+        accessDate: '2026-10-15'
+      title: Is there an innate face detection module in the human newborn? A systematic
+        review, meta- analysis and theoretical examination of the newborn face preference
+        and its implications (accepted at Perspectives on Psychological Science)
+      authors:
+      - last: Wilkinson
+        first: Nicholas
+      - last: Kiessling
+        first: Jenny
+      - last: Gredebäck
+        first: Gustaf
+      date: '2026-10-09'
+      item_type: book
+      abstract: Reports of 'newborn face preference' are widely cited as evidence
+        for an innate face detector, yet the literature has not been systematically
+        reviewed. We report a systematic review and meta-analysis of experimental
+        studies comparing newborns' attention to face-like versus non-face-like stimuli.
+        15 publications reported 22 experiments, of which 5 tested face-naïve newborns
+        (≤1 hr postnatal). Robust preference was observed for one face-like stimulus,
+        but not another. 17 experiments tested face-experienced newborns (2-7 days
+        postnatal), mostly reporting moderate-to-large face preference effects. Moderate
+        heterogeneity was observed in the 11 experiments amenable to meta-analysis.
+        Interpretations supporting innate face detector models rested on discounting
+        the potential role of postnatal learning, and/or a flawed reinterpretation
+        of a foundational result (Johnson et al., 1991). Resultant misattributions
+        of this result in the secondary literature have in aggregate created a dominant
+        narrative of a robust, consistent evidence base. This overstates the evidence.
+        Whilst our results do not prove the negative, the evidence reviewed here provides
+        limited, inconsistent support for a general inborn face preference and/or
+        a dedicated innate face detection module. We highlight the need for more precise
+        theoretical models, rigorous tests, and cautious interpretations, and for
+        re-evaluation of how 'newborn face preference' results have been interpreted.
+  all_post_uris:
+  - at://did:plc:dubjhz4acqecltz6dmp6bbqx/app.bsky.feed.post/3mxofxsaddc2q
+- post_uri: at://did:plc:2tt6dl3e5xovlcf2tzhzzy3m/app.bsky.feed.post/3mxt66lcigk2s
+  thread_root_uri: at://did:plc:2tt6dl3e5xovlcf2tzhzzy3m/app.bsky.feed.post/3mxt66lcigk2s
+  post_url: https://bsky.app/profile/did:plc:2tt6dl3e5xovlcf2tzhzzy3m/post/3mxt66lcigk2s
+  post_date: '2026-10-14T08:51:22.395Z'
+  liked_at: '2026-10-14T13:30:02.930162+00:00'
+  author_handle: ianhussey.mmmdata.io
+  author_did: did:plc:2tt6dl3e5xovlcf2tzhzzy3m
+  post_text: "The more parsimoneous explanation is that infants express a preference\
+    \ for the Type G British/Irish electrical plug socket, which is objectively the\
+    \ best type of plug socket. \n\nThis is evidence for innate rationality in newly\
+    \ born infants."
+  links: []
+  all_post_uris:
+  - at://did:plc:2tt6dl3e5xovlcf2tzhzzy3m/app.bsky.feed.post/3mxt66lcigk2s
+- post_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxszru77oc2u
+  thread_root_uri: at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxszru77oc2u
+  post_url: https://bsky.app/profile/did:plc:7fouwor2wfe2655joawn6omm/post/3mxszru77oc2u
+  post_date: '2026-10-14T07:32:40.537Z'
+  liked_at: '2026-10-14T13:27:52.328395+00:00'
+  author_handle: geomblog.bsky.social
+  author_did: did:plc:7fouwor2wfe2655joawn6omm
+  post_text: 'A constant refrain here at #AIES2026 is "we need to get policymakers
+    to move on the ideas we are presenting". I think that''s a deep misunderstanding
+    of the research to policy movement pipeline, and overestimates the "policy readiness"
+    and the structural contributions of individua'
+  links: []
+  all_post_uris:
+  - at://did:plc:7fouwor2wfe2655joawn6omm/app.bsky.feed.post/3mxszru77oc2u
 - post_uri: at://did:plc:oyutroj66br2qe2mtl6v6ekl/app.bsky.feed.post/3mxoqzvvzys27
   thread_root_uri: at://did:plc:oyutroj66br2qe2mtl6v6ekl/app.bsky.feed.post/3mxoqzvvzys27
   post_url: https://bsky.app/profile/did:plc:oyutroj66br2qe2mtl6v6ekl/post/3mxoqzvvzys27
