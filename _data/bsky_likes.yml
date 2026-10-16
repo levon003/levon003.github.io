@@ -1,3 +1,178 @@
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mxxngxjgvc2t
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mxxngxjgvc2t
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mxxngxjgvc2t
+  post_date: '2026-10-16T03:35:08.720Z'
+  liked_at: '2026-10-16T03:56:56.588011+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: The last non-autonomous vehicle.
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mxxngxjgvc2t
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxw55el22c2v
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxw55el22c2v
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mxw55el22c2v
+  post_date: '2026-10-15T13:10:47.252Z'
+  liked_at: '2026-10-15T23:31:08.176127+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: timely
+  links:
+  - url: https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/
+    source: card
+    card_title: 'How to be more ambitious: A tutorial for humans with models'
+    card_description: 'I work on Claude. It''s an interesting experience: Every day
+      I learn about yet another feat accomplished with or by Claude that I hadn''t
+      considered, didn''t think possible, or simply lacked the curiosit...'
+    citoid:
+      raw:
+        key: D2D736SZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'How to be more ambitious: A tutorial for humans with models'
+        websiteTitle: Felix Rieseberg
+        date: '2026-10-13'
+        url: https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/
+        abstractNote: 'I work on Claude. It''s an interesting experience: Every day
+          I learn about yet another feat accomplished with or by Claude that I hadn''t
+          considered, didn''t think possible, or simply lacked the curiosity and time
+          to try. This month, it may have helped discover a new planet,'
+        language: en
+        accessDate: '2026-10-16'
+        shortTitle: How to be more ambitious
+      title: 'How to be more ambitious: A tutorial for humans with models'
+      date: '2026-10-13'
+      item_type: webpage
+      abstract: 'I work on Claude. It''s an interesting experience: Every day I learn
+        about yet another feat accomplished with or by Claude that I hadn''t considered,
+        didn''t think possible, or simply lacked the curiosity and time to try. This
+        month, it may have helped discover a new planet,'
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mxw55el22c2v
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mxwmuuxkw222
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mxwmuuxkw222
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mxwmuuxkw222
+  post_date: '2026-10-15T17:52:22.319Z'
+  liked_at: '2026-10-15T23:05:39.931648+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'Microsoft AI is releasing MAI-Base-2, a 2.8T(!!) model that completely
+    BLOWS away most 30B models
+
+
+    microsoft.ai/news/frontie...'
+  links:
+  - url: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 5HZQ9WKF
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: Frontier Pre-training at Microsoft AI
+        blogTitle: Microsoft AI
+        url: https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/
+        language: en-US
+        accessDate: '2026-10-16'
+      title: Frontier Pre-training at Microsoft AI
+      item_type: blogPost
+      publisher: Microsoft AI
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mxwmuuxkw222
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxwz3kca5k2v
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxwz3kca5k2v
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mxwz3kca5k2v
+  post_date: '2026-10-15T21:30:50.916Z'
+  liked_at: '2026-10-15T23:01:26.073432+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Frankenmodel refuses to believe it's not just Claude
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mxwz3kca5k2v
+- post_uri: at://did:plc:cyddt6zzenrf2tfncggrhovi/app.bsky.feed.post/3mxwm5ke5jk2v
+  thread_root_uri: at://did:plc:cyddt6zzenrf2tfncggrhovi/app.bsky.feed.post/3mxwm5ke5jk2v
+  post_url: https://bsky.app/profile/did:plc:cyddt6zzenrf2tfncggrhovi/post/3mxwm5ke5jk2v
+  post_date: '2026-10-15T17:39:19.444Z'
+  liked_at: '2026-10-15T21:07:43.669684+00:00'
+  author_handle: theworldsgreatestwriter.com
+  author_did: did:plc:cyddt6zzenrf2tfncggrhovi
+  post_text: I haven’t been following the discourse too closely but I basically agree
+    that GLP-1s are conscious
+  links: []
+  all_post_uris:
+  - at://did:plc:cyddt6zzenrf2tfncggrhovi/app.bsky.feed.post/3mxwm5ke5jk2v
+- post_uri: at://did:plc:rzeilmmec2ultyage4u75ja6/app.bsky.feed.post/3mxvvcuq2g22c
+  thread_root_uri: at://did:plc:rzeilmmec2ultyage4u75ja6/app.bsky.feed.post/3mxvvcuq2g22c
+  post_url: https://bsky.app/profile/did:plc:rzeilmmec2ultyage4u75ja6/post/3mxvvcuq2g22c
+  post_date: '2026-10-15T10:50:42.010Z'
+  liked_at: '2026-10-15T14:19:20.130632+00:00'
+  author_handle: evansmithhist.bsky.social
+  author_did: did:plc:rzeilmmec2ultyage4u75ja6
+  post_text: Today I found out that Umberto Eco crafted a version of this meme in
+    the 1980s…
+  links: []
+  all_post_uris:
+  - at://did:plc:rzeilmmec2ultyage4u75ja6/app.bsky.feed.post/3mxvvcuq2g22c
+- post_uri: at://did:plc:knluo4pu4l6lfwptmluuxbiv/app.bsky.feed.post/3mxs3cys24c27
+  thread_root_uri: at://did:plc:knluo4pu4l6lfwptmluuxbiv/app.bsky.feed.post/3mxs3cys24c27
+  post_url: https://bsky.app/profile/did:plc:knluo4pu4l6lfwptmluuxbiv/post/3mxs3cys24c27
+  post_date: '2026-10-13T22:27:29.789Z'
+  liked_at: '2026-10-15T14:09:42.414612+00:00'
+  author_handle: mbaldwin.bsky.social
+  author_did: did:plc:knluo4pu4l6lfwptmluuxbiv
+  post_text: 'I am absolutely delighted to announce that the open access version of
+    "In Referees We Trust? How Peer Review Became a Mark of Scientific Legitimacy"
+    is now live! Want to know more about how scholars'' lives came to be ruled by
+    Reviewer 2? Download the book FREE at: direct.mit.edu/'
+  links:
+  - url: https://direct.mit.edu/books/monograph/6222/In-Referees-We-Trust-How-Peer-Review-Became-a-Mark
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: ZTIBX6SV
+        version: 0
+        itemType: book
+        creators:
+        - firstName: Melinda
+          lastName: Baldwin
+          creatorType: author
+        tags: []
+        title: 'In Referees We Trust?: How Peer Review Became a Mark of Scientific
+          Legitimacy'
+        url: https://direct.mit.edu/books/oa-monograph/6222/In-Referees-We-Trust-How-Peer-Review-Became-a-Mark
+        abstractNote: The origins of the modern peer review system at both scientific
+          journals and funding bodies—and how young peer review as a practice actually
+          is.In Referees
+        date: '2026-10-13'
+        publisher: The MIT Press
+        ISBN: '9780262055208'
+        DOI: 10.7551/mitpress/15937.001.0001
+        language: en
+        libraryCatalog: direct.mit.edu
+        accessDate: '2026-10-16'
+        shortTitle: In Referees We Trust?
+      title: 'In Referees We Trust?: How Peer Review Became a Mark of Scientific Legitimacy'
+      authors:
+      - last: Baldwin
+        first: Melinda
+      date: '2026-10-13'
+      item_type: book
+      doi: 10.7551/mitpress/15937.001.0001
+      publisher: The MIT Press
+      abstract: The origins of the modern peer review system at both scientific journals
+        and funding bodies—and how young peer review as a practice actually is.In
+        Referees
+  all_post_uris:
+  - at://did:plc:knluo4pu4l6lfwptmluuxbiv/app.bsky.feed.post/3mxs3cys24c27
 - post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mxg4sqnms222
   thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mxg4sqnms222
   post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mxg4sqnms222

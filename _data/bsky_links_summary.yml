@@ -1,6 +1,6 @@
-entries_with_links: 2481
-total_links: 3041
-unique_domains: 1008
+entries_with_links: 2484
+total_links: 3044
+unique_domains: 1010
 top_domains:
 - domain: arxiv.org
   count: 250
@@ -28,7 +28,7 @@ top_accounts:
   count: 72
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 68
+  count: 69
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 40
@@ -38,12 +38,12 @@ top_accounts:
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
   count: 35
+- handle: timkellogg.me
+  did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  count: 31
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 31
-- handle: timkellogg.me
-  did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
-  count: 30
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
   count: 29
