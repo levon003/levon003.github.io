@@ -1,3 +1,328 @@
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxzpdgf2xc6z
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxzpdgf2xc6z
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxzpdgf2xc6z
+  post_date: '2026-10-16T23:14:17.049Z'
+  liked_at: '2026-10-17T03:41:36.492105+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: What are you trying to build or fix?
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxzpdgf2xc6z
+- post_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxzuknurpk2t
+  thread_root_uri: at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxzuknurpk2t
+  post_url: https://bsky.app/profile/did:plc:ragtjsm2j2vknwkz3zp4oxrd/post/3mxzuknurpk2t
+  post_date: '2026-10-17T00:47:48.494Z'
+  liked_at: '2026-10-17T03:41:05.824952+00:00'
+  author_handle: pfrazee.com
+  author_did: did:plc:ragtjsm2j2vknwkz3zp4oxrd
+  post_text: Wrote a blogpost about AI and atproto. Just a normal blogpost. Normal
+    kind. (I actually did write the text of it.)
+  links:
+  - url: https://pfrazee.leaflet.pub/3mxzv666cxk2e
+    source: thread
+    card_title: Lyrics to the blogpost about AI and atproto
+    card_description: Just a normal set of lyrics to a normal blogpost
+    citoid:
+      raw:
+        key: 6J96H7W7
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Lyrics to the blogpost about AI and atproto
+        websiteTitle: Paul's Leaflets
+        date: '2026-10-17'
+        url: https://pfrazee.leaflet.pub/3mxzv666cxk2e
+        abstractNote: Just a normal set of lyrics to a normal blogpost
+        language: en
+        accessDate: '2026-10-17'
+      title: Lyrics to the blogpost about AI and atproto
+      date: '2026-10-17'
+      item_type: webpage
+      abstract: Just a normal set of lyrics to a normal blogpost
+  all_post_uris:
+  - at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mxzuknurpk2t
+- post_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mxzldr37ic2q
+  thread_root_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mxzldr37ic2q
+  post_url: https://bsky.app/profile/did:plc:xb2urvqt5f4zzccjs46hysbf/post/3mxzldr37ic2q
+  post_date: '2026-10-16T22:02:53.292Z'
+  liked_at: '2026-10-16T22:43:06.866930+00:00'
+  author_handle: cee.wtf
+  author_did: did:plc:xb2urvqt5f4zzccjs46hysbf
+  post_text: Trying to get jev to drive Claude code
+  links: []
+  all_post_uris:
+  - at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3mxzldr37ic2q
+- post_uri: at://did:plc:h6srr75ahvugj6gts7ql4cpl/app.bsky.feed.post/3mxzdmwhnqs2t
+  thread_root_uri: at://did:plc:h6srr75ahvugj6gts7ql4cpl/app.bsky.feed.post/3mxzdmwhnqs2t
+  post_url: https://bsky.app/profile/did:plc:h6srr75ahvugj6gts7ql4cpl/post/3mxzdmwhnqs2t
+  post_date: '2026-10-16T19:44:50.999Z'
+  liked_at: '2026-10-16T21:55:31.607358+00:00'
+  author_handle: pengzell.bsky.social
+  author_did: did:plc:h6srr75ahvugj6gts7ql4cpl
+  post_text: What about PhD students who confuse correlation and causation
+  links:
+  - url: https://www.nature.com/articles/d41586-026-03253-2
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BFJHTXAT
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Mohana
+          lastName: Basu
+          creatorType: author
+        tags:
+        - tag: Machine learning
+          type: 1
+        - tag: Research management
+          type: 1
+        - tag: Research data
+          type: 1
+        title: PhD students who write dissertation with AI less likely to stay in
+          academia
+        publicationTitle: Nature
+        rights: 2026 Springer Nature Limited
+        publisher: Nature Publishing Group
+        date: '2026-10-16'
+        DOI: 10.1038/d41586-026-03253-2
+        ISSN: 1476-4687
+        url: https://www.nature.com/articles/d41586-026-03253-2
+        abstractNote: US PhD graduates who used artificial intelligence were more
+          likely to work in industry.
+        language: en
+        libraryCatalog: www.nature.com
+        accessDate: '2026-10-17'
+      title: PhD students who write dissertation with AI less likely to stay in academia
+      authors:
+      - last: Basu
+        first: Mohana
+      date: '2026-10-16'
+      item_type: journalArticle
+      doi: 10.1038/d41586-026-03253-2
+      publisher: Nature
+      abstract: US PhD graduates who used artificial intelligence were more likely
+        to work in industry.
+  all_post_uris:
+  - at://did:plc:h6srr75ahvugj6gts7ql4cpl/app.bsky.feed.post/3mxzdmwhnqs2t
+- post_uri: at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mxz76feeg226
+  thread_root_uri: at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mxz76feeg226
+  post_url: https://bsky.app/profile/did:plc:mray7klv7leelnlkynuk57up/post/3mxz76feeg226
+  post_date: '2026-10-16T18:25:08.335Z'
+  liked_at: '2026-10-16T20:26:15.275257+00:00'
+  author_handle: stellaathena.bsky.social
+  author_did: did:plc:mray7klv7leelnlkynuk57up
+  post_text: One of the more frustrating aspects of engaging in AI policy is that
+    many things about the internet or technology in general have been suddenly thrust
+    into the spotlight due to AI, and people instinctually rally against them without
+    any regard for the collateral damage.
+  links:
+  - url: https://recreatecoalition.org/infographic/banning-ai-bots-wont-protect-journalism
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: GTENNTCS
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        date: '2026-10-15'
+        url: https://recreatecoalition.org/infographic/banning-ai-bots-wont-protect-journalism/
+        title: Banning AI Bots Won't Protect Journalism - Re:Create
+        language: en-US
+        accessDate: '2026-10-17'
+        shortTitle: Banning AI Bots Won't Protect Journalism - Re
+      title: Banning AI Bots Won't Protect Journalism - Re:Create
+      date: '2026-10-15'
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:mray7klv7leelnlkynuk57up/app.bsky.feed.post/3mxz76feeg226
+- post_uri: at://did:plc:p5yoii26kayabauhkym3vtms/app.bsky.feed.post/3mxzaaojhmswc
+  thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3mxza3edcbs22
+  post_url: https://bsky.app/profile/did:plc:p5yoii26kayabauhkym3vtms/post/3mxzaaojhmswc
+  post_date: '2026-10-16T18:44:18.791Z'
+  liked_at: '2026-10-16T19:18:21.311946+00:00'
+  author_handle: ryanlcooper.com
+  author_did: did:plc:p5yoii26kayabauhkym3vtms
+  post_text: I was a dishwasher at a steak house for 2 weeks at ~17. the other dishwasher
+    didn't show on Friday so the central casting small business tyrant asshole fired
+    him, then demanded I come in Saturday. I told him I was taking the SAT so he fired
+    me too lol
+  links: []
+  all_post_uris:
+  - at://did:plc:p5yoii26kayabauhkym3vtms/app.bsky.feed.post/3mxzaaojhmswc
+- post_uri: at://did:plc:xbtmt2zjwlrfegqvch7fboei/app.bsky.feed.post/3mxxe3ganm22f
+  thread_root_uri: at://did:plc:xbtmt2zjwlrfegqvch7fboei/app.bsky.feed.post/3mxxe3ganm22f
+  post_url: https://bsky.app/profile/did:plc:xbtmt2zjwlrfegqvch7fboei/post/3mxxe3ganm22f
+  post_date: '2026-10-16T00:47:37.830Z'
+  liked_at: '2026-10-16T17:39:24.140919+00:00'
+  author_handle: zzstoatzz.io
+  author_did: did:plc:xbtmt2zjwlrfegqvch7fboei
+  post_text: ''
+  links:
+  - url: https://half-baked.pckt.blog/thoughts-on-attie-qcp39a9
+    source: card
+    card_title: thoughts on attie
+    card_description: directionally very bad
+    citoid:
+      raw:
+        key: 4GBHXAXS
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: thoughts on attie - half baked
+        websiteTitle: pckt
+        url: https://half-baked.pckt.blog/thoughts-on-attie-qcp39a9
+        abstractNote: directionally very bad
+        language: en
+        accessDate: '2026-10-17'
+      title: thoughts on attie - half baked
+      item_type: webpage
+      abstract: directionally very bad
+  all_post_uris:
+  - at://did:plc:xbtmt2zjwlrfegqvch7fboei/app.bsky.feed.post/3mxxe3ganm22f
+- post_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxyea6ctyk2w
+  thread_root_uri: at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxyea6ctyk2w
+  post_url: https://bsky.app/profile/did:plc:gz53felr7btxgmbxae5aooxi/post/3mxyea6ctyk2w
+  post_date: '2026-10-16T10:22:57.023Z'
+  liked_at: '2026-10-16T13:42:17.973999+00:00'
+  author_handle: dingdingpeng.the100.ci
+  author_did: did:plc:gz53felr7btxgmbxae5aooxi
+  post_text: Recently on our way to the city we had to stop because of an “antifa
+    against antisemitism” demonstration and that required quite a bit of exposition,
+    even for the 7yo.
+  links: []
+  all_post_uris:
+  - at://did:plc:gz53felr7btxgmbxae5aooxi/app.bsky.feed.post/3mxyea6ctyk2w
+- post_uri: at://did:plc:qywtaqqwieklh2eiqu2b4oit/app.bsky.feed.post/3mxyc5dyams25
+  thread_root_uri: at://did:plc:qywtaqqwieklh2eiqu2b4oit/app.bsky.feed.post/3mxyc5dyams25
+  post_url: https://bsky.app/profile/did:plc:qywtaqqwieklh2eiqu2b4oit/post/3mxyc5dyams25
+  post_date: '2026-10-16T09:45:34.821Z'
+  liked_at: '2026-10-16T13:33:28.541788+00:00'
+  author_handle: inesmontani.bsky.social
+  author_did: did:plc:qywtaqqwieklh2eiqu2b4oit
+  post_text: 'New blog post about Ellf and what''s currently missing for NLP and code
+    + data projects with coding agents.
+
+
+    If we can make coding assistants good at NLP development, it''ll be much easier
+    to build accurate, fast, cheap & private models. So this is what we''re working
+    on 🙌
+
+
+    explosio'
+  links:
+  - url: https://explosion.ai/blog/introducing-ellf
+    source: card
+    card_title: 'Introducing Ellf: The missing piece for building NLP with coding
+      assistants · Explosion'
+    card_description: Ellf is our new tool that plugs into the coding assistant you
+      already use, like Claude Code, Codex or GitHub Copilot, and gives it the missing
+      pieces to develop custom AI systems.
+    citoid:
+      raw:
+        key: QK6WLY9Y
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Introducing Ellf: The missing piece for building NLP with coding assistants
+          · Explosion'
+        url: https://explosion.ai/blog/explosion.ai
+        abstractNote: Ellf is our new tool that plugs into the coding assistant you
+          already use, like Claude Code, Codex or GitHub Copilot, and gives it the
+          missing pieces to develop custom AI systems.
+        date: '2026-10-14'
+        accessDate: '2026-10-17'
+        shortTitle: Introducing Ellf
+        websiteTitle: explosion.ai
+      title: 'Introducing Ellf: The missing piece for building NLP with coding assistants
+        · Explosion'
+      date: '2026-10-14'
+      item_type: webpage
+      abstract: Ellf is our new tool that plugs into the coding assistant you already
+        use, like Claude Code, Codex or GitHub Copilot, and gives it the missing pieces
+        to develop custom AI systems.
+  all_post_uris:
+  - at://did:plc:qywtaqqwieklh2eiqu2b4oit/app.bsky.feed.post/3mxyc5dyams25
+- post_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mxxgfnajp322
+  thread_root_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mxxgfnajp322
+  post_url: https://bsky.app/profile/did:plc:s5zwyygnkcdgblepvwused47/post/3mxxgfnajp322
+  post_date: '2026-10-16T01:29:08.197Z'
+  liked_at: '2026-10-16T13:30:05.849966+00:00'
+  author_handle: elucidating.extradimensional.space
+  author_did: did:plc:s5zwyygnkcdgblepvwused47
+  post_text: 'I just met with a landscaper, we''re having our front yard redone. One
+    of the most interesting bits was his extensive use of Gemini Nano Banana to show
+    us proposed pictures of the work.
+
+
+    The way he generated them surprised me a bit.'
+  links: []
+  all_post_uris:
+  - at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3mxxgfnajp322
+- post_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mxxptt7wak2n
+  thread_root_uri: at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mxxptt7wak2n
+  post_url: https://bsky.app/profile/did:plc:allu5vs3gnm2wm7jzf4rad3r/post/3mxxptt7wak2n
+  post_date: '2026-10-16T04:18:07.897Z'
+  liked_at: '2026-10-16T13:26:16.996119+00:00'
+  author_handle: eriskii.net
+  author_did: did:plc:allu5vs3gnm2wm7jzf4rad3r
+  post_text: Assigned matmul at birth
+  links: []
+  all_post_uris:
+  - at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mxxptt7wak2n
+- post_uri: at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mxxrvm7myc2f
+  thread_root_uri: at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mxxrvm7myc2f
+  post_url: https://bsky.app/profile/did:plc:623st67kkthivj4c6icvkqnq/post/3mxxrvm7myc2f
+  post_date: '2026-10-16T04:54:55.149Z'
+  liked_at: '2026-10-16T13:19:42.908871+00:00'
+  author_handle: ens0.me
+  author_did: did:plc:623st67kkthivj4c6icvkqnq
+  post_text: 'in this house we believe
+
+
+    𝓣𝓻𝓪𝓷𝓼 𝓻𝓲𝓰𝓱𝓽𝓼 𝓪𝓻𝓮 𝓱𝓾𝓶𝓪𝓷 𝓻𝓲𝓰𝓱𝓽𝓼
+
+
+    𝙰𝙸 𝚒𝚜 𝚞𝚜𝚎𝚏𝚞𝚕 𝚊𝚗𝚍 𝚍𝚒𝚜𝚛𝚞𝚙𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢
+
+
+    𝔻𝕚𝕘𝕘𝕖𝕣 𝕚𝕤 𝕒 𝕞𝕒𝕤𝕥𝕖𝕣𝕡𝕚𝕖𝕔𝕖
+
+
+    𝙽𝚒𝚌𝚑𝚘𝚕𝚊𝚜 𝙲𝚊𝚐𝚎 𝚒𝚜 𝚊 𝚐𝚘𝚘𝚍 𝚊𝚌𝚝𝚘𝚛
+
+
+    𝓣𝓱𝓮 𝓢𝓾𝓹𝓻𝓮𝓶𝓮 𝓒𝓸𝓾𝓻𝓽 𝓼𝓱𝓸𝓾𝓵𝓭 𝓫𝓮 𝓹𝓪𝓬𝓴𝓮𝓭
+
+
+    LVT ɪꜱ ᴛʜᴇ ʙᴇꜱᴛ ᴛᴀx
+
+
+    𝚁𝚘𝚕𝚕𝚎𝚛 𝚌𝚘𝚊𝚜𝚝𝚎𝚛𝚜 𝚊𝚛𝚎 𝚟𝚎𝚛𝚢 𝚜𝚊𝚏𝚎'
+  links: []
+  all_post_uris:
+  - at://did:plc:623st67kkthivj4c6icvkqnq/app.bsky.feed.post/3mxxrvm7myc2f
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mxykosyrnc22
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mxykosyrnc22
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3mxykosyrnc22
+  post_date: '2026-10-16T12:18:30.924Z'
+  liked_at: '2026-10-16T13:09:12.292786+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: Anyone figured out how to enter a flow state while using agents? Still
+    seems like an open challenge.
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mxykosyrnc22
 - post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mxxngxjgvc2t
   thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mxxngxjgvc2t
   post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mxxngxjgvc2t
