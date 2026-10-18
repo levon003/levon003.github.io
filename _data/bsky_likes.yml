@@ -1,3 +1,94 @@
+- post_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3my43jtuckc26
+  thread_root_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3my43jtuckc26
+  post_url: https://bsky.app/profile/did:plc:i32jjsch6xqcguzsf2lgbfyu/post/3my43jtuckc26
+  post_date: '2026-10-17T21:57:56.885Z'
+  liked_at: '2026-10-18T07:42:12.595466+00:00'
+  author_handle: kirancodes.me
+  author_did: did:plc:i32jjsch6xqcguzsf2lgbfyu
+  post_text: write monkey write
+  links: []
+  all_post_uris:
+  - at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3my43jtuckc26
+- post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3my3wlzd2ls2u
+  thread_root_uri: at://did:plc:mwjpkrlldenz7zlt3o2lq2bu/app.bsky.feed.post/3my3vpuieik2i
+  post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3my3wlzd2ls2u
+  post_date: '2026-10-17T20:29:41.002Z'
+  liked_at: '2026-10-18T07:17:21.100460+00:00'
+  author_handle: segyges.bsky.social
+  author_did: did:plc:vszw3ess46odfhnzdsy4huae
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3my3wlzd2ls2u
+- post_uri: at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3my4se2vp3k2n
+  thread_root_uri: at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3my4s6oakfk2n
+  post_url: https://bsky.app/profile/did:plc:sl3g3nhnad34sfhjnqdivbzd/post/3my4se2vp3k2n
+  post_date: '2026-10-18T04:46:19.007Z'
+  liked_at: '2026-10-18T07:13:28.832387+00:00'
+  author_handle: sunshowers.io
+  author_did: did:plc:sl3g3nhnad34sfhjnqdivbzd
+  post_text: This is millenarian, apocalyptic thinking! At the very least please understand
+    your beliefs pattern match exactly to doomsday cults! Consider that you might
+    be susceptible to these modes of thinking because of your upbringing or hard wiring
+  links: []
+  all_post_uris:
+  - at://did:plc:sl3g3nhnad34sfhjnqdivbzd/app.bsky.feed.post/3my4se2vp3k2n
+- post_uri: at://did:plc:lrlmw63dqlhqacs6pbu6ffzn/app.bsky.feed.post/3my4gocauzs2x
+  thread_root_uri: at://did:plc:lrlmw63dqlhqacs6pbu6ffzn/app.bsky.feed.post/3my4gocauzs2x
+  post_url: https://bsky.app/profile/did:plc:lrlmw63dqlhqacs6pbu6ffzn/post/3my4gocauzs2x
+  post_date: '2026-10-18T01:17:17.355Z'
+  liked_at: '2026-10-18T07:03:04.536482+00:00'
+  author_handle: abdulelsayed.bsky.social
+  author_did: did:plc:lrlmw63dqlhqacs6pbu6ffzn
+  post_text: This is Tommy. Tommy had a question about my allegiances. Listen to the
+    end to hear about his.
+  links: []
+  all_post_uris:
+  - at://did:plc:lrlmw63dqlhqacs6pbu6ffzn/app.bsky.feed.post/3my4gocauzs2x
+- post_uri: at://did:plc:2ketphpobajcv4ujk5ncog4y/app.bsky.feed.post/3mxyzftycx226
+  thread_root_uri: at://did:plc:2ketphpobajcv4ujk5ncog4y/app.bsky.feed.post/3mxyzftycx226
+  post_url: https://bsky.app/profile/did:plc:2ketphpobajcv4ujk5ncog4y/post/3mxyzftycx226
+  post_date: '2026-10-16T16:41:56.100Z'
+  liked_at: '2026-10-17T12:24:01.195505+00:00'
+  author_handle: 3blue1brown.com
+  author_did: did:plc:2ketphpobajcv4ujk5ncog4y
+  post_text: 'Some reflections on AI in math. I found it helpful to simply list out
+    the various parts of what a mathematician does, why math is valuable, and where
+    the funding comes from. From there, what happens if AI gets more capable?
+
+
+    youtu.be/LKrwhjOI8Nc'
+  links:
+  - url: https://youtu.be/LKrwhjOI8Nc
+    source: card
+    card_title: There's never been a better time to go into math
+    card_description: YouTube video by 3Blue1Brown
+    citoid:
+      raw:
+        key: RTT64KYH
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: 3Blue1Brown
+          creatorType: author
+        tags: []
+        title: There's never been a better time to go into math
+        url: https://www.youtube.com/watch?v=LKrwhjOI8Nc
+        runningTime: '40:44'
+        date: '2026-10-16'
+        abstractNote: 'Sharing a few thoughts on the future of mathThese videos are
+          funded directly by viewers: https://3b1b.co/supportAn equally valuable form
+          of support is to sim...'
+        libraryCatalog: YouTube
+        accessDate: '2026-10-18'
+      title: There's never been a better time to go into math
+      date: '2026-10-16'
+      item_type: videoRecording
+      abstract: 'Sharing a few thoughts on the future of mathThese videos are funded
+        directly by viewers: https://3b1b.co/supportAn equally valuable form of support
+        is to sim...'
+  all_post_uris:
+  - at://did:plc:2ketphpobajcv4ujk5ncog4y/app.bsky.feed.post/3mxyzftycx226
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxzpdgf2xc6z
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mxzpdgf2xc6z
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mxzpdgf2xc6z

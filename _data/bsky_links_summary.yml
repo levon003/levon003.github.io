@@ -1,5 +1,5 @@
-entries_with_links: 2489
-total_links: 3049
+entries_with_links: 2490
+total_links: 3050
 unique_domains: 1013
 top_domains:
 - domain: arxiv.org
@@ -20,7 +20,7 @@ top_domains:
   count: 44
 - domain: huggingface.co
   count: 42
-- domain: youtube.com
+- domain: youtu.be
   count: 37
 top_accounts:
 - handle: simonwillison.net
