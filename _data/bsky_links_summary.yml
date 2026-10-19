@@ -1,11 +1,11 @@
-entries_with_links: 2490
-total_links: 3050
-unique_domains: 1013
+entries_with_links: 2499
+total_links: 3061
+unique_domains: 1016
 top_domains:
 - domain: arxiv.org
   count: 250
 - domain: substack.com
-  count: 178
+  count: 179
 - domain: github.com
   count: 95
 - domain: simonwillison.net

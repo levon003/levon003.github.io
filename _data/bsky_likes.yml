@@ -1,3 +1,483 @@
+- post_uri: at://did:plc:cewopa6cy2zuz742o4vmuvct/app.bsky.feed.post/3my6qxpd4xc2z
+  thread_root_uri: at://did:plc:cewopa6cy2zuz742o4vmuvct/app.bsky.feed.post/3my6qxpd4xc2z
+  post_url: https://bsky.app/profile/did:plc:cewopa6cy2zuz742o4vmuvct/post/3my6qxpd4xc2z
+  post_date: '2026-10-18T23:26:49.946Z'
+  liked_at: '2026-10-19T05:42:39.374613+00:00'
+  author_handle: mom4medicare4all.blacksky.app
+  author_did: did:plc:cewopa6cy2zuz742o4vmuvct
+  post_text: I’ve been humming this song all day.
+  links: []
+  all_post_uris:
+  - at://did:plc:cewopa6cy2zuz742o4vmuvct/app.bsky.feed.post/3my6qxpd4xc2z
+- post_uri: at://did:plc:tdcgbtd4wvhktrrhksipkuvz/app.bsky.feed.post/3my66744fbk2m
+  thread_root_uri: at://did:plc:tdcgbtd4wvhktrrhksipkuvz/app.bsky.feed.post/3my66744fbk2m
+  post_url: https://bsky.app/profile/did:plc:tdcgbtd4wvhktrrhksipkuvz/post/3my66744fbk2m
+  post_date: '2026-10-18T17:50:57.142Z'
+  liked_at: '2026-10-19T03:00:59.622831+00:00'
+  author_handle: eschwitz.bsky.social
+  author_did: did:plc:tdcgbtd4wvhktrrhksipkuvz
+  post_text: 'My recent book AI and Consciousness: A Skeptical Overview is free online
+    today and tomorrow (through Oct 19, presumably UK time). I don''t think the hard
+    copy is available yet. Get it while it''s free!
+
+
+    www.cambridge.org/core/element...'
+  links:
+  - url: https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896
+    source: card
+    card_title: AI and Consciousness
+    card_description: 'Cambridge Core - Philosophy: General Interest - AI and Consciousness'
+    citoid:
+      raw:
+        key: EYGVZ3SI
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Eric
+          lastName: Schwitzgebel
+          creatorType: author
+        tags: []
+        title: 'AI and Consciousness: A Skeptical Overview'
+        publicationTitle: Elements in Philosophy and AI
+        url: https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896
+        abstractNote: 'Cambridge Core - Philosophy: General Interest - AI and Consciousness'
+        date: 2026-08
+        publisher: Cambridge University Press
+        DOI: 10.1017/9781009694285
+        language: en
+        libraryCatalog: www.cambridge.org
+        accessDate: '2026-10-19'
+        shortTitle: AI and Consciousness
+      title: 'AI and Consciousness: A Skeptical Overview'
+      authors:
+      - last: Schwitzgebel
+        first: Eric
+      date: 2026-08
+      item_type: journalArticle
+      doi: 10.1017/9781009694285
+      publisher: Elements in Philosophy and AI
+      abstract: 'Cambridge Core - Philosophy: General Interest - AI and Consciousness'
+  all_post_uris:
+  - at://did:plc:tdcgbtd4wvhktrrhksipkuvz/app.bsky.feed.post/3my66744fbk2m
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3my6knctuts2c
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3my6knctuts2c
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3my6knctuts2c
+  post_date: '2026-10-18T21:33:38.854Z'
+  liked_at: '2026-10-19T02:30:06.318916+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: i’m not surprised to see taylor swift at the chiefs game today. her husband
+    is chiefs all-pro tight end and three-time super bowl champion travis kelce, who
+    recently added yet another ring to his collection — a wedding ring
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3my6knctuts2c
+- post_uri: at://did:plc:vfktz6qe6vy7serr3wqutpzt/app.bsky.feed.post/3mxyoqjqc6k2d
+  thread_root_uri: at://did:plc:vfktz6qe6vy7serr3wqutpzt/app.bsky.feed.post/3mxyoqjqc6k2d
+  post_url: https://bsky.app/profile/did:plc:vfktz6qe6vy7serr3wqutpzt/post/3mxyoqjqc6k2d
+  post_date: '2026-10-16T13:31:03.290Z'
+  liked_at: '2026-10-19T01:29:09.562375+00:00'
+  author_handle: quantamagazine.org
+  author_did: did:plc:vfktz6qe6vy7serr3wqutpzt
+  post_text: 'Moritz Hardt thinks that OpenAI and Anthropic’s claims about benchmarks,
+    which are used to test AI models’ capabilities, are misleading. But if the tests
+    aren’t accurate, then how do we know how good the models really are? Read the
+    interview: www.quantamagazine.org/he-wants-ai-..'
+  links:
+  - url: https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/
+    source: card
+    card_title: He Wants AI Benchmarking To Be a Science, Not a Dark Art | Quanta
+      Magazine
+    card_description: Moritz Hardt, author of a new book on benchmarks, believes these
+      “standardized tests” for artificial intelligence are fundamentally broken —
+      but not unfixable.
+    citoid:
+      raw:
+        key: WSDXQSJA
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: John
+          lastName: Pavlus
+          creatorType: author
+        tags: []
+        title: He Wants AI Benchmarking To Be a Science, Not a Dark Art
+        blogTitle: Quanta Magazine
+        date: '2026-10-16'
+        url: https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/
+        abstractNote: Moritz Hardt, author of a new book on benchmarks, believes these
+          “standardized tests” for artificial intelligence are fundamentally broken
+          — but not unfixable.
+        language: en
+        accessDate: '2026-10-19'
+      title: He Wants AI Benchmarking To Be a Science, Not a Dark Art
+      authors:
+      - last: Pavlus
+        first: John
+      date: '2026-10-16'
+      item_type: blogPost
+      publisher: Quanta Magazine
+      abstract: Moritz Hardt, author of a new book on benchmarks, believes these “standardized
+        tests” for artificial intelligence are fundamentally broken — but not unfixable.
+  all_post_uris:
+  - at://did:plc:vfktz6qe6vy7serr3wqutpzt/app.bsky.feed.post/3mxyoqjqc6k2d
+- post_uri: at://did:plc:c2j4ta6z47nl3nxpb3urcrcm/app.bsky.feed.post/3my6rgelx222z
+  thread_root_uri: at://did:plc:c2j4ta6z47nl3nxpb3urcrcm/app.bsky.feed.post/3my6rgelx222z
+  post_url: https://bsky.app/profile/did:plc:c2j4ta6z47nl3nxpb3urcrcm/post/3my6rgelx222z
+  post_date: '2026-10-18T23:35:02.016Z'
+  liked_at: '2026-10-19T01:02:29.549682+00:00'
+  author_handle: tompepinsky.com
+  author_did: did:plc:c2j4ta6z47nl3nxpb3urcrcm
+  post_text: 'Annoyingly, I was wrong. The modal number of citations to a political
+    science article *is* zero. The data back it up.
+
+
+    But the good news is, that''s not that meaningful of a statement. Read on 👇
+
+
+    tompepinsky.com/2026/10/18/t...'
+  links:
+  - url: https://tompepinsky.com/2026/10/18/the-modal-number-of-citations-to-a-political-science-article-is-zero/
+    source: card
+    card_title: The Modal Number of Citations to a Political Science Article is Zero
+    card_description: When I was a first-year PhD student, many years ago, a respected
+      professor told a class of my fellow PhD students that the modal number of citations
+      to a political science article is zero. At the t…
+    citoid:
+      raw:
+        key: V5RZZJUH
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: The Modal Number of Citations to a Political Science Article is Zero
+        blogTitle: Tom Pepinsky
+        date: '2026-10-18'
+        url: https://tompepinsky.com/2026/10/18/the-modal-number-of-citations-to-a-political-science-article-is-zero/
+        abstractNote: When I was a first-year PhD student, many years ago, a respected
+          professor told a class of my fellow PhD students that the modal number of
+          citations to a political science article is zero. At the t…
+        language: en
+        accessDate: '2026-10-19'
+      title: The Modal Number of Citations to a Political Science Article is Zero
+      date: '2026-10-18'
+      item_type: blogPost
+      publisher: Tom Pepinsky
+      abstract: When I was a first-year PhD student, many years ago, a respected professor
+        told a class of my fellow PhD students that the modal number of citations
+        to a political science article is zero. At the t…
+  all_post_uris:
+  - at://did:plc:c2j4ta6z47nl3nxpb3urcrcm/app.bsky.feed.post/3my6rgelx222z
+- post_uri: at://did:plc:dxmiuhk7peop3pzkyuqqta2f/app.bsky.feed.post/3mxyqyugs222b
+  thread_root_uri: at://did:plc:dxmiuhk7peop3pzkyuqqta2f/app.bsky.feed.post/3mxyqyugs222b
+  post_url: https://bsky.app/profile/did:plc:dxmiuhk7peop3pzkyuqqta2f/post/3mxyqyugs222b
+  post_date: '2026-10-16T14:11:30.432Z'
+  liked_at: '2026-10-18T22:52:33.660354+00:00'
+  author_handle: maevyn.codes
+  author_did: did:plc:dxmiuhk7peop3pzkyuqqta2f
+  post_text: 'My thoughts on the current state of AI driven software development,
+    why I''m no longer concerned about a runaway intelligence explosion, and what
+    I think is a far worse outcome we could be walking into
+
+
+    maevyn.codes/decoherence'
+  links:
+  - url: https://maevyn.codes/decoherence
+    source: card
+    card_title: 'The Decoherence Trap: When AI slop drowns out the signal in an endless
+      sea of noise'
+    card_description: Of all the forms of tech debt, decoherence is the worst. It
+      compounds exponentially with a system's rate of change, and AI is now producing
+      it faster than ever, leading us deeper and deeper into the a...
+    citoid:
+      raw:
+        key: 4UE5A6QP
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'The Decoherence Trap: When AI slop drowns out the signal in an endless
+          sea of noise'
+        websiteTitle: maevyn.codes
+        date: '2026-10-14'
+        url: https://maevyn.codes/decoherence
+        abstractNote: Of all the forms of tech debt, decoherence is the worst. It
+          compounds exponentially with a system's rate of change, and AI is now producing
+          it faster than ever, leading us deeper and deeper into the abyss...
+        language: en
+        accessDate: '2026-10-19'
+        shortTitle: The Decoherence Trap
+      title: 'The Decoherence Trap: When AI slop drowns out the signal in an endless
+        sea of noise'
+      date: '2026-10-14'
+      item_type: webpage
+      abstract: Of all the forms of tech debt, decoherence is the worst. It compounds
+        exponentially with a system's rate of change, and AI is now producing it faster
+        than ever, leading us deeper and deeper into the abyss...
+  all_post_uris:
+  - at://did:plc:dxmiuhk7peop3pzkyuqqta2f/app.bsky.feed.post/3mxyqyugs222b
+- post_uri: at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3my6777c4dc2x
+  thread_root_uri: at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3my6777c4dc2x
+  post_url: https://bsky.app/profile/did:plc:hs22zme55gwbp5lgygsdtdll/post/3my6777c4dc2x
+  post_date: '2026-10-18T18:08:54.217Z'
+  liked_at: '2026-10-18T21:49:51.650493+00:00'
+  author_handle: aub.bsky.social
+  author_did: did:plc:hs22zme55gwbp5lgygsdtdll
+  post_text: it has never been easier to produce mid software that doesn't do anything
+    particularly useful
+  links: []
+  all_post_uris:
+  - at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3my6777c4dc2x
+- post_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3my5wdehzjf23
+  thread_root_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3my5wdehzjf23
+  post_url: https://bsky.app/profile/did:plc:bfppgmqz6i2uwkm7ynoqigfw/post/3my5wdehzjf23
+  post_date: '2026-10-18T15:30:10.173Z'
+  liked_at: '2026-10-18T20:27:44.060710+00:00'
+  author_handle: smbccomics.bsky.social
+  author_did: did:plc:bfppgmqz6i2uwkm7ynoqigfw
+  post_text: 'Meanwhile the Engineers are just lighting themselves on fire to see
+    what happens.
+
+
+    COMIC ◆ www.smbc-comics.com/comic/reacti...
+
+    PATREON ◆ www.patreon.com/ZachWeinersm...
+
+    STORE ◆ smbc-store.myshopify.com'
+  links:
+  - url: https://www.smbc-comics.com/comic/reactions
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: BJZ5RK8X
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        abstractNote: Saturday Morning Breakfast Cereal - Reactions
+        url: https://www.smbc-comics.com/comic/reactions
+        title: Saturday Morning Breakfast Cereal - Reactions
+        accessDate: '2026-10-19'
+        websiteTitle: www.smbc-comics.com
+      title: Saturday Morning Breakfast Cereal - Reactions
+      item_type: webpage
+      abstract: Saturday Morning Breakfast Cereal - Reactions
+  - url: https://www.patreon.com/ZachWeinersmith
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: H4QDCPT6
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Get more from Zach Weinersmith on Patreon
+        websiteTitle: Patreon
+        url: https://www.patreon.com/ZachWeinersmith
+        abstractNote: Get more from Zach Weinersmith on Patreon. Join for free or
+          become a member for just $1/month. What You Get Tomorrow's Comic Today $3/month
+          - You get to…
+        language: en-US
+        accessDate: '2026-09-20'
+      title: Get more from Zach Weinersmith on Patreon
+      item_type: webpage
+      abstract: Get more from Zach Weinersmith on Patreon. Join for free or become
+        a member for just $1/month. What You Get Tomorrow's Comic Today $3/month -
+        You get to…
+  - url: https://smbc-store.myshopify.com/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NKPF2C66
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: SMBC
+        websiteTitle: SMBC
+        url: https://smbc-store.myshopify.com/
+        abstractNote: SMBC
+        language: en
+        accessDate: '2026-09-20'
+      title: SMBC
+      item_type: webpage
+      abstract: SMBC
+  all_post_uris:
+  - at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3my5wdehzjf23
+- post_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mxfi43vqn225
+  thread_root_uri: at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mxfi43vqn225
+  post_url: https://bsky.app/profile/did:plc:uemns7yqb62n5kpwe34wgdhs/post/3mxfi43vqn225
+  post_date: '2026-10-08T22:11:40.220Z'
+  liked_at: '2026-10-18T16:35:22.161374+00:00'
+  author_handle: brunodias.dev
+  author_did: did:plc:uemns7yqb62n5kpwe34wgdhs
+  post_text: azhdarchid.com/leaving-fail...
+  links:
+  - url: https://azhdarchid.com/leaving-failbetter/
+    source: card
+    card_title: On Leaving the Best Job I Ever Had
+    card_description: Recovering from the best job I ever had.
+    citoid:
+      raw:
+        key: BNB4CYV3
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Bruno
+          lastName: Dias
+          creatorType: author
+        tags: []
+        title: On Leaving the Best Job I Ever Had
+        websiteTitle: Azhdarchid
+        url: https://azhdarchid.com/leaving-failbetter/
+        abstractNote: Recovering from the best job I ever had.
+        date: '2026-10-08'
+        language: en
+        accessDate: '2026-10-19'
+      title: On Leaving the Best Job I Ever Had
+      authors:
+      - last: Dias
+        first: Bruno
+      date: '2026-10-08'
+      item_type: webpage
+      abstract: Recovering from the best job I ever had.
+  all_post_uris:
+  - at://did:plc:uemns7yqb62n5kpwe34wgdhs/app.bsky.feed.post/3mxfi43vqn225
+- post_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3my5jqipatl2n
+  thread_root_uri: at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3my5jqipatl2n
+  post_url: https://bsky.app/profile/did:plc:iq6aw4tscf5n5oplggiyjfyl/post/3my5jqipatl2n
+  post_date: '2026-10-18T11:44:52.189Z'
+  liked_at: '2026-10-18T15:17:53.272715+00:00'
+  author_handle: lastpositivist.bsky.social
+  author_did: did:plc:iq6aw4tscf5n5oplggiyjfyl
+  post_text: 'Some people were making me mad on the internet so I wrote a blog post
+    about it. On the different reasons for people have for being left wing and how
+    people manage the psychological tensions of the fact that they come apart.
+
+
+    sootyempiric.blogspot.com/2026/10/the-...'
+  links:
+  - url: https://sootyempiric.blogspot.com/2026/10/the-poor-personal-and-proletariat.html
+    source: card
+    card_title: The Poor, The Personal, and the Proletariat
+    card_description: Just a short kvetch about something that I feel often causes
+      confusion among online left wing people and where I feel we could do better
+      if ...
+    citoid:
+      raw:
+        key: 7ZLYU6QW
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: The Poor, The Personal, and the Proletariat
+        blogTitle: The Poor, The Personal, and the Proletariat
+        url: https://sootyempiric.blogspot.com/2026/10/the-poor-personal-and-proletariat.html
+        accessDate: '2026-10-19'
+      title: The Poor, The Personal, and the Proletariat
+      item_type: blogPost
+      publisher: The Poor, The Personal, and the Proletariat
+  all_post_uris:
+  - at://did:plc:iq6aw4tscf5n5oplggiyjfyl/app.bsky.feed.post/3my5jqipatl2n
+- post_uri: at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3my5mthcy322k
+  thread_root_uri: at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3my5mthcy322k
+  post_url: https://bsky.app/profile/did:plc:ddvus7otnqtlh7fdooxm6qat/post/3my5mthcy322k
+  post_date: '2026-10-18T12:40:12.628Z'
+  liked_at: '2026-10-18T15:01:16.246678+00:00'
+  author_handle: maxkennerly.bsky.social
+  author_did: did:plc:ddvus7otnqtlh7fdooxm6qat
+  post_text: Part of the answer to "how did we get here?" is that many major journalists—since
+    1998, Crawford has covered SCOTUS for PBS, ABC, and CBS—are lying bigots. Here
+    Crawford is praising a guy who asked a dumb racist question, glitched out when
+    asked why, then admitted he wanted a Chr
+  links: []
+  all_post_uris:
+  - at://did:plc:ddvus7otnqtlh7fdooxm6qat/app.bsky.feed.post/3my5mthcy322k
+- post_uri: at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3my54scq3is2p
+  thread_root_uri: at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3my54scq3is2p
+  post_url: https://bsky.app/profile/did:plc:ejihld4sywvvqwe67cdkn4jq/post/3my54scq3is2p
+  post_date: '2026-10-18T07:53:14.391Z'
+  liked_at: '2026-10-18T14:59:07.082451+00:00'
+  author_handle: marisakabas.bsky.social
+  author_did: did:plc:ejihld4sywvvqwe67cdkn4jq
+  post_text: 'SCOOP: ''Tommy'' from the now-viral exchange with Abdul El-Sayed is
+    Thomas Teepell, a former staffer for Republican Senator Josh Hawley with close
+    ties to Christian Nationalist Sean Feucht. He''s the son of a former Bobby Jindal
+    staffer whose consultant work was instrumental in gett'
+  links:
+  - url: https://www.thehandbasket.co/p/tommy-teepell-abdul-el-sayed-viral-video-town-hall-josh-hawley
+    source: card
+    card_title: '''Tommy'' from viral El-Sayed video is former Sen. Hawley staffer
+      with Christian nationalist ties'
+    card_description: Thomas Teepell is the son of a former long-time Bobby Jindal
+      staffer who's close to Sean Feucht.
+    citoid:
+      raw:
+        key: N5WYYPB5
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Marisa
+          lastName: Kabas
+          creatorType: author
+        tags: []
+        title: '''Tommy'' from viral El-Sayed video is former Sen. Hawley staffer
+          with Christian nationalist ties'
+        websiteTitle: The Handbasket
+        url: https://www.thehandbasket.co/p/tommy-teepell-abdul-el-sayed-viral-video-town-hall-josh-hawley
+        abstractNote: Thomas Teepell is the son of a former long-time Bobby Jindal
+          staffer who's close to Sean Feucht.
+        language: en
+        accessDate: '2026-10-19'
+      title: '''Tommy'' from viral El-Sayed video is former Sen. Hawley staffer with
+        Christian nationalist ties'
+      authors:
+      - last: Kabas
+        first: Marisa
+      item_type: webpage
+      abstract: Thomas Teepell is the son of a former long-time Bobby Jindal staffer
+        who's close to Sean Feucht.
+  all_post_uris:
+  - at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3my54scq3is2p
+- post_uri: at://did:plc:yhkxalw2aunn7cui7yuzeuuo/app.bsky.feed.post/3my5ltvgoy22b
+  thread_root_uri: at://did:plc:yhkxalw2aunn7cui7yuzeuuo/app.bsky.feed.post/3my5ltvgoy22b
+  post_url: https://bsky.app/profile/did:plc:yhkxalw2aunn7cui7yuzeuuo/post/3my5ltvgoy22b
+  post_date: '2026-10-18T12:22:33.689Z'
+  liked_at: '2026-10-18T14:54:15.212477+00:00'
+  author_handle: neuroskeptic.bsky.social
+  author_did: did:plc:yhkxalw2aunn7cui7yuzeuuo
+  post_text: New post! In which I discuss a truly amazing piece of science sleuthing
+    that recently appeared on @pubpeer.com neuroskepticbsky.substack.com/p/the-sherlo...
+  links:
+  - url: https://neuroskepticbsky.substack.com/p/the-sherlock-holmes-of-science-sleuths?showWelcomeOnShare=true
+    source: card
+    card_title: The Sherlock Holmes of Science Sleuths?
+    card_description: How an anonymous poster cracked the case of the random data
+    citoid:
+      raw:
+        url: https://neuroskepticbsky.substack.com/p/the-sherlock-holmes-of-science-sleuths?showWelcomeOnShare=true
+        itemType: newspaperArticle
+        title: The Sherlock Holmes of Science Sleuths?
+        abstractNote: How an anonymous poster cracked the case of the random data
+        creators:
+        - creatorType: author
+          firstName: ''
+          lastName: Neuroskeptic
+        language: en
+        accessDate: '2026-10-19'
+      title: The Sherlock Holmes of Science Sleuths?
+      authors:
+      - last: Neuroskeptic
+      item_type: newspaperArticle
+      abstract: How an anonymous poster cracked the case of the random data
+  all_post_uris:
+  - at://did:plc:yhkxalw2aunn7cui7yuzeuuo/app.bsky.feed.post/3my5ltvgoy22b
 - post_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3my43jtuckc26
   thread_root_uri: at://did:plc:i32jjsch6xqcguzsf2lgbfyu/app.bsky.feed.post/3my43jtuckc26
   post_url: https://bsky.app/profile/did:plc:i32jjsch6xqcguzsf2lgbfyu/post/3my43jtuckc26
