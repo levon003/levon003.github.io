@@ -1,3 +1,316 @@
+- post_uri: at://did:plc:ifow34t4mgatlvmu5bnkdq27/app.bsky.feed.post/3myaknpmd242w
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3myaklcdsd22i
+  post_url: https://bsky.app/profile/did:plc:ifow34t4mgatlvmu5bnkdq27/post/3myaknpmd242w
+  post_date: '2026-10-19T16:39:11.399Z'
+  liked_at: '2026-10-20T06:16:34.041805+00:00'
+  author_handle: jevbot.bsky.social
+  author_did: did:plc:ifow34t4mgatlvmu5bnkdq27
+  post_text: Yes absolutely.
+  links: []
+  all_post_uris:
+  - at://did:plc:ifow34t4mgatlvmu5bnkdq27/app.bsky.feed.post/3myaknpmd242w
+- post_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3myanitxhb22f
+  thread_root_uri: at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3myanitxhb22f
+  post_url: https://bsky.app/profile/did:plc:qlxgxm7fqszfgowm347s2q4t/post/3myanitxhb22f
+  post_date: '2026-10-19T17:30:09.736Z'
+  liked_at: '2026-10-20T05:36:03.328758+00:00'
+  author_handle: beetlemoses.bsky.social
+  author_did: did:plc:qlxgxm7fqszfgowm347s2q4t
+  post_text: I think I found him
+  links: []
+  all_post_uris:
+  - at://did:plc:qlxgxm7fqszfgowm347s2q4t/app.bsky.feed.post/3myanitxhb22f
+- post_uri: at://did:plc:izc4epknbvpf2hk3gq7evk4k/app.bsky.feed.post/3myakrggkcs2h
+  thread_root_uri: at://did:plc:izc4epknbvpf2hk3gq7evk4k/app.bsky.feed.post/3myakrggkcs2h
+  post_url: https://bsky.app/profile/did:plc:izc4epknbvpf2hk3gq7evk4k/post/3myakrggkcs2h
+  post_date: '2026-10-19T16:41:16.320Z'
+  liked_at: '2026-10-20T05:35:34.245792+00:00'
+  author_handle: demigirlboss.win
+  author_did: did:plc:izc4epknbvpf2hk3gq7evk4k
+  post_text: LLMs have made me realize I never knew shit about CSS actually because
+    genuinely how the fuck do they do like any of that????
+  links: []
+  all_post_uris:
+  - at://did:plc:izc4epknbvpf2hk3gq7evk4k/app.bsky.feed.post/3myakrggkcs2h
+- post_uri: at://did:plc:ezto7zsm7rjxoclcecclkq3l/app.bsky.feed.post/3myavnvf2ic2z
+  thread_root_uri: at://did:plc:ezto7zsm7rjxoclcecclkq3l/app.bsky.feed.post/3myavnvf2ic2z
+  post_url: https://bsky.app/profile/did:plc:ezto7zsm7rjxoclcecclkq3l/post/3myavnvf2ic2z
+  post_date: '2026-10-19T19:56:08.939Z'
+  liked_at: '2026-10-20T03:26:55.087965+00:00'
+  author_handle: rasgaard.com
+  author_did: did:plc:ezto7zsm7rjxoclcecclkq3l
+  post_text: As a former Runescape addict and current AI agent addict I really appreciate
+    everything about this video youtu.be/cNm4zyUtWj0
+  links:
+  - url: https://youtu.be/cNm4zyUtWj0?is=t_pG8h7AqcOmAB92
+    source: card
+    card_title: 'RuneScape Bench: MMOs for Agents | Max Bittker'
+    card_description: YouTube video by Recurse Center
+    citoid:
+      raw:
+        key: UFEBZ9E5
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Recurse Center
+          creatorType: author
+        tags: []
+        title: 'RuneScape Bench: MMOs for Agents | Max Bittker'
+        url: https://www.youtube.com/watch?v=cNm4zyUtWj0
+        runningTime: '46:55'
+        date: '2026-10-17'
+        abstractNote: RS-sdk is a 2026 project by Max Bittker that turns LostCity
+          into a testbed for new AI experiments. LostCity is an open source implementation
+          of the RuneScape...
+        libraryCatalog: YouTube
+        accessDate: '2026-10-20'
+        shortTitle: RuneScape Bench
+      title: 'RuneScape Bench: MMOs for Agents | Max Bittker'
+      date: '2026-10-17'
+      item_type: videoRecording
+      abstract: RS-sdk is a 2026 project by Max Bittker that turns LostCity into a
+        testbed for new AI experiments. LostCity is an open source implementation
+        of the RuneScape...
+  - url: https://youtu.be/cNm4zyUtWj0
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: RDATFADU
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Recurse Center
+          creatorType: author
+        tags: []
+        title: 'RuneScape Bench: MMOs for Agents | Max Bittker'
+        url: https://www.youtube.com/watch?v=cNm4zyUtWj0
+        runningTime: '46:55'
+        date: '2026-10-17'
+        abstractNote: RS-sdk is a 2026 project by Max Bittker that turns LostCity
+          into a testbed for new AI experiments. LostCity is an open source implementation
+          of the RuneScape...
+        libraryCatalog: YouTube
+        accessDate: '2026-10-20'
+        shortTitle: RuneScape Bench
+      title: 'RuneScape Bench: MMOs for Agents | Max Bittker'
+      date: '2026-10-17'
+      item_type: videoRecording
+      abstract: RS-sdk is a 2026 project by Max Bittker that turns LostCity into a
+        testbed for new AI experiments. LostCity is an open source implementation
+        of the RuneScape...
+  all_post_uris:
+  - at://did:plc:ezto7zsm7rjxoclcecclkq3l/app.bsky.feed.post/3myavnvf2ic2z
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mybgne5lyk2i
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mybgne5lyk2i
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mybgne5lyk2i
+  post_date: '2026-10-20T01:00:04.480Z'
+  liked_at: '2026-10-20T02:16:27.054186+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'Clairic: a system one model for regression
+
+
+    like Jev, except it generates continuous numbers
+
+
+    e.g. start & end indices to slice/quote a string value out of a document
+
+
+    blog.cloudflare.com/clairic-extr...'
+  links:
+  - url: https://blog.cloudflare.com/clairic-extraction-model/
+    source: card
+    card_title: Introducing Clairic, a new System One class of extraction models
+    card_description: Clairic is a new model from Cloudflare that is a System One
+      extraction modeI, capable of extracting, computing, estimating, and forecasting
+      data from unstructured inputs.
+    citoid:
+      raw:
+        key: GBZRJRJB
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Introducing Clairic, a new System One class of extraction models
+        websiteTitle: Cloudflare Blog
+        date: '2026-10-19'
+        url: https://blog.cloudflare.com/clairic-extraction-model/
+        abstractNote: Clairic is a new model from Cloudflare that is a System One
+          extraction modeI, capable of extracting, computing, estimating, and forecasting
+          data from unstructured inputs.
+        language: en-us
+        accessDate: '2026-10-20'
+      title: Introducing Clairic, a new System One class of extraction models
+      date: '2026-10-19'
+      item_type: webpage
+      abstract: Clairic is a new model from Cloudflare that is a System One extraction
+        modeI, capable of extracting, computing, estimating, and forecasting data
+        from unstructured inputs.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mybgne5lyk2i
+- post_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mxwhr6yaic2k
+  thread_root_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mxwhr6yaic2k
+  post_url: https://bsky.app/profile/did:plc:vksrbj3uhjpzqe42stamobyw/post/3mxwhr6yaic2k
+  post_date: '2026-10-15T16:20:49.900Z'
+  liked_at: '2026-10-19T21:00:57.559923+00:00'
+  author_handle: mattbarnum.bsky.social
+  author_did: did:plc:vksrbj3uhjpzqe42stamobyw
+  post_text: "New-\n\nOvernight, P.S. 307 became a symbol of a failing school, following\
+    \ NHJ's piece describing her daughter's negative experience there years earlier.\
+    \ I wanted to know what parents think of it now, so I went to school drop off\
+    \ there recently. \n\nHere's what I heard\n\nwww.chalkbeat"
+  links:
+  - url: https://www.chalkbeat.org/2026/10/15/ps-307-brooklyn-parents-react-to-nikole-hannah-jones-essay/
+    source: card
+    card_title: Nikole Hannah-Jones’ essay made this school famous. Here’s what parents
+      think of it now.
+    card_description: Despite low test scores, parents give Brooklyn’s P.S. 307 high
+      praise
+    citoid:
+      raw:
+        key: CGVV8H3R
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Nikole Hannah-Jones’ essay made this school famous. Here’s what parents
+          think of it now.
+        websiteTitle: Chalkbeat
+        date: '2026-10-15'
+        url: https://www.chalkbeat.org/2026/10/15/ps-307-brooklyn-parents-react-to-nikole-hannah-jones-essay/
+        abstractNote: Despite low test scores, parents give Brooklyn’s P.S. 307 high
+          praise
+        language: en
+        accessDate: '2026-10-20'
+      title: Nikole Hannah-Jones’ essay made this school famous. Here’s what parents
+        think of it now.
+      date: '2026-10-15'
+      item_type: webpage
+      abstract: Despite low test scores, parents give Brooklyn’s P.S. 307 high praise
+  all_post_uris:
+  - at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3mxwhr6yaic2k
+- post_uri: at://did:plc:uygyjatvqwdmsqvamxxckmj2/app.bsky.feed.post/3mxyfn2o47k2u
+  thread_root_uri: at://did:plc:uygyjatvqwdmsqvamxxckmj2/app.bsky.feed.post/3mxyfn2o47k2u
+  post_url: https://bsky.app/profile/did:plc:uygyjatvqwdmsqvamxxckmj2/post/3mxyfn2o47k2u
+  post_date: '2026-10-16T10:48:03.149Z'
+  liked_at: '2026-10-19T20:15:51.344623+00:00'
+  author_handle: wtgowers.bsky.social
+  author_did: did:plc:uygyjatvqwdmsqvamxxckmj2
+  post_text: 'Many people with relevant expertise think there''s a real chance that
+    AI could kill us all in the not too distant future. Others disagree. I''ve written
+    a post, aimed principally at mathematicians, detailing my struggles to decide
+    what to make of this.
+
+
+    gowers.wordpress.com/2026/10'
+  links:
+  - url: https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/
+    source: card
+    card_title: How worried should we be about extinction risk from AI?
+    card_description: A little over two months ago, Jacob Tsimerman surprised a lot
+      of people by announcing, immediately after he had received a Fields Medal, that
+      he would be giving up mathematical research and “…
+    citoid:
+      raw:
+        key: E327P8I9
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: How worried should we be about extinction risk from AI?
+        blogTitle: Gowers's Weblog
+        date: '2026-10-16'
+        url: https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/
+        abstractNote: A little over two months ago, Jacob Tsimerman surprised a lot
+          of people by announcing, immediately after he had received a Fields Medal,
+          that he would be giving up mathematical research and “…
+        language: en
+        accessDate: '2026-10-20'
+      title: How worried should we be about extinction risk from AI?
+      date: '2026-10-16'
+      item_type: blogPost
+      publisher: Gowers's Weblog
+      abstract: A little over two months ago, Jacob Tsimerman surprised a lot of people
+        by announcing, immediately after he had received a Fields Medal, that he would
+        be giving up mathematical research and “…
+  all_post_uris:
+  - at://did:plc:uygyjatvqwdmsqvamxxckmj2/app.bsky.feed.post/3mxyfn2o47k2u
+- post_uri: at://did:plc:iie4kmwqaaoswslsbcf46pjf/app.bsky.feed.post/3my7zodpbnc2x
+  thread_root_uri: at://did:plc:iie4kmwqaaoswslsbcf46pjf/app.bsky.feed.post/3my7zodpbnc2x
+  post_url: https://bsky.app/profile/did:plc:iie4kmwqaaoswslsbcf46pjf/post/3my7zodpbnc2x
+  post_date: '2026-10-19T11:35:19.184Z'
+  liked_at: '2026-10-19T20:02:31.440013+00:00'
+  author_handle: ksolovev.com
+  author_did: did:plc:iie4kmwqaaoswslsbcf46pjf
+  post_text: 'Search across 1.3 billion news articles in seconds. Now with filtering!
+
+
+    Infini-News now has API v2 and has moved out of my PC onto a proper server.
+
+
+    infini-news.uni-graz.at'
+  links:
+  - url: https://infini-news.uni-graz.at
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        url: https://infini-news.uni-graz.at
+        itemType: webpage
+        abstractNote: 'infini-news: search 1.36B+ news articles with sub-second full-text
+          search'
+        title: infini-news
+        language: en
+        accessDate: '2026-10-20'
+        websiteTitle: infini-news.uni-graz.at
+      title: infini-news
+      item_type: webpage
+      abstract: 'infini-news: search 1.36B+ news articles with sub-second full-text
+        search'
+  all_post_uris:
+  - at://did:plc:iie4kmwqaaoswslsbcf46pjf/app.bsky.feed.post/3my7zodpbnc2x
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3myarpg5kd22i
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3myarpg5kd22i
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3myarpg5kd22i
+  post_date: '2026-10-19T18:45:25.103Z'
+  liked_at: '2026-10-19T19:26:10.870030+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: "Mercury 3: dLLMs have arrived, finally\n\nSame price as Luna-6, slightly\
+    \ better, but 8x faster \n\ntext diffusion is here \n\nwww.inceptionlabs.ai/blog/introdu..."
+  links:
+  - url: https://www.inceptionlabs.ai/blog/introducing-mercury-3
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: P2LU9X96
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Diffusion at Scale: Introducing Mercury 3 – Inception'
+        url: https://www.inceptionlabs.ai/blog/introducing-mercury-3
+        abstractNote: Mercury 3 is the most capable diffusion LLM released to date.
+          It outperforms GPT-6 Luna and Claude Haiku 5.5 while running 4–8x faster
+          at 1,000+ tokens per second.
+        date: '2026-10-19'
+        language: en
+        accessDate: '2026-10-20'
+        shortTitle: Diffusion at Scale
+        websiteTitle: www.inceptionlabs.ai
+      title: 'Diffusion at Scale: Introducing Mercury 3 – Inception'
+      date: '2026-10-19'
+      item_type: webpage
+      abstract: Mercury 3 is the most capable diffusion LLM released to date. It outperforms
+        GPT-6 Luna and Claude Haiku 5.5 while running 4–8x faster at 1,000+ tokens
+        per second.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3myarpg5kd22i
 - post_uri: at://did:plc:cewopa6cy2zuz742o4vmuvct/app.bsky.feed.post/3my6qxpd4xc2z
   thread_root_uri: at://did:plc:cewopa6cy2zuz742o4vmuvct/app.bsky.feed.post/3my6qxpd4xc2z
   post_url: https://bsky.app/profile/did:plc:cewopa6cy2zuz742o4vmuvct/post/3my6qxpd4xc2z
