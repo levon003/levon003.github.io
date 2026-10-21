@@ -1,3 +1,85 @@
+- post_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mydh57pfkk2l
+  thread_root_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mydh57pfkk2l
+  post_url: https://bsky.app/profile/did:plc:ojnhyuhk6tscuussfk5bvyra/post/3mydh57pfkk2l
+  post_date: '2026-10-20T20:14:16.171Z'
+  liked_at: '2026-10-21T04:07:20.267032+00:00'
+  author_handle: technollama.bsky.social
+  author_did: did:plc:ojnhyuhk6tscuussfk5bvyra
+  post_text: Amazed by the videos you can make with Opus 5.5. This is a short video
+    explaining the Browne v. Clarke case (the reggeaton 'Fish Market' case). I wanted
+    a short explainer for class that included the beats without reproducing the songs.
+    I'm pleased with the result.
+  links:
+  - url: https://youtu.be/i-4tWssn2yY
+    source: thread
+    card_title: Dembow reggaeton copyright case
+    card_description: YouTube video by Andres Guadamuz
+    citoid:
+      raw:
+        key: NG86XULW
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Andres Guadamuz
+          creatorType: author
+        tags: []
+        title: Dembow reggaeton copyright case
+        url: https://www.youtube.com/watch?v=i-4tWssn2yY
+        runningTime: '3:26'
+        date: '2026-10-20'
+        abstractNote: Video explainer of Browne v. Clarke.
+        libraryCatalog: YouTube
+        accessDate: '2026-10-21'
+      title: Dembow reggaeton copyright case
+      date: '2026-10-20'
+      item_type: videoRecording
+      abstract: Video explainer of Browne v. Clarke.
+  all_post_uris:
+  - at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mydh57pfkk2l
+- post_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mydh6o2jjc22
+  thread_root_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mydh6o2jjc22
+  post_url: https://bsky.app/profile/did:plc:5hhbgkktcpofpw4ovz6kjjau/post/3mydh6o2jjc22
+  post_date: '2026-10-20T20:15:04.770Z'
+  liked_at: '2026-10-21T01:30:27.384005+00:00'
+  author_handle: jdp.extropian.net
+  author_did: did:plc:5hhbgkktcpofpw4ovz6kjjau
+  post_text: WHAT
+  links: []
+  all_post_uris:
+  - at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3mydh6o2jjc22
+- post_uri: at://did:plc:2xmvrxnuga6tsz3ply3eatdz/app.bsky.feed.post/3mydivahsmk2z
+  thread_root_uri: at://did:plc:2xmvrxnuga6tsz3ply3eatdz/app.bsky.feed.post/3mydivahsmk2z
+  post_url: https://bsky.app/profile/did:plc:2xmvrxnuga6tsz3ply3eatdz/post/3mydivahsmk2z
+  post_date: '2026-10-20T20:45:36.019Z'
+  liked_at: '2026-10-21T01:06:36.944000+00:00'
+  author_handle: tech-val.bsky.social
+  author_did: did:plc:2xmvrxnuga6tsz3ply3eatdz
+  post_text: what if they did randomly generate the keys and just got really unlucky?
+  links: []
+  all_post_uris:
+  - at://did:plc:2xmvrxnuga6tsz3ply3eatdz/app.bsky.feed.post/3mydivahsmk2z
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3myd3ecbxys2z
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3myd3ecbxys2z
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3myd3ecbxys2z
+  post_date: '2026-10-20T16:43:28.855Z'
+  liked_at: '2026-10-20T18:52:10.379903+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: Argon is AGI confirmed
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3myd3ecbxys2z
+- post_uri: at://did:plc:6vxtya3serxcwvcdk5e7psvv/app.bsky.feed.post/3myb6fleipk2g
+  thread_root_uri: at://did:plc:6vxtya3serxcwvcdk5e7psvv/app.bsky.feed.post/3myb6fleipk2g
+  post_url: https://bsky.app/profile/did:plc:6vxtya3serxcwvcdk5e7psvv/post/3myb6fleipk2g
+  post_date: '2026-10-19T22:32:33.677Z'
+  liked_at: '2026-10-20T13:44:29.214164+00:00'
+  author_handle: eliza.vg
+  author_did: did:plc:6vxtya3serxcwvcdk5e7psvv
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:6vxtya3serxcwvcdk5e7psvv/app.bsky.feed.post/3myb6fleipk2g
 - post_uri: at://did:plc:ifow34t4mgatlvmu5bnkdq27/app.bsky.feed.post/3myaknpmd242w
   thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3myaklcdsd22i
   post_url: https://bsky.app/profile/did:plc:ifow34t4mgatlvmu5bnkdq27/post/3myaknpmd242w
