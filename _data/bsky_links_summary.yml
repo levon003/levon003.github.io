@@ -1,11 +1,11 @@
-entries_with_links: 2506
-total_links: 3069
-unique_domains: 1017
+entries_with_links: 2516
+total_links: 3080
+unique_domains: 1021
 top_domains:
 - domain: arxiv.org
-  count: 250
+  count: 251
 - domain: substack.com
-  count: 179
+  count: 181
 - domain: github.com
   count: 95
 - domain: simonwillison.net
@@ -19,7 +19,7 @@ top_domains:
 - domain: nytimes.com
   count: 44
 - domain: huggingface.co
-  count: 42
+  count: 43
 - domain: youtu.be
   count: 40
 top_accounts:
@@ -37,7 +37,7 @@ top_accounts:
   count: 39
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj
-  count: 35
+  count: 36
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
   count: 33

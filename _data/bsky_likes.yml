@@ -1,3 +1,542 @@
+- post_uri: at://did:plc:5blnghussrct3kngjzbyoebu/app.bsky.feed.post/3myg22snc532w
+  thread_root_uri: at://did:plc:5blnghussrct3kngjzbyoebu/app.bsky.feed.post/3myg22smzds2w
+  post_url: https://bsky.app/profile/did:plc:5blnghussrct3kngjzbyoebu/post/3myg22snc532w
+  post_date: '2026-10-21T20:58:15.925Z'
+  liked_at: '2026-10-22T05:38:01.891016+00:00'
+  author_handle: drjingliu.bsky.social
+  author_did: did:plc:5blnghussrct3kngjzbyoebu
+  post_text: 'My full response is here: longer.blue/posts/R2MANI...'
+  links:
+  - url: https://longer.blue/posts/R2MANIH5bI
+    source: card
+    card_title: Jing Liu on longer.blue
+    card_description: First of all, I totally agree that it is difficult to reconcile
+      the low take-up and the big effects, which bothered our team for a long time.
+      For people who ...
+    citoid:
+      raw:
+        key: 2EZAZJ9X
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Jing Liu on longer.blue
+        url: https://longer.blue/posts/R2MANIH5bI
+        abstractNote: First of all, I totally agree that it is difficult to reconcile
+          the low take-up and the big effects, which bothered our team for a long
+          time. For people who ...
+        language: en
+        accessDate: '2026-10-22'
+        websiteTitle: longer.blue
+      title: Jing Liu on longer.blue
+      item_type: webpage
+      abstract: First of all, I totally agree that it is difficult to reconcile the
+        low take-up and the big effects, which bothered our team for a long time.
+        For people who ...
+  all_post_uris:
+  - at://did:plc:5blnghussrct3kngjzbyoebu/app.bsky.feed.post/3myg22snc532w
+- post_uri: at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3mxx7rdc7qk2q
+  thread_root_uri: at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3mxx7rdc7qk2q
+  post_url: https://bsky.app/profile/did:plc:ywlagohauh5cgwmspgnrpd2o/post/3mxx7rdc7qk2q
+  post_date: '2026-10-15T23:30:24.227Z'
+  liked_at: '2026-10-22T05:28:32.287027+00:00'
+  author_handle: brendanbartanen.bsky.social
+  author_did: did:plc:ywlagohauh5cgwmspgnrpd2o
+  post_text: "“The current study presents findings from, to our knowledge, the first\
+    \ large-scale randomized experiment evaluating the effects of AI tutoring on student\
+    \ learning at a large U.S. public university.”\n\nThe only problem is the findings\
+    \ are wrong. \n\nbrendanbartanen.substack.com/p/ai-"
+  links:
+  - url: https://brendanbartanen.substack.com/p/ai-tutoring-lowers-student-performance?showWelcomeOnShare=true
+    source: card
+    card_title: AI tutoring lowers student performance and engagement. Or does it?
+    card_description: Making sense of an important new study.
+    citoid:
+      raw:
+        url: https://brendanbartanen.substack.com/p/ai-tutoring-lowers-student-performance?showWelcomeOnShare=true
+        itemType: newspaperArticle
+        title: AI tutoring lowers student performance and engagement. Or does it?
+        abstractNote: Making sense of an important new study.
+        creators:
+        - creatorType: author
+          firstName: Brendan
+          lastName: Bartanen
+        language: en
+        accessDate: '2026-10-22'
+      title: AI tutoring lowers student performance and engagement. Or does it?
+      authors:
+      - last: Bartanen
+        first: Brendan
+      item_type: newspaperArticle
+      abstract: Making sense of an important new study.
+  all_post_uris:
+  - at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3mxx7rdc7qk2q
+- post_uri: at://did:plc:eqkljddu3bvtnd2tmlluct3q/app.bsky.feed.post/3myfwhcniuk2p
+  thread_root_uri: at://did:plc:eqkljddu3bvtnd2tmlluct3q/app.bsky.feed.post/3myfwhcniuk2p
+  post_url: https://bsky.app/profile/did:plc:eqkljddu3bvtnd2tmlluct3q/post/3myfwhcniuk2p
+  post_date: '2026-10-21T19:53:40.403Z'
+  liked_at: '2026-10-22T02:15:04.883064+00:00'
+  author_handle: hegghammer.net
+  author_did: did:plc:eqkljddu3bvtnd2tmlluct3q
+  post_text: 'After two years of tinkering, I conclude: The dream of the local AI
+    model is a mirage. Instead we should pursue collective solutions in the form of
+    datacenters that can serve powerful open-source models in a privacy-friendly way'
+  links:
+  - url: https://pad.hegghammer.net/posts/are-local-llms-worth-it/
+    source: card
+    card_title: Are local LLMs worth it? – heggpad
+    card_description: ''
+    citoid:
+      raw:
+        key: NZSKDYEA
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Thomas
+          lastName: Hegghammer
+          creatorType: author
+        tags: []
+        date: '2026-10-21'
+        url: https://pad.hegghammer.net/posts/are-local-llms-worth-it/
+        title: Are local LLMs worth it? – heggpad
+        language: en
+        accessDate: '2026-10-22'
+        shortTitle: Are local LLMs worth it?
+        websiteTitle: pad.hegghammer.net
+      title: Are local LLMs worth it? – heggpad
+      authors:
+      - last: Hegghammer
+        first: Thomas
+      date: '2026-10-21'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:eqkljddu3bvtnd2tmlluct3q/app.bsky.feed.post/3myfwhcniuk2p
+- post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mygbzip5cs2e
+  thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mygbzip5cs2e
+  post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3mygbzip5cs2e
+  post_date: '2026-10-21T23:20:41.882Z'
+  liked_at: '2026-10-22T00:42:24.142056+00:00'
+  author_handle: unsloth.ai
+  author_did: did:plc:xfbmksnykel6qbq7cs4geveg
+  post_text: 'Run Flint locally on 24GB RAM via Unsloth Dynamic GGUFs!
+
+
+    Flint is the strongest MoE model under 50B parameters.
+
+
+    Recursive’s Apache-2.0 model has 39.8B parameters (2.5B active). Run at 125 t/s
+    on Mac, 150 on RTX Spark
+
+
+    GGUF: huggingface.co/unsloth/flin...
+
+    Guide: unsloth.ai/docs/'
+  links:
+  - url: https://huggingface.co/unsloth/flint-GGUF
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: DMPJLSAU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: unsloth/flint-GGUF · Hugging Face
+        url: https://huggingface.co/unsloth/flint-GGUF
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-10-22'
+        accessDate: '2026-10-22'
+        websiteTitle: huggingface.co
+      title: unsloth/flint-GGUF · Hugging Face
+      date: '2026-10-22'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  - url: https://unsloth.ai/docs/models/flint
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: JQP7TVRW
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Flint: Run Locally Guide | Unsloth Documentation'
+        abstractNote: Run Recursive Flint locally with Unsloth Dynamic GGUFs, Unsloth
+          Desktop and llama.cpp.
+        date: '2026-10-22'
+        url: https://unsloth.ai/docs/models/flint
+        language: en
+        accessDate: '2026-10-22'
+        shortTitle: Flint
+        websiteTitle: unsloth.ai
+      title: 'Flint: Run Locally Guide | Unsloth Documentation'
+      date: '2026-10-22'
+      item_type: webpage
+      abstract: Run Recursive Flint locally with Unsloth Dynamic GGUFs, Unsloth Desktop
+        and llama.cpp.
+  all_post_uris:
+  - at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mygbzip5cs2e
+- post_uri: at://did:plc:iix736bptzptlandzsola6sq/app.bsky.feed.post/3mydvcmd5rk2s
+  thread_root_uri: at://did:plc:iix736bptzptlandzsola6sq/app.bsky.feed.post/3mydvcmd5rk2s
+  post_url: https://bsky.app/profile/did:plc:iix736bptzptlandzsola6sq/post/3mydvcmd5rk2s
+  post_date: '2026-10-21T00:27:49.557Z'
+  liked_at: '2026-10-22T00:35:02.968054+00:00'
+  author_handle: pkgw.bsky.social
+  author_did: did:plc:iix736bptzptlandzsola6sq
+  post_text: 'Likely the most important thing I''ve ever written — if you''re an academic
+    and the AI mania unsettles you, here''s my best shot at presenting some intellectual
+    tools that might help you articulate why.
+
+
+    arxiv.org/abs/2610.27251'
+  links:
+  - url: https://arxiv.org/abs/2610.27251
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: Z3EHC9XJ
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: P. K. G.
+          lastName: Williams
+          creatorType: author
+        tags:
+        - tag: Instrumentation and Methods for Astrophysics (astro-ph.IM)
+          type: 1
+        - tag: Computers and Society (cs.CY)
+          type: 1
+        - tag: 'FOS: Physical sciences'
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: AI and The Enclosure of the Scientific Commons
+        repository: arXiv
+        date: '2026-10-21'
+        DOI: 10.48550/ARXIV.2610.27251
+        url: https://arxiv.org/abs/2610.27251
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: 'The scientific literature can be viewed as an "information
+          commons:" an intangible resource that "no one owns and is shared by everyone."
+          There are well-established economic and political frameworks for understanding
+          such commons, emerging from the history of agricultural common lands found
+          in places like preindustrial England. This article provides a primer on
+          the history and these frameworks, and considers a key difference between
+          the information commons and the fields of yore: while information commons
+          are robust and immensely valuable --- some can be said to rank among humanity''s
+          greatest achievements --- the English agricultural commons no longer meaningfully
+          exist. The latter are gone not because of the well-known "tragedy of the
+          commons," but rather a phenomenon known as the enclosure movement (~1600--1800)
+          that transformed the common lands into private property. Many observers,
+          then and now, judge enclosure to have been theft at a societal scale. This
+          article argues that artificial intelligence (AI) provides precisely the
+          tools needed to enable a previously-infeasible enclosure of the information
+          commons. Although AI-enabled enclosure does not operate identically to physical
+          enclosure, it shares the key features of turning the commons into private
+          wealth and undermining the social systems that support them (via "slop spam").
+          The concepts presented in this article can provide a scholarly basis for
+          interrogating the foreboding feeling that AI may represent not just a smash-and-grab,
+          but an attack upon a whole way of life.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-22'
+      title: AI and The Enclosure of the Scientific Commons
+      authors:
+      - last: Williams
+        first: P. K. G.
+      date: '2026-10-21'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.27251
+      publisher: arXiv
+      abstract: 'The scientific literature can be viewed as an "information commons:"
+        an intangible resource that "no one owns and is shared by everyone." There
+        are well-established economic and political frameworks for understanding such
+        commons, emerging from the history of agricultural common lands found in places
+        like preindustrial England. This article provides a primer on the history
+        and these frameworks, and considers a key difference between the information
+        commons and the fields of yore: while information commons are robust and immensely
+        valuable --- some can be said to rank among humanity''s greatest achievements
+        --- the English agricultural commons no longer meaningfully exist. The latter
+        are gone not because of the well-known "tragedy of the commons," but rather
+        a phenomenon known as the enclosure movement (~1600--1800) that transformed
+        the common lands into private property. Many observers, then and now, judge
+        enclosure to have been theft at a societal scale. This article argues that
+        artificial intelligence (AI) provides precisely the tools needed to enable
+        a previously-infeasible enclosure of the information commons. Although AI-enabled
+        enclosure does not operate identically to physical enclosure, it shares the
+        key features of turning the commons into private wealth and undermining the
+        social systems that support them (via "slop spam"). The concepts presented
+        in this article can provide a scholarly basis for interrogating the foreboding
+        feeling that AI may represent not just a smash-and-grab, but an attack upon
+        a whole way of life.'
+  all_post_uris:
+  - at://did:plc:iix736bptzptlandzsola6sq/app.bsky.feed.post/3mydvcmd5rk2s
+- post_uri: at://did:plc:73dpznbu4wqwtcyurwbiulov/app.bsky.feed.post/3myg7pie6p224
+  thread_root_uri: at://did:plc:73dpznbu4wqwtcyurwbiulov/app.bsky.feed.post/3myg7pie6p224
+  post_url: https://bsky.app/profile/did:plc:73dpznbu4wqwtcyurwbiulov/post/3myg7pie6p224
+  post_date: '2026-10-21T22:39:18.499Z'
+  liked_at: '2026-10-21T22:47:28.925028+00:00'
+  author_handle: archive.org
+  author_did: did:plc:73dpznbu4wqwtcyurwbiulov
+  post_text: An update from Brewster Kahle on today's outage.
+  links: []
+  all_post_uris:
+  - at://did:plc:73dpznbu4wqwtcyurwbiulov/app.bsky.feed.post/3myg7pie6p224
+- post_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3myfikq5mas2w
+  thread_root_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3myfikq5mas2w
+  post_url: https://bsky.app/profile/did:plc:ixxitznrkq3opo763lmoycwk/post/3myfikq5mas2w
+  post_date: '2026-10-21T15:45:02.837Z'
+  liked_at: '2026-10-21T20:02:19.099017+00:00'
+  author_handle: vauhinivara.bsky.social
+  author_did: did:plc:ixxitznrkq3opo763lmoycwk
+  post_text: Beautiful perspective here on AI and literature from @topefolarin.bsky.social,
+    a writer whose complicated and challenging work I really admire.
+  links:
+  - url: https://www.theatlantic.com/books/2026/10/caine-prize-winner-tope-folarin-on-african-writing-and-ai/689098/?gift=Afjo8ZWiYsxozi9wkwT7E7Lub6Oo4-NC87uJ9Bt6WKU
+    source: card
+    card_title: The Paradox of African Writing and AI
+    card_description: A past winner of the Caine Prize draws a hard lesson from the
+      controversy over its latest recipient.
+    citoid:
+      raw:
+        key: 4439AAMD
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Tope
+          lastName: Folarin
+          creatorType: author
+        tags: []
+        title: The Paradox of African Writing and AI
+        websiteTitle: The Atlantic
+        date: '2026-10-21'
+        url: https://www.theatlantic.com/books/2026/10/caine-prize-winner-tope-folarin-on-african-writing-and-ai/689098/
+        abstractNote: A past winner of the Caine Prize draws a hard lesson from the
+          controversy over its latest recipient.
+        language: en
+        accessDate: '2026-10-22'
+      title: The Paradox of African Writing and AI
+      authors:
+      - last: Folarin
+        first: Tope
+      date: '2026-10-21'
+      item_type: webpage
+      abstract: A past winner of the Caine Prize draws a hard lesson from the controversy
+        over its latest recipient.
+  all_post_uris:
+  - at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3myfikq5mas2w
+- post_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3myeygw7tyc2s
+  thread_root_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3myeygw7tyc2s
+  post_url: https://bsky.app/profile/did:plc:3zyo4iakhqs47bttjalqgbk7/post/3myeygw7tyc2s
+  post_date: '2026-10-21T10:56:35.118Z'
+  liked_at: '2026-10-21T16:47:58.857200+00:00'
+  author_handle: statsepi.bsky.social
+  author_did: did:plc:3zyo4iakhqs47bttjalqgbk7
+  post_text: 'Re-upping this out of frustration (ICYMI).
+
+
+    statsepi.substack.com/p/one-simple...'
+  links:
+  - url: https://statsepi.substack.com/p/one-simple-trick-that-statistician
+    source: card
+    card_title: One simple trick that statisticians hate
+    card_description: If you don't like the results, just ignore the control group
+    citoid:
+      raw:
+        key: M6FJBTZH
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Darren Dahly, PhD lol FFS
+          lastName: jFc
+          creatorType: author
+        tags: []
+        title: One simple trick that statisticians hate
+        abstractNote: If you don't like the results, just ignore the control group
+        date: '2024-07-26'
+        blogTitle: Life is pain, especially your data
+        url: https://statsepi.substack.com/p/one-simple-trick-that-statistician
+        websiteType: Substack newsletter
+        accessDate: '2026-10-22'
+      title: One simple trick that statisticians hate
+      authors:
+      - last: jFc
+        first: Darren Dahly, PhD lol FFS
+      date: '2024-07-26'
+      item_type: blogPost
+      publisher: Life is pain, especially your data
+      abstract: If you don't like the results, just ignore the control group
+  all_post_uris:
+  - at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3myeygw7tyc2s
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myczecoh322k
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myczecoh322k
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3myczecoh322k
+  post_date: '2026-10-20T16:07:41.780Z'
+  liked_at: '2026-10-21T14:34:32.503117+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: I'm on the other side of this one, actually. Style counts. If people
+    can hear modelspeak in your prose, it weakens the effect in the same way overusing
+    clichés weakens the effect. I don't care *how* you get there, but if an editor
+    says "this doesn't sound fresh and authentic," yo
+  links:
+  - url: https://chroni.cl/4eDRdjg
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: G45MDFYH
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Opinion | Who Cares Whether Academics Use AI to Write?
+        websiteTitle: The Chronicle of Higher Education
+        date: '2026-10-13'
+        url: https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write
+        abstractNote: We should judge analytical writing by its quality, not its source.
+        language: en
+        accessDate: '2026-10-22'
+      title: Opinion | Who Cares Whether Academics Use AI to Write?
+      date: '2026-10-13'
+      item_type: webpage
+      abstract: We should judge analytical writing by its quality, not its source.
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myczecoh322k
+- post_uri: at://did:plc:rgwjlecfhxflqsvo7kdatjgj/app.bsky.feed.post/3myf2m7haouw2
+  thread_root_uri: at://did:plc:rgwjlecfhxflqsvo7kdatjgj/app.bsky.feed.post/3myf2lh3upco2
+  post_url: https://bsky.app/profile/did:plc:rgwjlecfhxflqsvo7kdatjgj/post/3myf2m7haouw2
+  post_date: '2026-10-21T11:35:18.823Z'
+  liked_at: '2026-10-21T14:25:43.095112+00:00'
+  author_handle: cpf.sh
+  author_did: did:plc:rgwjlecfhxflqsvo7kdatjgj
+  post_text: I think my favourite bit might be "this may have some reputational risks
+    on eMudhra which cannot be quantified"
+  links:
+  - url: https://emudhra.com/en/press-release/emudhra-statement-distrust-global-tls-intermediate-root-ca
+    source: thread
+    card_title: eMudhra Statement on distrust of select Global TLS Intermediate and
+      one Root CA
+    card_description: 'eMudhra Limited (NSE: EMUDHRA | BSE: 543533) today issued a
+      statement on recent reports about the distrust of some of its intermediate Certificate
+      Authorities (CAs) used in its global TLS business.'
+    citoid:
+      raw:
+        key: U38ZWAVL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: eMudhra Press Release
+          lastName: October 21
+          creatorType: author
+        - firstName: '2026'
+          lastName: Share
+          creatorType: author
+        tags: []
+        title: eMudhra Statement on distrust of select Global TLS Intermediate and
+          one Root CA
+        date: '2026-10-21'
+        abstractNote: 'eMudhra Limited (NSE: EMUDHRA | BSE: 543533) today issued a
+          statement on recent reports about the distrust of some of its intermediate
+          Certificate Authorities (CAs) used in its global TLS business.'
+        url: https://emudhra.com/en/press-release/emudhra-statement-distrust-global-tls-intermediate-root-ca
+        language: en-US
+        accessDate: '2026-10-22'
+        websiteTitle: emudhra.com
+      title: eMudhra Statement on distrust of select Global TLS Intermediate and one
+        Root CA
+      authors:
+      - last: October 21
+        first: eMudhra Press Release
+      - last: Share
+        first: '2026'
+      date: '2026-10-21'
+      item_type: webpage
+      abstract: 'eMudhra Limited (NSE: EMUDHRA | BSE: 543533) today issued a statement
+        on recent reports about the distrust of some of its intermediate Certificate
+        Authorities (CAs) used in its global TLS business.'
+  all_post_uris:
+  - at://did:plc:rgwjlecfhxflqsvo7kdatjgj/app.bsky.feed.post/3myf2m7haouw2
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3myf6qv3crs2f
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3myf6jd5u7s2e
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3myf6qv3crs2f
+  post_date: '2026-10-21T12:49:31.913Z'
+  liked_at: '2026-10-21T14:21:57.339137+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: It’s an expensive signal that I use to confirm you’ve actually read your
+    own paper. I have no issue with this insistence.
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3myf6qv3crs2f
+- post_uri: at://did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/app.bsky.feed.post/3myd476d2sk2k
+  thread_root_uri: at://did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/app.bsky.feed.post/3myd476d2sk2k
+  post_url: https://bsky.app/profile/did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/post/3myd476d2sk2k
+  post_date: '2026-10-20T16:58:30.666Z'
+  liked_at: '2026-10-21T13:20:32.093143+00:00'
+  author_handle: dieworkwear.bsky.social
+  author_did: did:plc:ks3gpa6ftoyaq7hmf6c4qx4c
+  post_text: 'Enjoyed seeing this woman''s work. Sustainability isn''t just about
+    producer decisions, but also consumer decisions, namely their willingness to repair
+    things when needed. This type of repair is easier on natural fibers, rather than
+    stretch fabrics. Consider that when shoppping.
+
+
+    I'
+  links: []
+  all_post_uris:
+  - at://did:plc:ks3gpa6ftoyaq7hmf6c4qx4c/app.bsky.feed.post/3myd476d2sk2k
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mydpsj35ok2n
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mydpsj35ok2n
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mydpsj35ok2n
+  post_date: '2026-10-20T22:49:20.570Z'
+  liked_at: '2026-10-21T13:17:20.435110+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: Taking a chill day after a lot of travel, wrote a short post on something
+    that's been bugging me in a lot of the AI discourse I've seen blog.andymasley.com/p/thinking-a...
+  links:
+  - url: https://blog.andymasley.com/p/thinking-about-the-future-of-ai-shouldnt
+    source: card
+    card_title: Thinking about the future of AI shouldn’t feel like choosing options
+      from a buffet
+    card_description: The world doesn’t react to the vibes we want to give off
+    citoid:
+      raw:
+        key: DQ2YQ5G4
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Andy
+          lastName: Masley
+          creatorType: author
+        tags: []
+        title: Thinking about the future of AI shouldn’t feel like choosing options
+          from a buffet
+        url: https://blog.andymasley.com/p/thinking-about-the-future-of-ai-shouldnt
+        abstractNote: The world doesn’t react to the vibes we want to give off
+        date: '2026-10-20'
+        language: en
+        accessDate: '2026-10-22'
+        websiteTitle: blog.andymasley.com
+      title: Thinking about the future of AI shouldn’t feel like choosing options
+        from a buffet
+      authors:
+      - last: Masley
+        first: Andy
+      date: '2026-10-20'
+      item_type: webpage
+      abstract: The world doesn’t react to the vibes we want to give off
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mydpsj35ok2n
 - post_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mydh57pfkk2l
   thread_root_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mydh57pfkk2l
   post_url: https://bsky.app/profile/did:plc:ojnhyuhk6tscuussfk5bvyra/post/3mydh57pfkk2l
