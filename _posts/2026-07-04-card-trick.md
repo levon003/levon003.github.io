@@ -121,4 +121,4 @@ I thought this was a neat trick. I had Claude Opus create the visualizations for
 
  - [The Josephus Problem](https://www.youtube.com/watch?v=uCsD3ZGzMgE) by Numberphile (YouTube)
  - ["Card Dealing Math"](https://arxiv.org/abs/2509.11395) – after writing this post, I discovered the trick has been the subject of at least two academic papers, which extend the trick beyond four cards and include alternate dealing strategies.
- - Apparently, the trick [was created by Woody Aragón](https://woodyaragon.blogspot.com/2016/05/penn-teller.html) and published in _A Book in English_ (2011).
+ - Apparently, the trick [was created by Woody Aragón](https://woodyaragon.blogspot.com/2016/05/penn-teller.html) and published in [_A Book in English_](https://www.conjuringarchive.com/list/publication/1071) (2011).
