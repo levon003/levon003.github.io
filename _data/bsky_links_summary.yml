@@ -1,31 +1,31 @@
-entries_with_links: 2524
-total_links: 3088
-unique_domains: 1022
+entries_with_links: 2531
+total_links: 3096
+unique_domains: 1023
 top_domains:
 - domain: arxiv.org
   count: 251
 - domain: substack.com
   count: 181
 - domain: github.com
-  count: 96
+  count: 97
 - domain: simonwillison.net
-  count: 81
+  count: 82
 - domain: github.io
   count: 80
 - domain: acm.org
   count: 55
 - domain: doi.org
   count: 55
+- domain: huggingface.co
+  count: 44
 - domain: nytimes.com
   count: 44
-- domain: huggingface.co
-  count: 43
 - domain: youtu.be
   count: 40
 top_accounts:
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
-  count: 72
+  count: 73
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
   count: 69

@@ -1,3 +1,452 @@
+- post_uri: at://did:plc:f6yekxxpke7gyas3d7qeipty/app.bsky.feed.post/3mykvymup7s2l
+  thread_root_uri: at://did:plc:f6yekxxpke7gyas3d7qeipty/app.bsky.feed.post/3mykvymup7s2l
+  post_url: https://bsky.app/profile/did:plc:f6yekxxpke7gyas3d7qeipty/post/3mykvymup7s2l
+  post_date: '2026-10-23T19:28:46.500Z'
+  liked_at: '2026-10-24T05:42:23.858030+00:00'
+  author_handle: mdruker.app
+  author_did: did:plc:f6yekxxpke7gyas3d7qeipty
+  post_text: Social media loves talking about how everything is getting worse. But
+    what’s something that you’ve seen get _better_ in your lifetime?
+  links: []
+  all_post_uris:
+  - at://did:plc:f6yekxxpke7gyas3d7qeipty/app.bsky.feed.post/3mykvymup7s2l
+- post_uri: at://did:plc:nhqfrd4axpttskzynnjal2ky/app.bsky.feed.post/3mxsgwi4cd22e
+  thread_root_uri: at://did:plc:nhqfrd4axpttskzynnjal2ky/app.bsky.feed.post/3mxsgwi4cd22e
+  post_url: https://bsky.app/profile/did:plc:nhqfrd4axpttskzynnjal2ky/post/3mxsgwi4cd22e
+  post_date: '2026-10-14T01:55:14.548Z'
+  liked_at: '2026-10-24T05:37:40.586028+00:00'
+  author_handle: benyoel.bsky.social
+  author_did: did:plc:nhqfrd4axpttskzynnjal2ky
+  post_text: After three years of work, I am honored to share that my dataset of US
+    Secretary of State speeches (1997-2026) is now public! Jay Revolinsky and I introduce
+    a novel corpus of all remarks delivered by US SoS's throughout the post-Cold War
+    (~17,700 speeches) including Rubio. github
+  links:
+  - url: https://github.com/revolins/sos-corpus/tree/main
+    source: card
+    card_title: 'GitHub - revolins/sos-corpus: US Secretary of State -- Live Corpus'
+    card_description: US Secretary of State -- Live Corpus. Contribute to revolins/sos-corpus
+      development by creating an account on GitHub.
+    citoid:
+      raw:
+        key: K6P2PBDH
+        version: 0
+        itemType: computerProgram
+        creators:
+        - name: revolins
+          creatorType: programmer
+        tags: []
+        url: https://github.com/revolins/sos-corpus
+        title: revolins/sos-corpus
+        abstractNote: US Secretary of State -- Live Corpus
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2026-10-14T01:37:42Z'
+        date: '2026-10-24'
+        rights: MIT
+        accessDate: '2026-10-24'
+      title: revolins/sos-corpus
+      date: '2026-10-24'
+      item_type: computerProgram
+      abstract: US Secretary of State -- Live Corpus
+  all_post_uris:
+  - at://did:plc:nhqfrd4axpttskzynnjal2ky/app.bsky.feed.post/3mxsgwi4cd22e
+- post_uri: at://did:plc:2xzjzuyrgz6dmjy2xdhlawgl/app.bsky.feed.post/3myll6n2vks2a
+  thread_root_uri: at://did:plc:2xzjzuyrgz6dmjy2xdhlawgl/app.bsky.feed.post/3myll6n2vks2a
+  post_url: https://bsky.app/profile/did:plc:2xzjzuyrgz6dmjy2xdhlawgl/post/3myll6n2vks2a
+  post_date: '2026-10-24T01:47:56.603Z'
+  liked_at: '2026-10-24T03:28:24.807014+00:00'
+  author_handle: notalawyer.bsky.social
+  author_did: did:plc:2xzjzuyrgz6dmjy2xdhlawgl
+  post_text: a 25 year old could not comprehend how bad the dining options were in
+    the median American town in 1996
+  links: []
+  all_post_uris:
+  - at://did:plc:2xzjzuyrgz6dmjy2xdhlawgl/app.bsky.feed.post/3myll6n2vks2a
+- post_uri: at://did:plc:3jpt2mvvsumj2r7eqk4gzzjz/app.bsky.feed.post/3mykmj6n3222b
+  thread_root_uri: at://did:plc:3jpt2mvvsumj2r7eqk4gzzjz/app.bsky.feed.post/3mykmj6n3222b
+  post_url: https://bsky.app/profile/did:plc:3jpt2mvvsumj2r7eqk4gzzjz/post/3mykmj6n3222b
+  post_date: '2026-10-23T16:39:04.573Z'
+  liked_at: '2026-10-24T02:53:53.585002+00:00'
+  author_handle: esb.lol
+  author_did: did:plc:3jpt2mvvsumj2r7eqk4gzzjz
+  post_text: how we looking fam
+  links: []
+  all_post_uris:
+  - at://did:plc:3jpt2mvvsumj2r7eqk4gzzjz/app.bsky.feed.post/3mykmj6n3222b
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mykwxawoa22u
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mykwxawoa22u
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mykwxawoa22u
+  post_date: '2026-10-23T19:45:54.167Z'
+  liked_at: '2026-10-23T23:35:29.715369+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: Notes on Kimi K3.1 - this one is a big deal, the first time an open weights
+    (well, soon-to-be open weights) model has competed this credibly with the current
+    frontier simonwillison.net/2026/Oct/23/...
+  links:
+  - url: https://simonwillison.net/2026/Oct/23/kimi-k31-pro/
+    source: card
+    card_title: Introducing Kimi K3.1 Pro
+    card_description: Kimi K3.1 Pro landed on the Kimi API today - it's not yet open
+      weights, but Moonshot promise "Full model weights will be released by Nov 4,
+      2026". They're also …
+    citoid:
+      raw:
+        key: AJIXEWB8
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: Introducing Kimi K3.1 Pro
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Oct/23/kimi-k31-pro/
+        abstractNote: Kimi K3.1 Pro landed on the Kimi API today - it's not yet open
+          weights, but Moonshot promise "Full model weights will be released by Nov
+          4, 2026". They're also …
+        language: en-gb
+        accessDate: '2026-10-24'
+      title: Introducing Kimi K3.1 Pro
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights,
+        but Moonshot promise "Full model weights will be released by Nov 4, 2026".
+        They're also …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mykwxawoa22u
+- post_uri: at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mykgsqhnv226
+  thread_root_uri: at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mykgsqhnv226
+  post_url: https://bsky.app/profile/did:plc:46v56274sngq2aehbieh72zp/post/3mykgsqhnv226
+  post_date: '2026-10-23T14:57:02.810Z'
+  liked_at: '2026-10-23T17:13:15.007350+00:00'
+  author_handle: gautamkamath.com
+  author_did: did:plc:46v56274sngq2aehbieh72zp
+  post_text: "How do you tell if authors fabricated their research results? Sometimes:\
+    \ they just tell you. Read, e.g., this caption carefully. \n\nAnother banger of\
+    \ a post by my friend Nihar B. Shah on his blog, where he found at least 20+ such\
+    \ #ICLR2027 submissions:\nresearchonresearch.blog/2026"
+  links:
+  - url: https://researchonresearch.blog/2026/10/20/self-confessed-fabrications-and-rise-of-tbds/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: WS9FA5YF
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Nihar B.
+          lastName: Shah
+          creatorType: author
+        tags: []
+        title: Self-confessed Fabrications and Rise of TBDs
+        blogTitle: Research On Research
+        date: '2026-10-20'
+        url: https://researchonresearch.blog/2026/10/20/self-confessed-fabrications-and-rise-of-tbds/
+        abstractNote: 'Some submissions to ICLR 2027 and papers on arXiv contain a
+          very interesting instruction: to replace the reported experimental results
+          with actual measurements before submission. The manuscripts th…'
+        language: en
+        accessDate: '2026-10-24'
+      title: Self-confessed Fabrications and Rise of TBDs
+      authors:
+      - last: Shah
+        first: Nihar B.
+      date: '2026-10-20'
+      item_type: blogPost
+      publisher: Research On Research
+      abstract: 'Some submissions to ICLR 2027 and papers on arXiv contain a very
+        interesting instruction: to replace the reported experimental results with
+        actual measurements before submission. The manuscripts th…'
+  all_post_uris:
+  - at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mykgsqhnv226
+- post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mykkm55e222n
+  thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mykkm55e222n
+  post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3mykkm55e222n
+  post_date: '2026-10-23T16:04:56.191Z'
+  liked_at: '2026-10-23T17:00:05.616330+00:00'
+  author_handle: nsaphra.bsky.social
+  author_did: did:plc:l3vbx3e2lqnlja7q64wfrrzq
+  post_text: 'Awesome, let''s GO. Everyone who assumes the human doctors are right:
+    how have you made it to 2026 without knowing a single 20something woman who was
+    permanently injured or killed after their symptoms were dismissed by a doctor?'
+  links: []
+  all_post_uris:
+  - at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3mykkm55e222n
+- post_uri: at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mykjqykfks2j
+  thread_root_uri: at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mykjqykfks2j
+  post_url: https://bsky.app/profile/did:plc:yha64k6gbnmndrc2u6bxpmzo/post/3mykjqykfks2j
+  post_date: '2026-10-23T15:49:45.406Z'
+  liked_at: '2026-10-23T16:58:45.633338+00:00'
+  author_handle: devezer.bsky.social
+  author_did: did:plc:yha64k6gbnmndrc2u6bxpmzo
+  post_text: tbh i had no idea we had metrics to evaluate peer review. if we knew
+    what it should be like, we'd have already done a better job at it. but i have
+    faith we can goodhart our way out of every problem, with or without ai.
+  links:
+  - url: https://gking.harvard.edu/peerless/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YADBZLS6
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Gary
+          lastName: King
+          creatorType: author
+        - firstName: Steven
+          lastName: Worthington
+          creatorType: author
+        tags: []
+        title: 'AI Article Reviews Dominate Human Peer Reviews at Their Best: Evidence
+          and Policy Choices'
+        date: '2026-10-22'
+        url: https://gking.harvard.edu/peerless/
+        abstractNote: We show that AI-generated article reviews are now better, by
+          every measure we could construct, than reviews written by well-compensated
+          human experts and judged to be of unusually high quality by journal editors
+          and authors. We then discuss how this result may inform journal policy choices,
+          with concerning downsides as well as potential paths to increase publication
+          speed and quality; reduce adversarial interactions; improve the experience
+          of editors, reviewers, authors, and readers; and advance science.
+        language: en-us
+        libraryCatalog: gking.harvard.edu
+        accessDate: '2026-10-24'
+        shortTitle: AI Article Reviews Dominate Human Peer Reviews at Their Best
+      title: 'AI Article Reviews Dominate Human Peer Reviews at Their Best: Evidence
+        and Policy Choices'
+      authors:
+      - last: King
+        first: Gary
+      - last: Worthington
+        first: Steven
+      date: '2026-10-22'
+      item_type: journalArticle
+      abstract: We show that AI-generated article reviews are now better, by every
+        measure we could construct, than reviews written by well-compensated human
+        experts and judged to be of unusually high quality by journal editors and
+        authors. We then discuss how this result may inform journal policy choices,
+        with concerning downsides as well as potential paths to increase publication
+        speed and quality; reduce adversarial interactions; improve the experience
+        of editors, reviewers, authors, and readers; and advance science.
+  all_post_uris:
+  - at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mykjqykfks2j
+- post_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mykho66p222t
+  thread_root_uri: at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mykho66p222t
+  post_url: https://bsky.app/profile/did:plc:ixxitznrkq3opo763lmoycwk/post/3mykho66p222t
+  post_date: '2026-10-23T15:12:23.167Z'
+  liked_at: '2026-10-23T16:56:02.530338+00:00'
+  author_handle: vauhinivara.bsky.social
+  author_did: did:plc:ixxitznrkq3opo763lmoycwk
+  post_text: 'And now this: the winner of a major prize for Spanish literature. (This
+    is my translation of the first paragraph of the article; it doesn''t seem to be
+    up in English.) elpais.com/cultura/2026...'
+  links:
+  - url: https://elpais.com/cultura/2026-10-23/una-herramienta-de-deteccion-atribuye-a-la-ia-el-99-de-la-novela-premiada-donde-el-agua-trabaja-de-david-silva-rojas.html
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YBPN4PZA
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Jordi Pérez Colomé, Elizabeth Duval, Kiko
+          lastName: Llaneras
+          creatorType: author
+        tags: []
+        title: La novela premiada ‘Donde el agua trabaja’ está escrita por IA al 99%,
+          según el detector Pangram
+        websiteTitle: El País
+        date: '2026-10-23'
+        url: https://elpais.com/cultura/2026-10-23/una-herramienta-de-deteccion-atribuye-a-la-ia-el-99-de-la-novela-premiada-donde-el-agua-trabaja-de-david-silva-rojas.html
+        abstractNote: El libro del autor peruano David Silva Rojas ganó un premio
+          de 20.000 euros cuyas bases excluían las obras escritas con inteligencia
+          artificial. La editorial cancela la presentación prevista para hoy en Madrid
+        language: es
+        accessDate: '2026-10-24'
+      title: La novela premiada ‘Donde el agua trabaja’ está escrita por IA al 99%,
+        según el detector Pangram
+      authors:
+      - last: Llaneras
+        first: Jordi Pérez Colomé, Elizabeth Duval, Kiko
+      date: '2026-10-23'
+      item_type: webpage
+      abstract: El libro del autor peruano David Silva Rojas ganó un premio de 20.000
+        euros cuyas bases excluían las obras escritas con inteligencia artificial.
+        La editorial cancela la presentación prevista para hoy en Madrid
+  all_post_uris:
+  - at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mykho66p222t
+- post_uri: at://did:plc:p56fqcvdu32phbpagcrweavg/app.bsky.feed.post/3myj2ffho3k2i
+  thread_root_uri: at://did:plc:p56fqcvdu32phbpagcrweavg/app.bsky.feed.post/3myj2ffho3k2i
+  post_url: https://bsky.app/profile/did:plc:p56fqcvdu32phbpagcrweavg/post/3myj2ffho3k2i
+  post_date: '2026-10-23T01:42:10.428Z'
+  liked_at: '2026-10-23T16:52:32.737374+00:00'
+  author_handle: informor.bsky.social
+  author_did: did:plc:p56fqcvdu32phbpagcrweavg
+  post_text: "I get 5+ emails *a day* from prospective PhD students. I have seen some\
+    \ advice going around about what to write in these emails. Here's my piece of\
+    \ advice: don't waste your time. Or your tokens.\n\n #phdadmissions \n\nOr, if\
+    \ you really insist..."
+  links: []
+  all_post_uris:
+  - at://did:plc:p56fqcvdu32phbpagcrweavg/app.bsky.feed.post/3myj2ffho3k2i
+- post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mykjv5ge2s2x
+  thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mykjv5ge2s2x
+  post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3mykjv5ge2s2x
+  post_date: '2026-10-23T15:52:04.733Z'
+  liked_at: '2026-10-23T16:51:26.876342+00:00'
+  author_handle: unsloth.ai
+  author_did: did:plc:xfbmksnykel6qbq7cs4geveg
+  post_text: 'NVIDIA releases Nemotron-3.5-Bolt-E4B, a new model that runs locally
+    on 6GB RAM. 💚
+
+
+    Bolt-E4B can run on edge devices like phones and delivers top-tier performance
+    for its size. Trained on Gemma 4, it supports vision.
+
+
+    GGUF: huggingface.co/unsloth/NVID...
+
+    Guide: unsloth.ai/docs/mo'
+  links:
+  - url: https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: HX6J9UBI
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF · Hugging Face
+        url: https://huggingface.co/unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-10-24'
+        accessDate: '2026-10-24'
+        websiteTitle: huggingface.co
+      title: unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF · Hugging Face
+      date: '2026-10-24'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  - url: https://unsloth.ai/docs/models/nemotron-3.5-bolt
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 84ZXERUM
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'NVIDIA Nemotron 3.5 Bolt: Run Locally Guide | Unsloth Documentation'
+        abstractNote: Run Nemotron 3.5 Bolt locally with Unsloth GGUFs.
+        date: '2026-10-23'
+        url: https://unsloth.ai/docs/models/nemotron-3.5-bolt
+        language: en
+        accessDate: '2026-10-24'
+        shortTitle: NVIDIA Nemotron 3.5 Bolt
+        websiteTitle: unsloth.ai
+      title: 'NVIDIA Nemotron 3.5 Bolt: Run Locally Guide | Unsloth Documentation'
+      date: '2026-10-23'
+      item_type: webpage
+      abstract: Run Nemotron 3.5 Bolt locally with Unsloth GGUFs.
+  all_post_uris:
+  - at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3mykjv5ge2s2x
+- post_uri: at://did:plc:nawgrggv3xhhtmrrszupgcqo/app.bsky.feed.post/3mykcqgdiyk2i
+  thread_root_uri: at://did:plc:nawgrggv3xhhtmrrszupgcqo/app.bsky.feed.post/3mykcqgdiyk2i
+  post_url: https://bsky.app/profile/did:plc:nawgrggv3xhhtmrrszupgcqo/post/3mykcqgdiyk2i
+  post_date: '2026-10-23T13:44:10.068Z'
+  liked_at: '2026-10-23T14:53:26.101358+00:00'
+  author_handle: polphilpod.bsky.social
+  author_did: did:plc:nawgrggv3xhhtmrrszupgcqo
+  post_text: 'every now & then someone on the anti-trans side will get cold feet about
+    how openly ugly it''s all getting—they want to keep the image of a nice, sensible
+    centrist
+
+
+    but it''s never enough for them to get off the train'
+  links:
+  - url: https://www.liberalcurrents.com/the-politi/
+    source: thread
+    card_title: The Politics of Humiliation
+    card_description: The politics of humiliation has moved to the center of the reactionary
+      project under Trump II.
+    citoid:
+      raw:
+        key: T8LUBST2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The Politics of Humiliation
+        websiteTitle: Liberal Currents
+        date: '2025-07-21'
+        url: https://www.liberalcurrents.com/the-politi/
+        abstractNote: The politics of humiliation has moved to the center of the reactionary
+          project under Trump II.
+        language: en
+        accessDate: '2026-10-24'
+      title: The Politics of Humiliation
+      date: '2025-07-21'
+      item_type: webpage
+      abstract: The politics of humiliation has moved to the center of the reactionary
+        project under Trump II.
+  all_post_uris:
+  - at://did:plc:nawgrggv3xhhtmrrszupgcqo/app.bsky.feed.post/3mykcqgdiyk2i
+- post_uri: at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mykeq5wxlk2p
+  thread_root_uri: at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mykeq5wxlk2p
+  post_url: https://bsky.app/profile/did:plc:klhtmrnregub7we7h6jwiljm/post/3mykeq5wxlk2p
+  post_date: '2026-10-23T14:19:48.797Z'
+  liked_at: '2026-10-23T14:50:00.142365+00:00'
+  author_handle: ed3d.net
+  author_did: did:plc:klhtmrnregub7we7h6jwiljm
+  post_text: /turns towards camera, stares
+  links: []
+  all_post_uris:
+  - at://did:plc:klhtmrnregub7we7h6jwiljm/app.bsky.feed.post/3mykeq5wxlk2p
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myj6apjqls2n
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myj6apjqls2n
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3myj6apjqls2n
+  post_date: '2026-10-23T02:51:08.177Z'
+  liked_at: '2026-10-23T14:44:53.394352+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: 'I’m okay with this rhetoric. Is it the full truth? Not imo. But neither
+    was 20c rhetoric about masterpieces and great books. That, too, undervalued the
+    collective part of thought. But if someone is speaking passionately in a way that
+    motivates people to read and think, I’ll take '
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myj6apjqls2n
+- post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3myixkkfo2k27
+  thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3myixkkfo2k27
+  post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3myixkkfo2k27
+  post_date: '2026-10-23T00:51:22.154Z'
+  liked_at: '2026-10-23T14:34:17.534357+00:00'
+  author_handle: nsaphra.bsky.social
+  author_did: did:plc:l3vbx3e2lqnlja7q64wfrrzq
+  post_text: The average human lifespan is just four thousand weeks. Every day is
+    precious and fleeting. That is why I am requesting that the SAC charge the authors
+    of this paper with murder
+  links: []
+  all_post_uris:
+  - at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3myixkkfo2k27
 - post_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3myitvjdfvs2h
   thread_root_uri: at://did:plc:5hhbgkktcpofpw4ovz6kjjau/app.bsky.feed.post/3myitvjdfvs2h
   post_url: https://bsky.app/profile/did:plc:5hhbgkktcpofpw4ovz6kjjau/post/3myitvjdfvs2h
