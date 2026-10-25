@@ -1,3 +1,266 @@
+- post_uri: at://did:plc:nyqd3l3ydzopr66pvhnelmgt/app.bsky.feed.post/3mymw4nemjs2e
+  thread_root_uri: at://did:plc:nyqd3l3ydzopr66pvhnelmgt/app.bsky.feed.post/3mymw4nemjs2e
+  post_url: https://bsky.app/profile/did:plc:nyqd3l3ydzopr66pvhnelmgt/post/3mymw4nemjs2e
+  post_date: '2026-10-24T14:36:20.710Z'
+  liked_at: '2026-10-25T05:29:10.321248+00:00'
+  author_handle: sengarrasbear.bsky.social
+  author_did: did:plc:nyqd3l3ydzopr66pvhnelmgt
+  post_text: 'Agents turn out mediocre code, but I really don''t think some people
+    comprehend the horrors humans made before. I inherited an ETL pipeline that was
+    a single 3k line python script/god class with control flow managed by adding,
+    modifying, *and removing* properties. No arguments to '
+  links: []
+  all_post_uris:
+  - at://did:plc:nyqd3l3ydzopr66pvhnelmgt/app.bsky.feed.post/3mymw4nemjs2e
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mynjcydnos2h
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mynjcydnos2h
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3mynjcydnos2h
+  post_date: '2026-10-24T20:19:54.639Z'
+  liked_at: '2026-10-25T02:05:57.596211+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: if you ever happen to see someone post a joke you don't understand or
+    discuss a subject you aren't familiar with, you are well within your right to
+    complain, and perhaps even scold them if necessary. you are their customer and
+    you have rights
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3mynjcydnos2h
+- post_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mynjzpbars2g
+  thread_root_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mynjzpbars2g
+  post_url: https://bsky.app/profile/did:plc:2mrgzk6xlemfv6yugn644xxy/post/3mynjzpbars2g
+  post_date: '2026-10-24T20:32:36.868Z'
+  liked_at: '2026-10-24T20:58:26.115156+00:00'
+  author_handle: danluu.com
+  author_did: did:plc:2mrgzk6xlemfv6yugn644xxy
+  post_text: 'We should be more ambitious with the software we build:
+
+
+    danluu.com/ambitious/'
+  links:
+  - url: https://danluu.com/ambitious/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 73GUDE9T
+        version: 0
+        itemType: webpage
+        url: https://danluu.com/ambitious/
+        title: “We should be more ambitious with the software we build”
+        accessDate: '2026-10-25'
+        websiteTitle: danluu.com
+      title: “We should be more ambitious with the software we build”
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mynjzpbars2g
+- post_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3mymfjbjg5k2j
+  thread_root_uri: at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3mymfjbjg5k2j
+  post_url: https://bsky.app/profile/did:plc:3n5xhy6vl7smssmwxq5wgqa6/post/3mymfjbjg5k2j
+  post_date: '2026-10-24T09:39:10.886Z'
+  liked_at: '2026-10-24T20:46:52.757174+00:00'
+  author_handle: gergely.pragmaticengineer.com
+  author_did: did:plc:3n5xhy6vl7smssmwxq5wgqa6
+  post_text: 'Finding it very educational and interesting to learn about the hardware
+    layer of GPUs: how they are structured, the obvious advantages and disadvantages
+    bs CPUs.
+
+
+    This is from Modal’s excellent “GPU Glossary” print book Can Duruk gave me (the
+    PDF is free here: modal.com/gpu-gloss'
+  links:
+  - url: https://modal.com/gpu-glossary
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: T6IZLLDA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: GPU Glossary
+        websiteTitle: Modal
+        abstractNote: A glossary of terms related to GPUs.
+        url: https://modal.com/gpu-glossary
+        language: en
+        accessDate: '2026-10-25'
+      title: GPU Glossary
+      item_type: webpage
+      abstract: A glossary of terms related to GPUs.
+  all_post_uris:
+  - at://did:plc:3n5xhy6vl7smssmwxq5wgqa6/app.bsky.feed.post/3mymfjbjg5k2j
+- post_uri: at://did:plc:2perbbs6xbejjfxfbr6774wr/app.bsky.feed.post/3myizq52tmk2y
+  thread_root_uri: at://did:plc:2perbbs6xbejjfxfbr6774wr/app.bsky.feed.post/3myizq52tmk2y
+  post_url: https://bsky.app/profile/did:plc:2perbbs6xbejjfxfbr6774wr/post/3myizq52tmk2y
+  post_date: '2026-10-23T01:30:16.977Z'
+  liked_at: '2026-10-24T20:45:06.423149+00:00'
+  author_handle: emilypeck.bsky.social
+  author_did: did:plc:2perbbs6xbejjfxfbr6774wr
+  post_text: Grateful that there's still enough life in the Internet left that we
+    get something as incredible and delightful as this pudding.cool/2026/10/kevi...
+  links:
+  - url: https://pudding.cool/2026/10/kevin-bacon/
+    source: card
+    card_title: The Real Kevin Bacon
+    card_description: 'Demystifying the Six Degrees of Kevin Bacon: the past, present,
+      and future centers of Hollywood'
+    citoid:
+      raw:
+        key: 2AFG586E
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: The
+          lastName: Pudding
+          creatorType: author
+        tags: []
+        title: The Real Kevin Bacon
+        websiteTitle: The Pudding
+        url: https://pudding.cool/2026/10/kevin-bacon/
+        abstractNote: 'Demystifying the Six Degrees of Kevin Bacon: the past, present,
+          and future centers of Hollywood'
+        language: en
+        accessDate: '2026-10-25'
+      title: The Real Kevin Bacon
+      authors:
+      - last: Pudding
+        first: The
+      item_type: webpage
+      abstract: 'Demystifying the Six Degrees of Kevin Bacon: the past, present, and
+        future centers of Hollywood'
+  all_post_uris:
+  - at://did:plc:2perbbs6xbejjfxfbr6774wr/app.bsky.feed.post/3myizq52tmk2y
+- post_uri: at://did:plc:5l3i63aodscu7smtjzvphdze/app.bsky.feed.post/3myn3lzzg2c2x
+  thread_root_uri: at://did:plc:5l3i63aodscu7smtjzvphdze/app.bsky.feed.post/3myn3lzzg2c2x
+  post_url: https://bsky.app/profile/did:plc:5l3i63aodscu7smtjzvphdze/post/3myn3lzzg2c2x
+  post_date: '2026-10-24T16:14:26.006Z'
+  liked_at: '2026-10-24T20:14:59.920143+00:00'
+  author_handle: fubarchitect.com
+  author_did: did:plc:5l3i63aodscu7smtjzvphdze
+  post_text: 'if you decide not to do college, you have to bootstrap
+
+
+    - a core professional knowledge base
+
+    - proof thereof
+
+    - a professional network
+
+    - a sense of yourself as "good at" your field
+
+    - habits for delivering work regularly
+
+
+    college just hands you all that at the tail end of peak life'
+  links: []
+  all_post_uris:
+  - at://did:plc:5l3i63aodscu7smtjzvphdze/app.bsky.feed.post/3myn3lzzg2c2x
+- post_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mymzlppurs2h
+  thread_root_uri: at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mymzlppurs2h
+  post_url: https://bsky.app/profile/did:plc:coqhxdcmnnbgizwi66icj26o/post/3mymzlppurs2h
+  post_date: '2026-10-24T15:38:27.719Z'
+  liked_at: '2026-10-24T20:13:26.694157+00:00'
+  author_handle: sarahseeandersen.bsky.social
+  author_did: did:plc:coqhxdcmnnbgizwi66icj26o
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:coqhxdcmnnbgizwi66icj26o/app.bsky.feed.post/3mymzlppurs2h
+- post_uri: at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mynekhkgwk2u
+  thread_root_uri: at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mynekhkgwk2u
+  post_url: https://bsky.app/profile/did:plc:ny7m556yvn5nirqyvyoeeets/post/3mynekhkgwk2u
+  post_date: '2026-10-24T18:54:36.762Z'
+  liked_at: '2026-10-24T19:45:14.013180+00:00'
+  author_handle: nickseaver.website
+  author_did: did:plc:ny7m556yvn5nirqyvyoeeets
+  post_text: 'stumbled on a set of incredible 1970s illustrations in some government
+    reports, so had to spend a day collecting them into a website to share with my
+    friends on the computer: nickseaver.net/paperwork'
+  links:
+  - url: https://nickseaver.net/paperwork
+    source: card
+    card_title: Commission on Federal Paperwork, 1976–1977
+    card_description: Illustrations from the U.S. Commission on Federal Paperwork.
+      Drawn by Carol.
+    citoid:
+      raw:
+        key: EVVGTTU4
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Commission on Federal Paperwork, 1976–1977
+        url: https://nickseaver.net/paperwork/
+        abstractNote: Illustrations from the U.S. Commission on Federal Paperwork.
+          Drawn by Carol.
+        language: en
+        accessDate: '2026-10-25'
+        websiteTitle: nickseaver.net
+      title: Commission on Federal Paperwork, 1976–1977
+      item_type: webpage
+      abstract: Illustrations from the U.S. Commission on Federal Paperwork. Drawn
+        by Carol.
+  all_post_uris:
+  - at://did:plc:ny7m556yvn5nirqyvyoeeets/app.bsky.feed.post/3mynekhkgwk2u
+- post_uri: at://did:plc:mfmak3wlgviv6zoj4uandsr5/app.bsky.feed.post/3mykjpnvygk24
+  thread_root_uri: at://did:plc:mfmak3wlgviv6zoj4uandsr5/app.bsky.feed.post/3mykjpnvygk24
+  post_url: https://bsky.app/profile/did:plc:mfmak3wlgviv6zoj4uandsr5/post/3mykjpnvygk24
+  post_date: '2026-10-23T15:49:00.698Z'
+  liked_at: '2026-10-24T16:32:11.166143+00:00'
+  author_handle: thepope.dev
+  author_did: did:plc:mfmak3wlgviv6zoj4uandsr5
+  post_text: mfw my parents told me i'd spend my whole life being misgendered
+  links: []
+  all_post_uris:
+  - at://did:plc:mfmak3wlgviv6zoj4uandsr5/app.bsky.feed.post/3mykjpnvygk24
+- post_uri: at://did:plc:siv7zbedip4vcet4v67piibr/app.bsky.feed.post/3myl4ybq4cs24
+  thread_root_uri: at://did:plc:siv7zbedip4vcet4v67piibr/app.bsky.feed.post/3myl4ybq4cs24
+  post_url: https://bsky.app/profile/did:plc:siv7zbedip4vcet4v67piibr/post/3myl4ybq4cs24
+  post_date: '2026-10-23T21:33:51.008Z'
+  liked_at: '2026-10-24T10:29:28.057066+00:00'
+  author_handle: waow.tech
+  author_did: did:plc:siv7zbedip4vcet4v67piibr
+  post_text: ''
+  links:
+  - url: https://waow.leaflet.pub/3myl4fx6dis25
+    source: card
+    card_title: a first look at bluesky profile links
+    card_description: October 23, 2026
+    citoid:
+      raw:
+        key: SVTH6IHL
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: a first look at bluesky profile links
+        websiteTitle: waow
+        date: '2026-10-23'
+        url: https://waow.leaflet.pub/3myl4fx6dis25
+        abstractNote: October 23, 2026
+        language: en
+        accessDate: '2026-10-25'
+      title: a first look at bluesky profile links
+      date: '2026-10-23'
+      item_type: webpage
+      abstract: October 23, 2026
+  all_post_uris:
+  - at://did:plc:siv7zbedip4vcet4v67piibr/app.bsky.feed.post/3myl4ybq4cs24
+- post_uri: at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mylpgjy5nk2w
+  thread_root_uri: at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mylpgjy5nk2w
+  post_url: https://bsky.app/profile/did:plc:dki5xu3vgyo7ubl7vaw55zzq/post/3mylpgjy5nk2w
+  post_date: '2026-10-24T03:03:56.775Z'
+  liked_at: '2026-10-24T10:12:11.924064+00:00'
+  author_handle: neutral.zone
+  author_did: did:plc:dki5xu3vgyo7ubl7vaw55zzq
+  post_text: Good night, Claude. Good work. Sleep well. I'll most likely /clear you
+    in the morning.
+  links: []
+  all_post_uris:
+  - at://did:plc:dki5xu3vgyo7ubl7vaw55zzq/app.bsky.feed.post/3mylpgjy5nk2w
 - post_uri: at://did:plc:f6yekxxpke7gyas3d7qeipty/app.bsky.feed.post/3mykvymup7s2l
   thread_root_uri: at://did:plc:f6yekxxpke7gyas3d7qeipty/app.bsky.feed.post/3mykvymup7s2l
   post_url: https://bsky.app/profile/did:plc:f6yekxxpke7gyas3d7qeipty/post/3mykvymup7s2l
