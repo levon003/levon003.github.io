@@ -1,3 +1,251 @@
+- post_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mypteggmwk2q
+  thread_root_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mypteggmwk2q
+  post_url: https://bsky.app/profile/did:plc:qvywnipfiyrd6v4qdf4x27wy/post/3mypteggmwk2q
+  post_date: '2026-10-25T18:24:59.866Z'
+  liked_at: '2026-10-26T05:11:40.930562+00:00'
+  author_handle: hikikomorphism.bsky.social
+  author_did: did:plc:qvywnipfiyrd6v4qdf4x27wy
+  post_text: 'I''ve been meaning to get around to posting the full details, so what
+    the hell - why not get it out while it''s still Vuln Week: Anthropic''s mech interp
+    driven security model is built on a fundamentally incorrect assumptions. Let''s
+    dive in, starting with this paper: www.anthropic.c'
+  links:
+  - url: https://recursion.wtf/posts/claude-opus-cbrne-bypass/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: CQ4BGSSV
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Inanna
+          lastName: Malick
+          creatorType: author
+        tags: []
+        title: How I Bypassed Claude Opus’s CBRN-E Safeguards
+        websiteTitle: Inanna Malick
+        url: https://recursion.wtf/posts/claude-opus-cbrne-bypass/
+        abstractNote: A black-box jailbreak using model-authored state steering, plus
+          an outside-in reconstruction of the safeguards it bypasses.
+        date: '2026-08-27'
+        language: en
+        accessDate: '2026-10-26'
+      title: How I Bypassed Claude Opus’s CBRN-E Safeguards
+      authors:
+      - last: Malick
+        first: Inanna
+      date: '2026-08-27'
+      item_type: webpage
+      abstract: A black-box jailbreak using model-authored state steering, plus an
+        outside-in reconstruction of the safeguards it bypasses.
+  - url: https://www.anthropic.com/research/next-generation-constitutional-classifiers
+    source: card
+    card_title: Next-generation Constitutional Classifiers
+    card_description: We've developed the next generation of Constitutional Classifiers,
+      offering more efficient protection against universal jailbreaks.
+    citoid:
+      raw:
+        key: SLXBLQF2
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Next-generation Constitutional Classifiers
+        date: '2026-01-09'
+        url: https://www.anthropic.com/research/next-generation-constitutional-classifiers
+        abstractNote: We've developed the next generation of Constitutional Classifiers,
+          offering more efficient protection against universal jailbreaks.
+        language: en
+        accessDate: '2026-10-26'
+        websiteTitle: www.anthropic.com
+      title: Next-generation Constitutional Classifiers
+      date: '2026-01-09'
+      item_type: webpage
+      abstract: We've developed the next generation of Constitutional Classifiers,
+        offering more efficient protection against universal jailbreaks.
+  all_post_uris:
+  - at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mypteggmwk2q
+- post_uri: at://did:plc:qy6xrnqb5wsfk2yny2rrbptr/app.bsky.feed.post/3mypd4uj3mk2w
+  thread_root_uri: at://did:plc:qy6xrnqb5wsfk2yny2rrbptr/app.bsky.feed.post/3mypd4uj3mk2w
+  post_url: https://bsky.app/profile/did:plc:qy6xrnqb5wsfk2yny2rrbptr/post/3mypd4uj3mk2w
+  post_date: '2026-10-25T13:34:26.322Z'
+  liked_at: '2026-10-25T18:54:58.553490+00:00'
+  author_handle: francescadnunz.bsky.social
+  author_did: did:plc:qy6xrnqb5wsfk2yny2rrbptr
+  post_text: 'Early this year, I visited Ingram, a TX town of ~1,900, to check out
+    a tip.
+
+
+    The area was starting to recover from its worst flood in a century.
+
+
+    But as Latino workers drove to jobsites to help rebuild, the tipster said, a cop
+    in a black Dodge Charger kept stopping them ... 🧵'
+  links:
+  - url: https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander
+    source: thread
+    card_title: The Small-Town Cop Who Helped ICE Deport His Neighbors
+    card_description: Ingram, Texas, was just rebuilding from a devastating flood
+      when its tiny police department enrolled in ICE’s 287(g) deportation program.
+      Within a year, cops would hand over the equivalent of 10% of t...
+    citoid:
+      raw:
+        key: D7JTEN42
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Francesca D’Annunzio, McKenzie Funk, and Kirsten
+          lastName: Luce
+          creatorType: author
+        tags: []
+        title: The Small-Town Cop Who Helped ICE Deport His Neighbors
+        blogTitle: ProPublica
+        date: '2026-10-25'
+        url: https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander
+        abstractNote: Ingram, Texas, was just rebuilding from a devastating flood
+          when its tiny police department enrolled in ICE’s 287(g) deportation program.
+          Within a year, cops would hand over the equivalent of 10% of the town.
+        language: en-US
+        accessDate: '2026-10-26'
+      title: The Small-Town Cop Who Helped ICE Deport His Neighbors
+      authors:
+      - last: Luce
+        first: Francesca D’Annunzio, McKenzie Funk, and Kirsten
+      date: '2026-10-25'
+      item_type: blogPost
+      publisher: ProPublica
+      abstract: Ingram, Texas, was just rebuilding from a devastating flood when its
+        tiny police department enrolled in ICE’s 287(g) deportation program. Within
+        a year, cops would hand over the equivalent of 10% of the town.
+  all_post_uris:
+  - at://did:plc:qy6xrnqb5wsfk2yny2rrbptr/app.bsky.feed.post/3mypd4uj3mk2w
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3myoydf7er22c
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3myoydf7er22c
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3myoydf7er22c
+  post_date: '2026-10-25T10:21:13.994Z'
+  liked_at: '2026-10-25T17:07:03.053436+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: Oh you want me to go see the movie everyone is talking about? Go see
+    it at a cinema? The place where they literally drive a train at you?? not gonna
+    happen lol 😂
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3myoydf7er22c
+- post_uri: at://did:plc:4hodhjl2kposuchzvpiviwps/app.bsky.feed.post/3mypkwzftak2j
+  thread_root_uri: at://did:plc:4hodhjl2kposuchzvpiviwps/app.bsky.feed.post/3mypkwzftak2j
+  post_url: https://bsky.app/profile/did:plc:4hodhjl2kposuchzvpiviwps/post/3mypkwzftak2j
+  post_date: '2026-10-25T15:54:20.066Z'
+  liked_at: '2026-10-25T16:54:43.776381+00:00'
+  author_handle: brittanyellich.com
+  author_did: did:plc:4hodhjl2kposuchzvpiviwps
+  post_text: 'How software engineering is changing... turns out there''s a lot to
+    say about it!
+
+
+    This was a submission for an essay contest by @pragmaticengineer.com , and felt
+    pretty therapeutic to write!'
+  links:
+  - url: https://brittany-ellich.offprint.app/a/3mypjxxufes23-working-with-clay
+    source: card
+    card_title: Working with clay
+    card_description: AI builds everything as this huge monster of too much, and now
+      I feel like I’m iterating by trimming things back and perfecting it over time.
+      It’s a bit like working from clay, and allowing the software underneath to expose
+      itself in the form it’s meant to be in.
+    citoid:
+      raw:
+        key: YC56XM8Q
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Brittany
+          lastName: Ellich
+          creatorType: author
+        tags: []
+        title: Working with clay | Brittany Ellich | Offprint
+        url: https://brittany-ellich.offprint.app/a/3mypjxxufes23-working-with-clay
+        abstractNote: AI builds everything as this huge monster of too much, and now
+          I feel like I’m iterating by trimming things back and perfecting it over
+          time. It’s a bit like working from clay, and allowing the software underneath
+          to expose itself in the form it’s meant to be in.
+        language: en-US
+        accessDate: '2026-10-26'
+        websiteTitle: brittany-ellich.offprint.app
+      title: Working with clay | Brittany Ellich | Offprint
+      authors:
+      - last: Ellich
+        first: Brittany
+      item_type: webpage
+      abstract: AI builds everything as this huge monster of too much, and now I feel
+        like I’m iterating by trimming things back and perfecting it over time. It’s
+        a bit like working from clay, and allowing the software underneath to expose
+        itself in the form it’s meant to be in.
+  all_post_uris:
+  - at://did:plc:4hodhjl2kposuchzvpiviwps/app.bsky.feed.post/3mypkwzftak2j
+- post_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3myphka2iyk2o
+  thread_root_uri: at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3myphka2iyk2o
+  post_url: https://bsky.app/profile/did:plc:sefgphqp2xqwh2hawaixykwz/post/3myphka2iyk2o
+  post_date: '2026-10-25T14:53:29.594Z'
+  liked_at: '2026-10-25T16:50:34.609422+00:00'
+  author_handle: esqueer.net
+  author_did: did:plc:sefgphqp2xqwh2hawaixykwz
+  post_text: 'Someone reverse engineered their Samsung TV using codex. They found
+    that Samsung TVs were using always on mics, network mapping, and all kinds of
+    Spyware that would collect data and sell it to data brokers.
+
+
+    A day later, their openai account was banned and frontier labs cracked d'
+  links:
+  - url: https://youtu.be/6IFVTcM28KA?si=J1-bgbk3aYkN4drE
+    source: thread
+    card_title: 216,000,000 Spy TVs | The LG Smart TV Problem
+    card_description: YouTube video by Gamers Nexus
+    citoid:
+      raw:
+        key: CFCB2WSY
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Gamers Nexus
+          creatorType: author
+        tags: []
+        title: 216,000,000 Spy TVs | The LG Smart TV Problem
+        url: https://www.youtube.com/watch?v=6IFVTcM28KA
+        runningTime: '135:52'
+        date: '2026-09-06'
+        abstractNote: 'SUPPORT THE DATA DRAGNET SERIES: https://store.gamersnexus.net/data-dragnetThe
+          LG Smart TVs we''ve tested have first-party ACR (automatic content recognition)...'
+        libraryCatalog: YouTube
+        accessDate: '2026-10-26'
+      title: 216,000,000 Spy TVs | The LG Smart TV Problem
+      date: '2026-09-06'
+      item_type: videoRecording
+      abstract: 'SUPPORT THE DATA DRAGNET SERIES: https://store.gamersnexus.net/data-dragnetThe
+        LG Smart TVs we''ve tested have first-party ACR (automatic content recognition)...'
+  all_post_uris:
+  - at://did:plc:sefgphqp2xqwh2hawaixykwz/app.bsky.feed.post/3myphka2iyk2o
+- post_uri: at://did:plc:d4k5rp4iscij2fadtuwdczhs/app.bsky.feed.post/3mykifwmqik2t
+  thread_root_uri: at://did:plc:d4k5rp4iscij2fadtuwdczhs/app.bsky.feed.post/3mykifwmqik2t
+  post_url: https://bsky.app/profile/did:plc:d4k5rp4iscij2fadtuwdczhs/post/3mykifwmqik2t
+  post_date: '2026-10-23T15:25:40.546Z'
+  liked_at: '2026-10-25T16:29:56.081334+00:00'
+  author_handle: thomashikaru.bsky.social
+  author_did: did:plc:d4k5rp4iscij2fadtuwdczhs
+  post_text: 'If you''ve noticed a distinct dialect emerging in frontier AI models
+    and struggled to understand what they''re talking about, you''re not crazy!
+
+
+    We turned to psycholinguistics to investigate what makes the writing style so
+    weird, and why this might be happening
+
+
+    🚨New preprint! 🧵'
+  links: []
+  all_post_uris:
+  - at://did:plc:d4k5rp4iscij2fadtuwdczhs/app.bsky.feed.post/3mykifwmqik2t
 - post_uri: at://did:plc:nyqd3l3ydzopr66pvhnelmgt/app.bsky.feed.post/3mymw4nemjs2e
   thread_root_uri: at://did:plc:nyqd3l3ydzopr66pvhnelmgt/app.bsky.feed.post/3mymw4nemjs2e
   post_url: https://bsky.app/profile/did:plc:nyqd3l3ydzopr66pvhnelmgt/post/3mymw4nemjs2e

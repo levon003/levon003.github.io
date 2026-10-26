@@ -1,6 +1,6 @@
-entries_with_links: 2536
-total_links: 3101
-unique_domains: 1025
+entries_with_links: 2540
+total_links: 3106
+unique_domains: 1026
 top_domains:
 - domain: arxiv.org
   count: 251
@@ -21,7 +21,7 @@ top_domains:
 - domain: nytimes.com
   count: 44
 - domain: youtu.be
-  count: 40
+  count: 41
 top_accounts:
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
