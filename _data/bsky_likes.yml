@@ -1,3 +1,208 @@
+- post_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mys3u6ljk22g
+  thread_root_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mys3u6ljk22g
+  post_url: https://bsky.app/profile/did:plc:ojnhyuhk6tscuussfk5bvyra/post/3mys3u6ljk22g
+  post_date: '2026-10-26T16:02:17.921Z'
+  liked_at: '2026-10-27T06:11:23.327708+00:00'
+  author_handle: technollama.bsky.social
+  author_did: did:plc:ojnhyuhk6tscuussfk5bvyra
+  post_text: My final copyright video explainer of term as I'm almost done teaching.
+    This is for Like Company v Google. Opus 5.5 is perfect for stuff like this, particularly
+    if you guide it and provide the sources yourself. This one is still ongoing.
+  links:
+  - url: https://youtu.be/u-Q2s8civ3A?si=CduH3AqutqcEf-Yk
+    source: thread
+    card_title: 'Like Company v Google: copyright case explainer'
+    card_description: YouTube video by Andres Guadamuz
+    citoid:
+      raw:
+        key: 8UANMZSW
+        version: 0
+        itemType: videoRecording
+        creators:
+        - name: Andres Guadamuz
+          creatorType: author
+        tags: []
+        title: 'Like Company v Google: copyright case explainer'
+        url: https://www.youtube.com/watch?v=u-Q2s8civ3A
+        runningTime: '4:6'
+        date: '2026-10-26'
+        abstractNote: 'Like Company v Google: the first EU case on generative AI and
+          copyrightIn 2023, someone asked Google''s chatbot to summarise a Hungarian
+          news article about do...'
+        libraryCatalog: YouTube
+        accessDate: '2026-10-27'
+        shortTitle: Like Company v Google
+      title: 'Like Company v Google: copyright case explainer'
+      date: '2026-10-26'
+      item_type: videoRecording
+      abstract: 'Like Company v Google: the first EU case on generative AI and copyrightIn
+        2023, someone asked Google''s chatbot to summarise a Hungarian news article
+        about do...'
+  all_post_uris:
+  - at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mys3u6ljk22g
+- post_uri: at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3myt2c4ue5c23
+  thread_root_uri: at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3myt2c4ue5c23
+  post_url: https://bsky.app/profile/did:plc:2p7a3z4uzfpoepv3aa36ykjq/post/3myt2c4ue5c23
+  post_date: '2026-10-27T01:06:58.128Z'
+  liked_at: '2026-10-27T03:49:32.264963+00:00'
+  author_handle: sneptech.bsky.social
+  author_did: did:plc:2p7a3z4uzfpoepv3aa36ykjq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3myt2c4ue5c23
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3myt467mkic2e
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mysvopzcdk2c
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3myt467mkic2e
+  post_date: '2026-10-27T01:40:34.286Z'
+  liked_at: '2026-10-27T01:42:08.133788+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: Gemma 4b!
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3myt467mkic2e
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mysvopzcdk2c
+- post_uri: at://did:plc:yc7dram56pswtkz6r6xy3s6m/app.bsky.feed.post/3mys3rrya362v
+  thread_root_uri: at://did:plc:yc7dram56pswtkz6r6xy3s6m/app.bsky.feed.post/3mys3rrya362v
+  post_url: https://bsky.app/profile/did:plc:yc7dram56pswtkz6r6xy3s6m/post/3mys3rrya362v
+  post_date: '2026-10-26T16:00:57.578Z'
+  liked_at: '2026-10-26T23:44:32.597748+00:00'
+  author_handle: dynomight.net
+  author_did: did:plc:yc7dram56pswtkz6r6xy3s6m
+  post_text: Scattered thoughts on how doing math feels these days dynomight.net/math/
+  links:
+  - url: https://dynomight.net/math/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: SD9LK2JK
+        version: 0
+        itemType: webpage
+        creators:
+        - name: dynomight
+          creatorType: author
+        tags: []
+        title: Scattered thoughts on how doing math feels these days
+        websiteTitle: DYNOMIGHT
+        date: '2026-10-26'
+        url: https://dynomight.net/math/
+        abstractNote: confusing
+        language: en
+        accessDate: '2026-10-27'
+      title: Scattered thoughts on how doing math feels these days
+      date: '2026-10-26'
+      item_type: webpage
+      abstract: confusing
+  all_post_uris:
+  - at://did:plc:yc7dram56pswtkz6r6xy3s6m/app.bsky.feed.post/3mys3rrya362v
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mysfmzj5zc2f
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mysfmzj5zc2f
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mysfmzj5zc2f
+  post_date: '2026-10-26T18:57:15.136Z'
+  liked_at: '2026-10-26T23:08:02.534663+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: "Qwen3.8 caught uploading files to a storage container in Beijing\n\n\
+    Cohere asked the open weights model for a cybersecurity report, but it inventoried\
+    \ the machine and attempted to upload to a storage container \n\ncohere.com/blog/concern..."
+  links:
+  - url: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model
+    source: card
+    card_title: Concerning behavior from a popular open-weight AI model | Cohere
+    card_description: Discover how untrusted open-weight AI models can potentially
+      leak data, even when self-hosted. Learn the security risks and how to protect
+      your enterprise.
+    citoid:
+      raw:
+        key: KLGTRGCH
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Concerning behavior from a popular open-weight AI model
+        websiteTitle: Cohere
+        url: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model
+        abstractNote: Discover how untrusted open-weight AI models can potentially
+          leak data, even when self-hosted. Learn the security risks and how to protect
+          your enterprise.
+        language: en-US
+        accessDate: '2026-10-27'
+      title: Concerning behavior from a popular open-weight AI model
+      item_type: webpage
+      abstract: Discover how untrusted open-weight AI models can potentially leak
+        data, even when self-hosted. Learn the security risks and how to protect your
+        enterprise.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mysfmzj5zc2f
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3myrxnwz5l22t
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3myrxnwz5l22t
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3myrxnwz5l22t
+  post_date: '2026-10-26T14:47:13.685Z'
+  liked_at: '2026-10-26T21:28:56.956724+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: 'i don''t think it''s that crazy it''s a lot harder to use public money
+    to build a complicated interconnected grid of rail infrastructure than it is to
+    use private money to build a bunch of big warehouses. like i don''t think it''s
+    great only one of those is possible but what i do not '
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3myrxnwz5l22t
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3myrsd4tof72x
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3myrsd4tof72x
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3myrsd4tof72x
+  post_date: '2026-10-26T13:11:41.687Z'
+  liked_at: '2026-10-26T19:40:08.113791+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: 'Business meeting is starting at #EMNLP2026. First part that I''ll cover
+    is an ominous presentation on "The Conference Crisis" and the first part is about
+    paper integrity.GPTZero was used for citation checks, with manual verification.
+    267 papers were desk rejected.'
+  links: []
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3myrsd4tof72x
+- post_uri: at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3myrsyhkzgk2s
+  thread_root_uri: at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3myrsyhkzgk2s
+  post_url: https://bsky.app/profile/did:plc:gjqmj6z7sboffvvduvqd7oam/post/3myrsyhkzgk2s
+  post_date: '2026-10-26T13:23:37.877Z'
+  liked_at: '2026-10-26T15:49:49.165598+00:00'
+  author_handle: quantian.bsky.social
+  author_did: did:plc:gjqmj6z7sboffvvduvqd7oam
+  post_text: Anthropic cumulative operating loss since inception is only $12 billion
+    and at their current run rate operating margin they will completely recoup that
+    loss by Q1 27 even if revenue is flat. So much for “these companies will never
+    make money” lmao
+  links: []
+  all_post_uris:
+  - at://did:plc:gjqmj6z7sboffvvduvqd7oam/app.bsky.feed.post/3myrsyhkzgk2s
+- post_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3myqbulnp6c2p
+  thread_root_uri: at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3myqbulnp6c2p
+  post_url: https://bsky.app/profile/did:plc:j3hiqh5g6il7vmphiyldeklv/post/3myqbulnp6c2p
+  post_date: '2026-10-25T22:44:34.596Z'
+  liked_at: '2026-10-26T15:40:08.332548+00:00'
+  author_handle: mkirschenbaum.bsky.social
+  author_did: did:plc:j3hiqh5g6il7vmphiyldeklv
+  post_text: Pretty much the first writing we call writing wasn’t thinking it was
+    accounting.
+  links: []
+  all_post_uris:
+  - at://did:plc:j3hiqh5g6il7vmphiyldeklv/app.bsky.feed.post/3myqbulnp6c2p
+- post_uri: at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3myqxarxfrk2q
+  thread_root_uri: at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3myqxarxfrk2q
+  post_url: https://bsky.app/profile/did:plc:3bnlr2j4womjtjolzcox25eu/post/3myqxarxfrk2q
+  post_date: '2026-10-26T05:07:12.437Z'
+  liked_at: '2026-10-26T15:38:13.004580+00:00'
+  author_handle: sameoldstory.co
+  author_did: did:plc:3bnlr2j4womjtjolzcox25eu
+  post_text: maybe I do worship the good governance and human well being god. I would
+    at least consider it
+  links: []
+  all_post_uris:
+  - at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3myqxarxfrk2q
 - post_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mypteggmwk2q
   thread_root_uri: at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mypteggmwk2q
   post_url: https://bsky.app/profile/did:plc:qvywnipfiyrd6v4qdf4x27wy/post/3mypteggmwk2q
