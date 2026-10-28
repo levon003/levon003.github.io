@@ -1,3 +1,235 @@
+- post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myvfeslrfk2x
+  thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myvfeslrfk2x
+  post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3myvfeslrfk2x
+  post_date: '2026-10-27T23:30:38.661Z'
+  liked_at: '2026-10-28T04:24:03.619320+00:00'
+  author_handle: jbakcoleman.bsky.social
+  author_did: did:plc:y7e3mcqeuzcgvagpds5ixywn
+  post_text: "As expected, @statmodeling.bsky.social was not involved. \n\nstatmodeling.stat.columbia.edu/2026/10/27/w..."
+  links:
+  - url: https://www.law360.com/articles/2542517/meta-docs-reveal-plan-to-discredit-teen-harm-critic-haidt
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: LVTYXY8R
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Meta Docs Reveal Plan To Discredit Teen-Harm Critic Haidt - Law360
+        url: https://www.law360.com/articles/2542517/meta-docs-reveal-plan-to-discredit-teen-harm-critic-haidt
+        abstractNote: Meta internally set a goal to "get the academic community to
+          disavow" and "turn against" professor Jonathan Haidt, who has linked social
+          media use to mental health decline, as it in-house rebuffed internal efforts
+          to study social media's impact on teen health, according to recently unredacted
+          documents filed publicly Friday.
+        language: en
+        accessDate: '2026-10-28'
+        websiteTitle: www.law360.com
+      title: Meta Docs Reveal Plan To Discredit Teen-Harm Critic Haidt - Law360
+      item_type: webpage
+      abstract: Meta internally set a goal to "get the academic community to disavow"
+        and "turn against" professor Jonathan Haidt, who has linked social media use
+        to mental health decline, as it in-house rebuffed internal efforts to study
+        social media's impact on teen health, according to recently unredacted documents
+        filed publicly Friday.
+  - url: https://statmodeling.stat.columbia.edu/2026/10/27/we-interrupt-our-usual-programming-to-inform-you-that-i-was-never-hired-by-facebook-to-do-a-hit-job-on-jonathan-haidt/
+    source: card
+    card_title: "\nWe interrupt our usual programming to inform you that I was never\
+      \ hired by Facebook to do a hit job on Jonathan Haidt. | Statistical Modeling,\
+      \ Causal Inference, and Social Science\t"
+    card_description: ''
+    citoid:
+      raw:
+        key: LQZNY36D
+        version: 0
+        itemType: webpage
+        url: https://statmodeling.stat.columbia.edu/2026/10/27/we-interrupt-our-usual-programming-to-inform-you-that-i-was-never-hired-by-facebook-to-do-a-hit-job-on-jonathan-haidt/
+        title: We interrupt our usual programming to inform you that I was never hired
+          by Facebook to do a hit job on Jonathan Haidt. | Statistical Modeling, Causal
+          Inference, and Social Science
+        accessDate: '2026-10-28'
+        websiteTitle: statmodeling.stat.columbia.edu
+      title: We interrupt our usual programming to inform you that I was never hired
+        by Facebook to do a hit job on Jonathan Haidt. | Statistical Modeling, Causal
+        Inference, and Social Science
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myvfeslrfk2x
+- post_uri: at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3myrwpqufn22b
+  thread_root_uri: at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3myrwpqufn22b
+  post_url: https://bsky.app/profile/did:plc:oogxmzmgauh5ug2tfe5vc7wm/post/3myrwpqufn22b
+  post_date: '2026-10-26T14:30:20.605Z'
+  liked_at: '2026-10-27T23:57:42.548412+00:00'
+  author_handle: beenwrekt.bsky.social
+  author_did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
+  post_text: The world needs a high-quality, truly open language model. I wrote about
+    why it’s necessary and why it’s easier to build than you might think.
+  links:
+  - url: https://www.argmin.net/p/the-world-is-something-we-make
+    source: card
+    card_title: The World Is Something We Make
+    card_description: '...and we can make a truly open language model.'
+    citoid:
+      raw:
+        key: FGPRTJKL
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Ben
+          lastName: Recht
+          creatorType: author
+        tags: []
+        title: The World Is Something We Make
+        url: https://www.argmin.net/p/the-world-is-something-we-make
+        abstractNote: '...and we can make a truly open language model.'
+        date: '2026-10-26'
+        language: en
+        accessDate: '2026-10-28'
+        websiteTitle: www.argmin.net
+      title: The World Is Something We Make
+      authors:
+      - last: Recht
+        first: Ben
+      date: '2026-10-26'
+      item_type: webpage
+      abstract: '...and we can make a truly open language model.'
+  all_post_uris:
+  - at://did:plc:oogxmzmgauh5ug2tfe5vc7wm/app.bsky.feed.post/3myrwpqufn22b
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myuvr7zzxc2o
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myuvr7zzxc2o
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3myuvr7zzxc2o
+  post_date: '2026-10-27T18:51:15.546Z'
+  liked_at: '2026-10-27T23:10:00.588581+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: Love the can-do spirit here. I have to register mild dissent on the issue
+    of IP (it's *good* that training is fair use, and I recommend not apologizing
+    for that). But the important thing is that we can and must build our own intellectual
+    infrastructure.
+  links:
+  - url: https://openathena.ai/blog/there-is-no-posttraining-data-commons/
+    source: thread
+    card_title: There is no posttraining data commons
+    card_description: The LLM revolution ran on a pretraining commons that humanity
+      built for other reasons. Posttraining consumes tasks, not documents, and no
+      such commons exists. If the open models community wants...
+    citoid:
+      raw:
+        key: LMT8IC6K
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: David
+          lastName: Hall
+          creatorType: author
+        tags: []
+        title: There is no posttraining data commons
+        websiteTitle: Open Athena
+        date: '2026-10-15'
+        url: https://www.openathena.ai/blog/there-is-no-posttraining-data-commons/
+        abstractNote: The LLM revolution ran on a pretraining commons that humanity
+          built for other reasons. Posttraining consumes tasks, not documents, and
+          no such commons exists. If the open models community wants...
+        language: en
+        accessDate: '2026-10-28'
+      title: There is no posttraining data commons
+      authors:
+      - last: Hall
+        first: David
+      date: '2026-10-15'
+      item_type: webpage
+      abstract: The LLM revolution ran on a pretraining commons that humanity built
+        for other reasons. Posttraining consumes tasks, not documents, and no such
+        commons exists. If the open models community wants...
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3myuvr7zzxc2o
+- post_uri: at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3myuoghcivp2v
+  thread_root_uri: at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3myuoghcivp2v
+  post_url: https://bsky.app/profile/did:plc:i4kytxgsu3yfsrt2ml3o7tgq/post/3myuoghcivp2v
+  post_date: '2026-10-27T16:39:57.853Z'
+  liked_at: '2026-10-27T19:07:36.678273+00:00'
+  author_handle: ai2.bsky.social
+  author_did: did:plc:i4kytxgsu3yfsrt2ml3o7tgq
+  post_text: 'LLMs are increasingly used to judge whether AI-generated research ideas
+    are novel. But are they any good at it?
+
+
+    Our new eval reveals even frontier LLMs can reach different conclusions about
+    similar ideas depending on how they''re asked to evaluate them. 🧵
+
+
+    buff.ly/WjOSxcx'
+  links:
+  - url: https://github.com/allenai/novelty-eval
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: WCVHPE6A
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/allenai/novelty-eval
+        title: allenai/novelty-eval
+        abstractNote: Benchmark and controlled study of LLM-based novelty judges for
+          research ideas. Code and data for "Old Ideas, Novel Problems" (arXiv 2610.02022)
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2026-10-22T10:10:05Z'
+        date: '2026-10-27'
+        rights: Apache-2.0
+        company: Ai2
+        accessDate: '2026-10-28'
+      title: allenai/novelty-eval
+      date: '2026-10-27'
+      item_type: computerProgram
+      abstract: Benchmark and controlled study of LLM-based novelty judges for research
+        ideas. Code and data for "Old Ideas, Novel Problems" (arXiv 2610.02022)
+  all_post_uris:
+  - at://did:plc:i4kytxgsu3yfsrt2ml3o7tgq/app.bsky.feed.post/3myuoghcivp2v
+- post_uri: at://did:plc:7ti53c7iwv3poxnypw2tu3ck/app.bsky.feed.post/3myiczj3cg226
+  thread_root_uri: at://did:plc:7ti53c7iwv3poxnypw2tu3ck/app.bsky.feed.post/3myiczj3cg226
+  post_url: https://bsky.app/profile/did:plc:7ti53c7iwv3poxnypw2tu3ck/post/3myiczj3cg226
+  post_date: '2026-10-22T18:43:55.503Z'
+  liked_at: '2026-10-27T16:36:18.651955+00:00'
+  author_handle: deepfates.com.deepfates.com.deepfates.com.deepfates.com.deepfates.com
+  author_did: did:plc:7ti53c7iwv3poxnypw2tu3ck
+  post_text: "I'm absolutely thrilled to have written this article for @longnow.org.\
+    \ \n\nIt's about AI and time: how we got here, and what we can do now, when all\
+    \ of the pace layers are disrupted at once by an influx of new minds.\n\nlongnow.org/ideas/attent..."
+  links:
+  - url: https://longnow.org/ideas/attention-ai-pace-layers/
+    source: card
+    card_title: Attention is All You Need
+    card_description: A report from the future on AI, attention, and the maintenance
+      of civilization
+    citoid:
+      raw:
+        key: C88M4GR3
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Attention is All You Need
+        websiteTitle: Long Now
+        date: '2026-10-22'
+        url: https://longnow.org/ideas/attention-ai-pace-layers/
+        abstractNote: A report from the future on AI, attention, and the maintenance
+          of civilization
+        language: en
+        accessDate: '2026-10-28'
+      title: Attention is All You Need
+      date: '2026-10-22'
+      item_type: webpage
+      abstract: A report from the future on AI, attention, and the maintenance of
+        civilization
+  all_post_uris:
+  - at://did:plc:7ti53c7iwv3poxnypw2tu3ck/app.bsky.feed.post/3myiczj3cg226
 - post_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mys3u6ljk22g
   thread_root_uri: at://did:plc:ojnhyuhk6tscuussfk5bvyra/app.bsky.feed.post/3mys3u6ljk22g
   post_url: https://bsky.app/profile/did:plc:ojnhyuhk6tscuussfk5bvyra/post/3mys3u6ljk22g
