@@ -1,3 +1,360 @@
+- post_uri: at://did:plc:m6ap5q4z7josicg7jccpu4ni/app.bsky.feed.post/3mywzgyvwgk2u
+  thread_root_uri: at://did:plc:m6ap5q4z7josicg7jccpu4ni/app.bsky.feed.post/3mywzgyvwgk2u
+  post_url: https://bsky.app/profile/did:plc:m6ap5q4z7josicg7jccpu4ni/post/3mywzgyvwgk2u
+  post_date: '2026-10-28T15:02:26.971Z'
+  liked_at: '2026-10-29T07:04:09.395167+00:00'
+  author_handle: tomaarsen.com
+  author_did: did:plc:m6ap5q4z7josicg7jccpu4ni
+  post_text: '📖 The @Google EmbeddingGemma2 team has published their technical report!
+
+
+    EmbeddingGemma2 was just 740M parameters, but its omni-modal nature and pareto-optimal
+    performance makes it one of the most exciting releases of the last months for
+    me.
+
+
+    huggingface.co/papers/2610....'
+  links:
+  - url: https://huggingface.co/papers/2610.37364
+    source: card
+    card_title: 'Paper page - EmbeddingGemma 2: Unified and Efficient Multimodal Representations'
+    card_description: Join the discussion on this paper page
+    citoid:
+      raw:
+        key: 9WZMN6MA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Paper page - EmbeddingGemma 2: Unified and Efficient Multimodal Representations'
+        url: https://huggingface.co/papers/2610.37364
+        abstractNote: Join the discussion on this paper page
+        date: '2026-10-28'
+        accessDate: '2026-10-29'
+        shortTitle: Paper page - EmbeddingGemma 2
+        websiteTitle: huggingface.co
+      title: 'Paper page - EmbeddingGemma 2: Unified and Efficient Multimodal Representations'
+      date: '2026-10-28'
+      item_type: webpage
+      abstract: Join the discussion on this paper page
+  all_post_uris:
+  - at://did:plc:m6ap5q4z7josicg7jccpu4ni/app.bsky.feed.post/3mywzgyvwgk2u
+- post_uri: at://did:plc:u5ley35r5dxhkrzvcaqwic2m/app.bsky.feed.post/3myxyclt3c22l
+  thread_root_uri: at://did:plc:u5ley35r5dxhkrzvcaqwic2m/app.bsky.feed.post/3myxyclt3c22l
+  post_url: https://bsky.app/profile/did:plc:u5ley35r5dxhkrzvcaqwic2m/post/3myxyclt3c22l
+  post_date: '2026-10-29T00:14:45.013Z'
+  liked_at: '2026-10-29T07:01:47.019276+00:00'
+  author_handle: anastasiabzv.bsky.social
+  author_did: did:plc:u5ley35r5dxhkrzvcaqwic2m
+  post_text: Sad to report, Wegmans AI did not yet crack the Riemann hypothesis 😔
+    but it almost figured out what an orange is!! baby steps
+  links: []
+  all_post_uris:
+  - at://did:plc:u5ley35r5dxhkrzvcaqwic2m/app.bsky.feed.post/3myxyclt3c22l
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mywz4im3jk2e
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mywz4im3jk2e
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3mywz4im3jk2e
+  post_date: '2026-10-28T14:56:34.322Z'
+  liked_at: '2026-10-29T06:58:29.580100+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3mywz4im3jk2e
+- post_uri: at://did:plc:cu5sipgjjnkg4rgnqewywf3l/app.bsky.feed.post/3myy6e2xmrs26
+  thread_root_uri: at://did:plc:cu5sipgjjnkg4rgnqewywf3l/app.bsky.feed.post/3myy6e2xmrs26
+  post_url: https://bsky.app/profile/did:plc:cu5sipgjjnkg4rgnqewywf3l/post/3myy6e2xmrs26
+  post_date: '2026-10-29T02:02:56.905Z'
+  liked_at: '2026-10-29T06:55:37.977954+00:00'
+  author_handle: reillywood.com
+  author_did: did:plc:cu5sipgjjnkg4rgnqewywf3l
+  post_text: 'fun post, people are starting to intentionally trip LLM safety guardrails
+    as a means of obfuscation: nullpt.rs/fingerprinti...'
+  links:
+  - url: https://nullpt.rs/fingerprinting-bioweapons
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 796QEB3K
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: nullpt.rs • Why Is This Fingerprinting Script Creating Bioweapons?
+        date: '2026-10-28'
+        url: https://nullpt.rs/fingerprinting-bioweapons
+        language: en
+        accessDate: '2026-10-29'
+        websiteTitle: nullpt.rs
+      title: nullpt.rs • Why Is This Fingerprinting Script Creating Bioweapons?
+      date: '2026-10-28'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:cu5sipgjjnkg4rgnqewywf3l/app.bsky.feed.post/3myy6e2xmrs26
+- post_uri: at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3myxzsbetb22o
+  thread_root_uri: at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3myxzsbetb22o
+  post_url: https://bsky.app/profile/did:plc:ktmis6mlcffobsxzoigeyst5/post/3myxzsbetb22o
+  post_date: '2026-10-29T00:41:24.685Z'
+  liked_at: '2026-10-29T03:34:46.273468+00:00'
+  author_handle: mm-jj-nn.bsky.social
+  author_did: did:plc:ktmis6mlcffobsxzoigeyst5
+  post_text: Stats on the CHI 2027 desk-reject process, which rejected 38% of papers
+    without full review. Would be curious about the accuracy of the process, but the
+    overall rate sounds reasonable (maybe even still too low).
+  links:
+  - url: https://chi2027.acm.org/2026/10/23/chi-2027-papers-desk-rejects-and-adr/
+    source: card
+    card_title: 'CHI 2027 Papers: Desk Rejects and ADR - ACM CHI 2027'
+    card_description: 'CHI 2027 Papers: Desk Rejects and ADR Authors: Jesse Grootjen,
+      Andrii Matviienko (Analytics Chairs)Date: 2026-10-23 Summary Of the 7,743 complete
+      submissions, 608 (7.9%) were desk rejected, and 20 (0....'
+    citoid:
+      raw:
+        key: 2SGWAUWN
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Riku
+          lastName: Arakawa
+          creatorType: author
+        tags: []
+        title: 'CHI 2027 Papers: Desk Rejects and ADR'
+        blogTitle: ACM CHI 2027
+        date: '2026-10-23'
+        url: https://chi2027.acm.org/2026/10/23/chi-2027-papers-desk-rejects-and-adr/
+        abstractNote: 'CHI 2027 Papers: Desk Rejects and ADR Authors: Jesse Grootjen,
+          Andrii Matviienko (Analytics Chairs)Date: 2026-10-23 Summary Of the 7,743
+          complete submissions, 608 (7.9%) were desk rejected, and 20 (0.3%) were
+          withdrawn, so 7,115 papers (91.9%) went on to the Assisted Desk Reject (ADR)
+          stage. Of these, 2,308 (29.8% of all submissions) were rejected at the […]'
+        language: en-US
+        accessDate: '2026-10-29'
+        shortTitle: CHI 2027 Papers
+      title: 'CHI 2027 Papers: Desk Rejects and ADR'
+      authors:
+      - last: Arakawa
+        first: Riku
+      date: '2026-10-23'
+      item_type: blogPost
+      publisher: ACM CHI 2027
+      abstract: 'CHI 2027 Papers: Desk Rejects and ADR Authors: Jesse Grootjen, Andrii
+        Matviienko (Analytics Chairs)Date: 2026-10-23 Summary Of the 7,743 complete
+        submissions, 608 (7.9%) were desk rejected, and 20 (0.3%) were withdrawn,
+        so 7,115 papers (91.9%) went on to the Assisted Desk Reject (ADR) stage. Of
+        these, 2,308 (29.8% of all submissions) were rejected at the […]'
+  all_post_uris:
+  - at://did:plc:ktmis6mlcffobsxzoigeyst5/app.bsky.feed.post/3myxzsbetb22o
+- post_uri: at://did:plc:fs7y6hvfvqkbmcgxsrmcajuk/app.bsky.feed.post/3mywijvhd3k2x
+  thread_root_uri: at://did:plc:fs7y6hvfvqkbmcgxsrmcajuk/app.bsky.feed.post/3mywijvhd3k2x
+  post_url: https://bsky.app/profile/did:plc:fs7y6hvfvqkbmcgxsrmcajuk/post/3mywijvhd3k2x
+  post_date: '2026-10-28T09:59:50.396Z'
+  liked_at: '2026-10-29T00:04:58.096443+00:00'
+  author_handle: craa.bsky.social
+  author_did: did:plc:fs7y6hvfvqkbmcgxsrmcajuk
+  post_text: 'New paper! 🍈
+
+    User simulators could open up the world of scalable training on interactive tasks,
+    e.g., simulating realistic students to train better AI tutors, but only if they
+    make the *same* type of errors that people do... Do they? Joint work with @tallinzen.bsky.social
+    & @nick'
+  links:
+  - url: https://arxiv.org/abs/2610.24232
+    source: thread
+    card_title: Analyzing Repetition and Interference Effects in Memory-Constrained
+      User Simulators
+    card_description: User simulators can help evaluate and train AI systems to interact
+      with humans at scale. To do so, evaluation of user simulators must measure behavioral
+      parity with people. We evaluate whether memory-...
+    citoid:
+      raw:
+        key: LY8BQAWU
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Cara Su-Yi
+          lastName: Leong
+          creatorType: author
+        - firstName: Nicholas
+          lastName: Tomlin
+          creatorType: author
+        - firstName: Tal
+          lastName: Linzen
+          creatorType: author
+        tags:
+        - tag: Computation and Language (cs.CL)
+          type: 1
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: Analyzing Repetition and Interference Effects in Memory-Constrained
+          User Simulators
+        repository: arXiv
+        date: '2026-10-20'
+        DOI: 10.48550/ARXIV.2610.24232
+        url: https://arxiv.org/abs/2610.24232
+        rights: Creative Commons Attribution 4.0 International
+        abstractNote: 'User simulators can help evaluate and train AI systems to interact
+          with humans at scale. To do so, evaluation of user simulators must measure
+          behavioral parity with people. We evaluate whether memory-constrained user
+          simulators are sensitive to two factors known to affect human information
+          retention: repetition of a fact and interference from competing information.
+          We find that some simulators achieve human-like overall accuracy, and replicate
+          the magnitude of repetition and interference effects, but none match people''s
+          accuracy on particular questions: while humans misremember facts, models
+          forget them, leading to different error patterns. We release this data as
+          a challenge benchmark for future work on user simulators.'
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-10-29'
+      title: Analyzing Repetition and Interference Effects in Memory-Constrained User
+        Simulators
+      authors:
+      - last: Leong
+        first: Cara Su-Yi
+      - last: Tomlin
+        first: Nicholas
+      - last: Linzen
+        first: Tal
+      date: '2026-10-20'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.24232
+      publisher: arXiv
+      abstract: 'User simulators can help evaluate and train AI systems to interact
+        with humans at scale. To do so, evaluation of user simulators must measure
+        behavioral parity with people. We evaluate whether memory-constrained user
+        simulators are sensitive to two factors known to affect human information
+        retention: repetition of a fact and interference from competing information.
+        We find that some simulators achieve human-like overall accuracy, and replicate
+        the magnitude of repetition and interference effects, but none match people''s
+        accuracy on particular questions: while humans misremember facts, models forget
+        them, leading to different error patterns. We release this data as a challenge
+        benchmark for future work on user simulators.'
+  all_post_uris:
+  - at://did:plc:fs7y6hvfvqkbmcgxsrmcajuk/app.bsky.feed.post/3mywijvhd3k2x
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3myutksrvwc2s
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3myutksrvwc2s
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3myutksrvwc2s
+  post_date: '2026-10-27T18:11:52.823Z'
+  liked_at: '2026-10-28T17:32:07.895645+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: I vibecoded a simpler mix of factorio and sim city where you're building
+    a utopian city in the woods. It's pretty fun! Works on mobile too.  andymasley.com/games/second...
+  links:
+  - url: https://andymasley.com/games/second-summer/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: B8MD3RFZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Second Summer
+        url: https://andymasley.com/games/second-summer/
+        abstractNote: A town-building game in a valley in the pines, where goods float
+          along channels of water.
+        language: en
+        accessDate: '2026-10-29'
+        websiteTitle: andymasley.com
+      title: Second Summer
+      item_type: webpage
+      abstract: A town-building game in a valley in the pines, where goods float along
+        channels of water.
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3myutksrvwc2s
+- post_uri: at://did:plc:ycmvakcgicie5gd2mp4btjoe/app.bsky.feed.post/3myutaafads2b
+  thread_root_uri: at://did:plc:ycmvakcgicie5gd2mp4btjoe/app.bsky.feed.post/3myutaafads2b
+  post_url: https://bsky.app/profile/did:plc:ycmvakcgicie5gd2mp4btjoe/post/3myutaafads2b
+  post_date: '2026-10-27T18:05:58.003Z'
+  liked_at: '2026-10-28T17:00:57.341882+00:00'
+  author_handle: adinayakup.bsky.social
+  author_did: did:plc:ycmvakcgicie5gd2mp4btjoe
+  post_text: "MiniCPM OCR family \U0001F525 1st OCR from OpenBMB \n\n✨ MiniCPM OCR\
+    \ 1.0 \n- 1.3B \n- Apache 2.0\n- 55% higher processing efficiency with DSpark\n\
+    - Handles complex layouts, tables & formulas"
+  links:
+  - url: https://huggingface.co/collections/openbmb/minicpm-ocr
+    source: thread
+    card_title: MiniCPM-OCR - a openbmb Collection
+    card_description: Fast parsing. High accuracy.
+    citoid:
+      raw:
+        key: J4LNMWFL
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: MiniCPM-OCR - a openbmb Collection
+        url: https://huggingface.co/collections/openbmb/minicpm-ocr
+        abstractNote: Fast, accurate OCR with correctness assessment.
+        date: '2026-10-29'
+        accessDate: '2026-10-29'
+        websiteTitle: huggingface.co
+      title: MiniCPM-OCR - a openbmb Collection
+      date: '2026-10-29'
+      item_type: webpage
+      abstract: Fast, accurate OCR with correctness assessment.
+  all_post_uris:
+  - at://did:plc:ycmvakcgicie5gd2mp4btjoe/app.bsky.feed.post/3myutaafads2b
+- post_uri: at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mywifnvik22g
+  thread_root_uri: at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mywifnvik22g
+  post_url: https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mywifnvik22g
+  post_date: '2026-10-28T09:57:28.256Z'
+  liked_at: '2026-10-28T16:20:43.407774+00:00'
+  author_handle: rbd.bsky.social
+  author_did: did:plc:sa2yiupgrjk625bb6fmv23ww
+  post_text: "On the one hand it's a screenshot of reddit engagement bait. On the\
+    \ other hand it tells a negative story about something I don't like. \n\nI guess\
+    \ I'll uncritically believe it is totally true and real."
+  links: []
+  all_post_uris:
+  - at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mywifnvik22g
+- post_uri: at://did:plc:tjbhhxsntamyrd7f3kczwmii/app.bsky.feed.post/3myvmwxtd6c25
+  thread_root_uri: at://did:plc:tjbhhxsntamyrd7f3kczwmii/app.bsky.feed.post/3myvmwxtd6c25
+  post_url: https://bsky.app/profile/did:plc:tjbhhxsntamyrd7f3kczwmii/post/3myvmwxtd6c25
+  post_date: '2026-10-28T01:46:04.325Z'
+  liked_at: '2026-10-28T16:08:29.401712+00:00'
+  author_handle: brig.gs
+  author_did: did:plc:tjbhhxsntamyrd7f3kczwmii
+  post_text: 'It''s been a long few days for us @tailscale.com. Fixes for the vulnerabilities
+    published on Saturday have been released, and our write up can be found here:
+    tailscale.com/blog/tailsca...
+
+
+    I''d like to personally extend a special thanks to the engineers who tirelessly
+    worked their '
+  links:
+  - url: https://tailscale.com/blog/tailscale-ssh-findings-fixes
+    source: card
+    card_title: 'Tailscale SSH: Findings and fixes'
+    card_description: 'Tailscale SSH vulnerabilities from the Tailworm report: Findings,
+      response timeline, security bulletins, and fixes in Tailscale v1.104.4.'
+    citoid:
+      raw:
+        key: RS56EDJL
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Tailscale SSH: Findings and fixes'
+        url: https://tailscale.com/blog/tailscale-ssh-findings-fixes
+        abstractNote: 'Tailscale SSH vulnerabilities from the Tailworm report: Findings,
+          response timeline, security bulletins, and fixes in Tailscale v1.104.4.'
+        accessDate: '2026-10-29'
+        shortTitle: Tailscale SSH
+        websiteTitle: tailscale.com
+      title: 'Tailscale SSH: Findings and fixes'
+      item_type: webpage
+      abstract: 'Tailscale SSH vulnerabilities from the Tailworm report: Findings,
+        response timeline, security bulletins, and fixes in Tailscale v1.104.4.'
+  all_post_uris:
+  - at://did:plc:tjbhhxsntamyrd7f3kczwmii/app.bsky.feed.post/3myvmwxtd6c25
 - post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myvfeslrfk2x
   thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myvfeslrfk2x
   post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3myvfeslrfk2x

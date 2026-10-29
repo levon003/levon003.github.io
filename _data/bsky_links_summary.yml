@@ -1,9 +1,9 @@
-entries_with_links: 2548
-total_links: 3115
-unique_domains: 1030
+entries_with_links: 2555
+total_links: 3122
+unique_domains: 1032
 top_domains:
 - domain: arxiv.org
-  count: 251
+  count: 252
 - domain: substack.com
   count: 181
 - domain: github.com
@@ -13,11 +13,11 @@ top_domains:
 - domain: github.io
   count: 80
 - domain: acm.org
-  count: 55
+  count: 56
 - domain: doi.org
   count: 55
 - domain: huggingface.co
-  count: 44
+  count: 46
 - domain: nytimes.com
   count: 44
 - domain: youtu.be
