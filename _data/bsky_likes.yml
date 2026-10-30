@@ -1,3 +1,225 @@
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mz2ivitar2ij
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mz2c3r3otsxs
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mz2ivitar2ij
+  post_date: '2026-10-30T00:16:58.762Z'
+  liked_at: '2026-10-30T05:49:51.622739+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: I think the way he worded it is annoying but the basic argument makes
+    sense. Michael Nielsen articulated it better in https://michaelnotebook.com/xrisk/
+    (under “Recipes for Ruin”)
+  links:
+  - url: https://michaelnotebook.com/xrisk/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: PQRYK7EM
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Michael
+          lastName: Nielsen
+          creatorType: author
+        tags: []
+        title: Notes on Existential Risk from Artificial Superintelligence
+        websiteTitle: Michael Nielsen’s notebook
+        url: https://michaelnotebook.com/xrisk/
+        accessDate: '2026-10-30'
+      title: Notes on Existential Risk from Artificial Superintelligence
+      authors:
+      - last: Nielsen
+        first: Michael
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mz2ivitar2ij
+- post_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3myzv6ka5uc2h
+  thread_root_uri: at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3myzv6ka5uc2h
+  post_url: https://bsky.app/profile/did:plc:vksrbj3uhjpzqe42stamobyw/post/3myzv6ka5uc2h
+  post_date: '2026-10-29T18:24:07.387Z'
+  liked_at: '2026-10-29T22:35:57.105462+00:00'
+  author_handle: mattbarnum.bsky.social
+  author_did: did:plc:vksrbj3uhjpzqe42stamobyw
+  post_text: "New: \n\nIn a recent speech, Education Secretary Linda McMahon suggested\
+    \ that American education has deteriorated for the last several decades — ever\
+    \ since the federal government got more involved in the '60s and '70s. Is this\
+    \ true? \n\nI dig into some history.\n\nwww.chalkbeat.org/202"
+  links:
+  - url: https://www.chalkbeat.org/2026/10/29/linda-mcmahon-american-education-history-speech/
+    source: card
+    card_title: Linda McMahon wants to make schools great again. Here’s the history
+      she glosses over.
+    card_description: 'Segregated schools, expanding federal authority, rising achievement,
+      and a pandemic-era collapse: The past century of American education is more
+      complicated than a simple rise-and-fall story.'
+    citoid:
+      raw:
+        key: 2P5RT35N
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Linda McMahon wants to make schools great again. Here’s the history
+          she glosses over.
+        websiteTitle: Chalkbeat
+        date: '2026-10-29'
+        url: https://www.chalkbeat.org/2026/10/29/linda-mcmahon-american-education-history-speech/
+        abstractNote: 'Segregated schools, expanding federal authority, rising achievement,
+          and a pandemic-era collapse: The past century of American education is more
+          complicated than a simple rise-and-fall story.'
+        language: en
+        accessDate: '2026-10-30'
+      title: Linda McMahon wants to make schools great again. Here’s the history she
+        glosses over.
+      date: '2026-10-29'
+      item_type: webpage
+      abstract: 'Segregated schools, expanding federal authority, rising achievement,
+        and a pandemic-era collapse: The past century of American education is more
+        complicated than a simple rise-and-fall story.'
+  all_post_uris:
+  - at://did:plc:vksrbj3uhjpzqe42stamobyw/app.bsky.feed.post/3myzv6ka5uc2h
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3myzt6nekfs25
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3myzt6nekfs25
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3myzt6nekfs25
+  post_date: '2026-10-29T17:48:23.195Z'
+  liked_at: '2026-10-29T19:00:40.311269+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: There is a lot of talk in CS of rising project grades but falling exam
+    grades. I put a question on my midterm with a chunk of code very close to what
+    students would have coded in an assignment and asked them to identify the flaw.
+    Should have been a slam dunk easy question. Only 5
+  links: []
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3myzt6nekfs25
+- post_uri: at://did:plc:mkltvkhqhujkrwbbhrizggxo/app.bsky.feed.post/3myzh2xvhbs24
+  thread_root_uri: at://did:plc:mkltvkhqhujkrwbbhrizggxo/app.bsky.feed.post/3myzh2xvhbs24
+  post_url: https://bsky.app/profile/did:plc:mkltvkhqhujkrwbbhrizggxo/post/3myzh2xvhbs24
+  post_date: '2026-10-29T14:11:35.113Z'
+  liked_at: '2026-10-29T14:55:39.527170+00:00'
+  author_handle: oroborositron.bsky.social
+  author_did: did:plc:mkltvkhqhujkrwbbhrizggxo
+  post_text: www.tomshardware.com/tech-industr...
+  links:
+  - url: https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind
+    source: card
+    card_title: Man granted first-of-its-kind religious exemption against mandatory
+      AI use at work — Humanist argues that offloading his thinking to LLMs violates
+      his beliefs, Title VII accommodation protects employe...
+    card_description: David Durman says that he's unwilling to outsource his thinking
+      to AI tools.
+    citoid:
+      raw:
+        key: ELG7UKZN
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Jowi Morales David Durman says that he's unwilling to outsource
+            his thinking to AI
+          lastName: tools
+          creatorType: author
+        tags: []
+        title: Man granted first-of-its-kind religious exemption against mandatory
+          AI use at work — Humanist argues that offloading his thinking to LLMs violates
+          his beliefs, Title VII accommodation protects employee
+        websiteTitle: Tom's Hardware
+        date: '2026-10-29'
+        url: https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind
+        abstractNote: David Durman says that he's unwilling to outsource his thinking
+          to AI tools.
+        language: en
+        accessDate: '2026-10-30'
+      title: Man granted first-of-its-kind religious exemption against mandatory AI
+        use at work — Humanist argues that offloading his thinking to LLMs violates
+        his beliefs, Title VII accommodation protects employee
+      authors:
+      - last: tools
+        first: Jowi Morales David Durman says that he's unwilling to outsource his
+          thinking to AI
+      date: '2026-10-29'
+      item_type: webpage
+      abstract: David Durman says that he's unwilling to outsource his thinking to
+        AI tools.
+  all_post_uris:
+  - at://did:plc:mkltvkhqhujkrwbbhrizggxo/app.bsky.feed.post/3myzh2xvhbs24
+- post_uri: at://did:plc:2zdn7tlpmgpqffycb525f746/app.bsky.feed.post/3myxdhitmqk2d
+  thread_root_uri: at://did:plc:2zdn7tlpmgpqffycb525f746/app.bsky.feed.post/3myxdhitmqk2d
+  post_url: https://bsky.app/profile/did:plc:2zdn7tlpmgpqffycb525f746/post/3myxdhitmqk2d
+  post_date: '2026-10-28T18:01:41.089Z'
+  liked_at: '2026-10-29T14:51:04.558293+00:00'
+  author_handle: juliafstrand.bsky.social
+  author_did: did:plc:2zdn7tlpmgpqffycb525f746
+  post_text: Grad school recommendation portal scales have reached new levels of incomprehensibility
+  links: []
+  all_post_uris:
+  - at://did:plc:2zdn7tlpmgpqffycb525f746/app.bsky.feed.post/3myxdhitmqk2d
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3myxntievms2r
+- post_uri: at://did:plc:yeg7rbgfnjihw5um3hvi2dgr/app.bsky.feed.post/3myza5ntpts2w
+  thread_root_uri: at://did:plc:yeg7rbgfnjihw5um3hvi2dgr/app.bsky.feed.post/3myza5ntpts2w
+  post_url: https://bsky.app/profile/did:plc:yeg7rbgfnjihw5um3hvi2dgr/post/3myza5ntpts2w
+  post_date: '2026-10-29T12:07:49.043Z'
+  liked_at: '2026-10-29T14:41:58.016988+00:00'
+  author_handle: mkarhulahti.bsky.social
+  author_did: did:plc:yeg7rbgfnjihw5um3hvi2dgr
+  post_text: 'This is the state of art in gaming research more or less-- a few examples
+    from oft-used measures:'
+  links: []
+  all_post_uris:
+  - at://did:plc:yeg7rbgfnjihw5um3hvi2dgr/app.bsky.feed.post/3myza5ntpts2w
+- post_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3myzeaswwvk22
+  thread_root_uri: at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3myzeaswwvk22
+  post_url: https://bsky.app/profile/did:plc:ldc2wu7h57ks63hpjmosislw/post/3myzeaswwvk22
+  post_date: '2026-10-29T13:21:10.021Z'
+  liked_at: '2026-10-29T14:34:04.613988+00:00'
+  author_handle: manoelhortaribeiro.bsky.social
+  author_did: did:plc:ldc2wu7h57ks63hpjmosislw
+  post_text: 'Had a paper rejected at @chi.acm.org, which, naturally, I think was
+    unfair...
+
+
+    But I still support stricter desk rejections! Attention is finite, especially
+    in the age of AI, and that trade-off is worth it!
+
+
+    doomscrollingbabel.manoel.xyz/p/desk-rejec...'
+  links:
+  - url: https://doomscrollingbabel.manoel.xyz/p/desk-rejections-are-frustrating-but
+    source: card
+    card_title: Desk Rejections are Frustrating but Necessary
+    card_description: In response to the flood of very low-quality, often unreadable
+      AI-generated papers, Computer Science venues have begun adopting stricter desk-rejection
+      policies.
+    citoid:
+      raw:
+        key: VY9EEY6V
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Manoel Horta
+          lastName: Ribeiro
+          creatorType: author
+        tags: []
+        title: Desk Rejections are Frustrating but Necessary
+        url: https://doomscrollingbabel.manoel.xyz/p/desk-rejections-are-frustrating-but
+        abstractNote: In response to the flood of very low-quality, often unreadable
+          AI-generated papers, Computer Science venues have begun adopting stricter
+          desk-rejection policies.
+        date: '2026-10-29'
+        language: en
+        accessDate: '2026-10-30'
+        websiteTitle: doomscrollingbabel.manoel.xyz
+      title: Desk Rejections are Frustrating but Necessary
+      authors:
+      - last: Ribeiro
+        first: Manoel Horta
+      date: '2026-10-29'
+      item_type: webpage
+      abstract: In response to the flood of very low-quality, often unreadable AI-generated
+        papers, Computer Science venues have begun adopting stricter desk-rejection
+        policies.
+  all_post_uris:
+  - at://did:plc:ldc2wu7h57ks63hpjmosislw/app.bsky.feed.post/3myzeaswwvk22
 - post_uri: at://did:plc:m6ap5q4z7josicg7jccpu4ni/app.bsky.feed.post/3mywzgyvwgk2u
   thread_root_uri: at://did:plc:m6ap5q4z7josicg7jccpu4ni/app.bsky.feed.post/3mywzgyvwgk2u
   post_url: https://bsky.app/profile/did:plc:m6ap5q4z7josicg7jccpu4ni/post/3mywzgyvwgk2u
