@@ -1,3 +1,213 @@
+- post_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mz4uymbn2s2l
+  thread_root_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mz4uymbn2s2l
+  post_url: https://bsky.app/profile/did:plc:ac6qioenkpl3jmmnib3tpbhb/post/3mz4uymbn2s2l
+  post_date: '2026-10-30T22:58:47.421Z'
+  liked_at: '2026-10-31T04:08:04.657401+00:00'
+  author_handle: ccanonne.github.io
+  author_did: did:plc:ac6qioenkpl3jmmnib3tpbhb
+  post_text: Of all the possibles takes on the claimed refutation of the Exponential
+    Time Hypothesis, "it isn't a practical algorithm" is maybe the worst.
+  links: []
+  all_post_uris:
+  - at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mz4uymbn2s2l
+- post_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mz4g7eyrak2f
+  thread_root_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mz4g7eyrak2f
+  post_url: https://bsky.app/profile/did:plc:swgxwbir4rrimj57pf75jckf/post/3mz4g7eyrak2f
+  post_date: '2026-10-30T18:34:08.546Z'
+  liked_at: '2026-10-30T22:26:06.839912+00:00'
+  author_handle: mtsw.bsky.social
+  author_did: did:plc:swgxwbir4rrimj57pf75jckf
+  post_text: "Similar to the Hillary Clinton email scandal, if they cannot find a\
+    \ scandal to tar Dems with, they will take something that had been widely accepted\
+    \ and then present it as if its suddenly a taboo scandal. \n\nThat's because the\
+    \ media like Trump and want to help him tyrannize us. Hi"
+  links:
+  - url: https://www.offmessage.net/p/donald-trump-secret-iran-war-plan-jd-vance-elon-musk-starlink-ukraine-russia-vladimir-putin-china-government-shutdown-george-w-bush-iraq-war-midterm-elections
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 6KCZ24YS
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Brian
+          lastName: Beutler
+          creatorType: author
+        tags: []
+        title: Inside Donald Trump’s Secret Plan To Restart The Iran War After The
+          Election
+        url: https://www.offmessage.net/p/donald-trump-secret-iran-war-plan-jd-vance-elon-musk-starlink-ukraine-russia-vladimir-putin-china-government-shutdown-george-w-bush-iraq-war-midterm-elections
+        abstractNote: Operatives aligned with the president spent months devising
+          a plan to resume the war—only after ballots had been cast. Republicans have
+          worked studiously to avoid tipping off voters.
+        date: '2026-10-30'
+        language: en
+        accessDate: '2026-10-31'
+        websiteTitle: www.offmessage.net
+      title: Inside Donald Trump’s Secret Plan To Restart The Iran War After The Election
+      authors:
+      - last: Beutler
+        first: Brian
+      date: '2026-10-30'
+      item_type: webpage
+      abstract: Operatives aligned with the president spent months devising a plan
+        to resume the war—only after ballots had been cast. Republicans have worked
+        studiously to avoid tipping off voters.
+  - url: https://www.theguardian.com/us-news/2016/feb/04/colin-powell-condoleezza-rice-private-email-accounts-classified-hillary-clinton
+    source: thread
+    card_title: Colin Powell and Condoleezza Rice used private accounts for classified
+      emails
+    card_description: Hillary Clinton’s campaign has seized on findings that Rice
+      and Powell were sent sensitive national security information to nongovernment
+      email addresses
+    citoid:
+      raw:
+        key: 8VS5U72L
+        version: 0
+        itemType: newspaperArticle
+        creators:
+        - firstName: David
+          lastName: Smith
+          creatorType: author
+        tags:
+        - tag: Hillary Clinton
+          type: 1
+        - tag: Email
+          type: 1
+        - tag: Condoleezza Rice
+          type: 1
+        - tag: Colin Powell
+          type: 1
+        - tag: US Senate
+          type: 1
+        - tag: House of Representatives
+          type: 1
+        - tag: US news
+          type: 1
+        - tag: Technology
+          type: 1
+        - tag: Computing
+          type: 1
+        title: Colin Powell and Condoleezza Rice used private accounts for classified
+          emails
+        publicationTitle: The Guardian
+        section: US news
+        date: '2016-02-05'
+        url: https://www.theguardian.com/us-news/2016/feb/04/colin-powell-condoleezza-rice-private-email-accounts-classified-hillary-clinton
+        abstractNote: Hillary Clinton’s campaign has seized on findings that Rice
+          and Powell were sent sensitive national security information to nongovernment
+          email addresses
+        language: en-GB
+        libraryCatalog: The Guardian
+        accessDate: '2026-10-31'
+        ISSN: 0261-3077
+      title: Colin Powell and Condoleezza Rice used private accounts for classified
+        emails
+      authors:
+      - last: Smith
+        first: David
+      date: '2016-02-05'
+      item_type: newspaperArticle
+      publisher: The Guardian
+      abstract: Hillary Clinton’s campaign has seized on findings that Rice and Powell
+        were sent sensitive national security information to nongovernment email addresses
+  all_post_uris:
+  - at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3mz4g7eyrak2f
+- post_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mywwaogdac23
+  thread_root_uri: at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mywwaogdac23
+  post_url: https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mywwaogdac23
+  post_date: '2026-10-28T14:05:13.419Z'
+  liked_at: '2026-10-30T20:10:53.005586+00:00'
+  author_handle: simonwillison.net
+  author_did: did:plc:kft6lu4trxowqmter2b6vg6z
+  post_text: 'I think October represents another inflection point in capabilities
+    for coding agents and the models that drive them: Claude Opus 5.5 can now build
+    video games that are actually fun simonwillison.net/2026/Oct/28/...'
+  links:
+  - url: https://simonwillison.net/2026/Oct/28/vibe-game-development/
+    source: card
+    card_title: The October inflection point for vibe game development
+    card_description: I’ve written before about how November 2025 was an inflection
+      point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping
+      point that meant their respective coding agents …
+    citoid:
+      raw:
+        key: ZL2D6TW6
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Simon
+          lastName: Willison
+          creatorType: author
+        tags: []
+        title: The October inflection point for vibe game development
+        websiteTitle: Simon Willison’s Weblog
+        url: https://simonwillison.net/2026/Oct/28/vibe-game-development/
+        abstractNote: I’ve written before about how November 2025 was an inflection
+          point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping
+          point that meant their respective coding agents …
+        language: en-gb
+        accessDate: '2026-10-31'
+      title: The October inflection point for vibe game development
+      authors:
+      - last: Willison
+        first: Simon
+      item_type: webpage
+      abstract: I’ve written before about how November 2025 was an inflection point
+        for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point
+        that meant their respective coding agents …
+  all_post_uris:
+  - at://did:plc:kft6lu4trxowqmter2b6vg6z/app.bsky.feed.post/3mywwaogdac23
+- post_uri: at://did:plc:prxrftibk5tzslv6a5awrlha/app.bsky.feed.post/3mz4g7mtyck24
+  thread_root_uri: at://did:plc:fi73esdhzesw3xdqtzfsmt3g/app.bsky.feed.post/3mz47fqptek2f
+  post_url: https://bsky.app/profile/did:plc:prxrftibk5tzslv6a5awrlha/post/3mz4g7mtyck24
+  post_date: '2026-10-30T18:34:16.778Z'
+  liked_at: '2026-10-30T19:12:29.079945+00:00'
+  author_handle: sqrt.fyi
+  author_did: did:plc:prxrftibk5tzslv6a5awrlha
+  post_text: Damn. Those are actually the reasons I haven't played either game. Guess
+    I should try some slop and see if it's gotten good now
+  links:
+  - url: https://andymasley.com/games/second-summer/
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: B8MD3RFZ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Second Summer
+        url: https://andymasley.com/games/second-summer/
+        abstractNote: A town-building game in a valley in the pines, where goods float
+          along channels of water.
+        language: en
+        accessDate: '2026-10-29'
+        websiteTitle: andymasley.com
+      title: Second Summer
+      item_type: webpage
+      abstract: A town-building game in a valley in the pines, where goods float along
+        channels of water.
+  all_post_uris:
+  - at://did:plc:prxrftibk5tzslv6a5awrlha/app.bsky.feed.post/3mz4g7mtyck24
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3myzkxflp5c2e
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3myzkxflp5c2e
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3myzkxflp5c2e
+  post_date: '2026-10-29T15:21:10.225Z'
+  liked_at: '2026-10-30T14:52:29.952831+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Kind of fascinating the way Alphabet/Google is making less on ads and
+    search because of AI. Presumably they've read The Innovator's Dilemma. They know
+    Blockbuster had an in-house version of Netflix, but didn't deploy it because it
+    was a threat to their core business.
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3myzkxflp5c2e
 - post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mz2ivitar2ij
   thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mz2c3r3otsxs
   post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3mz2ivitar2ij
