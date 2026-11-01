@@ -1,3 +1,197 @@
+- post_uri: at://did:plc:kafdwhssooa65puiidhv6sy4/app.bsky.feed.post/3mz4j47olr22t
+  thread_root_uri: at://did:plc:kafdwhssooa65puiidhv6sy4/app.bsky.feed.post/3mz4j47olr22t
+  post_url: https://bsky.app/profile/did:plc:kafdwhssooa65puiidhv6sy4/post/3mz4j47olr22t
+  post_date: '2026-10-30T19:26:03.532Z'
+  liked_at: '2026-10-31T20:15:06.389152+00:00'
+  author_handle: rekmarks.com
+  author_did: did:plc:kafdwhssooa65puiidhv6sy4
+  post_text: 'Two things are true:
+
+
+    1. Claims about AI capabilities are overblown
+
+    2. AI has completely revolutionized software development, and will do the same
+    to many other fields
+
+
+    I''m a software developer by trade. I''m going to attempt to explain what this
+    revolution feels like "from the in'
+  links:
+  - url: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:kafdwhssooa65puiidhv6sy4/app.bsky.feed.post/3mz4j47olr22t
+- post_uri: at://did:plc:dod4vmxdc732ee3ixe4cvuqu/app.bsky.feed.post/3mz6lax3u7k2t
+  thread_root_uri: at://did:plc:dod4vmxdc732ee3ixe4cvuqu/app.bsky.feed.post/3mz6kyrxoqs2t
+  post_url: https://bsky.app/profile/did:plc:dod4vmxdc732ee3ixe4cvuqu/post/3mz6lax3u7k2t
+  post_date: '2026-10-31T15:09:49.262Z'
+  liked_at: '2026-10-31T16:46:51.208085+00:00'
+  author_handle: althistorian.bsky.social
+  author_did: did:plc:dod4vmxdc732ee3ixe4cvuqu
+  post_text: '"Forever wars are bad, but ending them is even worse" is the current
+    position of most mainstream journalists.'
+  links:
+  - url: https://www.politico.com/news/magazine/2026/10/30/democrats-iran-war-threat-01141008?nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nname=playbook&nrid=0000014e-f10c-dd93-ad7f-f90d01f10000
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 7ERH7CRB
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Democrats Haven’t Thought Far Enough Ahead on Iran
+        websiteTitle: POLITICO
+        url: https://www.politico.com/news/magazine/2026/10/30/democrats-iran-war-threat-01141008
+        abstractNote: Republicans can argue Democrats are ignoring the threat of the
+          Islamic Republic.
+        date: '2026-10-30'
+        language: en
+        accessDate: '2026-11-01'
+      title: Democrats Haven’t Thought Far Enough Ahead on Iran
+      date: '2026-10-30'
+      item_type: webpage
+      abstract: Republicans can argue Democrats are ignoring the threat of the Islamic
+        Republic.
+  all_post_uris:
+  - at://did:plc:dod4vmxdc732ee3ixe4cvuqu/app.bsky.feed.post/3mz6lax3u7k2t
+- post_uri: at://did:plc:eaimln3uk5ntgmykcbxrmsyp/app.bsky.feed.post/3mz5ami7ais2k
+  thread_root_uri: at://did:plc:eaimln3uk5ntgmykcbxrmsyp/app.bsky.feed.post/3mz5ami7ais2k
+  post_url: https://bsky.app/profile/did:plc:eaimln3uk5ntgmykcbxrmsyp/post/3mz5ami7ais2k
+  post_date: '2026-10-31T02:26:45.399Z'
+  liked_at: '2026-10-31T14:29:09.863245+00:00'
+  author_handle: haz.dev
+  author_did: did:plc:eaimln3uk5ntgmykcbxrmsyp
+  post_text: Use CSS subgrid to fix your forms based on established design principles.
+  links: []
+  all_post_uris:
+  - at://did:plc:eaimln3uk5ntgmykcbxrmsyp/app.bsky.feed.post/3mz5ami7ais2k
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mz65cj5pjk2n
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mz65cj5pjk2n
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mz65cj5pjk2n
+  post_date: '2026-10-31T11:00:09.362Z'
+  liked_at: '2026-10-31T14:24:14.330409+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'Obsolete facts: If an agent retrieves both
+
+
+    1. the fact
+
+    2. the obsolete version of the fact
+
+
+    it often treats (2) as the correct answer
+
+
+    arxiv.org/abs/2610.36308'
+  links:
+  - url: https://arxiv.org/abs/2610.36308
+    source: card
+    card_title: 'When Retrieval Is Not Enough: Obsolete Facts in Agent Memory'
+    card_description: Memory-agent benchmarks often collapse retrieval and answer
+      generation into one score, making it hard to tell whether a failure comes from
+      missing an update or from not using an update that was alread...
+    citoid:
+      raw:
+        key: N3RLLRDG
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Oleeviya Babu
+          lastName: Poikarayil
+          creatorType: author
+        - firstName: Tony Basil
+          lastName: Babu
+          creatorType: author
+        - firstName: Abdulrahman
+          lastName: Nahhas
+          creatorType: author
+        - firstName: Het Darshan
+          lastName: Mehta
+          creatorType: author
+        - firstName: Jawid Ahmad
+          lastName: Baktash
+          creatorType: author
+        - firstName: Ernesto William
+          lastName: De Luca
+          creatorType: author
+        - firstName: Klaus
+          lastName: Turowski
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence (cs.AI)
+          type: 1
+        - tag: 'FOS: Computer and information sciences'
+          type: 1
+        title: 'When Retrieval Is Not Enough: Obsolete Facts in Agent Memory'
+        repository: arXiv
+        date: '2026-10-28'
+        DOI: 10.48550/ARXIV.2610.36308
+        url: https://arxiv.org/abs/2610.36308
+        rights: arXiv.org perpetual, non-exclusive license
+        abstractNote: Memory-agent benchmarks often collapse retrieval and answer
+          generation into one score, making it hard to tell whether a failure comes
+          from missing an update or from not using an update that was already retrieved.
+          We examine this distinction on the single-hop FactConsolidation task of
+          MemoryAgentBench. With Qwen2.5-7B-Instruct on 6K-history BM25 accuracy drops
+          from 45% to 32% when the retrieved evidence budget grows from 64 to 512
+          tokens, even though a gold-assisted post-hoc audit finds the newest statement
+          in every retrieved set. Most of the errors occur on questions that also
+          contain an obsolete statement version. Under a frozen prompt and equal four-statement
+          evidence size, replacing one unrelated statement with the obsolete competing
+          statement reduces accuracy from 100% to 44.6% for Qwen2.5 and from 100%
+          to 87.8% for Qwen3-14B, with all 50 harmful paired flips classified as stale.
+          A 32K-history replication likewise favors BM25-64 over BM25-512 (69% versus
+          58%). These results suggest that retrieving the correct fact is not enough.
+          An obsolete competing statement can be more harmful than an unrelated piece
+          of evidence of the same size.
+        libraryCatalog: DOI.org (Datacite)
+        accessDate: '2026-11-01'
+        shortTitle: When Retrieval Is Not Enough
+      title: 'When Retrieval Is Not Enough: Obsolete Facts in Agent Memory'
+      authors:
+      - last: Poikarayil
+        first: Oleeviya Babu
+      - last: Babu
+        first: Tony Basil
+      - last: Nahhas
+        first: Abdulrahman
+      - last: Mehta
+        first: Het Darshan
+      - last: Baktash
+        first: Jawid Ahmad
+      - last: De Luca
+        first: Ernesto William
+      - last: Turowski
+        first: Klaus
+      date: '2026-10-28'
+      item_type: preprint
+      doi: 10.48550/ARXIV.2610.36308
+      publisher: arXiv
+      abstract: Memory-agent benchmarks often collapse retrieval and answer generation
+        into one score, making it hard to tell whether a failure comes from missing
+        an update or from not using an update that was already retrieved. We examine
+        this distinction on the single-hop FactConsolidation task of MemoryAgentBench.
+        With Qwen2.5-7B-Instruct on 6K-history BM25 accuracy drops from 45% to 32%
+        when the retrieved evidence budget grows from 64 to 512 tokens, even though
+        a gold-assisted post-hoc audit finds the newest statement in every retrieved
+        set. Most of the errors occur on questions that also contain an obsolete statement
+        version. Under a frozen prompt and equal four-statement evidence size, replacing
+        one unrelated statement with the obsolete competing statement reduces accuracy
+        from 100% to 44.6% for Qwen2.5 and from 100% to 87.8% for Qwen3-14B, with
+        all 50 harmful paired flips classified as stale. A 32K-history replication
+        likewise favors BM25-64 over BM25-512 (69% versus 58%). These results suggest
+        that retrieving the correct fact is not enough. An obsolete competing statement
+        can be more harmful than an unrelated piece of evidence of the same size.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mz65cj5pjk2n
 - post_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mz4uymbn2s2l
   thread_root_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mz4uymbn2s2l
   post_url: https://bsky.app/profile/did:plc:ac6qioenkpl3jmmnib3tpbhb/post/3mz4uymbn2s2l

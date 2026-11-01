@@ -1,9 +1,9 @@
-entries_with_links: 2562
-total_links: 3130
+entries_with_links: 2565
+total_links: 3133
 unique_domains: 1034
 top_domains:
 - domain: arxiv.org
-  count: 252
+  count: 253
 - domain: substack.com
   count: 181
 - domain: github.com
@@ -11,7 +11,7 @@ top_domains:
 - domain: simonwillison.net
   count: 83
 - domain: github.io
-  count: 80
+  count: 81
 - domain: acm.org
   count: 56
 - domain: doi.org
@@ -40,7 +40,7 @@ top_accounts:
   count: 37
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
-  count: 34
+  count: 35
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 32
