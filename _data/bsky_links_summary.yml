@@ -1,5 +1,5 @@
-entries_with_links: 2571
-total_links: 3141
+entries_with_links: 2574
+total_links: 3144
 unique_domains: 1036
 top_domains:
 - domain: arxiv.org
@@ -8,10 +8,10 @@ top_domains:
   count: 182
 - domain: github.com
   count: 98
+- domain: github.io
+  count: 83
 - domain: simonwillison.net
   count: 83
-- domain: github.io
-  count: 81
 - domain: acm.org
   count: 56
 - domain: doi.org
@@ -29,11 +29,11 @@ top_accounts:
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
   count: 69
-- handle: gracekind.net
-  did: did:plc:p572wxnsuoogcrhlfrlizlrb
-  count: 40
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  count: 41
+- handle: gracekind.net
+  did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 40
 - handle: tedunderwood.com
   did: did:plc:565ebob5f6hw33hjdkxty6qj

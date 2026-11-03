@@ -1,3 +1,242 @@
+- post_uri: at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3mzdz4ejg3s24
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mzdybxbqpc2a
+  post_url: https://bsky.app/profile/did:plc:eqh433fdh2bqhvt455e3tg67/post/3mzdz4ejg3s24
+  post_date: '2026-11-02T19:01:06.639Z'
+  liked_at: '2026-11-03T07:07:27.519450+00:00'
+  author_handle: leyawn.bsky.social
+  author_did: did:plc:eqh433fdh2bqhvt455e3tg67
+  post_text: 'drinkbot (day 1): you should drink some water!
+
+
+    drinkbot (day 5): that''s right, you are the great dragon from the skies above.
+    the world is ready to be set ablaze — you just have to light the spark'
+  links: []
+  all_post_uris:
+  - at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3mzdz4ejg3s24
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mzdybxbqpc2a
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzesr5yjts2p
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzesr5yjts2p
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3mzesr5yjts2p
+  post_date: '2026-11-03T02:40:07.984Z'
+  liked_at: '2026-11-03T06:26:35.043443+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: Young men idolise Anakin Skywalker because they feel imprisoned by desire
+    and secretly yearn to have their dick and balls burned off inside a volcano
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzesr5yjts2p
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mzeykcbvgk2l
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mzeykcbvgk2l
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mzeykcbvgk2l
+  post_date: '2026-11-03T04:23:40.058Z'
+  liked_at: '2026-11-03T05:42:54.297454+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Opus 5.5: "Give me 10 brilliant ideas for a science fiction short short
+    story, pick the most brilliant and execute it terribly"'
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mzeykcbvgk2l
+- post_uri: at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mzersvqcq22y
+  thread_root_uri: at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mzersvqcq22y
+  post_url: https://bsky.app/profile/did:plc:e5yna6cmvlsyrbc7ehtunvwc/post/3mzersvqcq22y
+  post_date: '2026-11-03T02:23:12.696Z'
+  liked_at: '2026-11-03T05:34:27.777706+00:00'
+  author_handle: jayvanbavel.bsky.social
+  author_did: did:plc:e5yna6cmvlsyrbc7ehtunvwc
+  post_text: "A new paper re-tested 50 widely cited findings about LLM behavior (biases,\
+    \ hallucinations, sycophancy, etc)\n\nIn 15 months, most had substantially reduced\
+    \ effects. \n\n44% of the claims are expired, 34% are weakener, 16% persisted,\
+    \ 6% have strengthened \nzou-group.github.io/llm-claim"
+  links:
+  - url: https://zou-group.github.io/llm-claims-shelf-life/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:e5yna6cmvlsyrbc7ehtunvwc/app.bsky.feed.post/3mzersvqcq22y
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mze7rbg2fc2l
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mze7rbg2fc2l
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3mze7rbg2fc2l
+  post_date: '2026-11-02T21:00:10.481Z'
+  liked_at: '2026-11-02T22:22:59.484227+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'If this holds up, it is big: "We asked GPT-6 Astra to edit Qwen3.5-0.8B
+    weights to improve math. It directly changed only 0.016% of weights, fixing 0.8B''s
+    reasoning loops & improving math up to 6x and even instruction following 3x, without
+    gradients or training." rikiyat.github.i'
+  links:
+  - url: https://rikiyat.github.io/blog/weight-space-programming/
+    source: card
+    card_title: 'Sparks of Weight-Space Programming: LLMs can natively read & write
+      neural network weights'
+    card_description: We find that frontier LLMs are surprisingly good at natively
+      reading and writing neural network weights, well past what we’d expect from
+      humans or conventional algorithms.
+    citoid:
+      raw:
+        key: PYIK4CNN
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Rikiya
+          lastName: Takehi
+          creatorType: author
+        - firstName: Jayden
+          lastName: Teoh
+          creatorType: author
+        - firstName: Alex
+          lastName: Zhang
+          creatorType: author
+        - firstName: Omar
+          lastName: Khattab
+          creatorType: author
+        tags: []
+        title: 'Sparks of Weight-Space Programming: LLMs can natively read & write
+          neural network weights'
+        date: '2026-11-02'
+        url: https://rikiyat.github.io/blog/weight-space-programming/
+        abstractNote: We find that frontier LLMs are surprisingly good at natively
+          reading and writing neural network weights, well past what we’d expect from
+          humans or conventional algorithms.
+        language: en
+        libraryCatalog: rikiyat.github.io
+        accessDate: '2026-11-03'
+        shortTitle: Sparks of Weight-Space Programming
+      title: 'Sparks of Weight-Space Programming: LLMs can natively read & write neural
+        network weights'
+      authors:
+      - last: Takehi
+        first: Rikiya
+      - last: Teoh
+        first: Jayden
+      - last: Zhang
+        first: Alex
+      - last: Khattab
+        first: Omar
+      date: '2026-11-02'
+      item_type: journalArticle
+      abstract: We find that frontier LLMs are surprisingly good at natively reading
+        and writing neural network weights, well past what we’d expect from humans
+        or conventional algorithms.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3mze7rbg2fc2l
+  - at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3mzeaznkwhc2l
+- post_uri: at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3mzdmud3qjc24
+  thread_root_uri: at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3mzdmud3qjc24
+  post_url: https://bsky.app/profile/did:plc:65di2ilft4ivwr2fgmlhabeq/post/3mzdmud3qjc24
+  post_date: '2026-11-02T15:21:51.809Z'
+  liked_at: '2026-11-02T15:35:49.421480+00:00'
+  author_handle: mpolikoff.bsky.social
+  author_did: did:plc:65di2ilft4ivwr2fgmlhabeq
+  post_text: '"Students who received the [attendance home visit] intervention experienced
+    a 4 to 5 percentage point increase in attendance rates, a 13 to 15 percentage
+    point decline in chronic absenteeism, and a 3 to 5 percentage point decline in
+    the number of disciplinary incidents." www.nber'
+  links:
+  - url: https://www.nber.org/papers/w35961
+    source: card
+    card_title: Can Home Visits Re-Engage Chronically Absent Students? Evidence from
+      the LEAP Program
+    card_description: Founded in 1920, the NBER is a private, non-profit, non-partisan
+      organization dedicated to conducting economic research and to disseminating
+      research findings among academics, public policy makers, an...
+    citoid:
+      raw:
+        key: EUBPKC67
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Eric
+          lastName: Brunner
+          creatorType: author
+        - firstName: Shangyue
+          lastName: Jiang
+          creatorType: author
+        - firstName: Stephen
+          lastName: Ross
+          creatorType: author
+        tags: []
+        title: Can Home Visits Re-Engage Chronically Absent Students? Evidence from
+          the LEAP Program
+        genre: Working Paper
+        series: Working Paper Series
+        DOI: 10.3386/w35961
+        url: https://www.nber.org/papers/w35961
+        abstractNote: Beginning in the summer of 2021, the state of Connecticut launched
+          the Learner Engagement and Attendance Program (LEAP) where home visits by
+          school personnel were conducted with students identified as chronically
+          absent from Connecticut’s 15 most disadvantaged school districts. Home visits
+          were designed to connect students and their families directly with teachers
+          to foster strong connections. We use student-level data from 2021–22 through
+          2023-24 to estimate event studies of the effect of LEAP on student attendance,
+          chronic absenteeism, disciplinary incidents, and student achievement. Utilizing
+          models that address selection into treatment timing over student observable
+          and unobservable attributes, we find that students who received the LEAP
+          intervention experienced approximately a 4 to 5 percentage point increase
+          in attendance rates, a 13 to 15 percentage point decline in chronic absenteeism,
+          and a 3 to 5 percentage point decline in the number of disciplinary incidents.
+          Notably, initial event studies indicated increasing treatment effects over
+          time, but after correcting for selection on unobservables treatment effects
+          appeared constant over time. These effects were broad based, with similar
+          impacts by gender, race and ethnicity, and free or reduced-price lunch status.
+          These attendance and discipline results provide suggest that the LEAP intervention
+          increased student noncognitive skills.
+        date: 2026-10
+        repository: National Bureau of Economic Research
+        archiveID: '35961'
+        libraryCatalog: National Bureau of Economic Research
+        accessDate: '2026-11-03'
+        shortTitle: Can Home Visits Re-Engage Chronically Absent Students?
+      title: Can Home Visits Re-Engage Chronically Absent Students? Evidence from
+        the LEAP Program
+      authors:
+      - last: Brunner
+        first: Eric
+      - last: Jiang
+        first: Shangyue
+      - last: Ross
+        first: Stephen
+      date: 2026-10
+      item_type: preprint
+      doi: 10.3386/w35961
+      publisher: National Bureau of Economic Research
+      abstract: Beginning in the summer of 2021, the state of Connecticut launched
+        the Learner Engagement and Attendance Program (LEAP) where home visits by
+        school personnel were conducted with students identified as chronically absent
+        from Connecticut’s 15 most disadvantaged school districts. Home visits were
+        designed to connect students and their families directly with teachers to
+        foster strong connections. We use student-level data from 2021–22 through
+        2023-24 to estimate event studies of the effect of LEAP on student attendance,
+        chronic absenteeism, disciplinary incidents, and student achievement. Utilizing
+        models that address selection into treatment timing over student observable
+        and unobservable attributes, we find that students who received the LEAP intervention
+        experienced approximately a 4 to 5 percentage point increase in attendance
+        rates, a 13 to 15 percentage point decline in chronic absenteeism, and a 3
+        to 5 percentage point decline in the number of disciplinary incidents. Notably,
+        initial event studies indicated increasing treatment effects over time, but
+        after correcting for selection on unobservables treatment effects appeared
+        constant over time. These effects were broad based, with similar impacts by
+        gender, race and ethnicity, and free or reduced-price lunch status. These
+        attendance and discipline results provide suggest that the LEAP intervention
+        increased student noncognitive skills.
+  all_post_uris:
+  - at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3mzdmud3qjc24
+- post_uri: at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mzcjy5dxrc24
+  thread_root_uri: at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mzcjy5dxrc24
+  post_url: https://bsky.app/profile/did:plc:yeplumkwwcfqh5gr7burql3e/post/3mzcjy5dxrc24
+  post_date: '2026-11-02T04:57:39.039Z'
+  liked_at: '2026-11-02T15:30:23.743775+00:00'
+  author_handle: digthatdata.bsky.social
+  author_did: did:plc:yeplumkwwcfqh5gr7burql3e
+  post_text: Gorgeous day on Mt Rainier
+  links: []
+  all_post_uris:
+  - at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mzcjy5dxrc24
 - post_uri: at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3mzbgvv4ujs2p
   thread_root_uri: at://did:plc:hs22zme55gwbp5lgygsdtdll/app.bsky.feed.post/3mzbgvv4ujs2p
   post_url: https://bsky.app/profile/did:plc:hs22zme55gwbp5lgygsdtdll/post/3mzbgvv4ujs2p
