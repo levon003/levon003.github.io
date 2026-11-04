@@ -1,3 +1,147 @@
+- post_uri: at://did:plc:2buz4gf5sew3rdwzbxsvcd4s/app.bsky.feed.post/3mzhhxmmpnk2k
+  thread_root_uri: at://did:plc:2buz4gf5sew3rdwzbxsvcd4s/app.bsky.feed.post/3mzhhxmmpnk2k
+  post_url: https://bsky.app/profile/did:plc:2buz4gf5sew3rdwzbxsvcd4s/post/3mzhhxmmpnk2k
+  post_date: '2026-11-04T04:04:52.706Z'
+  liked_at: '2026-11-04T04:51:39.511201+00:00'
+  author_handle: minakimes.bsky.social
+  author_did: did:plc:2buz4gf5sew3rdwzbxsvcd4s
+  post_text: '*opens bluesky*'
+  links: []
+  all_post_uris:
+  - at://did:plc:2buz4gf5sew3rdwzbxsvcd4s/app.bsky.feed.post/3mzhhxmmpnk2k
+- post_uri: at://did:plc:mc3mnbx3clkg45o3x43ymljm/app.bsky.feed.post/3mzgg3ivqcs2r
+  thread_root_uri: at://did:plc:mc3mnbx3clkg45o3x43ymljm/app.bsky.feed.post/3mzgg3ivqcs2r
+  post_url: https://bsky.app/profile/did:plc:mc3mnbx3clkg45o3x43ymljm/post/3mzgg3ivqcs2r
+  post_date: '2026-11-03T17:58:35.808Z'
+  liked_at: '2026-11-03T21:53:24.744137+00:00'
+  author_handle: honnibal.bsky.social
+  author_did: did:plc:mc3mnbx3clkg45o3x43ymljm
+  post_text: honnibal.dev/blog/astra-r...
+  links:
+  - url: https://honnibal.dev/blog/astra-read-write-misleading
+    source: card
+    card_title: The 'Astra can read and write weights to improve Qwen' post is misleading
+      · honnibal.dev
+    card_description: The experiments that read raw weights and the ones that fix
+      Qwen use completely different techniques.
+    citoid:
+      raw:
+        key: X3A7HA5T
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The 'Astra can read and write weights to improve Qwen' post is misleading
+          · honnibal.dev
+        url: https://honnibal.dev/blog/astra-read-write-misleading
+        abstractNote: The experiments that read raw weights and the ones that fix
+          Qwen use completely different techniques.
+        accessDate: '2026-11-04'
+        websiteTitle: honnibal.dev
+      title: The 'Astra can read and write weights to improve Qwen' post is misleading
+        · honnibal.dev
+      item_type: webpage
+      abstract: The experiments that read raw weights and the ones that fix Qwen use
+        completely different techniques.
+  all_post_uris:
+  - at://did:plc:mc3mnbx3clkg45o3x43ymljm/app.bsky.feed.post/3mzgg3ivqcs2r
+- post_uri: at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mzgkltcx722y
+  thread_root_uri: at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mzgkltcx722y
+  post_url: https://bsky.app/profile/did:plc:46v56274sngq2aehbieh72zp/post/3mzgkltcx722y
+  post_date: '2026-11-03T19:19:18.564Z'
+  liked_at: '2026-11-03T21:24:08.543197+00:00'
+  author_handle: gautamkamath.com
+  author_did: did:plc:46v56274sngq2aehbieh72zp
+  post_text: 'STOC 2027 received 1665 submissions. In a bold new experiment, all submissions
+    (and author identities) are immediately made public. This is the most immediate
+    and revealing posting of any conference I am aware of.
+
+
+    Take a look and see what you find!
+
+
+    stoc2027.sigact-ec.workers.de'
+  links:
+  - url: https://stoc2027.sigact-ec.workers.dev/
+    source: card
+    card_title: STOC 2027 Submissions
+    card_description: ''
+    citoid:
+      raw:
+        key: 25HE6R8Q
+        version: 0
+        itemType: webpage
+        url: https://stoc2027.sigact-ec.workers.dev/
+        title: STOC 2027 Submissions
+        accessDate: '2026-11-04'
+        websiteTitle: stoc2027.sigact-ec.workers.dev
+      title: STOC 2027 Submissions
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:46v56274sngq2aehbieh72zp/app.bsky.feed.post/3mzgkltcx722y
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mzg6avptrs2m
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mzg6avptrs2m
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3mzg6avptrs2m
+  post_date: '2026-11-03T15:38:27.075Z'
+  liked_at: '2026-11-03T18:38:57.282815+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: 'Counter-hype was fast on this one...
+
+
+    www.seangoedecke.com/llms-are-not...'
+  links:
+  - url: https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
+    source: card
+    card_title: LLMs are not superhuman at reading and writing neural network weights
+    card_description: A recent paper argues that frontier LLMs can work with neural
+      network weights directly. This seems superhuman, but it isn’t. The paper shows
+      that GPT-6 Astra…
+    citoid:
+      raw:
+        key: R7XTYZ53
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: LLMs are not superhuman at reading and writing neural network weights
+        abstractNote: A recent paper argues that frontier LLMs can work with neural
+          network weights directly. This seems superhuman, but it isn’t. The paper
+          shows that GPT-6 Astra…
+        url: https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/
+        language: en
+        accessDate: '2026-11-04'
+        websiteTitle: www.seangoedecke.com
+      title: LLMs are not superhuman at reading and writing neural network weights
+      item_type: webpage
+      abstract: A recent paper argues that frontier LLMs can work with neural network
+        weights directly. This seems superhuman, but it isn’t. The paper shows that
+        GPT-6 Astra…
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3mzg6avptrs2m
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzfz5yr5hs2n
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzfz5yr5hs2n
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3mzfz5yr5hs2n
+  post_date: '2026-11-03T14:07:20.897Z'
+  liked_at: '2026-11-03T15:59:26.622166+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: There is NO excuse for not voting today! “I’m not in America” “I already
+    voted”. Boo hoo, I don’t care. Quit whining and VOTE!
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzfz5yr5hs2n
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzg25d2adk2g
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzg25d2adk2g
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mzg25d2adk2g
+  post_date: '2026-11-03T14:24:51.870Z'
+  liked_at: '2026-11-03T15:56:11.207552+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: Discover more! Sourced from across X
+  links: []
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzg25d2adk2g
 - post_uri: at://did:plc:eqh433fdh2bqhvt455e3tg67/app.bsky.feed.post/3mzdz4ejg3s24
   thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3mzdybxbqpc2a
   post_url: https://bsky.app/profile/did:plc:eqh433fdh2bqhvt455e3tg67/post/3mzdz4ejg3s24
