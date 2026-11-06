@@ -1,3 +1,425 @@
+- post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mzkmvpc6nk25
+  thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mzkmvpc6nk25
+  post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mzkmvpc6nk25
+  post_date: '2026-11-05T10:11:16.326Z'
+  liked_at: '2026-11-06T07:22:16.876019+00:00'
+  author_handle: sungkim.bsky.social
+  author_did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  post_text: "Baidu's (China's Google) released ERNIE 5.5 Flash Base as open-weight\n\
+    \nA 280B-parameter model with 14B active per token. Its design includes:\n\n•\
+    \ Latent-Gated Sparse Attention\n• Multi-Router Latent MoE\n• ECHO\n\n• Model:\
+    \ huggingface.co/baidu/ERNIE-... \n• Tech blog: ernie.baidu.com/z"
+  links:
+  - url: https://huggingface.co/baidu/ERNIE-5.5-Flash-Base
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 459IEGYS
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: baidu/ERNIE-5.5-Flash-Base · Hugging Face
+        url: https://huggingface.co/baidu/ERNIE-5.5-Flash-Base
+        abstractNote: Text Generation model with 286B parameters. Download, explore
+          files and run it on Hugging Face.
+        date: '2026-11-05'
+        accessDate: '2026-11-06'
+        websiteTitle: huggingface.co
+      title: baidu/ERNIE-5.5-Flash-Base · Hugging Face
+      date: '2026-11-05'
+      item_type: webpage
+      abstract: Text Generation model with 286B parameters. Download, explore files
+        and run it on Hugging Face.
+  - url: https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YR4EA2B7
+        version: 0
+        itemType: webpage
+        url: https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/
+        title: ERNIE 5.5 Flash Base · 文心大模型
+        abstractNote: ERNIE 5.5 Flash Base：280B-A14B 混合注意力 MoE，33.5T tokens 预训练。开放高效的预训练基座。
+        accessDate: '2026-11-06'
+        websiteTitle: ernie.baidu.com
+      title: ERNIE 5.5 Flash Base · 文心大模型
+      item_type: webpage
+      abstract: ERNIE 5.5 Flash Base：280B-A14B 混合注意力 MoE，33.5T tokens 预训练。开放高效的预训练基座。
+  all_post_uris:
+  - at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mzkmvpc6nk25
+- post_uri: at://did:plc:iqf7eal5arz65wwwdfglvwne/app.bsky.feed.post/3mzmcvpi7g522
+  thread_root_uri: at://did:plc:iqf7eal5arz65wwwdfglvwne/app.bsky.feed.post/3mzmcvpi7g522
+  post_url: https://bsky.app/profile/did:plc:iqf7eal5arz65wwwdfglvwne/post/3mzmcvpi7g522
+  post_date: '2026-11-06T02:17:37.941Z'
+  liked_at: '2026-11-06T06:32:35.587017+00:00'
+  author_handle: amyko.phd
+  author_did: did:plc:iqf7eal5arz65wwwdfglvwne
+  post_text: 'Today I’m proud of launching the first pilot of Reciprocal Reviews for
+    ACM Transactions on Computing Education. We hope it will reduce AI spam, improve
+    review timeliness and quality, and help sustain peer review.
+
+
+    reciprocal.reviews'
+  links:
+  - url: https://reciprocal.reviews/
+    source: card
+    card_title: Reciprocal Reviews
+    card_description: Make peer review count. Editors price submissions in review
+      tokens, and authors earn them by reviewing.
+    citoid:
+      raw:
+        key: 8TXR87AC
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Reciprocal Reviews
+        websiteTitle: Reciprocal Reviews
+        url: https://reciprocal.reviews/
+        abstractNote: Make peer review count. Editors price submissions in review
+          tokens, and authors earn them by reviewing.
+        language: en
+        accessDate: '2026-11-06'
+      title: Reciprocal Reviews
+      item_type: webpage
+      abstract: Make peer review count. Editors price submissions in review tokens,
+        and authors earn them by reviewing.
+  all_post_uris:
+  - at://did:plc:iqf7eal5arz65wwwdfglvwne/app.bsky.feed.post/3mzmcvpi7g522
+- post_uri: at://did:plc:dll3hepzq76nymel5c3yt6nk/app.bsky.feed.post/3mzmamxa6mk2u
+  thread_root_uri: at://did:plc:dll3hepzq76nymel5c3yt6nk/app.bsky.feed.post/3mzmamxa6mk2u
+  post_url: https://bsky.app/profile/did:plc:dll3hepzq76nymel5c3yt6nk/post/3mzmamxa6mk2u
+  post_date: '2026-11-06T01:36:57.234Z'
+  liked_at: '2026-11-06T06:31:28.942077+00:00'
+  author_handle: metr.org
+  author_did: did:plc:dll3hepzq76nymel5c3yt6nk
+  post_text: 'Since August, a team within METR has worked with internal Anthropic
+    information to assess whether AI itself is accelerating AI development.
+
+
+    We are now publishing a report summarizing the results of this risk assessment.'
+  links:
+  - url: https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 7WLADLXR
+        version: 0
+        itemType: journalArticle
+        creators: []
+        tags: []
+        title: How an assessor could investigate evidence of acceleration from the
+          automation of AI R&D
+        url: https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/
+        abstractNote: Our proposal is to analyze how much AI automation is accelerating
+          capability growth internally.
+        date: '2026-10-14'
+        publicationTitle: METR Blog
+        language: en
+        libraryCatalog: metr.org
+        accessDate: '2026-11-06'
+      title: How an assessor could investigate evidence of acceleration from the automation
+        of AI R&D
+      date: '2026-10-14'
+      item_type: journalArticle
+      publisher: METR Blog
+      abstract: Our proposal is to analyze how much AI automation is accelerating
+        capability growth internally.
+  all_post_uris:
+  - at://did:plc:dll3hepzq76nymel5c3yt6nk/app.bsky.feed.post/3mzmamxa6mk2u
+- post_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mytjh2a5cc2y
+  thread_root_uri: at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mytjh2a5cc2y
+  post_url: https://bsky.app/profile/did:plc:ac6qioenkpl3jmmnib3tpbhb/post/3mytjh2a5cc2y
+  post_date: '2026-10-27T05:38:09.270Z'
+  liked_at: '2026-11-06T06:01:10.810009+00:00'
+  author_handle: ccanonne.github.io
+  author_did: did:plc:ac6qioenkpl3jmmnib3tpbhb
+  post_text: '"If we wish to reduce the phenomenon of AI slop flag planting, the main
+    thing we need is for the alternative strategy (publishing lots of low-effort papers)
+    to further lose out for young people."
+
+
+    sophie.huiberts.me/blog/2026/me... by @sophie.huiberts.me on the "top 3-paper-only"'
+  links:
+  - url: https://sophie.huiberts.me/blog/2026/meta/index.html
+    source: card
+    card_title: The New Hiring/Job Search Meta
+    card_description: What's old is new.
+    citoid:
+      raw:
+        key: KCI26EIK
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The New Hiring/Job Search Meta
+        websiteTitle: Sophie Huiberts
+        abstractNote: What's old is new.
+        date: '2026-10-26'
+        url: https://sophie.huiberts.me/blog/2026/meta/index.html
+        language: en
+        accessDate: '2026-11-06'
+      title: The New Hiring/Job Search Meta
+      date: '2026-10-26'
+      item_type: webpage
+      abstract: What's old is new.
+  all_post_uris:
+  - at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mytjh2a5cc2y
+- post_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mzezwpdhq22t
+  thread_root_uri: at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mzezwpdhq22t
+  post_url: https://bsky.app/profile/did:plc:2mrgzk6xlemfv6yugn644xxy/post/3mzezwpdhq22t
+  post_date: '2026-11-03T04:48:30.135Z'
+  liked_at: '2026-11-06T05:47:10.808014+00:00'
+  author_handle: danluu.com
+  author_did: did:plc:2mrgzk6xlemfv6yugn644xxy
+  post_text: 'Test and verification technique effectiveness with GPT-6 Astra:
+
+
+    danluu.com/astra-testing/'
+  links:
+  - url: https://danluu.com/astra-testing/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NTPPA3H5
+        version: 0
+        itemType: webpage
+        url: https://danluu.com/astra-testing/
+        title: Test and verification technique effectiveness with GPT-6 Astra
+        accessDate: '2026-11-06'
+        websiteTitle: danluu.com
+      title: Test and verification technique effectiveness with GPT-6 Astra
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:2mrgzk6xlemfv6yugn644xxy/app.bsky.feed.post/3mzezwpdhq22t
+- post_uri: at://did:plc:b6c5wwrwslb4a4hsb22n3ujh/app.bsky.feed.post/3mzalrctwqc2k
+  thread_root_uri: at://did:plc:b6c5wwrwslb4a4hsb22n3ujh/app.bsky.feed.post/3mzalrctwqc2k
+  post_url: https://bsky.app/profile/did:plc:b6c5wwrwslb4a4hsb22n3ujh/post/3mzalrctwqc2k
+  post_date: '2026-11-01T10:24:17.925Z'
+  liked_at: '2026-11-06T05:44:15.978008+00:00'
+  author_handle: felienne.bsky.social
+  author_did: did:plc:b6c5wwrwslb4a4hsb22n3ujh
+  post_text: 'I wrote a long reply to this, and it is not about whether or not LLMs
+    work for producing code, it is about what world we get if they do and how developers
+    are entirely oblivious to that question
+
+
+    www.felienne.nl/2026-11-01/'
+  links:
+  - url: https://www.felienne.nl/2026-11-01/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: WPXN4P49
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: What does it mean to develop software?
+        websiteTitle: Felienne
+        date: '2026-11-01'
+        url: https://www.felienne.nl/2026-11-01/
+        abstractNote: 'I stumbled onto this post on BlueSky the other day [[1]], mainly
+          because people were trash talking the sillyness of both pointing at limitations
+          and also calling this a revolution. I get that, but it is not the topic
+          of this post.
+
+
+          Two things are true:
+
+
+          1. Claims about AI'
+        language: nl
+        accessDate: '2026-11-06'
+      title: What does it mean to develop software?
+      date: '2026-11-01'
+      item_type: webpage
+      abstract: 'I stumbled onto this post on BlueSky the other day [[1]], mainly
+        because people were trash talking the sillyness of both pointing at limitations
+        and also calling this a revolution. I get that, but it is not the topic of
+        this post.
+
+
+        Two things are true:
+
+
+        1. Claims about AI'
+  all_post_uris:
+  - at://did:plc:b6c5wwrwslb4a4hsb22n3ujh/app.bsky.feed.post/3mzalrctwqc2k
+- post_uri: at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mzj5xnmuhk2y
+  thread_root_uri: at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mzj5xnmuhk2y
+  post_url: https://bsky.app/profile/did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/post/3mzj5xnmuhk2y
+  post_date: '2026-11-04T20:11:15.821Z'
+  liked_at: '2026-11-06T05:40:11.639013+00:00'
+  author_handle: paulgp.com
+  author_did: did:plc:yw3qqfa7hrhmwbc6wyrq5u7f
+  post_text: "Long post of my talk I gave at Emory University on AI and its impact\
+    \ on the academy and the research profession. A huge amount inspired in the talk\
+    \ by @3blue1brown.com and Ed Leamer (RIP). \n\nsubstack.com/home/post/p-..."
+  links:
+  - url: https://substack.com/home/post/p-222986837
+    source: card
+    card_title: Will AI replace RAs/Professors/Economists?
+    card_description: Lecture on AI at Emory University
+    citoid:
+      raw:
+        key: NYEGGG2N
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Paul
+          lastName: Goldsmith-Pinkham
+          creatorType: author
+        tags: []
+        title: Will AI replace RAs/Professors/Economists?
+        abstractNote: Lecture on AI at Emory University
+        date: '2026-11-04'
+        blogTitle: A Causal Affair
+        url: https://paulgp.substack.com/p/will-ai-replace-rasprofessorseconomists
+        websiteType: Substack newsletter
+        accessDate: '2026-11-06'
+      title: Will AI replace RAs/Professors/Economists?
+      authors:
+      - last: Goldsmith-Pinkham
+        first: Paul
+      date: '2026-11-04'
+      item_type: blogPost
+      publisher: A Causal Affair
+      abstract: Lecture on AI at Emory University
+  all_post_uris:
+  - at://did:plc:yw3qqfa7hrhmwbc6wyrq5u7f/app.bsky.feed.post/3mzj5xnmuhk2y
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzlrnxww3k2j
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzlrnxww3k2j
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3mzlrnxww3k2j
+  post_date: '2026-11-05T21:09:05.406Z'
+  liked_at: '2026-11-06T00:50:27.818657+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: 'pleased to announce the first of several bluesky open-source projects
+    that we''ve been using internally for llm-assisted development: roast, an adversarial
+    review tool'
+  links:
+  - url: https://github.com/bluesky-social/roast
+    source: card
+    card_title: 'GitHub - bluesky-social/roast: Adversarial cross-model code review.'
+    card_description: Adversarial cross-model code review. Contribute to bluesky-social/roast
+      development by creating an account on GitHub.
+    citoid:
+      raw:
+        key: 3WBXGESC
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/bluesky-social/roast
+        title: bluesky-social/roast
+        abstractNote: Adversarial cross-model code review.
+        libraryCatalog: GitHub
+        programmingLanguage: Go
+        extra: 'original-date: 2026-09-19T18:37:03Z'
+        date: '2026-11-06'
+        company: bluesky-social
+        accessDate: '2026-11-06'
+      title: bluesky-social/roast
+      date: '2026-11-06'
+      item_type: computerProgram
+      abstract: Adversarial cross-model code review.
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzlrnxww3k2j
+- post_uri: at://did:plc:v5wrdmcbgxxxnjbghgsrd7h5/app.bsky.feed.post/3mzlmi4pqgk23
+  thread_root_uri: at://did:plc:v5wrdmcbgxxxnjbghgsrd7h5/app.bsky.feed.post/3mzlmi4pqgk23
+  post_url: https://bsky.app/profile/did:plc:v5wrdmcbgxxxnjbghgsrd7h5/post/3mzlmi4pqgk23
+  post_date: '2026-11-05T19:36:20.377Z'
+  liked_at: '2026-11-06T00:48:41.214875+00:00'
+  author_handle: erinkeane.bsky.social
+  author_did: did:plc:v5wrdmcbgxxxnjbghgsrd7h5
+  post_text: "Salon.com's team had an amazing election night. It is truly so fun,\
+    \ such an honor, to work with such smart, passionate, deeply funny people. \n\n\
+    This morning, we were informed the publication was closed, effective immediately.\
+    \ \n\nHere's the official company message. \n\nwww.salon.com/"
+  links:
+  - url: https://www.salon.com/2026/11/05/goodbye-from-salon/
+    source: card
+    card_title: Goodbye from Salon - Salon.com
+    card_description: It has been an extraordinary privilege.
+    citoid:
+      raw:
+        key: XJ9ZG35N
+        version: 0
+        itemType: webpage
+        creators:
+        - name: Salon
+          creatorType: author
+        tags: []
+        websiteTitle: Salon.com
+        date: '2026-11-05'
+        url: https://www.salon.com/2026/11/05/goodbye-from-salon/?utm_source=website&utm_medium=social&utm_campaign=ogshare&utm_content=og
+        title: Goodbye from Salon
+        abstractNote: It has been an extraordinary privilege.
+        language: en-US
+        accessDate: '2026-11-06'
+      title: Goodbye from Salon
+      date: '2026-11-05'
+      item_type: webpage
+      abstract: It has been an extraordinary privilege.
+  - url: https://salon.com's
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+    dead: true
+  all_post_uris:
+  - at://did:plc:v5wrdmcbgxxxnjbghgsrd7h5/app.bsky.feed.post/3mzlmi4pqgk23
+- post_uri: at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mzlp7y7uvk2q
+  thread_root_uri: at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mzlp7y7uvk2q
+  post_url: https://bsky.app/profile/did:plc:ta2whs6wjtpljvpqgs5leu36/post/3mzlp7y7uvk2q
+  post_date: '2026-11-05T20:25:28.453Z'
+  liked_at: '2026-11-06T00:31:19.419136+00:00'
+  author_handle: rmcelreath.bsky.social
+  author_did: did:plc:ta2whs6wjtpljvpqgs5leu36
+  post_text: 'For those of you with interests at the intersection of chess and software
+    engineering: "Could a modern chess engine on a Pentium have defeated Kasparov
+    in 1996?" nicholas.carlini.com/writing/2026...'
+  links:
+  - url: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: VTB9GNUA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        url: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html
+        title: Could a modern chess engine on a Pentium have defeated Kasparov in
+          1996?
+        abstractNote: A fun experiment where I back-port all the improvements we've
+          made to chess engines over the last 30 years and run it on a 1996 Pentium
+          Pro to see what we could have done if only we knew more at the time.
+        language: en
+        accessDate: '2026-11-06'
+        websiteTitle: nicholas.carlini.com
+      title: Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+      item_type: webpage
+      abstract: A fun experiment where I back-port all the improvements we've made
+        to chess engines over the last 30 years and run it on a 1996 Pentium Pro to
+        see what we could have done if only we knew more at the time.
+  all_post_uris:
+  - at://did:plc:ta2whs6wjtpljvpqgs5leu36/app.bsky.feed.post/3mzlp7y7uvk2q
 - post_uri: at://did:plc:2buz4gf5sew3rdwzbxsvcd4s/app.bsky.feed.post/3mzhhxmmpnk2k
   thread_root_uri: at://did:plc:2buz4gf5sew3rdwzbxsvcd4s/app.bsky.feed.post/3mzhhxmmpnk2k
   post_url: https://bsky.app/profile/did:plc:2buz4gf5sew3rdwzbxsvcd4s/post/3mzhhxmmpnk2k
