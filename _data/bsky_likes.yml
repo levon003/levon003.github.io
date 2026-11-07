@@ -1,3 +1,86 @@
+- post_uri: at://did:plc:fecpjyi5v4i762fcypottvac/app.bsky.feed.post/3mzbgqrbih224
+  thread_root_uri: at://did:plc:fecpjyi5v4i762fcypottvac/app.bsky.feed.post/3mzbgqrbih224
+  post_url: https://bsky.app/profile/did:plc:fecpjyi5v4i762fcypottvac/post/3mzbgqrbih224
+  post_date: '2026-11-01T18:27:10.532Z'
+  liked_at: '2026-11-07T03:16:36.927222+00:00'
+  author_handle: isabel.kim
+  author_did: did:plc:fecpjyi5v4i762fcypottvac
+  post_text: "im back in @clarkesworldmagazine.com \n\nwelcome to the meat market"
+  links:
+  - url: https://clarkesworldmagazine.com/kim_11_26/
+    source: card
+    card_title: The Meat Market by Isabel J. Kim
+    card_description: Clarkesworld Science Fiction and Fantasy Magazine and Podcast.
+    citoid:
+      raw:
+        key: UNPM9LDE
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Clarkesworld Magazine - Science Fiction & Fantasy
+        websiteTitle: Clarkesworld Magazine
+        url: https://clarkesworldmagazine.com/kim_11_26//%3E
+        abstractNote: 'Clarkesworld Science Fiction and Fantasy Magazine and Podcast.
+          This page: The Meat Market by Isabel J. Kim'
+        language: en-US
+        accessDate: '2026-11-07'
+      title: Clarkesworld Magazine - Science Fiction & Fantasy
+      item_type: webpage
+      abstract: 'Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This
+        page: The Meat Market by Isabel J. Kim'
+  all_post_uris:
+  - at://did:plc:fecpjyi5v4i762fcypottvac/app.bsky.feed.post/3mzbgqrbih224
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mznx366r522e
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mznx366r522e
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mznx366r522e
+  post_date: '2026-11-06T17:51:16.346Z'
+  liked_at: '2026-11-06T22:26:13.988196+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: "Eerie how much AI has, over time, started feeling like an actual demon\
+    \ familiar. \n\nIt’s helpful, competent, full of facts and advice, definitely\
+    \ shouldn’t be in charge. There’s a lurking sense it’s not wholly benevolent and\
+    \ I’m messing with an entity beyond my comprehension, but "
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mznx366r522e
+- post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mznhgz62kk25
+  thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mznhgz62kk25
+  post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mznhgz62kk25
+  post_date: '2026-11-06T13:11:33.866Z'
+  liked_at: '2026-11-06T16:06:46.726147+00:00'
+  author_handle: sungkim.bsky.social
+  author_did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  post_text: 'When it''s worth it create your own decision model like Jev, or when
+    it isn''t.
+
+
+    AirBnB''s Frontier quality at 1% of the cost: a production benchmark of LLM classifiers
+
+
+    airbnb.tech/ai-ml/fronti...'
+  links:
+  - url: https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: FVZZW6JV
+        version: 0
+        itemType: webpage
+        url: https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/
+        title: 'Frontier quality at 1% of the cost: a production benchmark of LLM
+          classifiers | Airbnb Engineering & Data Science'
+        abstractNote: ''
+        accessDate: '2026-11-07'
+        websiteTitle: airbnb.tech
+      title: 'Frontier quality at 1% of the cost: a production benchmark of LLM classifiers
+        | Airbnb Engineering & Data Science'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mznhgz62kk25
 - post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mzkmvpc6nk25
   thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3mzkmvpc6nk25
   post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3mzkmvpc6nk25
