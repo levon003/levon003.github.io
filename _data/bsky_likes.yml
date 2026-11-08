@@ -1,3 +1,388 @@
+- post_uri: at://did:plc:hgffshtkz3poe2tdkxgmmixz/app.bsky.feed.post/3mabek5ambs24
+  thread_root_uri: at://did:plc:hgffshtkz3poe2tdkxgmmixz/app.bsky.feed.post/3mabek5ambs24
+  post_url: https://bsky.app/profile/did:plc:hgffshtkz3poe2tdkxgmmixz/post/3mabek5ambs24
+  post_date: '2025-12-18T14:17:50.025Z'
+  liked_at: '2026-11-08T08:03:52.649510+00:00'
+  author_handle: rudbeckia.bsky.social
+  author_did: did:plc:hgffshtkz3poe2tdkxgmmixz
+  post_text: I love my two blackout drunk Minnesota sons
+  links: []
+  all_post_uris:
+  - at://did:plc:hgffshtkz3poe2tdkxgmmixz/app.bsky.feed.post/3mabek5ambs24
+- post_uri: at://did:plc:zwzdlsvtvlxnpuacwhmqmd22/app.bsky.feed.post/3mzqdpmy6c22z
+  thread_root_uri: at://did:plc:zwzdlsvtvlxnpuacwhmqmd22/app.bsky.feed.post/3mzqdpmy6c22z
+  post_url: https://bsky.app/profile/did:plc:zwzdlsvtvlxnpuacwhmqmd22/post/3mzqdpmy6c22z
+  post_date: '2026-11-07T16:42:47.329Z'
+  liked_at: '2026-11-08T03:04:28.446456+00:00'
+  author_handle: machinelearning.bsky.social
+  author_did: did:plc:zwzdlsvtvlxnpuacwhmqmd22
+  post_text: 'How fixed are a model’s values? Nous post-trained Qwen3.8-27B on ~53M
+    tokens to “reinforce Western values.” Its propaganda rate on an 803-prompt eval
+    fell from 22% to 0.9%, with no capability drop in Nous’s own tests. #MachineLearning
+    #OpenWeights'
+  links:
+  - url: https://nousresearch.com/arete
+    source: card
+    card_title: 'Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western
+      Values'
+    card_description: We post-trained Alibaba's Qwen3.8-27B to reinforce Western values
+      on a Chinese-trained model, and measured what changed with an 803-prompt eval
+      across seven value categories.
+    citoid:
+      raw:
+        key: XH3HPBYQ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Nous
+          lastName: Research
+          creatorType: author
+        tags: []
+        title: 'Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western
+          Values'
+        date: '2026-11-06'
+        url: https://nousresearch.com/arete
+        abstractNote: We post-trained Alibaba's Qwen3.8-27B to reinforce Western values
+          on a Chinese-trained model, and measured what changed with an 803-prompt
+          eval across seven value categories.
+        language: en
+        accessDate: '2026-11-08'
+        shortTitle: Introducing Arete-27B
+        websiteTitle: nousresearch.com
+      title: 'Introducing Arete-27B: Qwen3.8-27B Post-Trained To Reinforce Western
+        Values'
+      authors:
+      - last: Research
+        first: Nous
+      date: '2026-11-06'
+      item_type: webpage
+      abstract: We post-trained Alibaba's Qwen3.8-27B to reinforce Western values
+        on a Chinese-trained model, and measured what changed with an 803-prompt eval
+        across seven value categories.
+  all_post_uris:
+  - at://did:plc:zwzdlsvtvlxnpuacwhmqmd22/app.bsky.feed.post/3mzqdpmy6c22z
+- post_uri: at://did:plc:whdyuznluo6jkl664y5xylr6/app.bsky.feed.post/3mzqaq2xqzc2h
+  thread_root_uri: at://did:plc:whdyuznluo6jkl664y5xylr6/app.bsky.feed.post/3mzqaq2xqzc2h
+  post_url: https://bsky.app/profile/did:plc:whdyuznluo6jkl664y5xylr6/post/3mzqaq2xqzc2h
+  post_date: '2026-11-07T15:49:20.764Z'
+  liked_at: '2026-11-08T02:18:13.289445+00:00'
+  author_handle: michaelcaley.bsky.social
+  author_did: did:plc:whdyuznluo6jkl664y5xylr6
+  post_text: 'my mentions are certainly justifying the choice me and @wertwhile.bsky.social
+    made to include multiple "and don''t get mad at us" sections in the first WAR
+    / Ideology-Affiliation Score writeup
+
+
+    www.expectinggoals.com/p/what-kinds...'
+  links:
+  - url: https://www.expectinggoals.com/p/what-kinds-of-candidates-win-elections
+    source: card
+    card_title: What Kinds of Candidates Win Elections? WAR for Politicians, “Ideology-Affiliation
+      Score”, and Some Election Day Picks
+    card_description: we’re both really worried we’re going to get yelled at
+    citoid:
+      raw:
+        key: 7I3B87NJ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Michael
+          lastName: Caley
+          creatorType: author
+        tags: []
+        title: What Kinds of Candidates Win Elections? WAR for Politicians, “Ideology-Affiliation
+          Score”, and Some Election Day Picks
+        url: https://www.expectinggoals.com/p/what-kinds-of-candidates-win-elections
+        abstractNote: we’re both really worried we’re going to get yelled at
+        date: '2026-11-03'
+        language: en
+        accessDate: '2026-11-08'
+        shortTitle: What Kinds of Candidates Win Elections?
+        websiteTitle: www.expectinggoals.com
+      title: What Kinds of Candidates Win Elections? WAR for Politicians, “Ideology-Affiliation
+        Score”, and Some Election Day Picks
+      authors:
+      - last: Caley
+        first: Michael
+      date: '2026-11-03'
+      item_type: webpage
+      abstract: we’re both really worried we’re going to get yelled at
+  all_post_uris:
+  - at://did:plc:whdyuznluo6jkl664y5xylr6/app.bsky.feed.post/3mzqaq2xqzc2h
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzqfonfwj225
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzqfonfwj225
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mzqfonfwj225
+  post_date: '2026-11-07T17:18:01.708Z'
+  liked_at: '2026-11-08T01:50:01.679458+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: is this kind of explanation still useful to people? I wrote this for
+    an internal skills repo at work but it's quite general
+  links:
+  - url: https://github.com/david-crespo/dotfiles/tree/main/claude/skills
+    source: thread
+    card_title: dotfiles/claude/skills at main · david-crespo/dotfiles
+    card_description: Contribute to david-crespo/dotfiles development by creating
+      an account on GitHub.
+    citoid:
+      raw:
+        key: LD6X6NQF
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: dotfiles/claude/skills at main · david-crespo/dotfiles
+        websiteTitle: GitHub
+        url: https://github.com/david-crespo/dotfiles/tree/main/claude/skills
+        abstractNote: Contribute to david-crespo/dotfiles development by creating
+          an account on GitHub.
+        language: en
+        accessDate: '2026-11-08'
+      title: dotfiles/claude/skills at main · david-crespo/dotfiles
+      item_type: webpage
+      abstract: Contribute to david-crespo/dotfiles development by creating an account
+        on GitHub.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzqfonfwj225
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzqzbomg3k2j
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzqzbomg3k2j
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mzqzbomg3k2j
+  post_date: '2026-11-07T23:08:41.595Z'
+  liked_at: '2026-11-08T01:49:43.347500+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzqzbomg3k2j
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzqmwinq6c2a
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzqmwinq6c2a
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3mzqmwinq6c2a
+  post_date: '2026-11-07T19:27:41.350Z'
+  liked_at: '2026-11-08T01:21:55.137462+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: it’s incredibly rude to ask a person to review pure slop output, and
+    also to ask a question without asking an agent first
+  links: []
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mzqmwinq6c2a
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mzqt7jplds2u
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mzqsy3vyj22u
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3mzqt7jplds2u
+  post_date: '2026-11-07T21:20:06.886Z'
+  liked_at: '2026-11-08T01:11:05.567525+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: it’s good to think about if policy proposals are feasible or could have
+    unintended consequences for more than eight seconds before making them
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3mzqt7jplds2u
+- post_uri: at://did:plc:gkisr5sfpxdzqviqkgp4lpgw/app.bsky.feed.post/3mzpjanyehs2p
+  thread_root_uri: at://did:plc:gkisr5sfpxdzqviqkgp4lpgw/app.bsky.feed.post/3mzpjanyehs2p
+  post_url: https://bsky.app/profile/did:plc:gkisr5sfpxdzqviqkgp4lpgw/post/3mzpjanyehs2p
+  post_date: '2026-11-07T08:49:07.777Z'
+  liked_at: '2026-11-08T01:10:02.441428+00:00'
+  author_handle: lunarriviera.bsky.social
+  author_did: did:plc:gkisr5sfpxdzqviqkgp4lpgw
+  post_text: best movie review i've ever read. "olivia colman gets her spine realigned
+    by a wicker basket," taking 150 people in the 4dx theatre along with her on this
+    magical journey
+  links:
+  - url: https://cranberrymoons.tumblr.com/post/832477177084870656/i-saw-wicker-in-a-completely-sold-out-4dx-theater
+    source: thread
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:gkisr5sfpxdzqviqkgp4lpgw/app.bsky.feed.post/3mzpjanyehs2p
+- post_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mzqd2bowdt2x
+  thread_root_uri: at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mzqd2bowdt2x
+  post_url: https://bsky.app/profile/did:plc:bfppgmqz6i2uwkm7ynoqigfw/post/3mzqd2bowdt2x
+  post_date: '2026-11-07T16:30:50.841Z'
+  liked_at: '2026-11-08T00:14:35.907487+00:00'
+  author_handle: smbccomics.bsky.social
+  author_did: did:plc:bfppgmqz6i2uwkm7ynoqigfw
+  post_text: "Once Simulation Theory logic is allowed, you can prove ANYTHING.\n\n\
+    COMIC ◆ www.smbc-comics.com/comic/theodi... \nPATREON ◆ www.patreon.com/ZachWeinersm...\n\
+    STORE ◆ smbc-store.myshopify.com"
+  links:
+  - url: https://www.smbc-comics.com/comic/theodicy-6
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      citoid_status: http_error
+  - url: https://www.patreon.com/ZachWeinersmith
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: H4QDCPT6
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Get more from Zach Weinersmith on Patreon
+        websiteTitle: Patreon
+        url: https://www.patreon.com/ZachWeinersmith
+        abstractNote: Get more from Zach Weinersmith on Patreon. Join for free or
+          become a member for just $1/month. What You Get Tomorrow's Comic Today $3/month
+          - You get to…
+        language: en-US
+        accessDate: '2026-09-20'
+      title: Get more from Zach Weinersmith on Patreon
+      item_type: webpage
+      abstract: Get more from Zach Weinersmith on Patreon. Join for free or become
+        a member for just $1/month. What You Get Tomorrow's Comic Today $3/month -
+        You get to…
+  - url: https://smbc-store.myshopify.com/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NKPF2C66
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: SMBC
+        websiteTitle: SMBC
+        url: https://smbc-store.myshopify.com/
+        abstractNote: SMBC
+        language: en
+        accessDate: '2026-09-20'
+      title: SMBC
+      item_type: webpage
+      abstract: SMBC
+  all_post_uris:
+  - at://did:plc:bfppgmqz6i2uwkm7ynoqigfw/app.bsky.feed.post/3mzqd2bowdt2x
+- post_uri: at://did:plc:4zht3z4caxwrw3dlsybodywc/app.bsky.feed.post/3mzqpkdyy4s26
+  thread_root_uri: at://did:plc:4zht3z4caxwrw3dlsybodywc/app.bsky.feed.post/3mzqpkdyy4s26
+  post_url: https://bsky.app/profile/did:plc:4zht3z4caxwrw3dlsybodywc/post/3mzqpkdyy4s26
+  post_date: '2026-11-07T20:14:35.048Z'
+  liked_at: '2026-11-08T00:11:47.794475+00:00'
+  author_handle: vielle.dev
+  author_did: did:plc:4zht3z4caxwrw3dlsybodywc
+  post_text: 'MY FUCKING MUSCL3 MEMORY
+
+
+    I UNLIKED IT AS SOON AS I CLOCKED WHAT I DID 😭😭😭
+
+    im a chud 🥀💀'
+  links:
+  - url: https://dame.is/creating/ratioed/participant/vielle.dev
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: PWTDIMTD
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: '@vielle.dev in Ratioed'
+        websiteTitle: dame.is
+        url: https://dame.is/creating/ratioed/participant/vielle.dev
+        abstractNote: '@vielle.dev was there for 1 of the 45 Ratioed pieces, while
+          it was still standing. They ended #45.'
+        date: '2026-11-07'
+        language: en
+        accessDate: '2026-11-08'
+      title: '@vielle.dev in Ratioed'
+      date: '2026-11-07'
+      item_type: webpage
+      abstract: '@vielle.dev was there for 1 of the 45 Ratioed pieces, while it was
+        still standing. They ended #45.'
+  - url: https://dame.is/creating/ratioed/45
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: FF5487A3
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Ratioed, take 45
+        websiteTitle: dame.is
+        url: https://dame.is/creating/ratioed/45
+        abstractNote: A post sealed the moment somebody liked it. It stood for 2m58s
+          and drew 2 people while it was alive. Ended by @vielle.dev, whose like was
+          caught 2.0s later.
+        date: '2026-11-07'
+        language: en
+        accessDate: '2026-11-08'
+      title: Ratioed, take 45
+      date: '2026-11-07'
+      item_type: webpage
+      abstract: A post sealed the moment somebody liked it. It stood for 2m58s and
+        drew 2 people while it was alive. Ended by @vielle.dev, whose like was caught
+        2.0s later.
+  all_post_uris:
+  - at://did:plc:4zht3z4caxwrw3dlsybodywc/app.bsky.feed.post/3mzqpkdyy4s26
+- post_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mzpwsar3322a
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mzpwsar3322a
+  post_url: https://bsky.app/profile/did:plc:o72ypk5c474zqklkukaphuy3/post/3mzpwsar3322a
+  post_date: '2026-11-07T12:51:36.531Z'
+  liked_at: '2026-11-07T14:52:54.979405+00:00'
+  author_handle: zachweinersmith.bsky.social
+  author_did: did:plc:o72ypk5c474zqklkukaphuy3
+  post_text: Possibly I'm weird but I do not understand the insistence by other artists
+    that process is the whole point. Process matters, and my impression is I obsess
+    over the process phase more than most, but if I write a joke, the entire point
+    is that later someone reads the joke and laugh
+  links: []
+  all_post_uris:
+  - at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mzpwsar3322a
+- post_uri: at://did:plc:5bsnuwk6gpbbhjocl6fkzs3y/app.bsky.feed.post/3mzoque5ztk27
+  thread_root_uri: at://did:plc:5bsnuwk6gpbbhjocl6fkzs3y/app.bsky.feed.post/3mzoque5ztk27
+  post_url: https://bsky.app/profile/did:plc:5bsnuwk6gpbbhjocl6fkzs3y/post/3mzoque5ztk27
+  post_date: '2026-11-07T01:32:45.022Z'
+  liked_at: '2026-11-07T14:43:14.217464+00:00'
+  author_handle: thephd.dev
+  author_did: did:plc:5bsnuwk6gpbbhjocl6fkzs3y
+  post_text: '> The engineering norms of C developers allow for "*" to be an acceptable
+    sentinel value indicating an error; the engineering norms of Rust developers simply
+    do not.
+
+
+    Yeah, this is the heart of it honestly.
+
+
+    (From the end of: sunshowers.io/posts/sshole/ via @sunshowers.io)'
+  links:
+  - url: https://sunshowers.io/posts/sshole/
+    source: card
+    card_title: '*sshole, or when are we finally going to get rid of C?'
+    card_description: Bad type systems feed into bad engineering norms.
+    citoid:
+      raw:
+        key: G6LKDKSH
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: '*sshole, or when are we finally going to get rid of C? · sunshowers'
+        websiteTitle: '*sshole, or when are we finally going to get rid of C?'
+        date: '2026-11-06'
+        url: https://sunshowers.io/posts/sshole/
+        abstractNote: Bad type systems feed into bad engineering norms.
+        language: en
+        accessDate: '2026-11-08'
+        shortTitle: '*sshole, or when are we finally going to get rid of C?'
+      title: '*sshole, or when are we finally going to get rid of C? · sunshowers'
+      date: '2026-11-06'
+      item_type: webpage
+      abstract: Bad type systems feed into bad engineering norms.
+  all_post_uris:
+  - at://did:plc:5bsnuwk6gpbbhjocl6fkzs3y/app.bsky.feed.post/3mzoque5ztk27
 - post_uri: at://did:plc:fecpjyi5v4i762fcypottvac/app.bsky.feed.post/3mzbgqrbih224
   thread_root_uri: at://did:plc:fecpjyi5v4i762fcypottvac/app.bsky.feed.post/3mzbgqrbih224
   post_url: https://bsky.app/profile/did:plc:fecpjyi5v4i762fcypottvac/post/3mzbgqrbih224

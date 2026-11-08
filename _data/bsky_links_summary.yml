@@ -1,13 +1,13 @@
-entries_with_links: 2589
-total_links: 3161
-unique_domains: 1045
+entries_with_links: 2596
+total_links: 3171
+unique_domains: 1049
 top_domains:
 - domain: arxiv.org
   count: 253
 - domain: substack.com
   count: 183
 - domain: github.com
-  count: 99
+  count: 100
 - domain: github.io
   count: 83
 - domain: simonwillison.net
@@ -28,7 +28,7 @@ top_accounts:
   count: 74
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 69
+  count: 70
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 41
