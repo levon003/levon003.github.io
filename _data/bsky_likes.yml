@@ -1,3 +1,215 @@
+- post_uri: at://did:plc:6wpkkitfdkgthatfvspcfmjo/app.bsky.feed.post/3mzueunhlyc2p
+  thread_root_uri: at://did:plc:6wpkkitfdkgthatfvspcfmjo/app.bsky.feed.post/3mzueunhlyc2p
+  post_url: https://bsky.app/profile/did:plc:6wpkkitfdkgthatfvspcfmjo/post/3mzueunhlyc2p
+  post_date: '2026-11-09T07:14:08.302Z'
+  liked_at: '2026-11-09T08:32:50.840024+00:00'
+  author_handle: dril.bsky.social
+  author_did: did:plc:6wpkkitfdkgthatfvspcfmjo
+  post_text: '"what if ai gets too good" i dont know . Who cares. What if bras and
+    panties get too erotic'
+  links: []
+  all_post_uris:
+  - at://did:plc:6wpkkitfdkgthatfvspcfmjo/app.bsky.feed.post/3mzueunhlyc2p
+- post_uri: at://did:plc:cyyd366g3hrxp5rynixm2mm3/app.bsky.feed.post/3mztfmk3qss2k
+  thread_root_uri: at://did:plc:cyyd366g3hrxp5rynixm2mm3/app.bsky.feed.post/3mztfmk3qss2k
+  post_url: https://bsky.app/profile/did:plc:cyyd366g3hrxp5rynixm2mm3/post/3mztfmk3qss2k
+  post_date: '2026-11-08T21:54:50.336Z'
+  liked_at: '2026-11-08T22:09:11.730005+00:00'
+  author_handle: depthsofwikipedia.bsky.social
+  author_did: did:plc:cyyd366g3hrxp5rynixm2mm3
+  post_text: ''
+  links:
+  - url: https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F
+    source: thread
+    card_title: Why is there anything at all? - Wikipedia
+    card_description: ''
+    citoid:
+      citoid_status: error
+  all_post_uris:
+  - at://did:plc:cyyd366g3hrxp5rynixm2mm3/app.bsky.feed.post/3mztfmk3qss2k
+- post_uri: at://did:plc:64ghb7w3f7rzg6q3iymjvxqg/app.bsky.feed.post/3mztbm4hoys2z
+  thread_root_uri: at://did:plc:64ghb7w3f7rzg6q3iymjvxqg/app.bsky.feed.post/3mztbm4hoys2z
+  post_url: https://bsky.app/profile/did:plc:64ghb7w3f7rzg6q3iymjvxqg/post/3mztbm4hoys2z
+  post_date: '2026-11-08T20:43:01.076Z'
+  liked_at: '2026-11-08T21:41:07.617003+00:00'
+  author_handle: brandyjensen.bsky.social
+  author_did: did:plc:64ghb7w3f7rzg6q3iymjvxqg
+  post_text: I’m not really in a position to judge anyone who gets honey trapped by
+    a hot spy. that shit would totally work on me
+  links: []
+  all_post_uris:
+  - at://did:plc:64ghb7w3f7rzg6q3iymjvxqg/app.bsky.feed.post/3mztbm4hoys2z
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzt44qjyqk23
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzt44qjyqk23
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mzt44qjyqk23
+  post_date: '2026-11-08T19:04:56.547Z'
+  liked_at: '2026-11-08T21:34:51.486006+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: turned it into a post
+  links:
+  - url: https://crespo.business/posts/agent-skills/
+    source: card
+    card_title: What are agent skills? (from a README) – David Crespo
+    card_description: Skills are just piles of prompts and scripts that tell an agent
+      how to do something.
+    citoid:
+      raw:
+        key: NH2ZNKWK
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: What are agent skills? (from a README) – David Crespo
+        abstractNote: Skills are just piles of prompts and scripts that tell an agent
+          how to do something.
+        date: '2026-11-08'
+        url: https://crespo.business/posts/agent-skills/
+        language: en
+        accessDate: '2026-11-09'
+        shortTitle: What are agent skills?
+        websiteTitle: crespo.business
+      title: What are agent skills? (from a README) – David Crespo
+      date: '2026-11-08'
+      item_type: webpage
+      abstract: Skills are just piles of prompts and scripts that tell an agent how
+        to do something.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzt44qjyqk23
+- post_uri: at://did:plc:x6m5zvil3cirjfu3co4uf2gb/app.bsky.feed.post/3mzt7xb4kl22y
+  thread_root_uri: at://did:plc:x6m5zvil3cirjfu3co4uf2gb/app.bsky.feed.post/3mzt7xb4kl22y
+  post_url: https://bsky.app/profile/did:plc:x6m5zvil3cirjfu3co4uf2gb/post/3mzt7xb4kl22y
+  post_date: '2026-11-08T20:13:27.564Z'
+  liked_at: '2026-11-08T21:06:03.406004+00:00'
+  author_handle: diack.bsky.social
+  author_did: did:plc:x6m5zvil3cirjfu3co4uf2gb
+  post_text: Always so easy to spot my luggage. Happy to be back in Nairobi!
+  links: []
+  all_post_uris:
+  - at://did:plc:x6m5zvil3cirjfu3co4uf2gb/app.bsky.feed.post/3mzt7xb4kl22y
+- post_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mztbccqwrc2a
+  thread_root_uri: at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mzstlwxdxs2a
+  post_url: https://bsky.app/profile/did:plc:3igkkqe5nkm66olc4y2syzpy/post/3mztbccqwrc2a
+  post_date: '2026-11-08T20:37:32.130Z'
+  liked_at: '2026-11-08T20:48:23.815002+00:00'
+  author_handle: markriedl.bsky.social
+  author_did: did:plc:3igkkqe5nkm66olc4y2syzpy
+  post_text: Yeah, I use that. Though some real people get flagged that use Claude
+    to compose posts. Oh well
+  links: []
+  all_post_uris:
+  - at://did:plc:3igkkqe5nkm66olc4y2syzpy/app.bsky.feed.post/3mztbccqwrc2a
+- post_uri: at://did:plc:7nagdvjqrzaquzk7mueohne5/app.bsky.feed.post/3mzstq6n2k22i
+  thread_root_uri: at://did:plc:7nagdvjqrzaquzk7mueohne5/app.bsky.feed.post/3mzstq6n2k22i
+  post_url: https://bsky.app/profile/did:plc:7nagdvjqrzaquzk7mueohne5/post/3mzstq6n2k22i
+  post_date: '2026-11-08T16:34:45.167Z'
+  liked_at: '2026-11-08T19:35:06.031000+00:00'
+  author_handle: mcpli.bsky.social
+  author_did: did:plc:7nagdvjqrzaquzk7mueohne5
+  post_text: The Texas midterms get a feature in protest signs in Paris.
+  links: []
+  all_post_uris:
+  - at://did:plc:7nagdvjqrzaquzk7mueohne5/app.bsky.feed.post/3mzstq6n2k22i
+- post_uri: at://did:plc:ssxnmhdtz6le6nxu7jfhglz6/app.bsky.feed.post/3mzsv74fn3k2b
+  thread_root_uri: at://did:plc:ssxnmhdtz6le6nxu7jfhglz6/app.bsky.feed.post/3mzsv74fn3k2b
+  post_url: https://bsky.app/profile/did:plc:ssxnmhdtz6le6nxu7jfhglz6/post/3mzsv74fn3k2b
+  post_date: '2026-11-08T17:00:59.902Z'
+  liked_at: '2026-11-08T19:31:49.440001+00:00'
+  author_handle: clapifyoulikeme.favrd.social
+  author_did: did:plc:ssxnmhdtz6le6nxu7jfhglz6
+  post_text: Obsessed with this right-wing AI slop threatening that Democrats will
+    make everyone eat hummus
+  links: []
+  all_post_uris:
+  - at://did:plc:ssxnmhdtz6le6nxu7jfhglz6/app.bsky.feed.post/3mzsv74fn3k2b
+- post_uri: at://did:plc:cz73r7iyiqn26upot4jtjdhk/app.bsky.feed.post/3mzr7py5mp22i
+  thread_root_uri: at://did:plc:cz73r7iyiqn26upot4jtjdhk/app.bsky.feed.post/3mzr7py5mp22i
+  post_url: https://bsky.app/profile/did:plc:cz73r7iyiqn26upot4jtjdhk/post/3mzr7py5mp22i
+  post_date: '2026-11-08T01:04:03.803Z'
+  liked_at: '2026-11-08T19:28:27.534005+00:00'
+  author_handle: xkcd.com
+  author_did: did:plc:cz73r7iyiqn26upot4jtjdhk
+  post_text: My mom sent me some papers that belonged to my grandfather, Darwin Randall
+    Crum, which included a collection of “Disfrustrating Puzzles” he created
+  links: []
+  all_post_uris:
+  - at://did:plc:cz73r7iyiqn26upot4jtjdhk/app.bsky.feed.post/3mzr7py5mp22i
+- post_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mzswrj3gtc2j
+  thread_root_uri: at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mzswrj3gtc2j
+  post_url: https://bsky.app/profile/did:plc:hkxtqxfvk4xh2roqbkebmoiq/post/3mzswrj3gtc2j
+  post_date: '2026-11-08T17:29:10.920Z'
+  liked_at: '2026-11-08T19:21:19.890004+00:00'
+  author_handle: pantspants.bsky.social
+  author_did: did:plc:hkxtqxfvk4xh2roqbkebmoiq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:hkxtqxfvk4xh2roqbkebmoiq/app.bsky.feed.post/3mzswrj3gtc2j
+- post_uri: at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mzsxctvzcs2m
+  thread_root_uri: at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mzsxctvzcs2m
+  post_url: https://bsky.app/profile/did:plc:sa2yiupgrjk625bb6fmv23ww/post/3mzsxctvzcs2m
+  post_date: '2026-11-08T17:38:52.701Z'
+  liked_at: '2026-11-08T19:13:58.438000+00:00'
+  author_handle: rbd.bsky.social
+  author_did: did:plc:sa2yiupgrjk625bb6fmv23ww
+  post_text: On the one hand it's AI-generated slop posted by a Reddit anon, but on
+    the other hand it tells a story I want to be true. Guess I'll uncritically believe
+    it.
+  links: []
+  all_post_uris:
+  - at://did:plc:sa2yiupgrjk625bb6fmv23ww/app.bsky.feed.post/3mzsxctvzcs2m
+- post_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzs3m6e2x22p
+  thread_root_uri: at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzs3m6e2x22p
+  post_url: https://bsky.app/profile/did:plc:mjh257xyug2mpodoyy3he5ih/post/3mzs3m6e2x22p
+  post_date: '2026-11-08T09:23:00.866Z'
+  liked_at: '2026-11-08T14:54:34.901640+00:00'
+  author_handle: pixelatedboat.bsky.social
+  author_did: did:plc:mjh257xyug2mpodoyy3he5ih
+  post_text: It’s annoying to me that in the Ocarina of Time remake they gave the
+    characters American accents, instead of the thick Afrikaner accents I’d always
+    imagined them having
+  links: []
+  all_post_uris:
+  - at://did:plc:mjh257xyug2mpodoyy3he5ih/app.bsky.feed.post/3mzs3m6e2x22p
+- post_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzqjqzm7mc2u
+  thread_root_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzqjqzm7mc2u
+  post_url: https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj/post/3mzqjqzm7mc2u
+  post_date: '2026-11-07T18:30:56.569Z'
+  liked_at: '2026-11-08T14:52:58.352585+00:00'
+  author_handle: dame.is
+  author_did: did:plc:gq4fo3u6tqzzdkjlwzpb23tj
+  post_text: 'saw this AI video on @are.na of a fake episode of The Office and thought
+    it was worth resharing if you’re like me and need to update your mental model
+    for how realistic AI content is getting
+
+
+    acting/dialogue isn’t great still, but yeah it’s come a long way 😵‍💫
+
+
+    are.na/block/52444'
+  links:
+  - url: https://are.na/block/52444242
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 9A7AXVYJ
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: TBC on X @TBC_on_X
+        websiteTitle: Are.na
+        url: https://www.are.na/block/52444242
+        abstractNote: Dunder Mifflin preps for the Blue Tsunami 🌊
+        language: en
+        accessDate: '2026-11-09'
+      title: TBC on X @TBC_on_X
+      item_type: webpage
+      abstract: Dunder Mifflin preps for the Blue Tsunami 🌊
+  all_post_uris:
+  - at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzqjqzm7mc2u
 - post_uri: at://did:plc:hgffshtkz3poe2tdkxgmmixz/app.bsky.feed.post/3mabek5ambs24
   thread_root_uri: at://did:plc:hgffshtkz3poe2tdkxgmmixz/app.bsky.feed.post/3mabek5ambs24
   post_url: https://bsky.app/profile/did:plc:hgffshtkz3poe2tdkxgmmixz/post/3mabek5ambs24
