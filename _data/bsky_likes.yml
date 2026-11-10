@@ -1,3 +1,154 @@
+- post_uri: at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mzwokcdhtk2g
+  thread_root_uri: at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mzwokcdhtk2g
+  post_url: https://bsky.app/profile/did:plc:vhksxuzscmg5uokrkm4jeckh/post/3mzwokcdhtk2g
+  post_date: '2026-11-10T05:12:37.983Z'
+  liked_at: '2026-11-10T12:06:35.762058+00:00'
+  author_handle: hadas.bsky.social
+  author_did: did:plc:vhksxuzscmg5uokrkm4jeckh
+  post_text: '"i wouldn''t be seduced by a spy" you were seduced by a phd program'
+  links: []
+  all_post_uris:
+  - at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mzwokcdhtk2g
+- post_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzvdqemtdk23
+  thread_root_uri: at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzvdqemtdk23
+  post_url: https://bsky.app/profile/did:plc:gq4fo3u6tqzzdkjlwzpb23tj/post/3mzvdqemtdk23
+  post_date: '2026-11-09T16:26:30.814Z'
+  liked_at: '2026-11-10T05:24:06.582000+00:00'
+  author_handle: dame.is
+  author_did: did:plc:gq4fo3u6tqzzdkjlwzpb23tj
+  post_text: coming back from a weekend away from the timeline and seeing multiple
+    threads of insane drama
+  links: []
+  all_post_uris:
+  - at://did:plc:gq4fo3u6tqzzdkjlwzpb23tj/app.bsky.feed.post/3mzvdqemtdk23
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzw2ulnsuk2w
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzw2ulnsuk2w
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3mzw2ulnsuk2w
+  post_date: '2026-11-09T23:20:28.467Z'
+  liked_at: '2026-11-10T04:10:17.009213+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: very interesting and not at all what I expected. this is specifically
+    aimed at making clear that code counts among the things it's bad to use AI for.
+    that's wild and I think will look very quaint, well, 6 months ago. but I appreciate
+    anyone being clear and consistent and explicit
+  links:
+  - url: https://steamdb.info/stats/releases/
+    source: quoted
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: XEXYPQ98
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Steam Game Release Summary by Year
+        websiteTitle: SteamDB
+        abstractNote: Steam games released monthly and yearly summary.
+        url: https://steamdb.info/stats/releases/
+        language: en
+        accessDate: '2026-11-10'
+      title: Steam Game Release Summary by Year
+      item_type: webpage
+      abstract: Steam games released monthly and yearly summary.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mzw2ulnsuk2w
+- post_uri: at://did:plc:xthjrfdwgc7xzrnsb7li2wmp/app.bsky.feed.post/3mzv2ljy6d227
+  thread_root_uri: at://did:plc:xthjrfdwgc7xzrnsb7li2wmp/app.bsky.feed.post/3mzv2ljy6d227
+  post_url: https://bsky.app/profile/did:plc:xthjrfdwgc7xzrnsb7li2wmp/post/3mzv2ljy6d227
+  post_date: '2026-11-09T13:42:44.980Z'
+  liked_at: '2026-11-09T22:36:49.120143+00:00'
+  author_handle: jennwv.bsky.social
+  author_did: did:plc:xthjrfdwgc7xzrnsb7li2wmp
+  post_text: 'Spread the word! 📣 We’re hiring research interns to join the AI & Human
+    Systems group at Microsoft Research NYC + New England in summer 2027! 🎉
+
+
+    Apply here: apply.careers.microsoft.com/careers/job/...
+
+
+    More info in thread!'
+  links:
+  - url: https://apply.careers.microsoft.com/careers/job/1970393557056017
+    source: card
+    card_title: Research Intern - AI & Human Systems | Microsoft Careers
+    card_description: This position will be open for a minimum of 5 days, with applications
+      accepted on an ongoing basis until the position is filled. * Microsoft is an
+      equal opportunity employer. All qualified applicants ...
+    citoid:
+      raw:
+        key: 2HPRN8T9
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Research Intern - AI & Human Systems | Microsoft Careers
+        url: https://apply.careers.microsoft.com/careers/job/1970393557056017
+        abstractNote: This position will be open for a minimum of 5 days, with applications
+          accepted on an ongoing basis until the position is filled. * Microsoft is
+          an equal opportunity employer. All qualified applicants will receive consideration
+          for employment without regard to age, ancestry, citizenship, color, family
+          or medical care leave, gender identity or expression, genetic information,
+          immigration status, marital status, medical condition, national origin,
+          physical or mental disability, political affiliation, protected veteran
+          or military status, race, ethnicity, religion, sex (including pregnancy),
+          sexual orientation, or any other characteristic protected by applicable
+          local laws, regulations and ordinances. If you need assistance with religious
+          accommodations and/or a reasonable accommodation due to a disability during
+          the application process, read more about requesting accommodations.
+        language: en
+        accessDate: '2026-11-10'
+        websiteTitle: apply.careers.microsoft.com
+      title: Research Intern - AI & Human Systems | Microsoft Careers
+      item_type: webpage
+      abstract: This position will be open for a minimum of 5 days, with applications
+        accepted on an ongoing basis until the position is filled. * Microsoft is
+        an equal opportunity employer. All qualified applicants will receive consideration
+        for employment without regard to age, ancestry, citizenship, color, family
+        or medical care leave, gender identity or expression, genetic information,
+        immigration status, marital status, medical condition, national origin, physical
+        or mental disability, political affiliation, protected veteran or military
+        status, race, ethnicity, religion, sex (including pregnancy), sexual orientation,
+        or any other characteristic protected by applicable local laws, regulations
+        and ordinances. If you need assistance with religious accommodations and/or
+        a reasonable accommodation due to a disability during the application process,
+        read more about requesting accommodations.
+  all_post_uris:
+  - at://did:plc:xthjrfdwgc7xzrnsb7li2wmp/app.bsky.feed.post/3mzv2ljy6d227
+- post_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mzvom5hh622u
+  thread_root_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mzvom5hh622u
+  post_url: https://bsky.app/profile/did:plc:bfiewdcm26qhrtdvymrdcriz/post/3mzvom5hh622u
+  post_date: '2026-11-09T19:41:00.240Z'
+  liked_at: '2026-11-09T21:32:51.107135+00:00'
+  author_handle: jessicahullman.bsky.social
+  author_did: did:plc:bfiewdcm26qhrtdvymrdcriz
+  post_text: "What happened with ICLR reviews last week convinced me that all AI use\
+    \ in peer review should be centralized. We can do this without losing benefits\
+    \ of AI in review. \n\nBut we need to innovate faster, and worry a lot less about\
+    \ hurting authors' feelings.\nstatmodeling.stat.columbia."
+  links:
+  - url: https://statmodeling.stat.columbia.edu/2026/11/09/can-peer-review-survive-unrestricted-ai-use-by-reviewers/
+    source: card
+    card_title: "\nCan peer review survive unrestricted AI use by reviewers? | Statistical\
+      \ Modeling, Causal Inference, and Social Science\t"
+    card_description: ''
+    citoid:
+      raw:
+        key: IWSKGTFN
+        version: 0
+        itemType: webpage
+        url: https://statmodeling.stat.columbia.edu/2026/11/09/can-peer-review-survive-unrestricted-ai-use-by-reviewers/
+        title: Can peer review survive unrestricted AI use by reviewers? | Statistical
+          Modeling, Causal Inference, and Social Science
+        accessDate: '2026-11-10'
+        websiteTitle: statmodeling.stat.columbia.edu
+      title: Can peer review survive unrestricted AI use by reviewers? | Statistical
+        Modeling, Causal Inference, and Social Science
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3mzvom5hh622u
 - post_uri: at://did:plc:6wpkkitfdkgthatfvspcfmjo/app.bsky.feed.post/3mzueunhlyc2p
   thread_root_uri: at://did:plc:6wpkkitfdkgthatfvspcfmjo/app.bsky.feed.post/3mzueunhlyc2p
   post_url: https://bsky.app/profile/did:plc:6wpkkitfdkgthatfvspcfmjo/post/3mzueunhlyc2p
