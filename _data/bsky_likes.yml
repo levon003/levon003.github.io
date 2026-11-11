@@ -1,3 +1,302 @@
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzylbflz6c2t
+  thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzylbflz6c2t
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mzylbflz6c2t
+  post_date: '2026-11-10T23:19:17.670Z'
+  liked_at: '2026-11-11T07:00:56.529031+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: going to spend my last pre-singularity year redoubling my efforts to
+    fight with strangers on the internet
+  links:
+  - url: https://x.com/AndrewCurran_/status/2120219880360431712
+    source: thread
+    card_title: Andrew Curran (@AndrewCurran_) on X
+    card_description: They now predict that 95% of Anthropic's R&D will be fully automated
+      by November 2027.  This is what Anthropic describes as AL5, fully autonomous
+      RSI. This would have many implications for policy, as this will eventually happen
+      at every lab, not just Anthropic
+    citoid:
+      raw:
+        url: https://x.com/AndrewCurran_/status/2120219880360431712
+        itemType: newspaperArticle
+        publicationTitle: X (formerly Twitter)
+        language: en-US
+        date: '2026-11-10'
+        title: Andrew Curran (@AndrewCurran_) on X
+        abstractNote: They now predict that 95% of Anthropic's R&D will be fully automated
+          by November 2027.  This is what Anthropic describes as AL5, fully autonomous
+          RSI. This would have many implications for policy, as this will eventually
+          happen at every lab, not just Anthropic
+        accessDate: '2026-11-11'
+      title: Andrew Curran (@AndrewCurran_) on X
+      date: '2026-11-10'
+      item_type: newspaperArticle
+      publisher: X (formerly Twitter)
+      abstract: They now predict that 95% of Anthropic's R&D will be fully automated
+        by November 2027.  This is what Anthropic describes as AL5, fully autonomous
+        RSI. This would have many implications for policy, as this will eventually
+        happen at every lab, not just Anthropic
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzylbflz6c2t
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mzz5ld2goc2u
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mzz5ld2goc2u
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3mzz5ld2goc2u
+  post_date: '2026-11-11T04:46:57.892Z'
+  liked_at: '2026-11-11T06:00:12.794006+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: 'After about a day of work Fable has released the first version of Massachusetts
+    in an O''Neill cylinder. I''ll have it iterate on this over time
+
+    andymasley.com/games/oneill...'
+  links:
+  - url: https://andymasley.com/games/oneill-massachusetts/
+    source: card
+    card_title: Massachusetts, inside out
+    card_description: The entire state at one to one, wrapped around the inside of
+      an O'Neill cylinder thirty kilometres in radius. Drive in any direction and
+      what you see in the sky is what you reach.
+    citoid:
+      raw:
+        key: L3Z82URS
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Massachusetts, inside out
+        url: https://andymasley.com/games/oneill-massachusetts/
+        abstractNote: The entire state at one to one, wrapped around the inside of
+          an O'Neill cylinder thirty kilometres in radius. Drive in any direction
+          and what you see in the sky is what you reach.
+        language: en
+        accessDate: '2026-11-11'
+        websiteTitle: andymasley.com
+      title: Massachusetts, inside out
+      item_type: webpage
+      abstract: The entire state at one to one, wrapped around the inside of an O'Neill
+        cylinder thirty kilometres in radius. Drive in any direction and what you
+        see in the sky is what you reach.
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3mzz5ld2goc2u
+- post_uri: at://did:plc:i646r2zmi64it67f5b5hbsu6/app.bsky.feed.post/3mzxi3zk3ks2p
+  thread_root_uri: at://did:plc:i646r2zmi64it67f5b5hbsu6/app.bsky.feed.post/3mzxi3zk3ks2p
+  post_url: https://bsky.app/profile/did:plc:i646r2zmi64it67f5b5hbsu6/post/3mzxi3zk3ks2p
+  post_date: '2026-11-10T12:49:56.285Z'
+  liked_at: '2026-11-10T21:29:52.468000+00:00'
+  author_handle: bxjaeger.bsky.social
+  author_did: did:plc:i646r2zmi64it67f5b5hbsu6
+  post_text: 'Would you let a stranger die to save the life of your pet? 🐶🐱
+
+
+    In a new preprint, @mattiwilks.bsky.social and I explored how pet owners navigate
+    moral dilemmas in which they have to make tradeoffs between a human and their
+    pet.
+
+
+    zenodo.org/records/2405...'
+  links:
+  - url: https://zenodo.org/records/24059165
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: A8AF5PTE
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Bastian
+          lastName: Jaeger
+          creatorType: author
+        - firstName: Matti
+          lastName: Wilks
+          creatorType: author
+        tags: []
+        abstractNote: Research shows that, across the world, most people prioritize
+          the welfare of humans over the welfare of non-human animals. At the same
+          time, people feel special moral obligations towards family members. These
+          two moral principles, humans over animals and family over strangers, collide
+          when pet owners, most of whom regard their pets as family, must choose between
+          their pet and a human stranger. Across three studies with large, demographically
+          diverse samples of North American pet owners (total N = 1,999), we examined
+          how people navigate such dilemmas. Most participants viewed their pet as
+          a family member and reported feeling very or extremely close to their pet.
+          In contrast to the strong pro-human bias typically observed in human–animal
+          trade-offs, a slight majority prioritized their pet over a human stranger
+          (57% in Study 1). When responding on a continuous scale (Study 2), people’s
+          preferences were polarized, with many strongly favoring either their pet
+          or the stranger (i.e., evidence for inter-individual conflict). In Study
+          3, most participants prioritized their pet when asked what they wanted to
+          do but prioritized the stranger when asked what the ethically right thing
+          was, pointing to conflicting motives within individuals (i.e., evidence
+          for intra-individual conflict).
+        DOI: 10.5281/zenodo.24059165
+        publisher: Zenodo
+        title: Kin or kind? Conflicting moral values in dilemmas involving pets
+        date: '2026-11-08'
+        url: https://zenodo.org/records/24059165
+        libraryCatalog: Zenodo
+        accessDate: '2026-11-11'
+        shortTitle: Kin or kind?
+      title: Kin or kind? Conflicting moral values in dilemmas involving pets
+      authors:
+      - last: Jaeger
+        first: Bastian
+      - last: Wilks
+        first: Matti
+      date: '2026-11-08'
+      item_type: journalArticle
+      doi: 10.5281/zenodo.24059165
+      publisher: Zenodo
+      abstract: Research shows that, across the world, most people prioritize the
+        welfare of humans over the welfare of non-human animals. At the same time,
+        people feel special moral obligations towards family members. These two moral
+        principles, humans over animals and family over strangers, collide when pet
+        owners, most of whom regard their pets as family, must choose between their
+        pet and a human stranger. Across three studies with large, demographically
+        diverse samples of North American pet owners (total N = 1,999), we examined
+        how people navigate such dilemmas. Most participants viewed their pet as a
+        family member and reported feeling very or extremely close to their pet. In
+        contrast to the strong pro-human bias typically observed in human–animal trade-offs,
+        a slight majority prioritized their pet over a human stranger (57% in Study
+        1). When responding on a continuous scale (Study 2), people’s preferences
+        were polarized, with many strongly favoring either their pet or the stranger
+        (i.e., evidence for inter-individual conflict). In Study 3, most participants
+        prioritized their pet when asked what they wanted to do but prioritized the
+        stranger when asked what the ethically right thing was, pointing to conflicting
+        motives within individuals (i.e., evidence for intra-individual conflict).
+  all_post_uris:
+  - at://did:plc:i646r2zmi64it67f5b5hbsu6/app.bsky.feed.post/3mzxi3zk3ks2p
+- post_uri: at://did:plc:kkij4bfbznvqomfmzv36ksgw/app.bsky.feed.post/3mzxtjeshsy2i
+  thread_root_uri: at://did:plc:kkij4bfbznvqomfmzv36ksgw/app.bsky.feed.post/3mzxtjeshsy2i
+  post_url: https://bsky.app/profile/did:plc:kkij4bfbznvqomfmzv36ksgw/post/3mzxtjeshsy2i
+  post_date: '2026-11-10T16:14:15.405088+00:00'
+  liked_at: '2026-11-10T20:49:28.417201+00:00'
+  author_handle: mcxfrank.bsky.social
+  author_did: did:plc:kkij4bfbznvqomfmzv36ksgw
+  post_text: 'New blog post: I used Claude to audit the reproducibility of every journal
+    paper I''ve been an author on in the last five years. Our commitment to openness
+    meant that the code and data were available, but there were some significant issues.
+    🧵babieslearninglanguage.blogspot.com/202'
+  links:
+  - url: https://babieslearninglanguage.blogspot.com/2026/11/an-ai-audit-of-my-works-computational.html
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: UYY97IW7
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Michael
+          lastName: Frank
+          creatorType: author
+        tags:
+        - tag: Artificial Intelligence
+          type: 1
+        - tag: Metascience
+          type: 1
+        - tag: Methods
+          type: 1
+        - tag: Reproducibility
+          type: 1
+        title: 'Babies Learning Language: An AI audit of my work''s computational
+          reproducibility'
+        date: '2026-11-10'
+        blogTitle: Babies Learning Language
+        url: https://babieslearninglanguage.blogspot.com/2026/11/an-ai-audit-of-my-works-computational.html
+        accessDate: '2026-11-11'
+        shortTitle: Babies Learning Language
+      title: 'Babies Learning Language: An AI audit of my work''s computational reproducibility'
+      authors:
+      - last: Frank
+        first: Michael
+      date: '2026-11-10'
+      item_type: blogPost
+      publisher: Babies Learning Language
+  all_post_uris:
+  - at://did:plc:kkij4bfbznvqomfmzv36ksgw/app.bsky.feed.post/3mzxtjeshsy2i
+- post_uri: at://did:plc:5fjkyjj7qf3ufyt6sdyr5zvw/app.bsky.feed.post/3mzxv345fck25
+  thread_root_uri: at://did:plc:5fjkyjj7qf3ufyt6sdyr5zvw/app.bsky.feed.post/3mzxv345fck25
+  post_url: https://bsky.app/profile/did:plc:5fjkyjj7qf3ufyt6sdyr5zvw/post/3mzxv345fck25
+  post_date: '2026-11-10T16:42:04.103Z'
+  liked_at: '2026-11-10T20:18:21.198199+00:00'
+  author_handle: frasalvi.bsky.social
+  author_did: did:plc:5fjkyjj7qf3ufyt6sdyr5zvw
+  post_text: '1/4
+
+
+    What happens when two people ask ChatGPT the same political questions?
+
+
+    Well, it depends on what ChatGPT knows about them. 🧵'
+  links:
+  - url: https://elections.citp.princeton.edu/2026/11/09/what-does-chatgpt-say-about-the-election-it-depends-on-whos-asking/
+    source: thread
+    card_title: What does ChatGPT say about the election? Depends on who’s asking!
+      – Algorithms+Elections Project
+    card_description: ''
+    citoid:
+      raw:
+        url: https://elections.citp.princeton.edu/2026/11/09/what-does-chatgpt-say-about-the-election-it-depends-on-whos-asking/
+        itemType: webpage
+        title: What does ChatGPT say about the election? Depends on who’s asking!
+          – Algorithms+Elections Project
+        language: en-US
+        accessDate: '2026-11-11'
+        websiteTitle: elections.citp.princeton.edu
+      title: What does ChatGPT say about the election? Depends on who’s asking! –
+        Algorithms+Elections Project
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:5fjkyjj7qf3ufyt6sdyr5zvw/app.bsky.feed.post/3mzxv345fck25
+- post_uri: at://did:plc:yvbhlbjtyzmqueigum2lsykz/app.bsky.feed.post/3mzxr3t723k24
+  thread_root_uri: at://did:plc:yvbhlbjtyzmqueigum2lsykz/app.bsky.feed.post/3mzxr3t723k24
+  post_url: https://bsky.app/profile/did:plc:yvbhlbjtyzmqueigum2lsykz/post/3mzxr3t723k24
+  post_date: '2026-11-10T15:30:53.310Z'
+  liked_at: '2026-11-10T16:12:33.062135+00:00'
+  author_handle: wheelockpolicybu.bsky.social
+  author_did: did:plc:yvbhlbjtyzmqueigum2lsykz
+  post_text: 'New research: Indiana’s third-grade retention policy raised scores two
+    ways. Narrowly failing an early, non-binding reading test boosted ELA scores within
+    4 to 6 weeks, and retention itself added about a year of learning that lasted
+    into middle school. Read the brief below. #EdPo'
+  links:
+  - url: https://wheelockpolicycenter.org/high-quality-education/indiana-retention/
+    source: card
+    card_title: The Effects of Grade Retention in Indiana Schools
+    card_description: Analysis of the impacts of the threat of grade retention and
+      retention itself in Indiana public schools.
+    citoid:
+      raw:
+        key: TJVJHEGZ
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Seth
+          lastName: Delisle
+          creatorType: author
+        tags: []
+        title: The Effects of Grade Retention in Indiana Schools
+        blogTitle: Wheelock Educational Policy Center
+        date: '2026-11-10'
+        url: https://wheelockpolicycenter.org/high-quality-education/indiana-retention/
+        abstractNote: Analysis of the impacts of the threat of grade retention and
+          retention itself in Indiana public schools.
+        language: en-US
+        accessDate: '2026-11-11'
+      title: The Effects of Grade Retention in Indiana Schools
+      authors:
+      - last: Delisle
+        first: Seth
+      date: '2026-11-10'
+      item_type: blogPost
+      publisher: Wheelock Educational Policy Center
+      abstract: Analysis of the impacts of the threat of grade retention and retention
+        itself in Indiana public schools.
+  all_post_uris:
+  - at://did:plc:yvbhlbjtyzmqueigum2lsykz/app.bsky.feed.post/3mzxr3t723k24
 - post_uri: at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mzwokcdhtk2g
   thread_root_uri: at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mzwokcdhtk2g
   post_url: https://bsky.app/profile/did:plc:vhksxuzscmg5uokrkm4jeckh/post/3mzwokcdhtk2g
