@@ -1,3 +1,167 @@
+- post_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3n235agixsc2f
+  thread_root_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3n235agixsc2f
+  post_url: https://bsky.app/profile/did:plc:xb2urvqt5f4zzccjs46hysbf/post/3n235agixsc2f
+  post_date: '2026-11-11T23:46:11.893Z'
+  liked_at: '2026-11-12T05:38:41.985234+00:00'
+  author_handle: cee.wtf
+  author_did: did:plc:xb2urvqt5f4zzccjs46hysbf
+  post_text: ive lost control of my life
+  links: []
+  all_post_uris:
+  - at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3n235agixsc2f
+- post_uri: at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3n2325lfdi224
+  thread_root_uri: at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3n2325lfdi224
+  post_url: https://bsky.app/profile/did:plc:2p7a3z4uzfpoepv3aa36ykjq/post/3n2325lfdi224
+  post_date: '2026-11-11T22:50:55.129Z'
+  liked_at: '2026-11-12T05:26:39.680298+00:00'
+  author_handle: sneptech.bsky.social
+  author_did: did:plc:2p7a3z4uzfpoepv3aa36ykjq
+  post_text: ''
+  links: []
+  all_post_uris:
+  - at://did:plc:2p7a3z4uzfpoepv3aa36ykjq/app.bsky.feed.post/3n2325lfdi224
+- post_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3n236ulutds2c
+  thread_root_uri: at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3n236ulutds2c
+  post_url: https://bsky.app/profile/did:plc:3dz4xvhdemciftzsaonk5gu5/post/3n236ulutds2c
+  post_date: '2026-11-12T00:15:22.356Z'
+  liked_at: '2026-11-12T02:21:25.033218+00:00'
+  author_handle: cameroncorduroy.bsky.social
+  author_did: did:plc:3dz4xvhdemciftzsaonk5gu5
+  post_text: in Woke 3.0 are we really cancelling a successful AAPI businessman for
+    being outed as asymmetrically polyamorous?
+  links: []
+  all_post_uris:
+  - at://did:plc:3dz4xvhdemciftzsaonk5gu5/app.bsky.feed.post/3n236ulutds2c
+- post_uri: at://did:plc:tuiirztjod5fvj3t5ztfhw6q/app.bsky.feed.post/3n22rbx2dp22g
+  thread_root_uri: at://did:plc:tuiirztjod5fvj3t5ztfhw6q/app.bsky.feed.post/3n22rbx2dp22g
+  post_url: https://bsky.app/profile/did:plc:tuiirztjod5fvj3t5ztfhw6q/post/3n22rbx2dp22g
+  post_date: '2026-11-11T20:12:17.890Z'
+  liked_at: '2026-11-12T01:26:30.338274+00:00'
+  author_handle: phasewalk.xyz
+  author_did: did:plc:tuiirztjod5fvj3t5ztfhw6q
+  post_text: “that sounds too sci-fi to be plausible”
+  links: []
+  all_post_uris:
+  - at://did:plc:tuiirztjod5fvj3t5ztfhw6q/app.bsky.feed.post/3n22rbx2dp22g
+- post_uri: at://did:plc:i5lsyw762obvqvhrjb6mrs33/app.bsky.feed.post/3n22ohh2hp22q
+  thread_root_uri: at://did:plc:i5lsyw762obvqvhrjb6mrs33/app.bsky.feed.post/3n22ohh2hp22q
+  post_url: https://bsky.app/profile/did:plc:i5lsyw762obvqvhrjb6mrs33/post/3n22ohh2hp22q
+  post_date: '2026-11-11T19:21:41.216Z'
+  liked_at: '2026-11-12T01:23:29.160204+00:00'
+  author_handle: eitans.bsky.social
+  author_did: did:plc:i5lsyw762obvqvhrjb6mrs33
+  post_text: 'Hot off the press at @pnas.org! In a fully naturalistic study with N>11K,
+    blinding, and random assignment, we found that modest sleep loss from the transition
+    to DST led to a 13% increase in the risk of falling for email phishing attacks.
+    More details in this safe-to-click link:'
+  links:
+  - url: https://www.pnas.org/doi/10.1073/pnas.2622467123
+    source: card
+    card_title: Modest loss of sleep increases susceptibility to cybersecurity threats
+      | PNAS
+    card_description: 'Sleep restriction leads to impaired cognitive processing across
+      domains. I examined
+
+      whether the transition to daylight saving time (DST), typically...'
+    citoid:
+      raw:
+        key: WBP76XZS
+        version: 0
+        itemType: journalArticle
+        creators:
+        - firstName: Eitan
+          lastName: Schechtman
+          creatorType: author
+        tags: []
+        publicationTitle: Proceedings of the National Academy of Sciences
+        volume: '123'
+        issue: '46'
+        language: en
+        ISSN: 0027-8424, 1091-6490
+        date: '2026-11-17'
+        DOI: 10.1073/pnas.2622467123
+        url: https://pnas.org/doi/10.1073/pnas.2622467123
+        title: Modest loss of sleep increases susceptibility to cybersecurity threats
+        libraryCatalog: CrossRef
+        accessDate: '2026-11-12'
+      title: Modest loss of sleep increases susceptibility to cybersecurity threats
+      authors:
+      - last: Schechtman
+        first: Eitan
+      date: '2026-11-17'
+      item_type: journalArticle
+      doi: 10.1073/pnas.2622467123
+      publisher: Proceedings of the National Academy of Sciences
+  all_post_uris:
+  - at://did:plc:i5lsyw762obvqvhrjb6mrs33/app.bsky.feed.post/3n22ohh2hp22q
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n227qrprzs26
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n227qrprzs26
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n227qrprzs26
+  post_date: '2026-11-11T14:58:28.268Z'
+  liked_at: '2026-11-11T16:58:08.429123+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: this is basically bullshit and getting wronger every day. it's a big
+    mistake to take it too seriously. you'll see agent-heavy orgs that have all these
+    pathologies and agent-heavy orgs that have none of them, which puts pressure on
+    the causal interpretation, to say the least
+  links:
+  - url: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+    source: card
+    card_title: AI usage generates a fragile codebase
+    card_description: ''
+    citoid:
+      raw:
+        key: V8Y5WU92
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: AI usage generates a fragile codebase
+        url: https://www.evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+        language: en
+        accessDate: '2026-11-12'
+        websiteTitle: www.evanxmerz.com
+      title: AI usage generates a fragile codebase
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n227qrprzs26
+- post_uri: at://did:plc:ygzrpn6mqpibaf6rowkd3uh6/app.bsky.feed.post/3mzzrutwfmc2a
+  thread_root_uri: at://did:plc:ygzrpn6mqpibaf6rowkd3uh6/app.bsky.feed.post/3mzzrutwfmc2a
+  post_url: https://bsky.app/profile/did:plc:ygzrpn6mqpibaf6rowkd3uh6/post/3mzzrutwfmc2a
+  post_date: '2026-11-11T10:50:12.409Z'
+  liked_at: '2026-11-11T16:05:32.574130+00:00'
+  author_handle: ocramz.bsky.social
+  author_did: did:plc:ygzrpn6mqpibaf6rowkd3uh6
+  post_text: huggingface.co/blog/decision trust @hf.co to package up research into
+    reusable pieces
+  links:
+  - url: https://huggingface.co/blog/decision
+    source: card
+    card_title: Decision Models in Hugging Face
+    card_description: We’re on a journey to advance and democratize artificial intelligence
+      through open source and open science.
+    citoid:
+      raw:
+        key: QPP6IQ4S
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Decision Models in Hugging Face
+        url: https://huggingface.co/blog/decision
+        abstractNote: We’re on a journey to advance and democratize artificial intelligence
+          through open source and open science.
+        date: '2026-11-11'
+        accessDate: '2026-11-12'
+        websiteTitle: huggingface.co
+      title: Decision Models in Hugging Face
+      date: '2026-11-11'
+      item_type: webpage
+      abstract: We’re on a journey to advance and democratize artificial intelligence
+        through open source and open science.
+  all_post_uris:
+  - at://did:plc:ygzrpn6mqpibaf6rowkd3uh6/app.bsky.feed.post/3mzzrutwfmc2a
 - post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzylbflz6c2t
   thread_root_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3mzylbflz6c2t
   post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3mzylbflz6c2t

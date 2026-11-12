@@ -1,6 +1,6 @@
-entries_with_links: 2608
-total_links: 3183
-unique_domains: 1051
+entries_with_links: 2611
+total_links: 3186
+unique_domains: 1052
 top_domains:
 - domain: arxiv.org
   count: 253
@@ -17,7 +17,7 @@ top_domains:
 - domain: doi.org
   count: 55
 - domain: huggingface.co
-  count: 47
+  count: 48
 - domain: nytimes.com
   count: 44
 - domain: youtu.be
@@ -28,7 +28,7 @@ top_accounts:
   count: 74
 - handle: davidcrespo.bsky.social
   did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 72
+  count: 73
 - handle: emollick.bsky.social
   did: did:plc:flxq4uyjfotciovpw3x3fxnu
   count: 41
