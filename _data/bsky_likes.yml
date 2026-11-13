@@ -1,3 +1,105 @@
+- post_uri: at://did:plc:rwvx7nvhwavvyi75m43lup6z/app.bsky.feed.post/3n24ruc6llk2k
+  thread_root_uri: at://did:plc:rwvx7nvhwavvyi75m43lup6z/app.bsky.feed.post/3n24ruc6llk2k
+  post_url: https://bsky.app/profile/did:plc:rwvx7nvhwavvyi75m43lup6z/post/3n24ruc6llk2k
+  post_date: '2026-11-12T15:27:53.013Z'
+  liked_at: '2026-11-13T13:47:42.516244+00:00'
+  author_handle: eryk.bsky.social
+  author_did: did:plc:rwvx7nvhwavvyi75m43lup6z
+  post_text: I weighed in on the “Pain Axis” and “LLM Torture Chambers” as a way to
+    examine how *language* confuses our ability to talk about *language models*. www.techpolicy.press/what-the-ai-...
+  links:
+  - url: https://www.techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research/
+    source: card
+    card_title: What the ‘AI Torture Chamber’ Debate Got Wrong About the Research
+    card_description: Interpretability experiments are often misrepresented to make
+      broader arguments about the rights or experiences of models, writes Eryk Salvaggio.
+    citoid:
+      raw:
+        key: QF5AU374
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Eryk
+          lastName: Salvaggio
+          creatorType: author
+        tags: []
+        title: What the ‘AI Torture Chamber’ Debate Got Wrong About the Research
+        websiteTitle: Tech Policy Press
+        date: '2026-11-12'
+        url: https://techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research
+        abstractNote: Interpretability experiments are often misrepresented to make
+          broader arguments about the rights or experiences of models, writes Eryk
+          Salvaggio.
+        language: en
+        accessDate: '2026-11-13'
+      title: What the ‘AI Torture Chamber’ Debate Got Wrong About the Research
+      authors:
+      - last: Salvaggio
+        first: Eryk
+      date: '2026-11-12'
+      item_type: webpage
+      abstract: Interpretability experiments are often misrepresented to make broader
+        arguments about the rights or experiences of models, writes Eryk Salvaggio.
+  all_post_uris:
+  - at://did:plc:rwvx7nvhwavvyi75m43lup6z/app.bsky.feed.post/3n24ruc6llk2k
+- post_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3n26552a2qk25
+  thread_root_uri: at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3n26552a2qk25
+  post_url: https://bsky.app/profile/did:plc:qiyqdi6rypznkxy4woep2a33/post/3n26552a2qk25
+  post_date: '2026-11-13T04:22:17.571Z'
+  liked_at: '2026-11-13T13:42:05.910131+00:00'
+  author_handle: eudoxia.bsky.social
+  author_did: did:plc:qiyqdi6rypznkxy4woep2a33
+  post_text: 'I made a taxonomy of possible AI futures: borretti.me/article/poss...'
+  links:
+  - url: https://borretti.me/article/possible-futures
+    source: card
+    card_title: Possible Futures
+    card_description: A map of possible futures.
+    citoid:
+      raw:
+        key: 9XSZ9HJQ
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Fernando
+          lastName: Borretti
+          creatorType: author
+        tags: []
+        title: Possible Futures
+        websiteTitle: Fernando Borretti
+        date: '2026-11-12'
+        url: https://borretti.me/article/possible-futures
+        abstractNote: A map of possible futures.
+        language: en
+        accessDate: '2026-11-13'
+      title: Possible Futures
+      authors:
+      - last: Borretti
+        first: Fernando
+      date: '2026-11-12'
+      item_type: webpage
+      abstract: A map of possible futures.
+  all_post_uris:
+  - at://did:plc:qiyqdi6rypznkxy4woep2a33/app.bsky.feed.post/3n26552a2qk25
+- post_uri: at://did:plc:bvojdcs2wnw5mtlxujr7vqbi/app.bsky.feed.post/3n24spf4ons2l
+  thread_root_uri: at://did:plc:bvojdcs2wnw5mtlxujr7vqbi/app.bsky.feed.post/3n24spf4ons2l
+  post_url: https://bsky.app/profile/did:plc:bvojdcs2wnw5mtlxujr7vqbi/post/3n24spf4ons2l
+  post_date: '2026-11-12T15:43:02.073Z'
+  liked_at: '2026-11-12T17:16:01.780427+00:00'
+  author_handle: erikhane.bsky.social
+  author_did: did:plc:bvojdcs2wnw5mtlxujr7vqbi
+  post_text: 'So I text my parents/siblings chat about Jensen Huang. Easy laughs for
+    everyone, low-hanging fruit, etc. We''re laughing and then my dad says, "Sounds
+    like Stratagem #31 to me."
+
+
+    At which point I lock the fuck in. I begin a Journey. "...what?" I ask
+
+
+    And he shows us this book'
+  links: []
+  all_post_uris:
+  - at://did:plc:bvojdcs2wnw5mtlxujr7vqbi/app.bsky.feed.post/3n24spf4ons2l
 - post_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3n235agixsc2f
   thread_root_uri: at://did:plc:xb2urvqt5f4zzccjs46hysbf/app.bsky.feed.post/3n235agixsc2f
   post_url: https://bsky.app/profile/did:plc:xb2urvqt5f4zzccjs46hysbf/post/3n235agixsc2f
