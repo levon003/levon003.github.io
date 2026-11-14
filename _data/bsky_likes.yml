@@ -1,3 +1,257 @@
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2akmauqi225
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2akmauqi225
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3n2akmauqi225
+  post_date: '2026-11-14T03:28:45.974Z'
+  liked_at: '2026-11-14T12:20:12.255435+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: i work on infra, so i’ve caused way more than my share of production
+    outages in my career. in the last 6mos ive shipped maybe 6yrs of work (by 2024
+    standards) and ~none of it has caused unplanned downtime
+  links: []
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2akmauqi225
+- post_uri: at://did:plc:dqj6ug6nsm7giy3xd4dpuhmx/app.bsky.feed.post/3n27jlfdx4k2d
+  thread_root_uri: at://did:plc:dqj6ug6nsm7giy3xd4dpuhmx/app.bsky.feed.post/3n27jlfdx4k2d
+  post_url: https://bsky.app/profile/did:plc:dqj6ug6nsm7giy3xd4dpuhmx/post/3n27jlfdx4k2d
+  post_date: '2026-11-13T17:37:43.630Z'
+  liked_at: '2026-11-14T01:25:31.912265+00:00'
+  author_handle: smith.senate.gov
+  author_did: did:plc:dqj6ug6nsm7giy3xd4dpuhmx
+  post_text: 'Chris Van Hollen is a close colleague and dear friend. He has my full
+    support to be the next Senate Majority Leader.
+
+
+    Minnesota made it clear, they’re tired of the status quo and ready for real change,
+    and that starts with new leadership.'
+  links: []
+  all_post_uris:
+  - at://did:plc:dqj6ug6nsm7giy3xd4dpuhmx/app.bsky.feed.post/3n27jlfdx4k2d
+- post_uri: at://did:plc:m6ueqhacjannzmreidcijoj2/app.bsky.feed.post/3n27wrj5qbs2w
+  thread_root_uri: at://did:plc:m6ueqhacjannzmreidcijoj2/app.bsky.feed.post/3n27wrj5qbs2w
+  post_url: https://bsky.app/profile/did:plc:m6ueqhacjannzmreidcijoj2/post/3n27wrj5qbs2w
+  post_date: '2026-11-13T21:33:47.596Z'
+  liked_at: '2026-11-14T00:37:51.922251+00:00'
+  author_handle: flowershop.dev
+  author_did: did:plc:m6ueqhacjannzmreidcijoj2
+  post_text: 'we detail how we trained Inkling 2 Small with a native 4-bit forward
+    pass from the first step of pretraining through the final RL rollout :)
+
+
+    thinkingmachines.ai/blog/end-to-...'
+  links:
+  - url: https://thinkingmachines.ai/blog/end-to-end-4-bit-training/
+    source: card
+    card_title: End‑to‑End 4‑Bit Training
+    card_description: Training large language models involves calculating and storing
+      a lot of numbers. Using fewer bits for each value reduces memory usage and allows
+      GPUs to perform calculations faster. However, there is...
+    citoid:
+      raw:
+        key: RY7DAIAT
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Thinking Machines
+          lastName: Lab
+          creatorType: author
+        tags: []
+        title: End‑to‑End 4‑Bit Training
+        websiteTitle: Thinking Machines Lab
+        url: https://thinkingmachines.ai/blog/end-to-end-4-bit-training/
+        abstractNote: 'Training large language models involves calculating and storing
+          a lot of numbers. Using fewer bits for each value reduces memory usage and
+          allows GPUs to perform calculations faster. However, there is a tradeoff:
+          fewer bits also mean fewer representable numbers, leading to more aggressive
+          rounding. Lower-precision representations ultimately hurt accuracy by adding
+          error to the calculations.
+
+          For example, suppose we want to store the number 3.2, but the nearest values
+          our numerical format can represent are 3 and 4. Rounding to 3 introduces
+          a quantization error of −0.2-0.2−0.2, the difference between the actual
+          value and the one that can be represented in the quantized format. A single
+          error like this may seem small, but these errors accumulate over training
+          as rounding happens repeatedly across layers and optimization steps, which
+          can impair the learning process.'
+        language: en
+        accessDate: '2026-11-14'
+      title: End‑to‑End 4‑Bit Training
+      authors:
+      - last: Lab
+        first: Thinking Machines
+      item_type: webpage
+      abstract: 'Training large language models involves calculating and storing a
+        lot of numbers. Using fewer bits for each value reduces memory usage and allows
+        GPUs to perform calculations faster. However, there is a tradeoff: fewer bits
+        also mean fewer representable numbers, leading to more aggressive rounding.
+        Lower-precision representations ultimately hurt accuracy by adding error to
+        the calculations.
+
+        For example, suppose we want to store the number 3.2, but the nearest values
+        our numerical format can represent are 3 and 4. Rounding to 3 introduces a
+        quantization error of −0.2-0.2−0.2, the difference between the actual value
+        and the one that can be represented in the quantized format. A single error
+        like this may seem small, but these errors accumulate over training as rounding
+        happens repeatedly across layers and optimization steps, which can impair
+        the learning process.'
+  all_post_uris:
+  - at://did:plc:m6ueqhacjannzmreidcijoj2/app.bsky.feed.post/3n27wrj5qbs2w
+- post_uri: at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n27wtva4oc2z
+  thread_root_uri: at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n27wtva4oc2z
+  post_url: https://bsky.app/profile/did:plc:43mphaebevpvjboz6vzrr6at/post/3n27wtva4oc2z
+  post_date: '2026-11-13T21:35:07.365Z'
+  liked_at: '2026-11-13T23:13:53.183219+00:00'
+  author_handle: opinionhaver.bsky.social
+  author_did: did:plc:43mphaebevpvjboz6vzrr6at
+  post_text: beat CNN reporting by almost 15 minutes btw
+  links: []
+  all_post_uris:
+  - at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n27wtva4oc2z
+- post_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3n25exgmoj226
+  thread_root_uri: at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3n25exgmoj226
+  post_url: https://bsky.app/profile/did:plc:cq4gg3odxz2pzmkx2fuac3u3/post/3n25exgmoj226
+  post_date: '2026-11-12T21:09:39.437Z'
+  liked_at: '2026-11-13T17:14:03.317251+00:00'
+  author_handle: sungkim.bsky.social
+  author_did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
+  post_text: 'Liquid AI''s 𝙻𝚒𝚚𝚞𝚒𝚍𝙲𝚘𝚍𝚎𝚌, ~74M-parameter streaming audio codec powering
+    LFM3-Audio-2B and LFM3-Omni-2B.
+
+
+    An audio codec turns speech into tokens a language model can predict, then converts
+    those tokens back into audio.
+
+
+    Blog: www.liquid.ai/blog/liquidc...
+
+    Model: huggingface.co/Liq'
+  links:
+  - url: https://www.liquid.ai/blog/liquidcodec
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: H2ZDW8MN
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed
+          | Blog'
+        websiteTitle: Liquid AI
+        date: '2026-11-12'
+        url: https://www.liquid.ai/blog/liquidcodec
+        abstractNote: 'LiquidCodec is the ~74M-parameter audio codec behind LFM3-Audio
+          and LFM3-Omni: high-fidelity reconstruction, easy-to-predict tokens, fast
+          on-device decoding.'
+        language: en
+        accessDate: '2026-11-14'
+        shortTitle: LiquidCodec
+      title: 'LiquidCodec: High-Fidelity Audio Tokenization Optimized for Speed |
+        Blog'
+      date: '2026-11-12'
+      item_type: webpage
+      abstract: 'LiquidCodec is the ~74M-parameter audio codec behind LFM3-Audio and
+        LFM3-Omni: high-fidelity reconstruction, easy-to-predict tokens, fast on-device
+        decoding.'
+  - url: https://huggingface.co/LiquidAI/Liquid-Codec
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: SH3JBGJI
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: LiquidAI/Liquid-Codec · Hugging Face
+        url: https://huggingface.co/LiquidAI/Liquid-Codec
+        abstractNote: Feature Extraction model with 73.6M parameters. Download, explore
+          files and run it on Hugging Face.
+        accessDate: '2026-11-14'
+        websiteTitle: huggingface.co
+      title: LiquidAI/Liquid-Codec · Hugging Face
+      item_type: webpage
+      abstract: Feature Extraction model with 73.6M parameters. Download, explore
+        files and run it on Hugging Face.
+  all_post_uris:
+  - at://did:plc:cq4gg3odxz2pzmkx2fuac3u3/app.bsky.feed.post/3n25exgmoj226
+- post_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3n27axhhv6c2u
+  thread_root_uri: at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3n27axhhv6c2u
+  post_url: https://bsky.app/profile/did:plc:mm5ebihpjvtrdunomulbls5m/post/3n27axhhv6c2u
+  post_date: '2026-11-13T15:03:24.836Z'
+  liked_at: '2026-11-13T16:37:06.328161+00:00'
+  author_handle: ceej.online
+  author_did: did:plc:mm5ebihpjvtrdunomulbls5m
+  post_text: if you don’t work in an office environment you may not understand how
+    important email is. it’s so important they invented a second kind of email called
+    slack you have to read in between emails
+  links: []
+  all_post_uris:
+  - at://did:plc:mm5ebihpjvtrdunomulbls5m/app.bsky.feed.post/3n27axhhv6c2u
+- post_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3n27bdv6xrk26
+  thread_root_uri: at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3n27bdv6xrk26
+  post_url: https://bsky.app/profile/did:plc:tbuqmt45vauue7msmqcth2ay/post/3n27bdv6xrk26
+  post_date: '2026-11-13T15:10:21.879Z'
+  liked_at: '2026-11-13T16:33:09.636195+00:00'
+  author_handle: vcarchidi.bsky.social
+  author_did: did:plc:tbuqmt45vauue7msmqcth2ay
+  post_text: 'Nothing particularly new here. Just some quick thoughts on the "small-data"
+    efforts to model human language learning and what it is supposed to entail.
+
+
+    TL;DR: Much of the focus on LLMs has been their size. This matters, but it''s
+    not the main problem.
+
+
+    vincentcarchidi.substack.co'
+  links:
+  - url: https://vincentcarchidi.substack.com/p/the-problem-with-language-models
+    source: card
+    card_title: The Problem with Language Models Is Not (Just) That They’re Large
+    card_description: Ain’t nothing wrong with a little extra.
+    citoid:
+      raw:
+        key: 4K5DWJQ2
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Vincent
+          lastName: Carchidi
+          creatorType: author
+        tags: []
+        title: The Problem with Language Models Is Not (Just) That They’re Large
+        abstractNote: Ain’t nothing wrong with a little extra.
+        date: '2026-11-13'
+        blogTitle: On Making a Mind
+        url: https://vincentcarchidi.substack.com/p/the-problem-with-language-models
+        websiteType: Substack newsletter
+        accessDate: '2026-11-14'
+      title: The Problem with Language Models Is Not (Just) That They’re Large
+      authors:
+      - last: Carchidi
+        first: Vincent
+      date: '2026-11-13'
+      item_type: blogPost
+      publisher: On Making a Mind
+      abstract: Ain’t nothing wrong with a little extra.
+  all_post_uris:
+  - at://did:plc:tbuqmt45vauue7msmqcth2ay/app.bsky.feed.post/3n27bdv6xrk26
+- post_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3n266c7fugc2l
+  thread_root_uri: at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3n266c7fugc2l
+  post_url: https://bsky.app/profile/did:plc:swgxwbir4rrimj57pf75jckf/post/3n266c7fugc2l
+  post_date: '2026-11-13T04:43:04.516Z'
+  liked_at: '2026-11-13T15:35:44.151184+00:00'
+  author_handle: mtsw.bsky.social
+  author_did: did:plc:swgxwbir4rrimj57pf75jckf
+  post_text: Seeing a lot of people blaming vibe coding for the Microsoft outage and
+    I can't emphasize enough that there was no halcyon edenic pre-AI period where
+    Microsoft products worked well
+  links: []
+  all_post_uris:
+  - at://did:plc:swgxwbir4rrimj57pf75jckf/app.bsky.feed.post/3n266c7fugc2l
 - post_uri: at://did:plc:rwvx7nvhwavvyi75m43lup6z/app.bsky.feed.post/3n24ruc6llk2k
   thread_root_uri: at://did:plc:rwvx7nvhwavvyi75m43lup6z/app.bsky.feed.post/3n24ruc6llk2k
   post_url: https://bsky.app/profile/did:plc:rwvx7nvhwavvyi75m43lup6z/post/3n24ruc6llk2k

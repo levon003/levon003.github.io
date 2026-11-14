@@ -1,11 +1,11 @@
-entries_with_links: 2613
-total_links: 3188
-unique_domains: 1052
+entries_with_links: 2616
+total_links: 3192
+unique_domains: 1053
 top_domains:
 - domain: arxiv.org
   count: 253
 - domain: substack.com
-  count: 183
+  count: 184
 - domain: github.com
   count: 100
 - domain: github.io
@@ -17,7 +17,7 @@ top_domains:
 - domain: doi.org
   count: 55
 - domain: huggingface.co
-  count: 48
+  count: 49
 - domain: nytimes.com
   count: 44
 - domain: youtu.be
@@ -50,6 +50,6 @@ top_accounts:
 - handle: mariaa.bsky.social
   did: did:plc:y32vdst3y7r4f4pkrveb7jhi
   count: 27
-- handle: eugenevinitsky.bsky.social
-  did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+- handle: sungkim.bsky.social
+  did: did:plc:cq4gg3odxz2pzmkx2fuac3u3
   count: 26
