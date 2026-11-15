@@ -1,3 +1,168 @@
+- post_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3n2cumrppl22e
+  thread_root_uri: at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3n2cumrppl22e
+  post_url: https://bsky.app/profile/did:plc:b35wwuj336x4ufo5dyykfolz/post/3n2cumrppl22e
+  post_date: '2026-11-15T01:33:20.533Z'
+  liked_at: '2026-11-15T06:37:11.901328+00:00'
+  author_handle: tdietterich.bsky.social
+  author_did: did:plc:b35wwuj336x4ufo5dyykfolz
+  post_text: 'Today: Reading yet another "system one decision model" paper. These
+    should just be called "decision models". Their connection to the system 1/system
+    2 distinction is basically the same as for standard LLMs. We know that within
+    an LLM even without CoT, inference can occur, that is'
+  links: []
+  all_post_uris:
+  - at://did:plc:b35wwuj336x4ufo5dyykfolz/app.bsky.feed.post/3n2cumrppl22e
+- post_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3n2cjs7kx322k
+  thread_root_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3n2cjs7kx322k
+  post_url: https://bsky.app/profile/did:plc:zrwhncnqel7corjtg2cak3jx/post/3n2cjs7kx322k
+  post_date: '2026-11-14T22:19:31.659Z'
+  liked_at: '2026-11-15T04:45:03.649108+00:00'
+  author_handle: tbabb.bsky.social
+  author_did: did:plc:zrwhncnqel7corjtg2cak3jx
+  post_text: you all incepted me. saw all the photos and got my mouth watering
+  links: []
+  all_post_uris:
+  - at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3n2cjs7kx322k
+- post_uri: at://did:plc:vxqi7rbovib4hcc2zpde3gl6/app.bsky.feed.post/3n2c3rfimes2s
+  thread_root_uri: at://did:plc:vxqi7rbovib4hcc2zpde3gl6/app.bsky.feed.post/3n2c3rfimes2s
+  post_url: https://bsky.app/profile/did:plc:vxqi7rbovib4hcc2zpde3gl6/post/3n2c3rfimes2s
+  post_date: '2026-11-14T18:08:31.942Z'
+  liked_at: '2026-11-15T00:20:14.137027+00:00'
+  author_handle: georgiatomova.bsky.social
+  author_did: did:plc:vxqi7rbovib4hcc2zpde3gl6
+  post_text: I've never seen a research question where the solution is a latent class
+    analysis, except "What latent classes exist?"
+  links: []
+  all_post_uris:
+  - at://did:plc:vxqi7rbovib4hcc2zpde3gl6/app.bsky.feed.post/3n2c3rfimes2s
+- post_uri: at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3n2ckof22ik2h
+  thread_root_uri: at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3n2ckof22ik2h
+  post_url: https://bsky.app/profile/did:plc:p2cp5gopk7mgjegy6wadk3ep/post/3n2ckof22ik2h
+  post_date: '2026-11-14T22:35:16.928Z'
+  liked_at: '2026-11-14T23:35:37.530218+00:00'
+  author_handle: samuel.fm
+  author_did: did:plc:p2cp5gopk7mgjegy6wadk3ep
+  post_text: 'claude: sorry, but that’s a hard line for me. I cannot do that
+
+    glm 5.3:'
+  links: []
+  all_post_uris:
+  - at://did:plc:p2cp5gopk7mgjegy6wadk3ep/app.bsky.feed.post/3n2ckof22ik2h
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2chmgu4ak26
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2chmgu4ak26
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3n2chmgu4ak26
+  post_date: '2026-11-14T21:40:30.499Z'
+  liked_at: '2026-11-14T23:33:15.120218+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: '"I do not think the “AI safety is a sex cult” framing helps mitigate
+    any actual concerns around abuse, harassment, or discrimination. If anything,
+    it makes them harder to address. If the loudest critique of a field is an inaccurate
+    smear campaign [...] real critiques get lost."'
+  links:
+  - url: https://whatweare.substack.com/p/ai-safety-is-not-mostly-a-sex-cult
+    source: card
+    card_title: AI Safety is *not mostly a sex cult
+    card_description: 'There was a recent post titled AI Safety Is Mostly A Sex Cult
+      In Berkeley, California. It argues for the following core claim: the centre
+      of AI safety is a sex cult in Berkeley, and the rest of the fi...'
+    citoid:
+      raw:
+        key: ZRUQR9HD
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Frances
+          lastName: Lorenz
+          creatorType: author
+        tags: []
+        title: AI Safety is *not mostly a sex cult
+        abstractNote: 'There was a recent post titled AI Safety Is Mostly A Sex Cult
+          In Berkeley, California. It argues for the following core claim: the centre
+          of AI safety is a sex cult in Berkeley, and the rest of the field largely
+          acts as a smokescreen for that central group and their ideas.'
+        date: '2026-11-14'
+        blogTitle: What We Are
+        url: https://whatweare.substack.com/p/ai-safety-is-not-mostly-a-sex-cult
+        websiteType: Substack newsletter
+        accessDate: '2026-11-15'
+      title: AI Safety is *not mostly a sex cult
+      authors:
+      - last: Lorenz
+        first: Frances
+      date: '2026-11-14'
+      item_type: blogPost
+      publisher: What We Are
+      abstract: 'There was a recent post titled AI Safety Is Mostly A Sex Cult In
+        Berkeley, California. It argues for the following core claim: the centre of
+        AI safety is a sex cult in Berkeley, and the rest of the field largely acts
+        as a smokescreen for that central group and their ideas.'
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2chmgu4ak26
+- post_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mzwtlm27n22a
+  thread_root_uri: at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mzwtlm27n22a
+  post_url: https://bsky.app/profile/did:plc:zrwhncnqel7corjtg2cak3jx/post/3mzwtlm27n22a
+  post_date: '2026-11-10T06:42:50.428Z'
+  liked_at: '2026-11-14T23:12:55.759214+00:00'
+  author_handle: tbabb.bsky.social
+  author_did: did:plc:zrwhncnqel7corjtg2cak3jx
+  post_text: 'lost soul bias: the effect where all the discourse about a topic is
+    dominated by people who have not figured it out, because once you figure it out,
+    you stop talking about it'
+  links: []
+  all_post_uris:
+  - at://did:plc:zrwhncnqel7corjtg2cak3jx/app.bsky.feed.post/3mzwtlm27n22a
+- post_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3n26btg37qs2u
+  thread_root_uri: at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3n26btg37qs2u
+  post_url: https://bsky.app/profile/did:plc:nbfjoeficjzf3pejpontvril/post/3n26btg37qs2u
+  post_date: '2026-11-13T05:46:23.157Z'
+  liked_at: '2026-11-14T22:58:50.197014+00:00'
+  author_handle: astrra.space
+  author_did: did:plc:nbfjoeficjzf3pejpontvril
+  post_text: i have achieved bahn mi
+  links: []
+  all_post_uris:
+  - at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3n26btg37qs2u
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2bp2wwzds2d
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2bp2wwzds2d
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3n2bp2wwzds2d
+  post_date: '2026-11-14T14:21:13.574Z'
+  liked_at: '2026-11-14T22:55:37.459020+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: Flew to Germany on a lark, because I’m hearing a lot about bahn mì and
+    this is the only place that spelling designates a real thing.
+  links: []
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2bp2wwzds2d
+- post_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n2bywfaun22w
+  thread_root_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n2bywfaun22w
+  post_url: https://bsky.app/profile/did:plc:s5zwyygnkcdgblepvwused47/post/3n2bywfaun22w
+  post_date: '2026-11-14T17:17:38.236Z'
+  liked_at: '2026-11-14T20:08:38.582004+00:00'
+  author_handle: elucidating.extradimensional.space
+  author_did: did:plc:s5zwyygnkcdgblepvwused47
+  post_text: 'It''s genuinely terrifying that people seem to believe this is true.
+
+
+    This is "anti-vaxxer" levels of wrong about technology news.'
+  links: []
+  all_post_uris:
+  - at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n2bywfaun22w
+- post_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3n2bmk2gess2p
+  thread_root_uri: at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3n2bmk2gess2p
+  post_url: https://bsky.app/profile/did:plc:y7e3mcqeuzcgvagpds5ixywn/post/3n2bmk2gess2p
+  post_date: '2026-11-14T13:35:59.328Z'
+  liked_at: '2026-11-14T16:52:25.326435+00:00'
+  author_handle: jbakcoleman.bsky.social
+  author_did: did:plc:y7e3mcqeuzcgvagpds5ixywn
+  post_text: It's job application season again, and from the applicant perspective
+    I cannot recommend enough that departments rethink their materials requirements.
+    I just tallied, and I'm at 78,000 words for the season. Some reuse, but my words.
+    The state of things is *asking* to be inundated
+  links: []
+  all_post_uris:
+  - at://did:plc:y7e3mcqeuzcgvagpds5ixywn/app.bsky.feed.post/3n2bmk2gess2p
 - post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2akmauqi225
   thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2akmauqi225
   post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3n2akmauqi225
