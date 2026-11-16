@@ -1,11 +1,11 @@
-entries_with_links: 2617
-total_links: 3193
+entries_with_links: 2621
+total_links: 3197
 unique_domains: 1053
 top_domains:
 - domain: arxiv.org
   count: 253
 - domain: substack.com
-  count: 185
+  count: 188
 - domain: github.com
   count: 100
 - domain: github.io
@@ -43,7 +43,7 @@ top_accounts:
   count: 35
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
-  count: 32
+  count: 33
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
   count: 29
