@@ -1,3 +1,228 @@
+- post_uri: at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n2i2j6of2c2p
+  thread_root_uri: at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n2i2j6of2c2p
+  post_url: https://bsky.app/profile/did:plc:zntngpowgd6rorjt3haywj36/post/3n2i2j6of2c2p
+  post_date: '2026-11-17T03:02:01.045Z'
+  liked_at: '2026-11-17T04:17:08.772238+00:00'
+  author_handle: aly.codes
+  author_did: did:plc:zntngpowgd6rorjt3haywj36
+  post_text: the mods HATE this feature they went out of their way to build for communities
+    they went out of their way to support
+  links: []
+  all_post_uris:
+  - at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n2i2j6of2c2p
+- post_uri: at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3n2gt47iloc2w
+  thread_root_uri: at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3n2gt47iloc2w
+  post_url: https://bsky.app/profile/did:plc:65di2ilft4ivwr2fgmlhabeq/post/3n2gt47iloc2w
+  post_date: '2026-11-16T15:16:49.764Z'
+  liked_at: '2026-11-17T04:05:53.939087+00:00'
+  author_handle: mpolikoff.bsky.social
+  author_did: did:plc:65di2ilft4ivwr2fgmlhabeq
+  post_text: Using Texas data, researchers find positive impacts of Reading First
+    on students' reading scores and math, effects that persist into middle school.
+    There are also positive effects on long-term outcomes like graduation, college
+    enrollment/completion, and earnings! www.nber.org/pap
+  links:
+  - url: https://www.nber.org/papers/w36018
+    source: card
+    card_title: 'Decoding Success: Phonics-based Instruction and Student Achievement'
+    card_description: Founded in 1920, the NBER is a private, non-profit, non-partisan
+      organization dedicated to conducting economic research and to disseminating
+      research findings among academics, public policy makers, an...
+    citoid:
+      raw:
+        key: DTCYYACR
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Alex
+          lastName: Hollingsworth
+          creatorType: author
+        - firstName: Alberto
+          lastName: Ortega
+          creatorType: author
+        - firstName: Nikolaos
+          lastName: Zirogiannis
+          creatorType: author
+        tags: []
+        title: 'Decoding Success: Phonics-based Instruction and Student Achievement'
+        genre: Working Paper
+        series: Working Paper Series
+        DOI: 10.3386/w36018
+        url: https://www.nber.org/papers/w36018
+        abstractNote: Reading is a foundational skill, yet fewer than one in three
+          US fourth graders read at a proficient level. How best to teach reading
+          and improve educational attainment has been an active policy debate for
+          decades. Recently, phonics-based approaches have surged in popularity, even
+          though the largest attempt to put similar methods into classrooms was previously
+          abandoned out of concerns that the program was ineffective. This paper studies
+          Reading First, a nearly $1 billion per year federal program established
+          under No Child Left Behind that promoted phonics-based instruction in K-3
+          classrooms. Exploiting administrative data from Texas and program eligibility
+          formulas, we estimate effects via difference-in-differences and instrumental
+          variables specifications. We find that eligibility increased third-grade
+          reading test scores by 0.1 standard deviations and that effects persisted
+          through at least the eighth grade. An analysis of digitized exam questions
+          shows that treated students outperformed peers on questions that required
+          basic decoding skills and those with more words, a benefit that also drove
+          improvements in math scores. We follow exposed cohorts into early adulthood,
+          finding that the program increased on-time high school graduation, college
+          enrollment, four-year college completion, and adult earnings at age 25.
+        date: 2026-11
+        repository: National Bureau of Economic Research
+        archiveID: '36018'
+        libraryCatalog: National Bureau of Economic Research
+        accessDate: '2026-11-17'
+        shortTitle: Decoding Success
+      title: 'Decoding Success: Phonics-based Instruction and Student Achievement'
+      authors:
+      - last: Hollingsworth
+        first: Alex
+      - last: Ortega
+        first: Alberto
+      - last: Zirogiannis
+        first: Nikolaos
+      date: 2026-11
+      item_type: preprint
+      doi: 10.3386/w36018
+      publisher: National Bureau of Economic Research
+      abstract: Reading is a foundational skill, yet fewer than one in three US fourth
+        graders read at a proficient level. How best to teach reading and improve
+        educational attainment has been an active policy debate for decades. Recently,
+        phonics-based approaches have surged in popularity, even though the largest
+        attempt to put similar methods into classrooms was previously abandoned out
+        of concerns that the program was ineffective. This paper studies Reading First,
+        a nearly $1 billion per year federal program established under No Child Left
+        Behind that promoted phonics-based instruction in K-3 classrooms. Exploiting
+        administrative data from Texas and program eligibility formulas, we estimate
+        effects via difference-in-differences and instrumental variables specifications.
+        We find that eligibility increased third-grade reading test scores by 0.1
+        standard deviations and that effects persisted through at least the eighth
+        grade. An analysis of digitized exam questions shows that treated students
+        outperformed peers on questions that required basic decoding skills and those
+        with more words, a benefit that also drove improvements in math scores. We
+        follow exposed cohorts into early adulthood, finding that the program increased
+        on-time high school graduation, college enrollment, four-year college completion,
+        and adult earnings at age 25.
+  all_post_uris:
+  - at://did:plc:65di2ilft4ivwr2fgmlhabeq/app.bsky.feed.post/3n2gt47iloc2w
+- post_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3n2hxntqpvk2c
+  thread_root_uri: at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3n2hxntqpvk2c
+  post_url: https://bsky.app/profile/did:plc:hu35oubkccqrxl4ldgczpgw7/post/3n2hxntqpvk2c
+  post_date: '2026-11-17T02:10:56.131Z'
+  liked_at: '2026-11-17T03:54:00.058043+00:00'
+  author_handle: shibbi.me
+  author_did: did:plc:hu35oubkccqrxl4ldgczpgw7
+  post_text: Yeah it’s all right ig
+  links: []
+  all_post_uris:
+  - at://did:plc:hu35oubkccqrxl4ldgczpgw7/app.bsky.feed.post/3n2hxntqpvk2c
+- post_uri: at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3n2h43tiias2w
+  thread_root_uri: at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3n2h43tiias2w
+  post_url: https://bsky.app/profile/did:plc:t4x2ruk2qmob2b2cx55h4v7r/post/3n2h43tiias2w
+  post_date: '2026-11-16T17:57:40.843Z'
+  liked_at: '2026-11-17T02:25:37.752741+00:00'
+  author_handle: annabower.bsky.social
+  author_did: did:plc:t4x2ruk2qmob2b2cx55h4v7r
+  post_text: 'in my mind the reason robert pattinson agreed to do this is because
+    he thinks it will help him finally get a business partner for Piccolini Cuscino
+
+
+    www.gq.com/story/robert...'
+  links:
+  - url: https://www.gq.com/story/robert-pattinson-on-batman-tenet-isolation-june-cover
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: UPPZ7X5Q
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Zach
+          lastName: Baron
+          creatorType: author
+        tags: []
+        title: 'Robert Pattinson: A Dispatch From Isolation'
+        websiteTitle: GQ
+        date: '2020-05-12'
+        url: https://www.gq.com/story/robert-pattinson-on-batman-tenet-isolation-june-cover
+        abstractNote: The Hollywood star shot his own cover for GQ's June issue—and
+          talks about being Batman, tries to explain the plot of "Tenet," and nearly
+          burns down his kitchen.
+        language: en-US
+        accessDate: '2026-11-17'
+        shortTitle: Robert Pattinson
+      title: 'Robert Pattinson: A Dispatch From Isolation'
+      authors:
+      - last: Baron
+        first: Zach
+      date: '2020-05-12'
+      item_type: webpage
+      abstract: The Hollywood star shot his own cover for GQ's June issue—and talks
+        about being Batman, tries to explain the plot of "Tenet," and nearly burns
+        down his kitchen.
+  all_post_uris:
+  - at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3n2h43tiias2w
+- post_uri: at://did:plc:pc2fxsxu65kdptnhsmr6ulgp/app.bsky.feed.post/3myckqq6dkk2c
+  thread_root_uri: at://did:plc:pc2fxsxu65kdptnhsmr6ulgp/app.bsky.feed.post/3myckqq6dkk2c
+  post_url: https://bsky.app/profile/did:plc:pc2fxsxu65kdptnhsmr6ulgp/post/3myckqq6dkk2c
+  post_date: '2026-10-20T11:46:12.457Z'
+  liked_at: '2026-11-16T18:09:24.327449+00:00'
+  author_handle: sweiwang.bsky.social
+  author_did: did:plc:pc2fxsxu65kdptnhsmr6ulgp
+  post_text: ICYMI “The Game Theory Society will withdraw its support for and end
+    its association with Games and Economic Behavior (GEB), effective November 15,
+    2026. … The Society is exploring the establishment of a journal under its ownership
+    and governance … “ gametheorysociety.org/stateme
+  links:
+  - url: https://gametheorysociety.org/statement-on-the-game-theory-societys-relationship-with-games-and-economic-behavior/
+    source: card
+    card_title: Statement on the Game Theory Society’s relationship with Games and
+      Economic Behavior – Game Theory Society
+    card_description: ''
+    citoid:
+      raw:
+        key: JGF8I7CP
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        date: '2026-10-09'
+        url: https://gametheorysociety.org/statement-on-the-game-theory-societys-relationship-with-games-and-economic-behavior/
+        title: Statement on the Game Theory Society’s relationship with Games and
+          Economic Behavior – Game Theory Society
+        language: en-GB
+        accessDate: '2026-11-17'
+      title: Statement on the Game Theory Society’s relationship with Games and Economic
+        Behavior – Game Theory Society
+      date: '2026-10-09'
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:pc2fxsxu65kdptnhsmr6ulgp/app.bsky.feed.post/3myckqq6dkk2c
+- post_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3n2go2itzos2j
+  thread_root_uri: at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3n2go2itzos2j
+  post_url: https://bsky.app/profile/did:plc:5wm25vgenhgut3iqfjf4ozj5/post/3n2go2itzos2j
+  post_date: '2026-11-16T13:46:23.756Z'
+  liked_at: '2026-11-16T15:56:37.716658+00:00'
+  author_handle: eugenevinitsky.bsky.social
+  author_did: did:plc:5wm25vgenhgut3iqfjf4ozj5
+  post_text: You think decentralized social media is more robust to propaganda. You
+    look down into your hands. You're holding a delicious Banh Mi.
+  links: []
+  all_post_uris:
+  - at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3n2go2itzos2j
+- post_uri: at://did:plc:sna3qx44beg2mb5fao44gsxh/app.bsky.feed.post/3n2ea2drqls23
+  thread_root_uri: at://did:plc:sna3qx44beg2mb5fao44gsxh/app.bsky.feed.post/3n2ea2drqls23
+  post_url: https://bsky.app/profile/did:plc:sna3qx44beg2mb5fao44gsxh/post/3n2ea2drqls23
+  post_date: '2026-11-15T14:30:26.579Z'
+  liked_at: '2026-11-16T15:56:26.962623+00:00'
+  author_handle: samantha.wiki
+  author_did: did:plc:sna3qx44beg2mb5fao44gsxh
+  post_text: that's bahn mi, we count those
+  links: []
+  all_post_uris:
+  - at://did:plc:sna3qx44beg2mb5fao44gsxh/app.bsky.feed.post/3n2ea2drqls23
 - post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3n2ez7o5wpk2y
   thread_root_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3n2ez7o5wpk2y
   post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3n2ez7o5wpk2y
