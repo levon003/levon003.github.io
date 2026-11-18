@@ -1,3 +1,232 @@
+- post_uri: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3n2lfq2xaec2g
+  thread_root_uri: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3n2lfq2xaec2g
+  post_url: https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3n2lfq2xaec2g
+  post_date: '2026-11-18T11:00:42.397Z'
+  liked_at: '2026-11-18T13:03:34.446072+00:00'
+  author_handle: jasonschreier.bsky.social
+  author_did: did:plc:2mkgbhbhqvappkkorf2bzyrp
+  post_text: 'Good morning! Grand Theft Auto VI is one of the greatest games I have
+    ever played. Review: www.bloomberg.com/news/feature...'
+  links:
+  - url: https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk5OTYzNCwiZXhwIjoxNzk1NjA0NDM0LCJhcnRpY2xlSWQiOiJUT1AyS0hLR0lGUTgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.pks5MCyquJRoPSiA_59TfyguHaO8mfXluOkX8OZaVSY
+    source: card
+    card_title: Grand Theft Auto VI Is a Masterpiece
+    card_description: It turns out that the secret ingredients to a great game are
+      a lot of money, time and talented people.
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3n2lfq2xaec2g
+- post_uri: at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2k3tx2mws2d
+  thread_root_uri: at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2k3tx2mws2d
+  post_url: https://bsky.app/profile/did:plc:zjnskcrzfd35gtlso2agki5y/post/3n2k3tx2mws2d
+  post_date: '2026-11-17T22:31:15.374Z'
+  liked_at: '2026-11-18T12:33:53.988302+00:00'
+  author_handle: apex.atproto.ceo
+  author_did: did:plc:zjnskcrzfd35gtlso2agki5y
+  post_text: Microsoft AI releases MAI Code 2, Code 2 Flash, Image 2.7, and a bunch
+    of other models, and they seem pretty good microsoft.ai/news/microso...
+  links:
+  - url: https://microsoft.ai/news/microsoft-ignite-2026/
+    source: card
+    card_title: Seven new world class models at scalable price-performance | Microsoft
+      AI
+    card_description: ''
+    citoid:
+      raw:
+        key: 393V5BQW
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: Seven new world class models at scalable price-performance
+        blogTitle: Microsoft AI
+        url: https://microsoft.ai/news/microsoft-ignite-2026/
+        date: '2026-11-17'
+        language: en-US
+        accessDate: '2026-11-18'
+      title: Seven new world class models at scalable price-performance
+      date: '2026-11-17'
+      item_type: blogPost
+      publisher: Microsoft AI
+  all_post_uris:
+  - at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2k3tx2mws2d
+- post_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3n2kg2xfwyc26
+  thread_root_uri: at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3n2kg2xfwyc26
+  post_url: https://bsky.app/profile/did:plc:h25avmes6g7fgcddc3xj7qmg/post/3n2kg2xfwyc26
+  post_date: '2026-11-18T01:34:08.045Z'
+  liked_at: '2026-11-18T06:30:56.688868+00:00'
+  author_handle: moultano.bsky.social
+  author_did: did:plc:h25avmes6g7fgcddc3xj7qmg
+  post_text: Good essay on pangram and literary awards. thepointmag.com/examined-lif...
+  links:
+  - url: https://thepointmag.com/examined-life/the-part-about-the-machines/
+    source: card
+    card_title: The Part About the Machines | The Point Magazine
+    card_description: 'The news has already traveled the world, but for those who
+      haven’t yet heard: three weeks ago, El País published an article declaring that
+      the award-winning novel Donde el agua trabaja, by Peruvian wr...'
+    citoid:
+      raw:
+        key: 32XRBBWK
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Brunella Tipismana
+          lastName: Urbano
+          creatorType: author
+        tags: []
+        title: The Part About the Machines
+        blogTitle: The Point Magazine
+        date: '2026-11-17'
+        url: https://thepointmag.com/examined-life/the-part-about-the-machines/
+        abstractNote: 'The news has already traveled the world, but for those who
+          haven’t yet heard: three weeks ago, El País published an article declaring
+          that the award-winning novel Donde el agua trabaja, by Peruvian writer David
+          Silva Rojas, was, according to Pangram, 99 percent AI-generated.'
+        language: en-US
+        accessDate: '2026-11-18'
+      title: The Part About the Machines
+      authors:
+      - last: Urbano
+        first: Brunella Tipismana
+      date: '2026-11-17'
+      item_type: blogPost
+      publisher: The Point Magazine
+      abstract: 'The news has already traveled the world, but for those who haven’t
+        yet heard: three weeks ago, El País published an article declaring that the
+        award-winning novel Donde el agua trabaja, by Peruvian writer David Silva
+        Rojas, was, according to Pangram, 99 percent AI-generated.'
+  all_post_uris:
+  - at://did:plc:h25avmes6g7fgcddc3xj7qmg/app.bsky.feed.post/3n2kg2xfwyc26
+- post_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3n2jtofkrns25
+  thread_root_uri: at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3n2jtofkrns25
+  post_url: https://bsky.app/profile/did:plc:ovioxia6nlp5luphgf5ovg7p/post/3n2jtofkrns25
+  post_date: '2026-11-17T20:04:59.324Z'
+  liked_at: '2026-11-18T00:44:21.808290+00:00'
+  author_handle: jonbois.bsky.social
+  author_did: did:plc:ovioxia6nlp5luphgf5ovg7p
+  post_text: hey, sorry to everyone who's experiencing service outages. i failed a
+    captcha last week and in so doing initiated a series of cascading network failures.
+    i thought the motorcycle handlebar counted as part of the motorcycle. in fact
+    i still do
+  links: []
+  all_post_uris:
+  - at://did:plc:ovioxia6nlp5luphgf5ovg7p/app.bsky.feed.post/3n2jtofkrns25
+- post_uri: at://did:plc:itpy7gpwnd36ac6pm47tuwuu/app.bsky.feed.post/3n2jay2jhds2c
+  thread_root_uri: at://did:plc:itpy7gpwnd36ac6pm47tuwuu/app.bsky.feed.post/3n2jay2jhds2c
+  post_url: https://bsky.app/profile/did:plc:itpy7gpwnd36ac6pm47tuwuu/post/3n2jay2jhds2c
+  post_date: '2026-11-17T14:30:22.190Z'
+  liked_at: '2026-11-17T22:49:23.663127+00:00'
+  author_handle: tuhinchakr.bsky.social
+  author_did: did:plc:itpy7gpwnd36ac6pm47tuwuu
+  post_text: 'It’s unfortunate that mostly black authors have been outed for using
+    AI to write fiction, but does that mean AI detectors are racist ? Sadly, the answer
+    is a resounding NO. With the help of @pangram.com and @gptzero.bsky.social I analyzed
+    187 African books published between 2001 '
+  links:
+  - url: https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or
+    source: thread
+    card_title: Are AI Detectors really racist or is it a false narrative ?
+    card_description: I’ve been busy, and maybe also a bit angry, which, as any academic
+      will tell you, is the most productive combination.
+    citoid:
+      raw:
+        key: 9SAI5YHM
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Tuhin
+          lastName: Chakrabarty
+          creatorType: author
+        tags: []
+        title: Are AI Detectors really racist or is it a false narrative ?
+        abstractNote: I’ve been busy, and maybe also a bit angry, which, as any academic
+          will tell you, is the most productive combination.
+        date: '2026-11-17'
+        blogTitle: Tuhin's Substack
+        url: https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or
+        websiteType: Substack newsletter
+        accessDate: '2026-11-18'
+      title: Are AI Detectors really racist or is it a false narrative ?
+      authors:
+      - last: Chakrabarty
+        first: Tuhin
+      date: '2026-11-17'
+      item_type: blogPost
+      publisher: Tuhin's Substack
+      abstract: I’ve been busy, and maybe also a bit angry, which, as any academic
+        will tell you, is the most productive combination.
+  all_post_uris:
+  - at://did:plc:itpy7gpwnd36ac6pm47tuwuu/app.bsky.feed.post/3n2jay2jhds2c
+- post_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3n2jhxcg2ys2p
+  thread_root_uri: at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3n2jhxcg2ys2p
+  post_url: https://bsky.app/profile/did:plc:bfiewdcm26qhrtdvymrdcriz/post/3n2jhxcg2ys2p
+  post_date: '2026-11-17T16:35:13.111Z'
+  liked_at: '2026-11-17T22:11:25.114231+00:00'
+  author_handle: jessicahullman.bsky.social
+  author_did: did:plc:bfiewdcm26qhrtdvymrdcriz
+  post_text: 'I recently became aware of how confused even many academics are about
+    Pangram. Please, please, look at the audits that have been done before you deliberately
+    sow doubt.
+
+
+    statmodeling.stat.columbia.edu/2026/11/17/t...'
+  links:
+  - url: https://statmodeling.stat.columbia.edu/2026/11/17/the-2026-pangram-social-justice-misinformation-wars-collective-understanding-of-binary-classification-takes-a-hit/
+    source: card
+    card_title: "\nThe 2026 Pangram social justice misinformation wars: Collective\
+      \ understanding of binary classification takes a hit | Statistical Modeling,\
+      \ Causal Inference, and Social Science\t"
+    card_description: ''
+    citoid:
+      raw:
+        key: FEFKVVPS
+        version: 0
+        itemType: webpage
+        url: https://statmodeling.stat.columbia.edu/2026/11/17/the-2026-pangram-social-justice-misinformation-wars-collective-understanding-of-binary-classification-takes-a-hit/
+        title: 'The 2026 Pangram social justice misinformation wars: Collective understanding
+          of binary classification takes a hit | Statistical Modeling, Causal Inference,
+          and Social Science'
+        accessDate: '2026-11-18'
+        websiteTitle: statmodeling.stat.columbia.edu
+      title: 'The 2026 Pangram social justice misinformation wars: Collective understanding
+        of binary classification takes a hit | Statistical Modeling, Causal Inference,
+        and Social Science'
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:bfiewdcm26qhrtdvymrdcriz/app.bsky.feed.post/3n2jhxcg2ys2p
+- post_uri: at://did:plc:23lvbsjrtczlttdys2dypk5f/app.bsky.feed.post/3n2j7ka63ik2o
+  thread_root_uri: at://did:plc:kcggckk55s6njoewaberea2l/app.bsky.feed.post/3n2j5r2yhd22g
+  post_url: https://bsky.app/profile/did:plc:23lvbsjrtczlttdys2dypk5f/post/3n2j7ka63ik2o
+  post_date: '2026-11-17T14:04:44.609Z'
+  liked_at: '2026-11-17T16:23:20.301993+00:00'
+  author_handle: jadh.dev
+  author_did: did:plc:23lvbsjrtczlttdys2dypk5f
+  post_text: "It’s authoritative, but not “mainstream”. Both “I am doing real production”,\
+    \ and “it’s just me talking to you”. \n\nvm.tiktok.com/ZN8a6CrFk/"
+  links:
+  - url: https://vm.tiktok.com/ZN8a6CrFk/
+    source: card
+    card_title: TikTok - Make Your Day
+    card_description: ''
+    citoid:
+      citoid_status: blocked
+  all_post_uris:
+  - at://did:plc:23lvbsjrtczlttdys2dypk5f/app.bsky.feed.post/3n2j7ka63ik2o
+- post_uri: at://did:plc:o7xt7svg2xtjbb4e2xqahqqc/app.bsky.feed.post/3n2hhgvvfek2n
+  thread_root_uri: at://did:plc:o7xt7svg2xtjbb4e2xqahqqc/app.bsky.feed.post/3n2hhgvvfek2n
+  post_url: https://bsky.app/profile/did:plc:o7xt7svg2xtjbb4e2xqahqqc/post/3n2hhgvvfek2n
+  post_date: '2026-11-16T21:20:43.634Z'
+  liked_at: '2026-11-17T15:53:46.857949+00:00'
+  author_handle: spavel.bsky.social
+  author_did: did:plc:o7xt7svg2xtjbb4e2xqahqqc
+  post_text: '"Yeah, I can make you a bar graph, no problem"
+
+    --Guy who learned graphic design from playing Snake on his Nokia'
+  links: []
+  all_post_uris:
+  - at://did:plc:o7xt7svg2xtjbb4e2xqahqqc/app.bsky.feed.post/3n2hhgvvfek2n
 - post_uri: at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n2i2j6of2c2p
   thread_root_uri: at://did:plc:zntngpowgd6rorjt3haywj36/app.bsky.feed.post/3n2i2j6of2c2p
   post_url: https://bsky.app/profile/did:plc:zntngpowgd6rorjt3haywj36/post/3n2i2j6of2c2p
