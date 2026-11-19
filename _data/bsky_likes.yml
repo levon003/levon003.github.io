@@ -1,3 +1,31 @@
+- post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3n2o75fp6bc2u
+  thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3n2o75fp6bc2u
+  post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3n2o75fp6bc2u
+  post_date: '2026-11-19T13:40:52.898Z'
+  liked_at: '2026-11-19T14:43:01.211240+00:00'
+  author_handle: nsaphra.bsky.social
+  author_did: did:plc:l3vbx3e2lqnlja7q64wfrrzq
+  post_text: '"If this was good writing before AI, it''s good writing after AI." No,
+    because good writing isn''t composed of cliches. And cliches change! When Shakespeare
+    wrote, "All that glitters is not gold," he was an epochal talent. When you copied
+    it in an essay in middle school, you were l'
+  links: []
+  all_post_uris:
+  - at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3n2o75fp6bc2u
+- post_uri: at://did:plc:rbamsrq5xdc25fdrmiicvi3f/app.bsky.feed.post/3n2o6fxev622d
+  thread_root_uri: at://did:plc:rbamsrq5xdc25fdrmiicvi3f/app.bsky.feed.post/3n2o6fxev622d
+  post_url: https://bsky.app/profile/did:plc:rbamsrq5xdc25fdrmiicvi3f/post/3n2o6fxev622d
+  post_date: '2026-11-19T13:27:46.128Z'
+  liked_at: '2026-11-19T14:36:55.407400+00:00'
+  author_handle: ruben.the100.ci
+  author_did: did:plc:rbamsrq5xdc25fdrmiicvi3f
+  post_text: Really happy to finally see this work out. You may have heard that hormonal
+    contraception is associated with depression and suicide in longitudinal Danish
+    data (Skovlund et al. 2016/18). But this prominently reported analysis could not
+    adjust for relationship changes. We did.
+  links: []
+  all_post_uris:
+  - at://did:plc:rbamsrq5xdc25fdrmiicvi3f/app.bsky.feed.post/3n2o6fxev622d
 - post_uri: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3n2lfq2xaec2g
   thread_root_uri: at://did:plc:2mkgbhbhqvappkkorf2bzyrp/app.bsky.feed.post/3n2lfq2xaec2g
   post_url: https://bsky.app/profile/did:plc:2mkgbhbhqvappkkorf2bzyrp/post/3n2lfq2xaec2g
