@@ -1,3 +1,138 @@
+- post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3n2pgs2dkd222
+  thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3n2pgs2dkd222
+  post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3n2pgs2dkd222
+  post_date: '2026-11-20T01:30:21.557Z'
+  liked_at: '2026-11-20T05:17:47.333524+00:00'
+  author_handle: timkellogg.me
+  author_did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
+  post_text: 'Pied Piper is real
+
+
+    tufalabs.ai/research/tuf...'
+  links:
+  - url: https://tufalabs.ai/research/tufazip/
+    source: card
+    card_title: 'tufazip: Learning to Compress a Billion Bytes of Wikipedia'
+    card_description: Compressing one billion bytes of Wikipedia into 105.39 MB with
+      a Transformer that learns online and an offline trained initialization.
+    citoid:
+      raw:
+        key: XK39JJ2U
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Tommy
+          lastName: He
+          creatorType: author
+        tags: []
+        title: 'tufazip: Learning to Compress a Billion Bytes of Wikipedia'
+        websiteTitle: Tufa Labs
+        date: '2026-10-14'
+        url: https://tufalabs.ai/research/tufazip/
+        abstractNote: Compressing one billion bytes of Wikipedia into 105.39 MB with
+          a Transformer that learns online and an offline trained initialization.
+        language: en-US
+        accessDate: '2026-11-20'
+        shortTitle: tufazip
+      title: 'tufazip: Learning to Compress a Billion Bytes of Wikipedia'
+      authors:
+      - last: He
+        first: Tommy
+      date: '2026-10-14'
+      item_type: webpage
+      abstract: Compressing one billion bytes of Wikipedia into 105.39 MB with a Transformer
+        that learns online and an offline trained initialization.
+  all_post_uris:
+  - at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3n2pgs2dkd222
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2oxkqmljk2p
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2oxkqmljk2p
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n2oxkqmljk2p
+  post_date: '2026-11-19T20:57:50.352Z'
+  liked_at: '2026-11-19T22:13:43.192671+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: 'could do without the slanty text but I love this
+
+    blog.exe.dev/rex'
+  links:
+  - url: https://blog.exe.dev/rex
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 5NYN7DHK
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Philip
+          lastName: Zeyliger
+          creatorType: author
+        tags: []
+        title: Rex-on-exe - exe.dev blog
+        websiteTitle: exe.dev
+        date: '2026-11-19'
+        url: https://blog.exe.dev/rex
+        abstractNote: Use Rex to connect to your VMs. Plus, how Rex works under the
+          hood.
+        language: en
+        accessDate: '2026-11-20'
+      title: Rex-on-exe - exe.dev blog
+      authors:
+      - last: Zeyliger
+        first: Philip
+      date: '2026-11-19'
+      item_type: webpage
+      abstract: Use Rex to connect to your VMs. Plus, how Rex works under the hood.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2oxkqmljk2p
+- post_uri: at://did:plc:rtf3bjc3w2yn4syxtm4r7jt2/app.bsky.feed.post/3n2he56d6xc2c
+  thread_root_uri: at://did:plc:rtf3bjc3w2yn4syxtm4r7jt2/app.bsky.feed.post/3n2he56d6xc2c
+  post_url: https://bsky.app/profile/did:plc:rtf3bjc3w2yn4syxtm4r7jt2/post/3n2he56d6xc2c
+  post_date: '2026-11-16T20:21:35.705Z'
+  liked_at: '2026-11-19T16:07:11.672982+00:00'
+  author_handle: ronentk.me
+  author_did: did:plc:rtf3bjc3w2yn4syxtm4r7jt2
+  post_text: '"it is wimpy and loser-coded to try to fight [for human agency and control]"
+
+    It breaks my brain that so many people, many of whom are graduates of so-called
+    elite institutions, subscribe to such anti-human philosophies. And that it''s
+    normal in some circles.
+
+    www.writingruxandrabio'
+  links:
+  - url: https://www.writingruxandrabio.com/p/handing-over-humanity
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: MJ2ZU7EC
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Ruxandra
+          lastName: Teslo
+          creatorType: author
+        tags: []
+        title: Handing over humanity
+        url: https://www.writingruxandrabio.com/p/handing-over-humanity
+        abstractNote: Even the optimistic visions of a post-AGI future leave little
+          room for human self-determination
+        date: '2026-11-11'
+        language: en
+        accessDate: '2026-11-20'
+        websiteTitle: www.writingruxandrabio.com
+      title: Handing over humanity
+      authors:
+      - last: Teslo
+        first: Ruxandra
+      date: '2026-11-11'
+      item_type: webpage
+      abstract: Even the optimistic visions of a post-AGI future leave little room
+        for human self-determination
+  all_post_uris:
+  - at://did:plc:rtf3bjc3w2yn4syxtm4r7jt2/app.bsky.feed.post/3n2he56d6xc2c
 - post_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3n2o75fp6bc2u
   thread_root_uri: at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3n2o75fp6bc2u
   post_url: https://bsky.app/profile/did:plc:l3vbx3e2lqnlja7q64wfrrzq/post/3n2o75fp6bc2u

@@ -1,6 +1,6 @@
-entries_with_links: 2630
-total_links: 3206
-unique_domains: 1055
+entries_with_links: 2633
+total_links: 3209
+unique_domains: 1057
 top_domains:
 - domain: arxiv.org
   count: 253
@@ -23,12 +23,12 @@ top_domains:
 - domain: youtu.be
   count: 42
 top_accounts:
+- handle: davidcrespo.bsky.social
+  did: did:plc:ctphcgyhnllfluywokibtrgb
+  count: 74
 - handle: simonwillison.net
   did: did:plc:kft6lu4trxowqmter2b6vg6z
   count: 74
-- handle: davidcrespo.bsky.social
-  did: did:plc:ctphcgyhnllfluywokibtrgb
-  count: 73
 - handle: gracekind.net
   did: did:plc:p572wxnsuoogcrhlfrlizlrb
   count: 41
@@ -40,7 +40,7 @@ top_accounts:
   count: 37
 - handle: timkellogg.me
   did: did:plc:ckaz32jwl6t2cno6fmuw2nhn
-  count: 35
+  count: 36
 - handle: beenwrekt.bsky.social
   did: did:plc:oogxmzmgauh5ug2tfe5vc7wm
   count: 33
