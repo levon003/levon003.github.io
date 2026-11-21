@@ -1,3 +1,300 @@
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rs7ey3es2w
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rs7ey3es2w
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3n2rs7ey3es2w
+  post_date: '2026-11-20T23:59:59.559Z'
+  liked_at: '2026-11-21T06:28:52.488104+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: 'i have never been more proud to release a piece of software: diderot,
+    an open-source, self-hosted agentic memory and internal search tool that doesnt
+    suck: diderot.dev'
+  links:
+  - url: https://diderot.dev/?launch=
+    source: card
+    card_title: 'Diderot: ask what your team''s coding agents did, and why'
+    card_description: Diderot is an open-source server you run. It indexes your team's
+      coding-agent sessions with its chat, issues and docs, and answers questions
+      with citations in Slack, Discord, your shell and over MCP.
+    citoid:
+      raw:
+        key: IQFEEC8Q
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Diderot: ask what your team''s coding agents did, and why'
+        websiteTitle: Diderot
+        url: https://diderot.dev/
+        abstractNote: Diderot is an open-source server you run. It indexes your team's
+          coding-agent sessions with its chat, issues and docs, and answers questions
+          with citations in Slack, Discord, your shell and over MCP.
+        language: en
+        accessDate: '2026-11-21'
+        shortTitle: Diderot
+      title: 'Diderot: ask what your team''s coding agents did, and why'
+      item_type: webpage
+      abstract: Diderot is an open-source server you run. It indexes your team's coding-agent
+        sessions with its chat, issues and docs, and answers questions with citations
+        in Slack, Discord, your shell and over MCP.
+  - url: https://diderot.dev/
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 2N8AMP8X
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: 'Diderot: ask what your team''s coding agents did, and why'
+        websiteTitle: Diderot
+        url: https://diderot.dev/
+        abstractNote: Diderot is an open-source server you run. It indexes your team's
+          coding-agent sessions with its chat, issues and docs, and answers questions
+          with citations in Slack, Discord, your shell and over MCP.
+        language: en
+        accessDate: '2026-11-21'
+        shortTitle: Diderot
+      title: 'Diderot: ask what your team''s coding agents did, and why'
+      item_type: webpage
+      abstract: Diderot is an open-source server you run. It indexes your team's coding-agent
+        sessions with its chat, issues and docs, and answers questions with citations
+        in Slack, Discord, your shell and over MCP.
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rs7ey3es2w
+- post_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rfk6kwv223
+  thread_root_uri: at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rfk6kwv223
+  post_url: https://bsky.app/profile/did:plc:4vvaxwovyg4yo4n7dyyncaiu/post/3n2rfk6kwv223
+  post_date: '2026-11-20T20:13:23.292Z'
+  liked_at: '2026-11-20T23:10:21.818050+00:00'
+  author_handle: thebadcode.com
+  author_did: did:plc:4vvaxwovyg4yo4n7dyyncaiu
+  post_text: 'pleased to announce the release of slagworks, an open-source project
+    built at bluesky for managing bare-metal linux servers at reasonable scale:'
+  links:
+  - url: https://github.com/bluesky-social/slagworks/
+    source: card
+    card_title: 'GitHub - bluesky-social/slagworks: Bare-metal provisioning: PXE boot,
+      OS imaging, commissioning, power management, NetBox sync'
+    card_description: 'Bare-metal provisioning: PXE boot, OS imaging, commissioning,
+      power management, NetBox sync - bluesky-social/slagworks'
+    citoid:
+      raw:
+        key: YUB9M6GG
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/bluesky-social/slagworks
+        title: bluesky-social/slagworks
+        abstractNote: 'Bare-metal provisioning: PXE boot, OS imaging, commissioning,
+          power management, NetBox sync'
+        libraryCatalog: GitHub
+        programmingLanguage: Go
+        extra: 'original-date: 2026-11-18T20:45:35Z'
+        date: '2026-11-21'
+        company: bluesky-social
+        accessDate: '2026-11-21'
+      title: bluesky-social/slagworks
+      date: '2026-11-21'
+      item_type: computerProgram
+      abstract: 'Bare-metal provisioning: PXE boot, OS imaging, commissioning, power
+        management, NetBox sync'
+  all_post_uris:
+  - at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3n2rfk6kwv223
+- post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2rfvsjbv22e
+  thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2rfvsjbv22e
+  post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3n2rfvsjbv22e
+  post_date: '2026-11-20T20:19:53.305Z'
+  liked_at: '2026-11-20T22:02:12.648041+00:00'
+  author_handle: unsloth.ai
+  author_did: did:plc:xfbmksnykel6qbq7cs4geveg
+  post_text: 'Run Inkling 2 Mini, the strongest 26.4B model that runs on 16GB RAM.
+
+
+    Thinking Machines’ Apache 2.0 MoE model uses a looped transformer arch & scores
+    48.2% on DeepSWE v1.1, the best for size.
+
+
+    Run on Unsloth, llama.cpp
+
+
+    GGUF: huggingface.co/unsloth/Inkl...
+
+    Guide: unsloth.ai/docs/'
+  links:
+  - url: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: T8JQXL4X
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: unsloth/Inkling-2-Mini-GGUF · Hugging Face
+        url: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
+        abstractNote: Image-Text-to-Text model with 26B parameters. Download, explore
+          files and run it on Hugging Face.
+        date: '2026-11-20'
+        accessDate: '2026-11-21'
+        websiteTitle: huggingface.co
+      title: unsloth/Inkling-2-Mini-GGUF · Hugging Face
+      date: '2026-11-20'
+      item_type: webpage
+      abstract: Image-Text-to-Text model with 26B parameters. Download, explore files
+        and run it on Hugging Face.
+  - url: https://unsloth.ai/docs/models/inkling-2-mini
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YMCB8D9K
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Inkling 2 Mini - Run Locally Guide | Unsloth Documentation
+        abstractNote: Learn how to run Thinking Machines Lab’s Inkling 2 Mini locally
+          with Unsloth and llama.cpp.
+        date: '2026-11-21'
+        url: https://unsloth.ai/docs/models/inkling-2-mini
+        language: en
+        accessDate: '2026-11-21'
+        websiteTitle: unsloth.ai
+      title: Inkling 2 Mini - Run Locally Guide | Unsloth Documentation
+      date: '2026-11-21'
+      item_type: webpage
+      abstract: Learn how to run Thinking Machines Lab’s Inkling 2 Mini locally with
+        Unsloth and llama.cpp.
+  all_post_uris:
+  - at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2rfvsjbv22e
+- post_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2r3uazbncfs
+  thread_root_uri: at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2r3uazbncfs
+  post_url: https://bsky.app/profile/did:plc:p572wxnsuoogcrhlfrlizlrb/post/3n2r3uazbncfs
+  post_date: '2026-11-20T17:20:03.983Z'
+  liked_at: '2026-11-20T18:31:43.646926+00:00'
+  author_handle: gracekind.net
+  author_did: did:plc:p572wxnsuoogcrhlfrlizlrb
+  post_text: Revisiting this
+  links: []
+  all_post_uris:
+  - at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3n2r3uazbncfs
+- post_uri: at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3n2r2dxtg2s2s
+  thread_root_uri: at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3n2qzuivkk22s
+  post_url: https://bsky.app/profile/did:plc:lwvjio7rxo2am62nonpap2vb/post/3n2r2dxtg2s2s
+  post_date: '2026-11-20T16:53:03.743Z'
+  liked_at: '2026-11-20T18:30:38.820926+00:00'
+  author_handle: willoremus.com
+  author_did: did:plc:lwvjio7rxo2am62nonpap2vb
+  post_text: I think there are many different "right" ways to approach AI, from conscientious
+    refusal to enthusiastic yet careful adoption. The biggest "wrong" ways, imo, are
+    (1) trusting it implicitly and (2) ignoring it and assuming nothing important
+    about the world will change  bsky.app/pr
+  links: []
+  all_post_uris:
+  - at://did:plc:lwvjio7rxo2am62nonpap2vb/app.bsky.feed.post/3n2r2dxtg2s2s
+- post_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3n2qkptcs522q
+  thread_root_uri: at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3n2qkptcs522q
+  post_url: https://bsky.app/profile/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/post/3n2qkptcs522q
+  post_date: '2026-11-20T12:13:21.788Z'
+  liked_at: '2026-11-20T16:11:01.301493+00:00'
+  author_handle: colin-fraser.net
+  author_did: did:plc:6rdthm3ihpqfd7vn2q2ktjrz
+  post_text: 'I’m truly asking: in what sense are we not already in RSI world? Why
+    is what we have now not “AI models that can build their successors”?'
+  links: []
+  all_post_uris:
+  - at://did:plc:6rdthm3ihpqfd7vn2q2ktjrz/app.bsky.feed.post/3n2qkptcs522q
+  - at://did:plc:idfm6pos7wtyr2dq6aj3tmql/app.bsky.feed.post/3n2qqshgfzk2z
+- post_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3n2pl46fmsk2f
+  thread_root_uri: at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3n2pl46fmsk2f
+  post_url: https://bsky.app/profile/did:plc:vszw3ess46odfhnzdsy4huae/post/3n2pl46fmsk2f
+  post_date: '2026-11-20T02:47:36.329Z'
+  liked_at: '2026-11-20T15:42:59.383322+00:00'
+  author_handle: segyges.bsky.social
+  author_did: did:plc:vszw3ess46odfhnzdsy4huae
+  post_text: 'seriously this shit works on people
+
+
+    i can make it say anything dude that''s how they work'
+  links: []
+  all_post_uris:
+  - at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3n2pl46fmsk2f
+- post_uri: at://did:plc:4i77tdu3riswwmtw6j67ufrj/app.bsky.feed.post/3n2qt3ngb5k2w
+  thread_root_uri: at://did:plc:4i77tdu3riswwmtw6j67ufrj/app.bsky.feed.post/3n2qt3ngb5k2w
+  post_url: https://bsky.app/profile/did:plc:4i77tdu3riswwmtw6j67ufrj/post/3n2qt3ngb5k2w
+  post_date: '2026-11-20T14:43:08.198Z'
+  liked_at: '2026-11-20T15:34:14.574866+00:00'
+  author_handle: birdsnfrogs.bsky.social
+  author_did: did:plc:4i77tdu3riswwmtw6j67ufrj
+  post_text: 'Levent Alpöge with an announcement this morning:
+
+
+    "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis."
+
+
+    alpo.ge/remark.pdf'
+  links:
+  - url: https://alpo.ge/remark.pdf
+    source: card
+    card_title: ''
+    card_description: ''
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:4i77tdu3riswwmtw6j67ufrj/app.bsky.feed.post/3n2qt3ngb5k2w
+- post_uri: at://did:plc:2zcfjzyocp6kapg6jc4eacok/app.bsky.feed.post/3n2qrhcmoz22k
+  thread_root_uri: at://did:plc:2zcfjzyocp6kapg6jc4eacok/app.bsky.feed.post/3n2qrhcmoz22k
+  post_url: https://bsky.app/profile/did:plc:2zcfjzyocp6kapg6jc4eacok/post/3n2qrhcmoz22k
+  post_date: '2026-11-20T14:13:52.037Z'
+  liked_at: '2026-11-20T15:29:31.980485+00:00'
+  author_handle: andrew.heiss.phd
+  author_did: did:plc:2zcfjzyocp6kapg6jc4eacok
+  post_text: Seems like Claude-designed slides with their leading 0-prefixed slide
+    numbers, variously small caps-ed elements, and written-in-claudish definitively
+    declarative statements are the standard for academic conferences now 😔
+  links: []
+  all_post_uris:
+  - at://did:plc:2zcfjzyocp6kapg6jc4eacok/app.bsky.feed.post/3n2qrhcmoz22k
+- post_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2oup53nrs2k
+  thread_root_uri: at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2oup53nrs2k
+  post_url: https://bsky.app/profile/did:plc:565ebob5f6hw33hjdkxty6qj/post/3n2oup53nrs2k
+  post_date: '2026-11-19T20:06:36.428Z'
+  liked_at: '2026-11-20T15:18:43.214827+00:00'
+  author_handle: tedunderwood.com
+  author_did: did:plc:565ebob5f6hw33hjdkxty6qj
+  post_text: I see a lot of snarky quote-posts here, but I do not see the "alternate
+    vision" Brendan asked for. In a world where LLMs are clearly accelerating discovery
+    in math and theoretical CS—and where 56% of US adults use them weekly—what is
+    the plan? Is it "wait for this to go away," as
+  links:
+  - url: https://www.chronicle.com/newsletter/jagged-intelligence/2026-11-17
+    source: thread
+    card_title: Should Colleges Build Their Own AI Models?
+    card_description: Plus, an anonymous AI audit of economic research sparks controversy.
+    citoid:
+      raw:
+        key: CKBQ8WFT
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Should Colleges Build Their Own AI Models?
+        websiteTitle: The Chronicle of Higher Education
+        url: https://www.chronicle.com/newsletter/jagged-intelligence/2026-11-17
+        abstractNote: Plus, an anonymous AI audit of economic research sparks controversy.
+        language: en
+        accessDate: '2026-11-21'
+      title: Should Colleges Build Their Own AI Models?
+      item_type: webpage
+      abstract: Plus, an anonymous AI audit of economic research sparks controversy.
+  all_post_uris:
+  - at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3n2oup53nrs2k
 - post_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3n2pgs2dkd222
   thread_root_uri: at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3n2pgs2dkd222
   post_url: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3n2pgs2dkd222
