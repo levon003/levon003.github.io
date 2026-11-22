@@ -1,6 +1,6 @@
-entries_with_links: 2638
-total_links: 3216
-unique_domains: 1059
+entries_with_links: 2640
+total_links: 3218
+unique_domains: 1060
 top_domains:
 - domain: arxiv.org
   count: 253
@@ -46,7 +46,7 @@ top_accounts:
   count: 33
 - handle: dingdingpeng.the100.ci
   did: did:plc:gz53felr7btxgmbxae5aooxi
-  count: 29
+  count: 30
 - handle: mariaa.bsky.social
   did: did:plc:y32vdst3y7r4f4pkrveb7jhi
   count: 27
