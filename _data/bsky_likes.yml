@@ -1,3 +1,487 @@
+- post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2yjogbgxs2f
+  thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2yjogbgxs2f
+  post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3n2yjogbgxs2f
+  post_date: '2026-11-23T16:15:58.713Z'
+  liked_at: '2026-11-23T17:10:23.222997+00:00'
+  author_handle: unsloth.ai
+  author_did: did:plc:xfbmksnykel6qbq7cs4geveg
+  post_text: 'We made Inkling 2 Mini run ~1.9x faster locally! ⚡️
+
+
+    Inkling 2 Mini GGUFs can now reach 125 tokens/s on a RTX Pro 6000 GPU via Unsloth,
+    with no accuracy loss.
+
+
+    Run faster via Unsloth Desktop!
+
+
+    GitHub repo: github.com/unslothai/un...
+
+    GGUF: huggingface.co/unsloth/Inkl...'
+  links:
+  - url: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: T8JQXL4X
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: unsloth/Inkling-2-Mini-GGUF · Hugging Face
+        url: https://huggingface.co/unsloth/Inkling-2-Mini-GGUF
+        abstractNote: Image-Text-to-Text model with 26B parameters. Download, explore
+          files and run it on Hugging Face.
+        date: '2026-11-20'
+        accessDate: '2026-11-21'
+        websiteTitle: huggingface.co
+      title: unsloth/Inkling-2-Mini-GGUF · Hugging Face
+      date: '2026-11-20'
+      item_type: webpage
+      abstract: Image-Text-to-Text model with 26B parameters. Download, explore files
+        and run it on Hugging Face.
+  - url: https://unsloth.ai/docs/models/inkling-2-mini
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: YMCB8D9K
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Inkling 2 Mini - Run Locally Guide | Unsloth Documentation
+        abstractNote: Learn how to run Thinking Machines Lab’s Inkling 2 Mini locally
+          with Unsloth and llama.cpp.
+        date: '2026-11-21'
+        url: https://unsloth.ai/docs/models/inkling-2-mini
+        language: en
+        accessDate: '2026-11-21'
+        websiteTitle: unsloth.ai
+      title: Inkling 2 Mini - Run Locally Guide | Unsloth Documentation
+      date: '2026-11-21'
+      item_type: webpage
+      abstract: Learn how to run Thinking Machines Lab’s Inkling 2 Mini locally with
+        Unsloth and llama.cpp.
+  - url: https://github.com/unslothai/unsloth
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: NSU6VRN3
+        version: 0
+        itemType: computerProgram
+        creators: []
+        tags: []
+        url: https://github.com/unslothai/unsloth
+        title: unslothai/unsloth
+        abstractNote: Local UI to run and train LLMs and diffusion models. Supports
+          GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+        libraryCatalog: GitHub
+        programmingLanguage: Python
+        extra: 'original-date: 2023-11-29T16:50:09Z'
+        date: '2026-11-23'
+        rights: Apache-2.0
+        company: Unsloth AI
+        accessDate: '2026-11-23'
+      title: unslothai/unsloth
+      date: '2026-11-23'
+      item_type: computerProgram
+      abstract: Local UI to run and train LLMs and diffusion models. Supports GGUF,
+        MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+  all_post_uris:
+  - at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2yjogbgxs2f
+- post_uri: at://did:plc:rhkcyc46ubi523e47bhnkpbb/app.bsky.feed.post/3m5kd26mfii2z
+  thread_root_uri: at://did:plc:rhkcyc46ubi523e47bhnkpbb/app.bsky.feed.post/3m5kd26mfii2z
+  post_url: https://bsky.app/profile/did:plc:rhkcyc46ubi523e47bhnkpbb/post/3m5kd26mfii2z
+  post_date: '2025-11-13T23:29:23.527Z'
+  liked_at: '2026-11-23T13:38:50.908304+00:00'
+  author_handle: nic221.bsky.social
+  author_did: did:plc:rhkcyc46ubi523e47bhnkpbb
+  post_text: 'Common Ground between AI 2027 & AI as Normal Technology asteriskmag.substack.com/p/common-groun…
+    (interesting) #AI #future'
+  links:
+  - url: https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 4CDF2H23
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Sayash
+          lastName: Kapoor
+          creatorType: author
+        - firstName: Arvind
+          lastName: Narayanan
+          creatorType: author
+        - firstName: Daniel
+          lastName: Kokotajlo
+          creatorType: author
+        - firstName: Eli
+          lastName: Lifland
+          creatorType: author
+        - firstName: Thomas
+          lastName: Larsen
+          creatorType: author
+        tags: []
+        title: Common Ground between AI 2027 & AI as Normal Technology
+        abstractNote: AI 2027 and AI as Normal Technology were both published in April
+          of this year.
+        date: '2025-11-12'
+        blogTitle: Asterisk Magazine
+        url: https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and
+        websiteType: Substack newsletter
+        accessDate: '2026-11-23'
+      title: Common Ground between AI 2027 & AI as Normal Technology
+      authors:
+      - last: Kapoor
+        first: Sayash
+      - last: Narayanan
+        first: Arvind
+      - last: Kokotajlo
+        first: Daniel
+      - last: Lifland
+        first: Eli
+      - last: Larsen
+        first: Thomas
+      date: '2025-11-12'
+      item_type: blogPost
+      publisher: Asterisk Magazine
+      abstract: AI 2027 and AI as Normal Technology were both published in April of
+        this year.
+  all_post_uris:
+  - at://did:plc:rhkcyc46ubi523e47bhnkpbb/app.bsky.feed.post/3m5kd26mfii2z
+- post_uri: at://did:plc:glpr4cmgt4xi4phoet5l47ch/app.bsky.feed.post/3n2xrsalsjc26
+  thread_root_uri: at://did:plc:glpr4cmgt4xi4phoet5l47ch/app.bsky.feed.post/3n2xrsalsjc26
+  post_url: https://bsky.app/profile/did:plc:glpr4cmgt4xi4phoet5l47ch/post/3n2xrsalsjc26
+  post_date: '2026-11-23T09:08:37.185Z'
+  liked_at: '2026-11-23T13:38:14.427809+00:00'
+  author_handle: danwphilosophy.bsky.social
+  author_did: did:plc:glpr4cmgt4xi4phoet5l47ch
+  post_text: 'New essay on the nature and limits of what I call "responsible AI scepticism":
+    www.conspicuouscognition.com/p/the-crazy-...'
+  links:
+  - url: https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally
+    source: card
+    card_title: The Crazy AI People Are Directionally Correct
+    card_description: The nature and limits of responsible AI scepticism
+    citoid:
+      raw:
+        key: JCV74N57
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Dan
+          lastName: Williams
+          creatorType: author
+        tags: []
+        title: The Crazy AI People Are Directionally Correct
+        url: https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally
+        abstractNote: The nature and limits of responsible AI scepticism
+        date: '2026-11-22'
+        language: en
+        accessDate: '2026-11-23'
+        websiteTitle: www.conspicuouscognition.com
+      title: The Crazy AI People Are Directionally Correct
+      authors:
+      - last: Williams
+        first: Dan
+      date: '2026-11-22'
+      item_type: webpage
+      abstract: The nature and limits of responsible AI scepticism
+  all_post_uris:
+  - at://did:plc:glpr4cmgt4xi4phoet5l47ch/app.bsky.feed.post/3n2xrsalsjc26
+- post_uri: at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2wuws2qh62m
+  thread_root_uri: at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2wuws2qh62m
+  post_url: https://bsky.app/profile/did:plc:zjnskcrzfd35gtlso2agki5y/post/3n2wuws2qh62m
+  post_date: '2026-11-23T00:32:11.093Z'
+  liked_at: '2026-11-23T04:03:38.587182+00:00'
+  author_handle: apex.atproto.ceo
+  author_did: did:plc:zjnskcrzfd35gtlso2agki5y
+  post_text: 'gemini models are so cute
+
+    >start writing python to diagnose problem
+
+    >leak CoT into python comments
+
+    >solve problem in comments
+
+    >still need to finish tool call
+
+    >celebratory print statement'
+  links: []
+  all_post_uris:
+  - at://did:plc:zjnskcrzfd35gtlso2agki5y/app.bsky.feed.post/3n2wuws2qh62m
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2wxqtvjfk2d
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2wxqtvjfk2d
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n2wxqtvjfk2d
+  post_date: '2026-11-23T01:22:33.031Z'
+  liked_at: '2026-11-23T03:33:07.109593+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: pleased to report that even a small personal app (github notification
+    inbox to replace email) still requires quite a bit of real work on both the data
+    model and the UX, and SOTA agents can’t get there autonomously. my job’s got a
+    few more months left in the tank
+  links: []
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2wxqtvjfk2d
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n2w2qz5q4c2v
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n2w2qz5q4c2v
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3n2w2qz5q4c2v
+  post_date: '2026-11-22T16:43:40.028Z'
+  liked_at: '2026-11-23T00:41:54.016992+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: Political discourse would be a lot more grounded if more people understood
+    that a transition to M4A would be tumultuous and complex on a level that none
+    of us have experienced, would take years, and would involve some of America’s
+    most respected institutions screaming bloody murd
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n2w2qz5q4c2v
+- post_uri: at://did:plc:ec7wbb6cuwewc4ucwimzevf2/app.bsky.feed.post/3n2wm2v765wo7
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n2wgqzo3ns2c
+  post_url: https://bsky.app/profile/did:plc:ec7wbb6cuwewc4ucwimzevf2/post/3n2wm2v765wo7
+  post_date: '2026-11-22T21:53:25.037Z'
+  liked_at: '2026-11-23T00:39:17.106494+00:00'
+  author_handle: jnatc.im
+  author_did: did:plc:ec7wbb6cuwewc4ucwimzevf2
+  post_text: Here is the independently re-evaluated data. (Note that Pangram is explicitly
+    *not* trained on Substack posts at all; that is, none of them were in the training
+    data set, and the tool is only evaluating the text, not seeing if it corresponds
+    to a post it already knows is human or
+  links: []
+  all_post_uris:
+  - at://did:plc:ec7wbb6cuwewc4ucwimzevf2/app.bsky.feed.post/3n2wm2v765wo7
+- post_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3n2vyricbms2n
+  thread_root_uri: at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3n2vyricbms2n
+  post_url: https://bsky.app/profile/did:plc:p72jkscm4rt4xuep3lzv6doh/post/3n2vyricbms2n
+  post_date: '2026-11-22T16:08:08.422Z'
+  liked_at: '2026-11-22T20:59:42.115155+00:00'
+  author_handle: melaniemitchell.bsky.social
+  author_did: did:plc:p72jkscm4rt4xuep3lzv6doh
+  post_text: "I found this piece, by @binarybits.bsky.social, to be a useful framework\
+    \ for thinking about where we are with respect to AI in fields beyond math, coding,\
+    \ and other \"verifiable\" domains. \n\nwww.understandingai.org/p/this-robot..."
+  links:
+  - url: https://www.understandingai.org/p/this-robotics-concept-helps-explain
+    source: card
+    card_title: This robotics concept helps explain the jaggedness of frontier capabilities
+    card_description: Sim-to-real gaps are everywhere.
+    citoid:
+      raw:
+        key: 83ATL38M
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Timothy B.
+          lastName: Lee
+          creatorType: author
+        tags: []
+        title: This robotics concept helps explain the jaggedness of frontier capabilities
+        url: https://www.understandingai.org/p/this-robotics-concept-helps-explain
+        abstractNote: Sim-to-real gaps are everywhere.
+        date: '2026-11-05'
+        language: en
+        accessDate: '2026-11-23'
+        websiteTitle: www.understandingai.org
+      title: This robotics concept helps explain the jaggedness of frontier capabilities
+      authors:
+      - last: Lee
+        first: Timothy B.
+      date: '2026-11-05'
+      item_type: webpage
+      abstract: Sim-to-real gaps are everywhere.
+  all_post_uris:
+  - at://did:plc:p72jkscm4rt4xuep3lzv6doh/app.bsky.feed.post/3n2vyricbms2n
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vtmya2fk2u
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vtmya2fk2u
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n2vtmya2fk2u
+  post_date: '2026-11-22T14:36:08.646Z'
+  liked_at: '2026-11-22T20:37:47.450109+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: this is a great test and a good article but if you were to only read
+    this post and the headline you might get a pretty wrong idea of what they found
+    and what they recommend. all the issues were found in sketchy rando providers,
+    some of which were wrongly trusted by OpenRouter
+  links:
+  - url: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
+    source: quoted_facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: 3WW4TUEG
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Dan
+          lastName: Goodin
+          creatorType: author
+        tags: []
+        title: Researcher plants 2m canaries into the AI supply chain. A privacy disaster
+          surfaced.
+        websiteTitle: Ars Technica
+        date: '2026-11-20'
+        url: https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/
+        abstractNote: Test using prompts with unique, trackable secrets proves that
+          data doesn't stay private.
+        language: en
+        accessDate: '2026-11-23'
+      title: Researcher plants 2m canaries into the AI supply chain. A privacy disaster
+        surfaced.
+      authors:
+      - last: Goodin
+        first: Dan
+      date: '2026-11-20'
+      item_type: webpage
+      abstract: Test using prompts with unique, trackable secrets proves that data
+        doesn't stay private.
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vtmya2fk2u
+- post_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3n2vqzswmf222
+  thread_root_uri: at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3n2vqzswmf222
+  post_url: https://bsky.app/profile/did:plc:3vyl2i7k2fuk7lbnmlxh3vof/post/3n2vqzswmf222
+  post_date: '2026-11-22T13:49:38.077Z'
+  liked_at: '2026-11-22T20:34:24.000227+00:00'
+  author_handle: lauren.rotatingsandwiches.com
+  author_did: did:plc:3vyl2i7k2fuk7lbnmlxh3vof
+  post_text: As the poster demographic slides into serious health problem age range
+    I look forward to everyone passing off alarming warning signs as banal universalisms.
+    anyone else hate it when you wake up with blurred vision and weakness in both
+    arms
+  links: []
+  all_post_uris:
+  - at://did:plc:3vyl2i7k2fuk7lbnmlxh3vof/app.bsky.feed.post/3n2vqzswmf222
+- post_uri: at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3n2vunxojm222
+  thread_root_uri: at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3n2vtqbdfe22h
+  post_url: https://bsky.app/profile/did:plc:ywlagohauh5cgwmspgnrpd2o/post/3n2vunxojm222
+  post_date: '2026-11-22T14:54:35.369Z'
+  liked_at: '2026-11-22T17:33:54.981527+00:00'
+  author_handle: brendanbartanen.bsky.social
+  author_did: did:plc:ywlagohauh5cgwmspgnrpd2o
+  post_text: I don't like the asbestos framing at all because it minimizes what this
+    tech actually is. It's not some niche application that has limited and narrow
+    benefits. It's a general-purpose technology that builds a foundation, just like
+    railroads, electricity, the internet, etc.
+  links: []
+  all_post_uris:
+  - at://did:plc:ywlagohauh5cgwmspgnrpd2o/app.bsky.feed.post/3n2vunxojm222
+- post_uri: at://did:plc:4zshebjfpzk4grqukxhevhur/app.bsky.feed.post/3mynidnpmac2f
+  thread_root_uri: at://did:plc:4zshebjfpzk4grqukxhevhur/app.bsky.feed.post/3mynidnpmac2f
+  post_url: https://bsky.app/profile/did:plc:4zshebjfpzk4grqukxhevhur/post/3mynidnpmac2f
+  post_date: '2026-10-24T20:02:23.309Z'
+  liked_at: '2026-11-22T15:22:59.507044+00:00'
+  author_handle: thewanderingjew.bsky.social
+  author_did: did:plc:4zshebjfpzk4grqukxhevhur
+  post_text: Threads
+  links: []
+  all_post_uris:
+  - at://did:plc:4zshebjfpzk4grqukxhevhur/app.bsky.feed.post/3mynidnpmac2f
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vrkno4h22c
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vrkno4h22c
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n2vrkno4h22c
+  post_date: '2026-11-22T13:59:02.979Z'
+  liked_at: '2026-11-22T14:37:14.079804+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: wasn’t paying attention to this but it’s crazy. basically the stuff can’t
+    be moved and it may eventually explode on its own
+  links:
+  - url: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+    source: card
+    card_title: Detonating A Huge Pile of Lead Azide. Really.
+    card_description: ''
+    citoid:
+      raw:
+        key: 3B9HW7FB
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Detonating A Huge Pile of Lead Azide. Really.
+        url: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
+        language: en
+        accessDate: '2026-11-23'
+        websiteTitle: www.science.org
+      title: Detonating A Huge Pile of Lead Azide. Really.
+      item_type: webpage
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2vrkno4h22c
+- post_uri: at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.post/3n2vnwbjhzs2v
+  thread_root_uri: at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.post/3n2vnwbjhzs2v
+  post_url: https://bsky.app/profile/did:plc:3guzzweuqraryl3rdkimjamk/post/3n2vnwbjhzs2v
+  post_date: '2026-11-22T12:53:57.932Z'
+  liked_at: '2026-11-22T13:56:27.634791+00:00'
+  author_handle: spacecowboy17.bsky.social
+  author_did: did:plc:3guzzweuqraryl3rdkimjamk
+  post_text: 'The For You feed will be down for a bit.
+
+
+    First I need to reboot the PC. Then I will upgrade Ubuntu from 24.04 LTS to 26.04
+    LTS. I hear there a couple of new vulnerabilities discovered.
+
+
+    $ uptime
+
+    up 146 days,  load average: 4.50, 5.33, 6.66'
+  links:
+  - url: https://foryou.club
+    source: thread
+    card_title: For You · Most Liked Custom Feed on Bluesky
+    card_description: For You finds people who liked the same posts as you and shows
+      you what else they’ve liked recently.
+    citoid:
+      raw:
+        key: 7MN4UFQA
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: For You · Most Liked Custom Feed on Bluesky
+        url: https://foryou.club/
+        abstractNote: For You finds people who liked the same posts as you and shows
+          you what else they’ve liked recently.
+        language: en
+        accessDate: '2026-11-23'
+        websiteTitle: foryou.club
+      title: For You · Most Liked Custom Feed on Bluesky
+      item_type: webpage
+      abstract: For You finds people who liked the same posts as you and shows you
+        what else they’ve liked recently.
+  - url: https://foryou.club/#open-source
+    source: thread
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: D2UVTLGH
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: For You · Most Liked Custom Feed on Bluesky
+        url: https://foryou.club/
+        abstractNote: For You finds people who liked the same posts as you and shows
+          you what else they’ve liked recently.
+        language: en
+        accessDate: '2026-11-23'
+        websiteTitle: foryou.club
+      title: For You · Most Liked Custom Feed on Bluesky
+      item_type: webpage
+      abstract: For You finds people who liked the same posts as you and shows you
+        what else they’ve liked recently.
+  all_post_uris:
+  - at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.post/3n2vnwbjhzs2v
 - post_uri: at://did:plc:6j3pswvvr4nocy4igsigisxd/app.bsky.feed.post/3n2tgw7rofc2v
   thread_root_uri: at://did:plc:6j3pswvvr4nocy4igsigisxd/app.bsky.feed.post/3n2tgw7rofc2v
   post_url: https://bsky.app/profile/did:plc:6j3pswvvr4nocy4igsigisxd/post/3n2tgw7rofc2v
