@@ -1,3 +1,368 @@
+- post_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3n2zul77fgs2n
+  thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3n2zul77fgs2n
+  post_url: https://bsky.app/profile/did:plc:ux34natbhxube3xgdu3rhf45/post/3n2zul77fgs2n
+  post_date: '2026-11-24T05:03:41.551Z'
+  liked_at: '2026-11-24T13:53:47.315539+00:00'
+  author_handle: internethippo.bsky.social
+  author_did: did:plc:ux34natbhxube3xgdu3rhf45
+  post_text: 'If you love "Ambiguous noises in the night" there''s nothing better
+    than "Two cats." Two cats: when it''s too quiet in your house during sleeping
+    hours'
+  links: []
+  all_post_uris:
+  - at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3n2zul77fgs2n
+- post_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3n32i4xcsyc24
+  thread_root_uri: at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3n32i4xcsyc24
+  post_url: https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3n32i4xcsyc24
+  post_date: '2026-11-24T10:53:38.349Z'
+  liked_at: '2026-11-24T13:41:41.817806+00:00'
+  author_handle: scientificdiscovery.dev
+  author_did: did:plc:73aicoale2mqwrap63rdzwep
+  post_text: 'New blogpost by Enlli!
+
+
+    It typically takes 4-7 years for new medicines approved in the US and Western
+    countries to be approved in sub-Saharan Africa.
+
+
+    A new FDA program aims to shorten that timeline, by helping regulators in different
+    countries share assessments with each other.'
+  links:
+  - url: https://www.clinicaltrialsabundance.blog/p/fdas-new-global-reliance-disclosure
+    source: card
+    card_title: FDA’s new Global Reliance Disclosure Program has the potential to
+      accelerate drug approvals worldwide
+    card_description: A new program could make it easier for regulators in other countries
+      to access the FDA’s assessments of the drugs they’re reviewing.
+    citoid:
+      raw:
+        key: N7YR473H
+        version: 0
+        itemType: webpage
+        creators:
+        - firstName: Enlli
+          lastName: McAleese
+          creatorType: author
+        tags: []
+        title: FDA’s new Global Reliance Disclosure Program has the potential to accelerate
+          drug approvals worldwide
+        url: https://www.clinicaltrialsabundance.blog/p/fdas-new-global-reliance-disclosure
+        abstractNote: A new program could make it easier for regulators in other countries
+          to access the FDA’s assessments of the drugs they’re reviewing.
+        date: '2026-11-24'
+        language: en
+        accessDate: '2026-11-24'
+        websiteTitle: www.clinicaltrialsabundance.blog
+      title: FDA’s new Global Reliance Disclosure Program has the potential to accelerate
+        drug approvals worldwide
+      authors:
+      - last: McAleese
+        first: Enlli
+      date: '2026-11-24'
+      item_type: webpage
+      abstract: A new program could make it easier for regulators in other countries
+        to access the FDA’s assessments of the drugs they’re reviewing.
+  all_post_uris:
+  - at://did:plc:73aicoale2mqwrap63rdzwep/app.bsky.feed.post/3n32i4xcsyc24
+- post_uri: at://did:plc:qejvygpjfgbnstppbbik2tec/app.bsky.feed.post/3n32kcbvstc2m
+  thread_root_uri: at://did:plc:qejvygpjfgbnstppbbik2tec/app.bsky.feed.post/3n32kcbvstc2m
+  post_url: https://bsky.app/profile/did:plc:qejvygpjfgbnstppbbik2tec/post/3n32kcbvstc2m
+  post_date: '2026-11-24T11:32:24.712Z'
+  liked_at: '2026-11-24T11:40:56.291604+00:00'
+  author_handle: joshhmcdermott.bsky.social
+  author_did: did:plc:qejvygpjfgbnstppbbik2tec
+  post_text: 'New pre-print with a striking result: when tested on degraded speech,
+    industry speech recognition systems are substantially superhuman, but only when
+    tested with coherent sentences. Performance for random word sequences closely
+    resembles that of humans.'
+  links:
+  - url: https://www.biorxiv.org/content/10.64898/2026.11.17.767420v1
+    source: thread
+    card_title: Modern speech recognition systems exhibit human-like word recognition
+      but superhuman use of statistical dependencies between words
+    card_description: Advances in machine learning have yielded machine systems that
+      approach human performance on real-world perception tasks. For speech recognition,
+      it remains unclear whether such models’ behavior resem...
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:qejvygpjfgbnstppbbik2tec/app.bsky.feed.post/3n32kcbvstc2m
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2zw35rhxs2g
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2zw35rhxs2g
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3n2zw35rhxs2g
+  post_date: '2026-11-24T05:30:30.659Z'
+  liked_at: '2026-11-24T11:07:55.909773+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Two big points from this new Anthropic paper:
+
+    1) The most AI value comes from changing the organization & roles
+
+    2) There is wide worker resistance to AI adoption (partially due to point 1)
+
+
+    Changes that expand what workers do & share AI gains with them could help. www.anthropic.c'
+  links:
+  - url: https://www.anthropic.com/research/working-with-ai
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: QED6NNUG
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Working with AI
+        date: '2026-11-23'
+        url: https://www.anthropic.com/research/working-with-ai
+        abstractNote: We interviewed people at 58 companies that use Claude about
+          how AI is changing their work. They described few layoffs but reduced hiring,
+          and said the most valuable uses of AI often involved reorganizing roles
+          and workplaces around it.
+        language: en
+        accessDate: '2026-11-24'
+        websiteTitle: www.anthropic.com
+      title: Working with AI
+      date: '2026-11-23'
+      item_type: webpage
+      abstract: We interviewed people at 58 companies that use Claude about how AI
+        is changing their work. They described few layoffs but reduced hiring, and
+        said the most valuable uses of AI often involved reorganizing roles and workplaces
+        around it.
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2zw35rhxs2g
+- post_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3n2yw6kfets2s
+  thread_root_uri: at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3n2yw6kfets2s
+  post_url: https://bsky.app/profile/did:plc:wvexgwndckqyszwviyuoeibi/post/3n2yw6kfets2s
+  post_date: '2026-11-23T19:59:44.819Z'
+  liked_at: '2026-11-24T00:33:08.622603+00:00'
+  author_handle: littmath.bsky.social
+  author_did: did:plc:wvexgwndckqyszwviyuoeibi
+  post_text: 'Frank Calegari on RH. Well-worth reading: galoisrepresentations.org/2026/11/23/i...'
+  links:
+  - url: https://galoisrepresentations.org/2026/11/23/initial-thoughts-on-rh
+    source: card
+    card_title: "\nInitial Thoughts on RH | Persiflage\t"
+    card_description: ''
+    citoid:
+      raw:
+        key: 7UN3FBVK
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        url: https://galoisrepresentations.org/2026/11/23/initial-thoughts-on-rh/
+        title: Initial Thoughts on RH | Persiflage
+        language: en-US
+        accessDate: '2026-11-24'
+      title: Initial Thoughts on RH | Persiflage
+      item_type: blogPost
+  all_post_uris:
+  - at://did:plc:wvexgwndckqyszwviyuoeibi/app.bsky.feed.post/3n2yw6kfets2s
+- post_uri: at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n2z3nkmev325
+  thread_root_uri: at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n2z3nkmev325
+  post_url: https://bsky.app/profile/did:plc:43mphaebevpvjboz6vzrr6at/post/3n2z3nkmev325
+  post_date: '2026-11-23T21:37:37.074Z'
+  liked_at: '2026-11-24T00:07:50.190354+00:00'
+  author_handle: opinionhaver.bsky.social
+  author_did: did:plc:43mphaebevpvjboz6vzrr6at
+  post_text: One thing that Trump 2 has made me shift on is the importance of professionalism
+    & vocational pride as values in of themselves. I used to be one of those who kind
+    of sneered at them as bougie decroum values, but I think it's very clear that
+    those things constrained a lot of bad s
+  links: []
+  all_post_uris:
+  - at://did:plc:43mphaebevpvjboz6vzrr6at/app.bsky.feed.post/3n2z3nkmev325
+- post_uri: at://did:plc:s42lfjtnp4d6jd2lgu4v47uy/app.bsky.feed.post/3n2qs5qr6yc2m
+  thread_root_uri: at://did:plc:s42lfjtnp4d6jd2lgu4v47uy/app.bsky.feed.post/3n2qs5qr6yc2m
+  post_url: https://bsky.app/profile/did:plc:s42lfjtnp4d6jd2lgu4v47uy/post/3n2qs5qr6yc2m
+  post_date: '2026-11-20T14:26:25.067Z'
+  liked_at: '2026-11-23T21:42:19.216808+00:00'
+  author_handle: wildavsky.bsky.social
+  author_did: did:plc:s42lfjtnp4d6jd2lgu4v47uy
+  post_text: Should we be worried about a crisis in underemployment for college grads?
+    I question the conventional wisdom and hand-wringing in this new piece for @educationnext.bsky.social  For
+    starters, the scariest stats leave out the nearly 4 in 10 grads who go on to earn
+    graduate or profe
+  links:
+  - url: https://www.educationnext.org/the-misplaced-panic-over-underemployed-college-graduates/
+    source: card
+    card_title: The Misplaced Panic Over “Underemployed” College Graduates
+    card_description: A deeper dive into the data reveals why bachelor’s degrees still
+      pay off
+    citoid:
+      raw:
+        key: A2G6QXX7
+        version: 0
+        itemType: blogPost
+        creators:
+        - firstName: Ben
+          lastName: Wildavsky
+          creatorType: author
+        tags: []
+        title: The Misplaced Panic Over “Underemployed” College Graduates
+        blogTitle: Education Next
+        date: '2026-11-19'
+        url: https://www.educationnext.org/the-misplaced-panic-over-underemployed-college-graduates/
+        abstractNote: A deeper dive into the data reveals why bachelor’s degrees still
+          pay off
+        language: en-US
+        accessDate: '2026-11-24'
+      title: The Misplaced Panic Over “Underemployed” College Graduates
+      authors:
+      - last: Wildavsky
+        first: Ben
+      date: '2026-11-19'
+      item_type: blogPost
+      publisher: Education Next
+      abstract: A deeper dive into the data reveals why bachelor’s degrees still pay
+        off
+  all_post_uris:
+  - at://did:plc:s42lfjtnp4d6jd2lgu4v47uy/app.bsky.feed.post/3n2qs5qr6yc2m
+- post_uri: at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3n2yrrbsiuc2r
+  thread_root_uri: at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3n2yrrbsiuc2r
+  post_url: https://bsky.app/profile/did:plc:rrjvo5jwuateqep2i7ih5ckl/post/3n2yrrbsiuc2r
+  post_date: '2026-11-23T18:40:44.636Z'
+  liked_at: '2026-11-23T21:33:24.005434+00:00'
+  author_handle: cfiesler.bsky.social
+  author_did: did:plc:rrjvo5jwuateqep2i7ih5ckl
+  post_text: 'I wanted to share part of a message that I sent in response to receiving
+    a number of nearly identical responses to a question on a homework assignment
+    that was meant to be creative + personal. 🧵
+
+
+    First, I explained that I had not taken off any points. And then included the
+    follow'
+  links: []
+  all_post_uris:
+  - at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3n2yrrbsiuc2r
+- post_uri: at://did:plc:q7oflmkacy3za72qxv64hrmh/app.bsky.feed.post/3n2yfkaqwcx24
+  thread_root_uri: at://did:plc:q7oflmkacy3za72qxv64hrmh/app.bsky.feed.post/3n2yfkaqwcx24
+  post_url: https://bsky.app/profile/did:plc:q7oflmkacy3za72qxv64hrmh/post/3n2yfkaqwcx24
+  post_date: '2026-11-23T15:02:03.711714+00:00'
+  liked_at: '2026-11-23T19:28:54.499868+00:00'
+  author_handle: carlislerainey.bsky.social
+  author_did: did:plc:q7oflmkacy3za72qxv64hrmh
+  post_text: 'I''m starting to sense a pattern.
+
+
+    www.nber.org/papers/w35999'
+  links:
+  - url: https://www.nber.org/papers/w35999
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: DRHD89ND
+        version: 0
+        itemType: preprint
+        creators:
+        - firstName: Qingyuan
+          lastName: Chai
+          creatorType: author
+        - firstName: Kevin
+          lastName: Lang
+          creatorType: author
+        - firstName: Liang
+          lastName: Zhong
+          creatorType: author
+        tags: []
+        title: '(In)Credible Development RCTs: False Discoveries, Low Power, and a
+          Solution'
+        genre: Working Paper
+        series: Working Paper Series
+        DOI: 10.3386/w35999
+        url: https://www.nber.org/papers/w35999
+        abstractNote: We study the statistical credibility of randomized controlled
+          trials (RCTs) in development economics and the optimal allocation of resources
+          to replication. Using 745 principal-hypothesis tests from 190 articles in
+          leading economics journals, we find that actual t-statistics peak well below
+          the theoretical benchmark of 2.8 expected under 80 percent power, though
+          above values associated with p-hacking. This suggests many RCTs are underpowered.
+          Estimating an empirical Bayes mixture model that accounts for selective
+          publication, we find that approximately 30 percent of published rejections
+          are false discoveries, with average directional power at only 40 percent.
+          At conventional significance thresholds, the posterior probability of a
+          false discovery reaches 66 percent. Doubling original sample sizes lowers
+          the average false discovery rate by five percentage points, whereas tightening
+          the significance threshold to 0.005 yields a larger reduction at the cost
+          of total discoveries. Finally, we characterize a funder’s optimal replication
+          policy under a fixed budget and an evidence standard. Under standard regularity
+          conditions, replications concentrate in an intermediate interval of original
+          test statistics, and the optimal replication sample size is single-peaked
+          in the original t-statistic. Illustrative calibrations show that successful
+          replications reduce aggregate false discovery rates to 1.8–7.8 percent,
+          depending on the evidence standard.
+        date: 2026-11
+        repository: National Bureau of Economic Research
+        archiveID: '35999'
+        libraryCatalog: National Bureau of Economic Research
+        accessDate: '2026-11-24'
+        shortTitle: (In)Credible Development RCTs
+      title: '(In)Credible Development RCTs: False Discoveries, Low Power, and a Solution'
+      authors:
+      - last: Chai
+        first: Qingyuan
+      - last: Lang
+        first: Kevin
+      - last: Zhong
+        first: Liang
+      date: 2026-11
+      item_type: preprint
+      doi: 10.3386/w35999
+      publisher: National Bureau of Economic Research
+      abstract: We study the statistical credibility of randomized controlled trials
+        (RCTs) in development economics and the optimal allocation of resources to
+        replication. Using 745 principal-hypothesis tests from 190 articles in leading
+        economics journals, we find that actual t-statistics peak well below the theoretical
+        benchmark of 2.8 expected under 80 percent power, though above values associated
+        with p-hacking. This suggests many RCTs are underpowered. Estimating an empirical
+        Bayes mixture model that accounts for selective publication, we find that
+        approximately 30 percent of published rejections are false discoveries, with
+        average directional power at only 40 percent. At conventional significance
+        thresholds, the posterior probability of a false discovery reaches 66 percent.
+        Doubling original sample sizes lowers the average false discovery rate by
+        five percentage points, whereas tightening the significance threshold to 0.005
+        yields a larger reduction at the cost of total discoveries. Finally, we characterize
+        a funder’s optimal replication policy under a fixed budget and an evidence
+        standard. Under standard regularity conditions, replications concentrate in
+        an intermediate interval of original test statistics, and the optimal replication
+        sample size is single-peaked in the original t-statistic. Illustrative calibrations
+        show that successful replications reduce aggregate false discovery rates to
+        1.8–7.8 percent, depending on the evidence standard.
+  all_post_uris:
+  - at://did:plc:q7oflmkacy3za72qxv64hrmh/app.bsky.feed.post/3n2yfkaqwcx24
+- post_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2ymbtn5n22x
+  thread_root_uri: at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2ymbtn5n22x
+  post_url: https://bsky.app/profile/did:plc:ctphcgyhnllfluywokibtrgb/post/3n2ymbtn5n22x
+  post_date: '2026-11-23T17:02:37.757Z'
+  liked_at: '2026-11-23T18:00:37.393797+00:00'
+  author_handle: davidcrespo.bsky.social
+  author_did: did:plc:ctphcgyhnllfluywokibtrgb
+  post_text: ok my jaw dropped. he's still got it
+  links: []
+  all_post_uris:
+  - at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3n2ymbtn5n22x
+- post_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2yixn4gps2g
+  thread_root_uri: at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2yixn4gps2g
+  post_url: https://bsky.app/profile/did:plc:flxq4uyjfotciovpw3x3fxnu/post/3n2yixn4gps2g
+  post_date: '2026-11-23T16:03:14.146Z'
+  liked_at: '2026-11-23T18:00:09.228834+00:00'
+  author_handle: emollick.bsky.social
+  author_did: did:plc:flxq4uyjfotciovpw3x3fxnu
+  post_text: 'Walmart seems determined not to make the same mistake with agentic commerce
+    that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing
+    them - quite a reversal.
+
+
+    And the new data from Stripe suggests agentic shopping may actually be kicking
+    off & is suprisin'
+  links: []
+  all_post_uris:
+  - at://did:plc:flxq4uyjfotciovpw3x3fxnu/app.bsky.feed.post/3n2yixn4gps2g
 - post_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2yjogbgxs2f
   thread_root_uri: at://did:plc:xfbmksnykel6qbq7cs4geveg/app.bsky.feed.post/3n2yjogbgxs2f
   post_url: https://bsky.app/profile/did:plc:xfbmksnykel6qbq7cs4geveg/post/3n2yjogbgxs2f
