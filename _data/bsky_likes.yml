@@ -1,3 +1,153 @@
+- post_uri: at://did:plc:ppise65focmjxbwb7v6yclvd/app.bsky.feed.post/3n335v7c2cc2b
+  thread_root_uri: at://did:plc:ppise65focmjxbwb7v6yclvd/app.bsky.feed.post/3n334qlfqjs2o
+  post_url: https://bsky.app/profile/did:plc:ppise65focmjxbwb7v6yclvd/post/3n335v7c2cc2b
+  post_date: '2026-11-24T17:23:00.597Z'
+  liked_at: '2026-11-24T23:47:26.893005+00:00'
+  author_handle: goldwagnathan.bsky.social
+  author_did: did:plc:ppise65focmjxbwb7v6yclvd
+  post_text: Anyway, this is the piece I wrote, you can judge it for yourself.
+  links:
+  - url: https://www.liberalcurrents.com/the-native-language-of-social-media-is-slurs/
+    source: card
+    card_title: The Native Language of Social Media Is Slurs
+    card_description: Antisemitism on X knows no party.
+    citoid:
+      raw:
+        key: V5YKT7YU
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: The Native Language of Social Media Is Slurs
+        websiteTitle: Liberal Currents
+        date: '2026-10-19'
+        url: https://www.liberalcurrents.com/the-native-language-of-social-media-is-slurs/
+        abstractNote: Antisemitism on X knows no party.
+        language: en
+        accessDate: '2026-11-25'
+      title: The Native Language of Social Media Is Slurs
+      date: '2026-10-19'
+      item_type: webpage
+      abstract: Antisemitism on X knows no party.
+  all_post_uris:
+  - at://did:plc:ppise65focmjxbwb7v6yclvd/app.bsky.feed.post/3n335v7c2cc2b
+- post_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n33ct2arvc2u
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n33ct2arvc2u
+  post_url: https://bsky.app/profile/did:plc:7umvpuxe2vbrc3zrzuquzniu/post/3n33ct2arvc2u
+  post_date: '2026-11-24T18:51:16.907Z'
+  liked_at: '2026-11-24T20:03:07.925887+00:00'
+  author_handle: whstancil.bsky.social
+  author_did: did:plc:7umvpuxe2vbrc3zrzuquzniu
+  post_text: "“AI is a shocking technology doing things we could barely conceive of\
+    \ five years ago”\n\nand \n\n“AI is on net a threat to the stability of society”\n\
+    \nand \n\n“Frenzied data center opposition is obviously a social media panic”\n\
+    \nand \n\n“The big AI companies are a bubble”\n\nare all perfectl"
+  links: []
+  all_post_uris:
+  - at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n33ct2arvc2u
+- post_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3n33bg56kd22s
+  thread_root_uri: at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3n33b7fszys2s
+  post_url: https://bsky.app/profile/did:plc:ovvxxktnggqglkkwfxdpscf2/post/3n33bg56kd22s
+  post_date: '2026-11-24T18:26:10.031Z'
+  liked_at: '2026-11-24T19:53:23.699415+00:00'
+  author_handle: besttrousers.bsky.social
+  author_did: did:plc:ovvxxktnggqglkkwfxdpscf2
+  post_text: 'This is just not even wrong.
+
+
+    The reason mainstream economists don''t believe in wage stagnation is that measured
+    wages (not including transfers!) are not stagnant.'
+  links: []
+  all_post_uris:
+  - at://did:plc:ovvxxktnggqglkkwfxdpscf2/app.bsky.feed.post/3n33bg56kd22s
+- post_uri: at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3n33anavcvs2y
+  thread_root_uri: at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3n33anavcvs2y
+  post_url: https://bsky.app/profile/did:plc:myqic77tkmdhmaufgkvj43hr/post/3n33anavcvs2y
+  post_date: '2026-11-24T18:12:15.066Z'
+  liked_at: '2026-11-24T19:13:10.921123+00:00'
+  author_handle: kjhealy.co
+  author_did: did:plc:myqic77tkmdhmaufgkvj43hr
+  post_text: I know you don't want a tiling window manager, but please trust me when
+    I say you should watch the demo video for this one. anoma.ly/spaceman/
+  links:
+  - url: https://anoma.ly/spaceman/
+    source: card
+    card_title: Spaceman — For your windows.
+    card_description: A fast macOS tiling window manager for Apple silicon. Side by
+      side, nothing on top of anything else.
+    citoid:
+      raw:
+        key: 9Y9EMALP
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Spaceman — For your windows.
+        websiteTitle: Spaceman
+        url: https://anoma.ly/spaceman/
+        abstractNote: A fast macOS tiling window manager for Apple silicon. Side by
+          side, nothing on top of anything else.
+        language: en
+        accessDate: '2026-11-25'
+      title: Spaceman — For your windows.
+      item_type: webpage
+      abstract: A fast macOS tiling window manager for Apple silicon. Side by side,
+        nothing on top of anything else.
+  all_post_uris:
+  - at://did:plc:myqic77tkmdhmaufgkvj43hr/app.bsky.feed.post/3n33anavcvs2y
+- post_uri: at://did:plc:vgiruqwiml7lbxnkjipwcyln/app.bsky.feed.post/3n333logtws2p
+  thread_root_uri: at://did:plc:vgiruqwiml7lbxnkjipwcyln/app.bsky.feed.post/3n333logtws2p
+  post_url: https://bsky.app/profile/did:plc:vgiruqwiml7lbxnkjipwcyln/post/3n333logtws2p
+  post_date: '2026-11-24T16:41:53.455Z'
+  liked_at: '2026-11-24T18:48:16.702677+00:00'
+  author_handle: erisianrite.com
+  author_did: did:plc:vgiruqwiml7lbxnkjipwcyln
+  post_text: Be smart and give a shit about your work and your colleagues, then this
+    problem goes away.
+  links:
+  - url: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools
+    source: card
+    card_title: Smart People Who Give a Shit Use Tools - Ian Duncan
+    card_description: LLMs mostly amplify whoever is sitting at the keyboard. Deeply
+      curious, caring engineers multiply what they can build and verify; lazy ones
+      can, for now, coast as meat proxies.
+    citoid:
+      raw:
+        key: 3ZI8HI39
+        version: 0
+        itemType: webpage
+        creators: []
+        tags: []
+        title: Smart People Who Give a Shit Use Tools
+        websiteTitle: Ian Duncan
+        url: https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools
+        abstractNote: LLMs mostly amplify whoever is sitting at the keyboard. Deeply
+          curious, caring engineers multiply what they can build and verify; lazy
+          ones can, for now, coast as meat proxies.
+        date: '2026-11-19'
+        language: en
+        accessDate: '2026-11-25'
+      title: Smart People Who Give a Shit Use Tools
+      date: '2026-11-19'
+      item_type: webpage
+      abstract: LLMs mostly amplify whoever is sitting at the keyboard. Deeply curious,
+        caring engineers multiply what they can build and verify; lazy ones can, for
+        now, coast as meat proxies.
+  all_post_uris:
+  - at://did:plc:vgiruqwiml7lbxnkjipwcyln/app.bsky.feed.post/3n333logtws2p
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n335cp3p6225
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n335cp3p6225
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3n335cp3p6225
+  post_date: '2026-11-24T17:12:39.631Z'
+  liked_at: '2026-11-24T18:38:29.625248+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: There is a whole world of human-focused computational research outside
+    of HCI. HCI is not a catch-all category for anything in computer science that
+    touches real people.
+  links: []
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n335cp3p6225
 - post_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3n2zul77fgs2n
   thread_root_uri: at://did:plc:ux34natbhxube3xgdu3rhf45/app.bsky.feed.post/3n2zul77fgs2n
   post_url: https://bsky.app/profile/did:plc:ux34natbhxube3xgdu3rhf45/post/3n2zul77fgs2n
