@@ -1,3 +1,175 @@
+- post_uri: at://did:plc:3m2kz5ia6hkiwtsasrosqgdg/app.bsky.feed.post/3n37wxios5w2z
+  thread_root_uri: at://did:plc:3m2kz5ia6hkiwtsasrosqgdg/app.bsky.feed.post/3n37wxios5w2z
+  post_url: https://bsky.app/profile/did:plc:3m2kz5ia6hkiwtsasrosqgdg/post/3n37wxios5w2z
+  post_date: '2026-11-26T15:02:19.955Z'
+  liked_at: '2026-11-26T15:32:46.535414+00:00'
+  author_handle: bethschueler.bsky.social
+  author_did: did:plc:3m2kz5ia6hkiwtsasrosqgdg
+  post_text: en.wikipedia.org/wiki/Ed_Policy
+  links:
+  - url: https://en.wikipedia.org/wiki/Ed_Policy
+    source: facet
+    card_title: null
+    card_description: null
+    citoid:
+      raw:
+        key: RSPXKN9P
+        version: 0
+        itemType: encyclopediaArticle
+        creators: []
+        tags: []
+        title: Ed Policy
+        rights: Creative Commons Attribution-ShareAlike License
+        encyclopediaTitle: Wikipedia
+        extra: 'Page Version ID: 1387319242'
+        url: https://en.wikipedia.org/w/index.php?title=Ed_Policy&oldid=1387319242
+        language: en
+        date: '2026-11-23'
+        abstractNote: "Edward Regis Policy (born October 6, 1970) is an American football\
+          \ executive who is the current chief executive officer (CEO) and president\
+          \ for the Green Bay Packers. Policy, whose father Carmen Policy was an American\
+          \ football executive for the San Francisco 49ers and Cleveland Browns, received\
+          \ an undergraduate degree from the University of Notre Dame in accounting\
+          \ and his Juris Doctor degree from Stanford Law School. \nAfter a brief\
+          \ stint as a lawyer, Policy worked for the Arena Football League (AFL) for\
+          \ nine years, including serving two years as its commissioner. He then worked\
+          \ for the NFL for two years before being hired by the Packers in 2012 as\
+          \ a vice president and general counsel. In 2018, he was promoted to chief\
+          \ operating officer, while retaining his role as general counsel. During\
+          \ his tenure with the Packers, Policy helped develop the Titletown District\
+          \ and began taking on more responsibility in the business operations of\
+          \ the team. In 2024, Policy was selected as the next president of the Packers\
+          \ by its board of directors. On July 13, 2025, he succeeded president Mark\
+          \ Murphy, who faced a mandatory retirement age that month."
+        libraryCatalog: Wikipedia
+        accessDate: '2026-11-26'
+      title: Ed Policy
+      date: '2026-11-23'
+      item_type: encyclopediaArticle
+      abstract: "Edward Regis Policy (born October 6, 1970) is an American football\
+        \ executive who is the current chief executive officer (CEO) and president\
+        \ for the Green Bay Packers. Policy, whose father Carmen Policy was an American\
+        \ football executive for the San Francisco 49ers and Cleveland Browns, received\
+        \ an undergraduate degree from the University of Notre Dame in accounting\
+        \ and his Juris Doctor degree from Stanford Law School. \nAfter a brief stint\
+        \ as a lawyer, Policy worked for the Arena Football League (AFL) for nine\
+        \ years, including serving two years as its commissioner. He then worked for\
+        \ the NFL for two years before being hired by the Packers in 2012 as a vice\
+        \ president and general counsel. In 2018, he was promoted to chief operating\
+        \ officer, while retaining his role as general counsel. During his tenure\
+        \ with the Packers, Policy helped develop the Titletown District and began\
+        \ taking on more responsibility in the business operations of the team. In\
+        \ 2024, Policy was selected as the next president of the Packers by its board\
+        \ of directors. On July 13, 2025, he succeeded president Mark Murphy, who\
+        \ faced a mandatory retirement age that month."
+  all_post_uris:
+  - at://did:plc:3m2kz5ia6hkiwtsasrosqgdg/app.bsky.feed.post/3n37wxios5w2z
+- post_uri: at://did:plc:ec7wbb6cuwewc4ucwimzevf2/app.bsky.feed.post/3n367erwcxc2m
+  thread_root_uri: at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3n3665xyfqk27
+  post_url: https://bsky.app/profile/did:plc:ec7wbb6cuwewc4ucwimzevf2/post/3n367erwcxc2m
+  post_date: '2026-11-25T22:27:36.408Z'
+  liked_at: '2026-11-26T03:15:49.446286+00:00'
+  author_handle: jnatc.im
+  author_did: did:plc:ec7wbb6cuwewc4ucwimzevf2
+  post_text: 'One could even, say, in light of a story submitted for consideration
+    for a literary prize being detected as AI, call the determination into question
+    by running all previous submissions and demonstrating that the detector would
+    have failed on a number of them over the years. Hang '
+  links: []
+  all_post_uris:
+  - at://did:plc:ec7wbb6cuwewc4ucwimzevf2/app.bsky.feed.post/3n367erwcxc2m
+- post_uri: at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3n363anleos23
+  thread_root_uri: at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3n363anleos23
+  post_url: https://bsky.app/profile/did:plc:3bnlr2j4womjtjolzcox25eu/post/3n363anleos23
+  post_date: '2026-11-25T21:13:42.669Z'
+  liked_at: '2026-11-26T01:59:54.132348+00:00'
+  author_handle: sameoldstory.co
+  author_did: did:plc:3bnlr2j4womjtjolzcox25eu
+  post_text: I don’t understand the incentives for behaving this way (and honestly
+    I wasn’t gonna drag her until she just started blocking people)
+  links: []
+  all_post_uris:
+  - at://did:plc:3bnlr2j4womjtjolzcox25eu/app.bsky.feed.post/3n363anleos23
+- post_uri: at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3n35x62accc2c
+  thread_root_uri: at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3n35vzzksec2t
+  post_url: https://bsky.app/profile/did:plc:mssgex5rqek4wc66wgvzztbc/post/3n35x62accc2c
+  post_date: '2026-11-25T20:00:40.310Z'
+  liked_at: '2026-11-25T21:53:20.317231+00:00'
+  author_handle: norvid-studies.bsky.social
+  author_did: did:plc:mssgex5rqek4wc66wgvzztbc
+  post_text: cool blogpost bsky.app/profile/norv... scottaaronson.blog?p=10379
+  links:
+  - url: https://scottaaronson.blog/?p=10379
+    source: card
+    card_title: HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT
+    card_description: I feel like my previous posts (and post titles), and podcasts,
+      and talks, have failed to do full justice to the magnitude of what’s now happening,
+      so I’m trying again. Last night, we ha…
+    citoid:
+      raw:
+        key: SIKNJDXK
+        version: 0
+        itemType: blogPost
+        creators: []
+        tags: []
+        title: HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT
+        blogTitle: Shtetl-Optimized
+        date: '2026-11-25'
+        url: https://scottaaronson.blog/?p=10379
+        abstractNote: I feel like my previous posts (and post titles), and podcasts,
+          and talks, have failed to do full justice to the magnitude of what’s now
+          happening, so I’m trying again. Last night, we ha…
+        language: en-US
+        accessDate: '2026-11-26'
+      title: HOLY SHIT HOLY SHIT HOLY SHIT HOLY SHIT
+      date: '2026-11-25'
+      item_type: blogPost
+      publisher: Shtetl-Optimized
+      abstract: I feel like my previous posts (and post titles), and podcasts, and
+        talks, have failed to do full justice to the magnitude of what’s now happening,
+        so I’m trying again. Last night, we ha…
+  all_post_uris:
+  - at://did:plc:mssgex5rqek4wc66wgvzztbc/app.bsky.feed.post/3n35x62accc2c
+- post_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n35i573umc2r
+  thread_root_uri: at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n35i573umc2r
+  post_url: https://bsky.app/profile/did:plc:s5zwyygnkcdgblepvwused47/post/3n35i573umc2r
+  post_date: '2026-11-25T15:31:45.725Z'
+  liked_at: '2026-11-25T18:08:14.287201+00:00'
+  author_handle: elucidating.extradimensional.space
+  author_did: did:plc:s5zwyygnkcdgblepvwused47
+  post_text: Using AI professionally and competently is, in my experience at least,
+    not easy at all. It's quite difficult. There are*many* pitfalls, and there's a
+    ton of active research to be considered that all has weak evidence due to lack
+    of scale or  replication.
+  links: []
+  all_post_uris:
+  - at://did:plc:s5zwyygnkcdgblepvwused47/app.bsky.feed.post/3n35i573umc2r
+- post_uri: at://did:plc:lw5dadzkguntwgkj2jxmulxk/app.bsky.feed.post/3n35j7i7b522g
+  thread_root_uri: at://did:plc:lw5dadzkguntwgkj2jxmulxk/app.bsky.feed.post/3n35j7i7b522g
+  post_url: https://bsky.app/profile/did:plc:lw5dadzkguntwgkj2jxmulxk/post/3n35j7i7b522g
+  post_date: '2026-11-25T15:50:56.124Z'
+  liked_at: '2026-11-25T17:32:42.066187+00:00'
+  author_handle: daniloc.xyz
+  author_did: did:plc:lw5dadzkguntwgkj2jxmulxk
+  post_text: I mostly find AI image generation repellent but this creator, GLUMLOT,
+    has a specific version of weird that meshes perfectly to the medium and I’m a
+    sucker for it
+  links: []
+  all_post_uris:
+  - at://did:plc:lw5dadzkguntwgkj2jxmulxk/app.bsky.feed.post/3n35j7i7b522g
+- post_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n35kwl5eka2l
+  thread_root_uri: at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n35kwl5eka2l
+  post_url: https://bsky.app/profile/did:plc:y32vdst3y7r4f4pkrveb7jhi/post/3n35kwl5eka2l
+  post_date: '2026-11-25T16:21:44.549Z'
+  liked_at: '2026-11-25T17:31:19.077176+00:00'
+  author_handle: mariaa.bsky.social
+  author_did: did:plc:y32vdst3y7r4f4pkrveb7jhi
+  post_text: If you're organizing anything (a conference, a workshop, a course) and
+    not preemptively coming up with a plan to handle AI slop, you're abdicating your
+    responsibility as an organizer.
+  links: []
+  all_post_uris:
+  - at://did:plc:y32vdst3y7r4f4pkrveb7jhi/app.bsky.feed.post/3n35kwl5eka2l
 - post_uri: at://did:plc:ppise65focmjxbwb7v6yclvd/app.bsky.feed.post/3n335v7c2cc2b
   thread_root_uri: at://did:plc:ppise65focmjxbwb7v6yclvd/app.bsky.feed.post/3n334qlfqjs2o
   post_url: https://bsky.app/profile/did:plc:ppise65focmjxbwb7v6yclvd/post/3n335v7c2cc2b
