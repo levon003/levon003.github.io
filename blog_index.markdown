@@ -40,7 +40,7 @@ This page lists my self-published writings, including {{ site.posts | size }} po
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {%- if post.title_html -%}{{ post.title_html }}{%- else -%}{{ post.title | escape }}{%- endif -%}
         </a>
       </h3>
       {%- if site.show_excerpts -%}
@@ -160,7 +160,7 @@ This page lists my self-published writings, including {{ site.posts | size }} po
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {%- if post.title_html -%}{{ post.title_html }}{%- else -%}{{ post.title | escape }}{%- endif -%}
         </a>
       </h3>
       {%- if site.show_excerpts -%}

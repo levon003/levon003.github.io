@@ -1,0 +1,738 @@
+<!-- Procedural variants after Adolph Gottlieb's "Under and Over".
+     Generator: files/gottlieb/gottlieb.js (renderGottlieb(canvas, seed)). Seed is kept in the URL hash.
+     Taps: the sun flicks through variants; the dark mass steps straight to the next one; any other tap ripples the paint. -->
+<style>
+  .gt-widget { margin: 1.5em 0; text-align: center; }
+  .gt-frame { position: relative; width: 100%; max-width: 340px; margin: 0 auto; }
+  .gt-main { width: 100%; aspect-ratio: 1 / 2; display: block; box-shadow: 0 2px 12px rgba(0,0,0,.35); background: #50352a; cursor: pointer;
+    -webkit-tap-highlight-color: transparent; }
+  .gt-touch { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  .gt-controls { margin: 1em 0 .2em; display: flex; gap: .6em; justify-content: center; align-items: center; flex-wrap: wrap; }
+  .gt-btn { font: 500 14px/1 -apple-system, system-ui, sans-serif; letter-spacing: .02em; display: inline-flex; align-items: center; gap: .55em;
+    padding: .62em 1.15em; border-radius: 999px; cursor: pointer; transition: transform .15s, box-shadow .15s, background .15s;
+    border: 1px solid #3a2418; background: transparent; color: #3a2418; }
+  .gt-btn:hover { transform: translateY(-1px); box-shadow: 0 3px 10px rgba(58,36,24,.18); }
+  .gt-btn:active { transform: translateY(0); box-shadow: none; }
+  .gt-btn:focus-visible { outline: 2px solid #b2422a; outline-offset: 2px; }
+  .gt-btn.primary { background: #3a2418; color: #f4e6d8; }
+  .gt-btn.primary:hover { background: #4a2e1f; }
+  /* a tiny sun: red disc in a cream ring */
+  .gt-sun { width: .95em; height: .95em; border-radius: 50%; background: #a9322a; box-shadow: 0 0 0 2px #ecd2b4; flex: none; }
+  .gt-btn.primary:hover .gt-sun { animation: gt-spin 1.2s linear infinite; background: conic-gradient(#a9322a, #c84a34, #8e2a22, #a9322a); }
+  @keyframes gt-spin { to { transform: rotate(1turn); } }
+  .gt-ico { width: .95em; height: .95em; flex: none; }
+  .gt-meta { font-size: .82em; color: #7a6458; margin-top: .35em; }
+  .gt-seed { font: inherit; font-family: ui-monospace, Menlo, monospace; color: inherit; background: none; border: 0; padding: .2em .3em; cursor: pointer;
+    border-radius: 3px; text-decoration: underline dotted rgba(122,100,88,.5); text-underline-offset: 3px; }
+  .gt-seed:hover { color: #3a2418; }
+  .gt-seed:focus-visible { outline: 2px solid #b2422a; }
+  .gt-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { .gt-btn, .gt-btn:hover { transition: none; transform: none; } .gt-btn.primary:hover .gt-sun { animation: none; } }
+</style>
+<div class="gt-widget" id="gt-widget">
+  <div class="gt-frame">
+    <canvas class="gt-main" id="gt-main" width="600" height="1200" role="img" aria-label="A generated painting: a red disc in a pale ring above a dark, ragged mass on brown ground"></canvas>
+    <canvas class="gt-touch" aria-hidden="true"></canvas>
+  </div>
+  <div class="gt-controls">
+    <button type="button" class="gt-btn primary" id="gt-new"><span class="gt-sun" aria-hidden="true"></span>New perspective</button>
+    <button type="button" class="gt-btn" id="gt-focus-btn" aria-haspopup="dialog"><svg class="gt-ico" viewBox="0 0 16 16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M2 6V2h4M10 2h4v4M14 10v4h-4M6 14H2v-4"/></svg>Focus</button>
+  </div>
+  <div class="gt-meta"><button type="button" class="gt-seed" id="gt-seed" title="Copy a link to this variant"></button> · try <span class="gt-verb">clicking</span> the sun or the dark mass<span class="gt-sr" id="gt-status" aria-live="polite"></span></div>
+</div>
+<script src="{{ '/files/gottlieb/gottlieb.js' | relative_url }}"></script>
+<script>
+(function () {
+  const main = document.getElementById("gt-main"), mctx = main.getContext("2d", { willReadFrequently: true });
+  const seedEl = document.getElementById("gt-seed");
+  if (matchMedia("(pointer: coarse)").matches) document.querySelector("#gt-widget .gt-verb").textContent = "tapping";
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const randSeed = () => Math.floor(Math.random() * 1e6);
+  let geom = null, flicking = false;
+
+  // Pool of pre-rendered variants, refilled one at a time in idle moments (a full render is ~100 ms).
+  // Phones and small machines (a render can take 300-600 ms there) keep a smaller stock of ready variants.
+  const LOW = matchMedia("(pointer: coarse)").matches || (navigator.hardwareConcurrency || 8) <= 4;
+  const POOL = LOW ? 5 : 8, KEEP = LOW ? 4 : 6, pool = [];
+  // canvases no longer shown are reused for new renders rather than left for the garbage collector (iOS caps canvas memory)
+  const spare = [];
+  const retire = (v) => { if (v && spare.length < 4) spare.push(v.canvas); };
+  const idle = window.requestIdleCallback || ((f) => setTimeout(f, 50));
+  function renderOff(seed) {
+    const c = spare.pop() || document.createElement("canvas");
+    c.width = main.width; c.height = main.height; // (re)sizing also clears
+    const g = renderGottlieb(c, seed);
+    return { seed, canvas: c, geom: g };
+  }
+  // A render blocks the main thread, so it must not run while something is animating: rAF gaps count as "idle", and
+  // refilling right after a flick otherwise stutters focus mode's rings and the touch ripples. main.gtBusy is set by focus mode.
+  function refill() {
+    if (pool.length >= POOL) return;
+    idle(() => {
+      if (flicking || (main.gtBusy && main.gtBusy()) || ripples.length) { setTimeout(refill, 250); return; }
+      pool.push(renderOff(randSeed())); refill();
+    });
+  }
+
+  // The seed goes into the URL only once the reader has changed the painting themselves, and never over another
+  // fragment (a link to a heading must still scroll there; copied URLs shouldn't pin a seed nobody chose).
+  let userActed = false, io = null;
+  function acted() { userActed = true; if (io) { io.disconnect(); io = null; } }
+  main.gtActed = acted; // focus mode calls this when it opens
+  let shown = null;
+  function land(v) {
+    if (shown && shown !== v && !seen.includes(shown)) retire(shown);
+    shown = v;
+    geom = v.geom;
+    mctx.drawImage(v.canvas, 0, 0);
+    main.dataset.seed = v.seed;
+    main.dispatchEvent(new CustomEvent("gt:land", { detail: { seed: v.seed } }));
+    seedEl.textContent = "seed " + v.seed; seedEl.setAttribute("aria-label", `seed ${v.seed}, copy a link`);
+    if (userActed && (!location.hash || /^#seed=\d+$/.test(location.hash))) history.replaceState(null, "", "#seed=" + v.seed);
+  }
+
+  // Flick through pooled variants with a slot-machine ease-out, then land on the last one, which is always new.
+  // A flick empties the pool and refilling takes a second or two, so for quick repeat taps the in-between frames are
+  // topped up from recent flicks' frames: each is on screen for well under a third of a second, so repeats go unnoticed.
+  const FLICK = 8, seen = [];
+  function flick() {
+    if (flicking) return;
+    if (reduceMotion) { land(pool.shift() || renderOff(randSeed())); refill(); return; }
+    const fresh = pool.splice(0, pool.length), last = fresh.pop() || renderOff(randSeed());
+    const filler = seen.filter((v) => v.seed !== +main.dataset.seed).sort(() => Math.random() - 0.5);
+    const between = fresh.concat(filler).slice(0, FLICK - 1);
+    seen.push(...fresh); seen.splice(0, Math.max(0, seen.length - KEEP)).forEach(retire); // keep the newest few (~3 MB each)
+    if (between.length < 2) { land(last); refill(); return; } // the very first taps, before anything has been seen
+    flicking = true;
+    const frames = between.concat([last]);
+    const delays = frames.map((_, i) => 55 + 230 * Math.pow(i / (frames.length - 1), 2.2));
+    let i = 0;
+    (function step() {
+      if (i === frames.length - 1) { land(frames[i]); flicking = false; refill(); return; }
+      mctx.drawImage(frames[i].canvas, 0, 0);
+      main.dispatchEvent(new Event("gt:frame"));
+      setTimeout(step, delays[i++]);
+    })();
+  }
+  function show(seed) { land(renderOff(seed)); }
+
+  // Hit tests, with x, y as fractions of the painting. The disc's radii are fractions of width (rx) and height (ry).
+  main.gtOverDisc = (x, y) => !!geom && Math.pow((x - geom.red.x) / geom.red.rx, 2) + Math.pow((y - geom.red.y) / geom.red.ry, 2) <= 1.1;
+  // the dark mass: anywhere in the lower part, or a dark pixel (its towers reach up)
+  main.gtOverDark = (x, y) => {
+    if (y > 0.45) return true;
+    const d = mctx.getImageData(Math.round(x * main.width) - 3, Math.round(y * main.height) - 3, 7, 7).data;
+    let s = 0; for (let i = 0; i < d.length; i += 4) s += d[i] + d[i + 1] + d[i + 2];
+    return s / 49 < 120;
+  };
+  main.gtGeom = () => geom;
+  // Step straight to the next variant, no flick.
+  main.gtStep = () => { if (flicking) return; acted(); land(pool.shift() || renderOff(randSeed())); refill(); };
+  const userFlick = () => { acted(); flick(); };
+
+  // ---------- touch ripples: a tap disturbs the paint, like a drop on a wet surface ----------
+  // Three thin, wobbly rings run out from the tap and fade, each drawn as a dark trough beside a light crest.
+  // Shared with focus mode through main.gtRipple(canvas, x, y, size): x, y in that canvas's CSS pixels.
+  const TAU = Math.PI * 2, ripples = [];
+  let ripRaf = 0;
+  function rippleAt(cv, x, y, size) {
+    if (reduceMotion) return;
+    const dpr = Math.min(2, window.devicePixelRatio || 1), w = Math.round(cv.clientWidth * dpr), h = Math.round(cv.clientHeight * dpr);
+    if (cv.width !== w || cv.height !== h) { cv.width = w; cv.height = h; }
+    const t0 = performance.now();
+    for (let k = 0; k < 3; k++) ripples.push({ cv, x, y, R: size * (1 - k * 0.18), t0: t0 + k * 110, dpr, wob: [Math.random() * TAU, Math.random() * TAU] });
+    if (!ripRaf) ripRaf = requestAnimationFrame(drawRipples);
+  }
+  main.gtRipple = rippleAt;
+  function drawRipples(now) {
+    ripRaf = 0;
+    const cvs = new Set(ripples.map((r) => r.cv));
+    cvs.forEach((cv) => cv.getContext("2d").clearRect(0, 0, cv.width, cv.height));
+    for (let i = ripples.length - 1; i >= 0; i--) {
+      const r = ripples[i], u = (now - r.t0) / 1100;
+      if (u >= 1) { ripples.splice(i, 1); continue; }
+      if (u < 0) continue;
+      const c = r.cv.getContext("2d"), e = 1 - Math.pow(1 - u, 3), rad = 4 + r.R * e, a = Math.pow(1 - u, 1.6);
+      c.setTransform(r.dpr, 0, 0, r.dpr, 0, 0);
+      const ring = (off) => {
+        c.beginPath();
+        for (let k = 0; k <= 60; k++) {
+          const t = (k / 60) * TAU, rr = rad + off + rad * (0.03 * Math.sin(3 * t + r.wob[0]) + 0.02 * Math.sin(5 * t + r.wob[1]));
+          k ? c.lineTo(r.x + Math.cos(t) * rr, r.y + Math.sin(t) * rr) : c.moveTo(r.x + Math.cos(t) * rr, r.y + Math.sin(t) * rr);
+        }
+      };
+      // soft, broad bands (blurred with a shadow of their own colour) rather than crisp lines
+      const lw = 3 + 7 * (1 - u);
+      c.lineWidth = lw; c.shadowBlur = lw * 1.6 * r.dpr;
+      ring(lw * 0.7); c.strokeStyle = c.shadowColor = `rgba(20,10,6,${(0.2 * a).toFixed(3)})`; c.stroke();
+      ring(-lw * 0.35); c.strokeStyle = c.shadowColor = `rgba(255,236,210,${(0.3 * a).toFixed(3)})`; c.stroke();
+      c.shadowBlur = 0;
+      c.setTransform(1, 0, 0, 1, 0, 0);
+    }
+    if (ripples.length) ripRaf = requestAnimationFrame(drawRipples);
+    else cvs.forEach((cv) => cv.getContext("2d").clearRect(0, 0, cv.width, cv.height));
+  }
+
+  // The sun flicks; the dark steps; anywhere else, the tap ripples the paint.
+  const touch = main.parentNode.querySelector(".gt-touch");
+  main.addEventListener("click", (e) => {
+    const r = main.getBoundingClientRect(), x = (e.clientX - r.left) / r.width, y = (e.clientY - r.top) / r.height;
+    if (main.gtOverDisc(x, y)) userFlick();
+    else if (main.gtOverDark(x, y)) main.gtStep();
+    else rippleAt(touch, e.clientX - r.left, e.clientY - r.top, r.width * 0.32);
+  });
+
+  document.getElementById("gt-new").addEventListener("click", userFlick);
+  // the seed copies a link straight to this variant (announced through a polite live region)
+  const status = document.getElementById("gt-status");
+  seedEl.addEventListener("click", async () => {
+    const was = seedEl.textContent, url = location.href.split("#")[0] + "#seed=" + main.dataset.seed;
+    let msg;
+    try { await navigator.clipboard.writeText(url); msg = "link copied"; } catch (e) { msg = "copy failed"; }
+    seedEl.textContent = msg; status.textContent = msg === "link copied" ? "Link to this variant copied" : "Couldn't copy the link";
+    setTimeout(() => { if (seedEl.textContent === msg) seedEl.textContent = was; status.textContent = ""; }, 1400);
+  });
+
+  // Initial state: a linked seed is shown as-is; otherwise flick once when the painting first scrolls into view.
+  const m = location.hash.match(/seed=(\d+)/);
+  show(m ? +m[1] : randSeed());
+  refill();
+  // Once the reader acts (a tap, a button, Focus), the welcome flick is called off.
+  if (!m && "IntersectionObserver" in window) {
+    io = new IntersectionObserver((es) => {
+      if (io && es.some((e) => e.isIntersecting) && pool.length >= POOL) { io.disconnect(); io = null; flick(); }
+    }, { threshold: 0.6 });
+    // wait until the pool is full before arming, so the first flick has frames to show
+    (function arm() { if (!io) return; pool.length >= POOL ? io.observe(main) : setTimeout(arm, 200); })();
+  }
+})();
+</script>
+
+<!-- ===== focus mode for the Gottlieb widget (needs #gt-main with gtGeom/gtStep/gtOverDisc, #gt-new, #gt-focus-btn) =====
+     Opening goes full screen where the browser allows it (a plain div, not <dialog>: the Fullscreen spec refuses dialogs, and Firefox enforces that).
+     Opening dives into the painting's own sun while rows of its red are brushed over the screen; behind that paint the page goes
+     full screen and the painting is re-rendered sharp and framed, then the view pulls back out of the sun as the paint is scraped
+     off. Closing reverses it. Taps that don't change the variant ripple the paint (the ground no longer closes). In focus mode: sun tap = flick; tap on the lower (dark) half = straight to the next variant. Each new
+     variant's ground is released as a ring from the sun, behind the frame; the landing ring is the new ground itself. -->
+<style>
+  .gt-focus { position: fixed; inset: 0; z-index: 2147483000; overflow: hidden; color: #f1e3d6; background: transparent;
+    touch-action: none; overscroll-behavior: contain; outline: none; }
+  .gt-focus[hidden] { display: none; }
+  .gt-focus:fullscreen { width: 100%; height: 100%; }
+  .gt-focus::backdrop { background: #2a1a12; }
+  .gt-focus-ground { position: absolute; inset: 0; cursor: pointer; }
+  .gt-ripple { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+  /* brushed texture over the ground and the rings: vertical streaks, like the painting's dry-brush ground */
+  .gt-focus-ground::after { content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .3; mix-blend-mode: soft-light;
+    background-size: 100% 100%; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 800' preserveAspectRatio='none'%3E%3Cfilter id='n' x='0' y='0' width='1' height='1'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.03 0.0012' numOctaves='3' seed='7' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 1.1 -.3'/%3E%3C/filter%3E%3Crect width='800' height='800' filter='url(%23n)'/%3E%3C/svg%3E"); }
+  .gt-vig { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(ellipse at 50% 45%, rgba(20,10,5,0) 45%, rgba(20,10,5,.28) 100%); }
+  .gt-focus-canvas { position: absolute; transform-origin: 0 0; display: block; cursor: pointer; }
+  /* a plain dark strip frame (the rings pass behind it); --fw is set from the painting's size */
+  .gt-focus-canvas.framed { box-shadow: 0 0 0 1px rgba(0,0,0,.6), 0 0 0 var(--fw, 6px) #23160f, 0 0 0 calc(var(--fw, 6px) + 1px) rgba(255,232,205,.14),
+    0 calc(var(--fw, 6px) * 1.5) calc(var(--fw, 6px) * 6) rgba(8,4,2,.55); }
+  .gt-curtain { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; display: block; }
+  .gt-focus-bar { position: absolute; right: max(14px, env(safe-area-inset-right)); bottom: max(14px, env(safe-area-inset-bottom));
+    display: flex; gap: 6px; align-items: center; transition: opacity .4s; opacity: .7; }
+  /* keyboard focus keeps the controls up; Close's programmatic focus on open shouldn't (it isn't :focus-visible after a click) */
+  .gt-focus-bar:hover, .gt-focus-bar:has(:focus-visible) { opacity: 1; }
+  .gt-focus.idle .gt-focus-bar:not(:has(:focus-visible)) { opacity: 0; pointer-events: none; } /* hidden buttons can't be hit by accident */
+  .gt-focus.idle, .gt-focus.idle * { cursor: none; }
+  @media (pointer: coarse) { .gt-focus-hint { display: none; } } /* "Esc" means nothing on a touchscreen */
+  .gt-focus.anim .gt-focus-bar, .gt-focus.anim .gt-focus-hint { opacity: 0; transition: none; }
+  .gt-focus-bar button { font: 14px/1 -apple-system, system-ui, sans-serif; color: #f1e3d6; background: rgba(28,16,10,.45);
+    border: 1px solid rgba(241,227,214,.25); border-radius: 999px; padding: .55em 1em; cursor: pointer; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); }
+  .gt-focus-bar button:hover { background: rgba(28,16,10,.7); }
+  .gt-focus-bar button:focus-visible { outline: 2px solid #f1e3d6; outline-offset: 2px; }
+  .gt-focus-hint { position: absolute; left: 50%; bottom: max(18px, env(safe-area-inset-bottom)); transform: translateX(-50%); pointer-events: none;
+    font: 13px/1.3 -apple-system, system-ui, sans-serif; color: rgba(241,227,214,.75); text-shadow: 0 1px 3px rgba(0,0,0,.6);
+    white-space: nowrap; transition: opacity 1.2s; }
+  .gt-focus-hint.gone { opacity: 0; }
+  html.gt-focus-lock { overflow: hidden; scrollbar-gutter: stable; }
+</style>
+<script>
+(function () {
+  const main = document.getElementById("gt-main"), btn = document.getElementById("gt-focus-btn");
+  if (!main || !btn) return;
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)");
+  const root = document.documentElement, TAU = Math.PI * 2;
+
+  const stage = document.createElement("div");
+  stage.className = "gt-focus"; stage.hidden = true; stage.tabIndex = -1;
+  stage.setAttribute("role", "dialog"); stage.setAttribute("aria-modal", "true"); stage.setAttribute("aria-label", "Painting, focus mode");
+  stage.innerHTML =
+    '<div class="gt-focus-ground"><canvas class="gt-ripple"></canvas><div class="gt-vig"></div></div>' +
+    '<canvas class="gt-focus-canvas" role="img"></canvas>' +
+    '<canvas class="gt-touch" aria-hidden="true"></canvas>' +
+    '<canvas class="gt-curtain"></canvas>' +
+    '<div class="gt-focus-hint">Esc to close</div>' +
+    '<div class="gt-focus-bar">' +
+      '<button type="button" data-act="new">New perspective</button>' +
+      '<button type="button" data-act="close">Close <span aria-hidden="true">✕</span></button>' +
+    "</div>";
+  document.body.appendChild(stage);
+  const ground = stage.querySelector(".gt-focus-ground"), rip = stage.querySelector(".gt-ripple"), fc = stage.querySelector(".gt-focus-canvas");
+  const touch = stage.querySelector(".gt-touch");
+  const curtain = stage.querySelector(".gt-curtain"), bar = stage.querySelector(".gt-focus-bar"), hint = stage.querySelector(".gt-focus-hint");
+  const fsReq = stage.requestFullscreen ? "requestFullscreen" : stage.webkitRequestFullscreen ? "webkitRequestFullscreen" : null;
+  const fsOn = () => document.fullscreenElement || document.webkitFullscreenElement;
+  const fsExit = () => (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+
+  let closeAfterOpen = false, skips = 0;
+  let state = "closed", target = null, hiresTimer = 0, idleTimer = 0, recede = [], wentFS = false;
+  const seed = () => +(main.dataset.seed || 0);
+  const nextFrame = () => new Promise((r) => requestAnimationFrame(() => r()));
+  const wait = (ms) => new Promise((r) => setTimeout(r, ms));
+  const clamp = (v) => Math.max(0, Math.min(255, v));
+  const rgba = (c, a) => `rgba(${c[0] | 0},${c[1] | 0},${c[2] | 0},${a})`;
+  const mix = (a, b, t) => [a[0] + (b[0] - a[0]) * t, a[1] + (b[1] - a[1]) * t, a[2] + (b[2] - a[2]) * t];
+
+  // Where the painting sits: largest 1:2 box that fits, with a margin of ground around it.
+  function fit() {
+    const vw = stage.clientWidth || root.clientWidth, vh = stage.clientHeight || window.innerHeight, pad = Math.max(22, Math.min(vw, vh) * 0.055);
+    let h = Math.min(vh - 2 * pad, (vw - 2 * pad) * 2), w = h / 2;
+    // on narrow screens the bottom-right buttons would sit over the painting: keep clear of them, top and bottom alike
+    const bh = bar.offsetHeight + 22, bl = vw - 14 - bar.offsetWidth - 8;
+    if (bar.offsetHeight && (vw + w) / 2 > bl && bh > pad) { h = Math.min(vh - 2 * bh, (vw - 2 * pad) * 2); w = h / 2; }
+    return { left: (vw - w) / 2, top: (vh - h) / 2, width: w, height: h, vw, vh };
+  }
+  function sunOnScreen(t) {
+    const g = main.gtGeom && main.gtGeom();
+    const red = g ? g.red : { x: 0.53, y: 0.25, rx: 0.245 };
+    return { x: t.left + red.x * t.width, y: t.top + red.y * t.height, r: red.rx * t.width };
+  }
+  const mctx = main.getContext("2d", { willReadFrequently: true });
+  function avgAt(x, y, s) {
+    const d = mctx.getImageData(Math.round(x - s / 2), Math.round(y - s / 2), s, s).data, c = [0, 0, 0], n = d.length / 4;
+    for (let i = 0; i < d.length; i += 4) { c[0] += d[i]; c[1] += d[i + 1]; c[2] += d[i + 2]; }
+    return [c[0] / n, c[1] / n, c[2] / n];
+  }
+  // Ground colour of the current frame (upper edges of the painting, trimmed of outliers)
+  function edgeColor() {
+    const W = main.width, H = main.height, y0 = Math.round(H * 0.08), h = Math.round(H * 0.4);
+    const ex = Math.round(W * 0.05), L = mctx.getImageData(ex, y0, 4, h).data, R = mctx.getImageData(W - ex - 4, y0, 4, h).data, px = [];
+    for (let i = 0; i < L.length; i += 16) px.push([L[i], L[i + 1], L[i + 2]], [R[i], R[i + 1], R[i + 2]]);
+    px.sort((a, b) => a[0] + a[1] + a[2] - (b[0] + b[1] + b[2]));
+    const mid = px.slice(px.length >> 2, px.length - (px.length >> 2)), c = [0, 0, 0];
+    mid.forEach((q) => { c[0] += q[0]; c[1] += q[1]; c[2] += q[2]; });
+    return [c[0] / mid.length, c[1] / mid.length, c[2] / mid.length];
+  }
+  // The ground continues the painting's own edge colours past the frame: 10 bands, top to bottom.
+  function groundCols() {
+    const W = main.width, H = main.height, bands = 10, cols = [];
+    const ex = Math.round(W * 0.05), L = mctx.getImageData(ex, 0, 6, H).data, R = mctx.getImageData(W - ex - 6, 0, 6, H).data; // inside the vignette
+    const gc = edgeColor(), ref = gc[0] + gc[1] + gc[2];
+    for (let b = 0; b < bands; b++) {
+      const y0 = Math.floor((b * H) / bands), y1 = Math.floor(((b + 1) * H) / bands), px = [];
+      for (let i = y0 * 24; i < y1 * 24; i += 4) px.push([L[i], L[i + 1], L[i + 2]], [R[i], R[i + 1], R[i + 2]]);
+      // drop the dark mass's fingers reaching the edge: keep pixels not much darker than the open ground above
+      let keep = px.filter((q) => q[0] + q[1] + q[2] > 0.7 * ref);
+      if (keep.length < 8) keep = px;
+      keep.sort((a, c) => a[0] + a[1] + a[2] - (c[0] + c[1] + c[2]));
+      const mid = keep.slice(keep.length >> 2, keep.length - (keep.length >> 2)), s = [0, 0, 0];
+      mid.forEach((q) => { s[0] += q[0]; s[1] += q[1]; s[2] += q[2]; });
+      const n = mid.length;
+      cols.push([s[0] / n, s[1] / n, s[2] / n]);
+    }
+    return cols;
+  }
+  const bandY = (t, b, n) => t.top + ((b + 0.5) / n) * t.height; // screen y of band b's colour stop
+  function paintGround(t, cols) {
+    cols = cols || groundCols();
+    ground.style.background = `linear-gradient(to bottom, ${cols.map((c, b) => `${rgba(c.map((v) => v | 0), 1)} ${bandY(t, b, cols.length).toFixed(1)}px`).join(",")})`;
+  }
+  function place(t) {
+    Object.assign(fc.style, { left: t.left + "px", top: t.top + "px", width: t.width + "px", height: t.height + "px" });
+    fc.style.setProperty("--fw", Math.max(5, Math.round(t.width * 0.016)) + "px");
+  }
+  function copyMain() { fc.width = main.width; fc.height = main.height; fc.getContext("2d").drawImage(main, 0, 0); }
+  // Re-render at device resolution (the generator scales with width / 600).
+  function renderHires() {
+    const w = Math.min(1600, Math.round(target.width * Math.min(window.devicePixelRatio || 1, 2)));
+    if (w <= main.width * 1.1) return;
+    const off = document.createElement("canvas"); off.width = w; off.height = 2 * w;
+    renderGottlieb(off, seed());
+    fc.width = w; fc.height = 2 * w; fc.getContext("2d").drawImage(off, 0, 0);
+  }
+  function hires() {
+    clearTimeout(hiresTimer);
+    hiresTimer = setTimeout(() => { if (state === "open" && !rings.length) renderHires(); }, 150);
+  }
+  const pageEls = () => [...document.body.children].filter((el) => el !== stage && !/^(SCRIPT|STYLE)$/.test(el.tagName));
+  function lock(on) { root.classList.toggle("gt-focus-lock", on); pageEls().forEach((el) => (el.inert = on)); }
+  function sizeCanvas(c, t) { c.width = Math.round(t.vw); c.height = Math.round(t.vh); }
+
+  // ---------- the dive: into the painting's sun until its red fills the screen, and back out ----------
+  // Keyframes for the canvas laid out in box b. f = 0 is the painting as laid out; f = 1 is deep inside the sun, with
+  // the sun at the screen centre and scaled so its solid red covers the viewport. The scale is exponential in f, so
+  // the zoom feels like constant speed; the halo gets a brief lift in brightness as it sweeps past the screen edges.
+  function diveFrames(b, vw, vh, inward) {
+    const g = (main.gtGeom && main.gtGeom()) || { red: { x: 0.53, y: 0.25, rx: 0.245 } };
+    const sx0 = b.left + g.red.x * b.width, sy0 = b.top + g.red.y * b.height, sr = g.red.rx * b.width;
+    const k = (Math.hypot(vw, vh) / 2 / (0.75 * sr)) * 1.05, N = 20, out = [];
+    for (let i = 0; i <= N; i++) {
+      const u = i / N, f = inward ? Math.pow(u, 1.7) : Math.pow(1 - u, 2.6); // in: gentle start; out: gentle landing
+      const s = Math.pow(k, f), cx = sx0 + (vw / 2 - sx0) * f, cy = sy0 + (vh / 2 - sy0) * f;
+      out.push({
+        transform: `translate(${(cx - b.left - s * (sx0 - b.left)).toFixed(2)}px, ${(cy - b.top - s * (sy0 - b.top)).toFixed(2)}px) scale(${s.toFixed(4)})`,
+        filter: `brightness(${(1 + 0.18 * Math.sin(Math.PI * f)).toFixed(3)})`,
+      });
+    }
+    return out;
+  }
+  // ---------- the curtain: a close-up of the sun's paint, brushed on at the bottom of the dive and scraped off again ----------
+  // It only has to cover the screen while the browser switches to full screen and the painting re-renders; what it shows is free.
+  const cctx = curtain.getContext("2d"), tex = document.createElement("canvas");
+  // A flat brush: bristles spread across width w. Their tips are staggered (lag), so the head of a stroke is ragged, and
+  // the bristles thin out towards the brush's edges. A loaded brush also skips short stretches; a scraping one is solid.
+  const LAG = 0.16;
+  function brushOf(w, rnd, solid) {
+    const n = Math.max(14, Math.round(w / 6)), br = [];
+    for (let j = 0; j < n; j++) {
+      const o = (j + rnd() * 0.8) / n - 0.5, edge = Math.abs(o) > 0.36, g0 = !solid && rnd() < 0.25 ? 0.15 + rnd() * 0.6 : 2;
+      br.push({ off: o * w, lw: (w / n) * (solid ? 1.8 + rnd() : 1.1 + rnd() * 1.3) * (edge ? 0.55 : 1), lag: rnd() * LAG * (edge ? 1 : 0.6),
+        s: rnd() * 0.05, e: 1 - rnd() * (edge ? 0.2 : 0.06), g0, g1: g0 + 0.03 + rnd() * 0.1 });
+    }
+    return br;
+  }
+  // a stroke from (x0,y0) to (x1,y1) with a slow wave in it
+  function strokeOf(x0, y0, x1, y1, w, rnd, solid) {
+    const ph = rnd() * TAU, amp = w * (0.05 + rnd() * 0.12), L = Math.hypot(x1 - x0, y1 - y0) || 1;
+    const nx = -(y1 - y0) / L, ny = (x1 - x0) / L;
+    return { nx, ny, br: brushOf(w, rnd, solid), at: (u) => { const a = amp * Math.sin(ph + u * 4); return [x0 + (x1 - x0) * u + nx * a, y0 + (y1 - y0) * u + ny * a]; } };
+  }
+  // draw the part of a stroke whose head moved from a to b (0..1+LAG; each bristle trails the head by its lag)
+  function drawSpan(ctx, st, a, b) {
+    if (b <= a) return;
+    for (const q of st.br) {
+      const lo = Math.max(a - q.lag, q.s), hi = Math.min(b - q.lag, q.e);
+      if (hi <= lo) continue;
+      const steps = Math.max(1, Math.ceil((hi - lo) / 0.01));
+      ctx.lineWidth = q.lw; ctx.beginPath();
+      let pen = false;
+      for (let i = 0; i <= steps; i++) {
+        const u = lo + ((hi - lo) * i) / steps;
+        if (u > q.g0 && u < q.g1) { pen = false; continue; }
+        const c = st.at(u), x = c[0] + st.nx * q.off, y = c[1] + st.ny * q.off;
+        pen ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+        pen = true;
+      }
+      ctx.stroke();
+    }
+  }
+  // the texture: the sun's red worked over with dragged strokes of deeper red, coral and the odd warm light, plus dark blotches
+  function paintTexture(w, h) {
+    curtain.width = tex.width = w; curtain.height = tex.height = h;
+    const x = tex.getContext("2d"), rnd = Math.random, sc = Math.min(w, h) / 800;
+    const g = (main.gtGeom && main.gtGeom()) || { red: { x: 0.53, y: 0.25 } };
+    const c = avgAt(g.red.x * main.width, g.red.y * main.height, 40), sh = (m) => rgba(c.map((v) => clamp(v * m)), 1);
+    const bg = x.createRadialGradient(w / 2, h / 2, 0, w / 2, h / 2, Math.hypot(w, h) / 2);
+    bg.addColorStop(0, sh(1.02)); bg.addColorStop(0.6, sh(0.95)); bg.addColorStop(1, sh(0.8));
+    x.fillStyle = bg; x.fillRect(0, 0, w, h);
+    x.lineCap = "round"; x.lineJoin = "round";
+    for (let i = 0; i < 90; i++) {
+      const p = rnd();
+      const col = p < 0.45 ? c.map((v) => clamp(v * (0.86 + rnd() * 0.2)))
+        : p < 0.68 ? mix(c, [196, 84, 60], 0.15 + rnd() * 0.25)
+        : p < 0.95 ? mix(c, [58, 16, 12], 0.2 + rnd() * 0.3)
+        : mix(c, [230, 160, 116], 0.2 + rnd() * 0.15);
+      const len = (0.3 + rnd() * 0.7) * w, ang = (rnd() - 0.5) * 0.5 + (rnd() < 0.5 ? 0 : Math.PI);
+      const cx = rnd() * w, cy = rnd() * h, dx = (Math.cos(ang) * len) / 2, dy = (Math.sin(ang) * len) / 2;
+      x.globalAlpha = 0.1 + rnd() * 0.18; x.strokeStyle = rgba(col, 1);
+      drawSpan(x, strokeOf(cx - dx, cy - dy, cx + dx, cy + dy, (60 + rnd() * 140) * sc, rnd), 0, 1 + LAG);
+    }
+    x.globalAlpha = 1;
+    for (let i = 0; i < 10; i++) {
+      const bx = rnd() * w, by = rnd() * h, br = (60 + rnd() * 160) * sc, rg = x.createRadialGradient(bx, by, 0, bx, by, br);
+      rg.addColorStop(0, rgba(mix(c, [40, 12, 9], 0.45), 0.22)); rg.addColorStop(1, rgba(c, 0));
+      x.fillStyle = rg; x.fillRect(bx - br, by - br, 2 * br, 2 * br);
+    }
+    cctx.clearRect(0, 0, w, h);
+  }
+  // Brush across the curtain in overlapping rows, alternating direction like a house painter.
+  // "on" lays the texture down (stroking with it as a pattern); "off" scrapes it away, leaving streaks for the caller to fade.
+  function brushPass(mode, dur, delay) {
+    const W = curtain.width, H = curtain.height, rnd = Math.random;
+    const rows = Math.max(4, Math.round(H / 170)), gap = H / rows, bw = gap * 1.6, strokes = [];
+    for (let i = 0; i < rows; i++) {
+      const y = (i + 0.5) * gap, tilt = (rnd() - 0.5) * gap * 0.5, dir = (i + (mode === "on" ? 0 : 1)) % 2 ? -1 : 1;
+      const xa = -0.06 * W, xb = 1.06 * W;
+      const solid = mode === "off";
+      strokes.push(dir > 0 ? strokeOf(xa, y - tilt, xb, y + tilt, bw, rnd, solid) : strokeOf(xb, y + tilt, xa, y - tilt, bw, rnd, solid));
+    }
+    if (mode === "off") strokes.reverse(); // on: top down; off: bottom up
+    const ds = dur * 0.42, stag = (dur - ds) / Math.max(1, rows - 1), prev = strokes.map(() => 0);
+    let t0 = null, raf = 0, over = false, resolve;
+    const anim = { finished: new Promise((r) => (resolve = r)) };
+    anim.finish = anim.cancel = () => {
+      if (over) return;
+      over = true; cancelAnimationFrame(raf); running.delete(anim);
+      cctx.globalCompositeOperation = "source-over";
+      if (mode === "on") cctx.drawImage(tex, 0, 0); else cctx.clearRect(0, 0, W, H);
+      resolve();
+    };
+    function frame(now) {
+      if (t0 === null) t0 = now + (delay || 0);
+      const t = now - t0;
+      cctx.lineCap = "round"; cctx.lineJoin = "round";
+      if (mode === "on") { cctx.globalCompositeOperation = "source-over"; cctx.strokeStyle = cctx.createPattern(tex, "no-repeat"); }
+      else { cctx.globalCompositeOperation = "destination-out"; cctx.strokeStyle = "#000"; }
+      strokes.forEach((st, i) => {
+        const u = Math.max(0, Math.min(1, (t - i * stag) / ds)), e = (0.5 - 0.5 * Math.cos(Math.PI * u)) * (1 + LAG);
+        drawSpan(cctx, st, prev[i], e); prev[i] = e;
+      });
+      cctx.globalCompositeOperation = "source-over";
+      if (t >= dur) {
+        if (mode === "on") anim.finish(); // fills the last bristle gaps (red over red, unseen)
+        else { over = true; running.delete(anim); resolve(); } // keep the streaks; the caller fades them
+      } else raf = requestAnimationFrame(frame);
+    }
+    raf = requestAnimationFrame(frame);
+    running.add(anim);
+    return anim;
+  }
+  // scrape the curtain off, then fade what the brush left behind
+  async function scrapeOff(dur) {
+    await brushPass("off", dur).finished;
+    await done([run(curtain, { opacity: [1, 0] }, { duration: 260, easing: "ease-out", fill: "forwards" })]);
+    cctx.clearRect(0, 0, curtain.width, curtain.height);
+    curtain.getAnimations().forEach((a) => a.cancel());
+  }
+  const boxOf = (r) => ({ left: r.left, top: r.top, width: r.width, height: r.height });
+  // every animation of a transition, so a tap or Esc can skip to its end
+  const running = new Set();
+  function run(el, kf, opt) {
+    const a = el.animate(kf, opt); running.add(a);
+    a.finished.catch(() => {}).then(() => running.delete(a));
+    return a;
+  }
+  const done = (anims) => Promise.all(anims.map((a) => a.finished.catch(() => {})));
+  function skip() { for (const a of [...running]) { try { a.finish(); } catch (e) {} } }
+  async function goFullscreen() {
+    if (!fsReq) return;
+    try { const p = stage[fsReq]({ navigationUI: "hide" }); if (p && p.then) await Promise.race([p, wait(1500)]); } catch (e) {}
+    wentFS = !!fsOn();
+  }
+
+  // ---------- rings: each variant's ground colour released from the sun, stilling when the flick lands ----------
+  // Timing: a ring bursts out fast and decelerates (like a released wave), so it reads as caused by the frame change; the
+  // flick's own slowing spaces the rings out, and the landing ring is quicker still, so everything is still ~0.9 s after landing.
+  const RING_MS = 1050, LAND_MS = 900;
+  const rings = []; let ripRaf = 0, meanGround = null, ringCount = 0;
+  const rctx = rip.getContext("2d");
+  const clearRip = () => { rctx.setTransform(1, 0, 0, 1, 0, 0); rctx.clearRect(0, 0, rip.width, rip.height); };
+  main.gtBusy = () => rings.length > 0 || state === "opening" || state === "closing";
+  function emitRing(final) {
+    if (state !== "open" || reduced.matches) return;
+    const c = edgeColor(), cols = groundCols();
+    meanGround = meanGround ? mix(meanGround, c, 0.2) : c;
+    // exaggerate (in brightness only, keeping the hue) how this frame's ground differs from the running mean, and
+    // alternate light/dark so neighbouring rings separate; the landing ring is the true ground, exactly as the ground
+    // behind will be painted, so handing over to it is invisible
+    const lum = (q) => 0.3 * q[0] + 0.59 * q[1] + 0.11 * q[2];
+    const k = final ? 1 : 1 + (3 * (lum(c) - lum(meanGround))) / lum(meanGround) + (ringCount++ % 2 ? 0.1 : -0.1);
+    const wob = [Math.random() * TAU, Math.random() * TAU, Math.random() * TAU];
+    rings.push({ cols: final ? cols : cols.map((q) => q.map((v) => clamp(v * k))), t0: performance.now(), final, wob });
+    if (!ripRaf) ripRaf = requestAnimationFrame(drawRings);
+  }
+  function drawRings(now) {
+    ripRaf = 0;
+    const t = target, S = sunOnScreen(t), vw = t.vw, vh = t.vh;
+    // half resolution: the rings are soft-edged anyway, and full-screen shadowed fills are slow where canvas isn't on the GPU
+    const RS = 0.5;
+    if (rip.width !== Math.round(vw * RS) || rip.height !== Math.round(vh * RS)) { rip.width = Math.round(vw * RS); rip.height = Math.round(vh * RS); }
+    rctx.setTransform(RS, 0, 0, RS, 0, 0);
+    const far = Math.hypot(Math.max(S.x, vw - S.x), Math.max(S.y, vh - S.y)) * 1.08, r0 = S.r * 1.1;
+    rctx.clearRect(0, 0, vw, vh);
+    let covered = -1; // newest ring that already covers the whole screen; older ones are hidden under it
+    const radii = rings.map((g, i) => {
+      const u = Math.max(0, Math.min(1, (now - g.t0) / (g.final ? LAND_MS : RING_MS)));
+      const r = r0 + (far - r0) * (1 - Math.pow(1 - u, g.final ? 3 : 2.2));
+      if (u >= 1) covered = i;
+      return r;
+    });
+    if (covered > 0) { rings.splice(0, covered); radii.splice(0, covered); }
+    rings.forEach((g, i) => {
+      const r = radii[i];
+      const fill = rctx.createLinearGradient(0, 0, 0, vh);
+      g.cols.forEach((c, b) => fill.addColorStop(Math.max(0, Math.min(1, bandY(t, b, g.cols.length) / vh)), rgba(c, 1)));
+      rctx.beginPath();
+      for (let k = 0; k <= 72; k++) {
+        const a = (k / 72) * TAU, rr = r * (1 + 0.018 * Math.sin(3 * a + g.wob[0]) + 0.012 * Math.sin(5 * a + g.wob[1]) + 0.008 * Math.sin(9 * a + g.wob[2]));
+        k ? rctx.lineTo(S.x + Math.cos(a) * rr, S.y + Math.sin(a) * rr) : rctx.moveTo(S.x + Math.cos(a) * rr, S.y + Math.sin(a) * rr);
+      }
+      rctx.closePath();
+      rctx.save(); rctx.shadowColor = "rgba(15,8,4,.45)"; rctx.shadowBlur = 18 * RS; // shadowBlur ignores the transform
+      rctx.fillStyle = fill; rctx.fill(); rctx.restore();
+      const mc = g.cols[3]; // a brushed leading edge, a touch lighter than the ring
+      rctx.lineWidth = 5; rctx.strokeStyle = rgba(mix(mc, [255, 236, 210], 0.35), g.final ? 0.24 : 0.16); rctx.stroke();
+    });
+    const last = rings[rings.length - 1];
+    if (last && last.final && now - last.t0 >= LAND_MS) {
+      // settled: the landing ring already is the new ground, so swap it in under the canvas and clear, then sharpen
+      paintGround(t, last.cols);
+      rings.length = 0; clearRip();
+      hires();
+      return;
+    }
+    if (rings.length) ripRaf = requestAnimationFrame(drawRings);
+  }
+
+  async function open() {
+    if (state !== "closed") return;
+    state = "opening"; closeAfterOpen = false; skips = 0; sawFS = false;
+    if (main.gtActed) main.gtActed(); // no welcome flick once the reader is in here
+    const fast = reduced.matches, r = main.getBoundingClientRect(), vw0 = root.clientWidth, vh0 = window.innerHeight;
+    stage.hidden = false; stage.classList.add("anim");
+    fc.classList.remove("framed"); copyMain();
+    fc.setAttribute("aria-label", main.getAttribute("aria-label") || "Generated painting");
+    rings.length = 0; clearRip();
+    curtain.getAnimations().forEach((a) => a.cancel()); cctx.clearRect(0, 0, curtain.width, curtain.height);
+    wentFS = false;
+    if (fast) {
+      // reduced motion: no dive; full screen straight from the click (stage kept invisible until laid out), then a short fade
+      stage.style.opacity = 0;
+      await goFullscreen(); lock(true); await nextFrame();
+      target = fit(); place(target); paintGround(target); ground.style.opacity = 1; fc.classList.add("framed"); copyMain(); renderHires();
+      const fade = stage.animate({ opacity: [0, 1] }, { duration: 180 }); stage.style.opacity = "";
+      await fade.finished;
+    } else {
+      // 1. dive into the sun from where the painting sits on the page; near the bottom, its red is brushed over the screen
+      place(boxOf(r)); ground.style.opacity = 0; lock(true);
+      paintTexture(vw0, vh0);
+      const ox = r.left + r.width / 2 + window.scrollX, oy = r.top + r.height / 2 + window.scrollY;
+      recede = pageEls().map((el) => {
+        el.style.transformOrigin = `${ox - el.offsetLeft}px ${oy - el.offsetTop}px`;
+        return el.animate({ transform: ["none", "scale(.94)"], opacity: [1, 0.4], filter: ["blur(0)", "blur(3px)"] }, { duration: 650, easing: "ease-in", fill: "forwards" });
+      });
+      const D = 800;
+      const dive = run(fc, diveFrames(boxOf(r), vw0, vh0, true), { duration: D, easing: "linear", fill: "forwards" });
+      const gIn = run(ground, { opacity: [0, 1] }, { duration: D * 0.8, easing: "ease-in", fill: "forwards" });
+      const paint = brushPass("on", D * 0.5, D * 0.5);
+      await done([dive, gIn, paint]);
+      // 2. behind the paint: go full screen (still inside the click's activation window), lay out, frame, render sharp
+      await goFullscreen();
+      await nextFrame(); await nextFrame();
+      target = fit(); place(target); paintGround(target); fc.classList.add("framed");
+      copyMain(); renderHires(); // a flick may have landed since the dive began
+      // 3. pull back out of the sun to the framed painting at full-screen size while the paint is scraped away
+      const pull = run(fc, diveFrames(target, target.vw, target.vh, false), { duration: 1200, easing: "linear", fill: "both" });
+      dive.cancel(); gIn.cancel(); ground.style.opacity = 1;
+      await Promise.all([done([pull]), scrapeOff(620)]);
+      pull.cancel();
+    }
+    // the viewport may have changed under the animation (a slow full-screen switch, a rotation, or full screen
+    // already left again): lay out for what is really there now
+    if (wentFS && !fsOn()) { wentFS = false; closeAfterOpen = true; }
+    target = fit(); place(target); paintGround(target);
+    ground.style.opacity = 1;
+    stage.classList.remove("anim");
+    state = "open";
+    stage.querySelector('[data-act="close"]').focus({ preventScroll: true });
+    if (closeAfterOpen) { close(); return; }
+    if (wentFS) { hint.classList.remove("gone"); setTimeout(() => hint.classList.add("gone"), 3500); } else hint.classList.add("gone");
+    poke();
+  }
+
+  async function close() {
+    // Esc during the opening skips to its end; pressing it again closes straight after
+    if (state === "opening") { if (skips++) closeAfterOpen = true; skip(); return; }
+    if (state !== "open") return;
+    state = "closing";
+    clearTimeout(hiresTimer); cancelAnimationFrame(ripRaf); ripRaf = 0;
+    if (rings.length) { paintGround(target, rings[rings.length - 1].cols); rings.length = 0; }
+    clearRip();
+    stage.classList.add("anim");
+    const leftovers = [];
+    if (reduced.matches) {
+      if (fsOn()) { try { await fsExit(); } catch (e) {} }
+      await stage.animate({ opacity: [1, 0] }, { duration: 150, fill: "forwards" }).finished;
+    } else {
+      // reverse: into the sun, paint over, leave full screen behind the paint, then scrape it off as the view pulls
+      // back out to the painting's place on the page
+      target = fit(); paintTexture(Math.round(target.vw), Math.round(target.vh));
+      const D = 650;
+      const dive = run(fc, diveFrames(target, target.vw, target.vh, true), { duration: D, easing: "linear", fill: "forwards" });
+      const paint = brushPass("on", D * 0.5, D * 0.5);
+      await done([dive, paint]);
+      if (fsOn()) { try { await fsExit(); } catch (e) {} await wait(150); }
+      await nextFrame();
+      // measure the page's painting at its real size: undo the receded page's scale(.94) for the reading
+      recede.forEach((a) => (a.currentTime = 0));
+      const r = main.getBoundingClientRect(), vw = root.clientWidth, vh = window.innerHeight;
+      recede.forEach((a) => a.finish());
+      fc.classList.remove("framed"); copyMain(); place(boxOf(r));
+      const pull = run(fc, diveFrames(boxOf(r), vw, vh, false), { duration: 950, easing: "linear", fill: "both" });
+      dive.cancel();
+      const gOut = run(ground, { opacity: [1, 0] }, { duration: 650, delay: 250, easing: "ease-in", fill: "forwards" });
+      recede.forEach((a) => { a.playbackRate = -1.2; a.play(); }); // un-blur the page as the ground withdraws
+      leftovers.push(pull, gOut);
+      await Promise.all([done([pull, gOut, ...recede]), scrapeOff(520)]);
+    }
+    stage.hidden = true;
+    leftovers.forEach((a) => a.cancel());
+    ground.style.opacity = 1; stage.getAnimations && stage.getAnimations().forEach((a) => a.cancel());
+    curtain.getAnimations().forEach((a) => a.cancel()); cctx.clearRect(0, 0, curtain.width, curtain.height);
+    recede.forEach((a) => a.cancel()); recede = [];
+    pageEls().forEach((el) => (el.style.transformOrigin = ""));
+    stage.classList.remove("anim", "idle");
+    lock(false);
+    btn.focus({ preventScroll: true });
+    state = "closed";
+  }
+
+  // controls fade away while the pointer is still, gallery-style
+  // (on touch screens they stay up: there's no hover to summon them, and on iPhone they're the only way out)
+  const touchy = matchMedia("(pointer: coarse)");
+  function poke() {
+    stage.classList.remove("idle"); clearTimeout(idleTimer);
+    if (!touchy.matches) idleTimer = setTimeout(() => state === "open" && stage.classList.add("idle"), 2500);
+  }
+  stage.addEventListener("pointermove", poke);
+  stage.addEventListener("pointerdown", poke); // any tap brings the controls back (touch has no pointermove without a drag)
+  document.addEventListener("keydown", (e) => {
+    if (state === "closed") return;
+    poke();
+    if (e.key === "Escape") { e.preventDefault(); close(); }
+  });
+  // Esc in full screen is taken by the browser, which just exits full screen: treat that as closing focus mode
+  // Leaving full screen during the opening (often the browser taking a second Esc) means "get me out": close once it lands.
+  let sawFS = false;
+  const onFsChange = () => {
+    if (state === "opening") { if (fsOn()) sawFS = true; else if (sawFS) closeAfterOpen = true; return; }
+    if (wentFS && !fsOn() && state === "open") close();
+  };
+  document.addEventListener("fullscreenchange", onFsChange);
+  document.addEventListener("webkitfullscreenchange", onFsChange);
+  // taps on the surrounding ground just ripple it (Close and Esc leave)
+  const rippleHere = (e) => main.gtRipple && main.gtRipple(touch, e.clientX, e.clientY, (target ? target.width : 300) * 0.32);
+  ground.addEventListener("click", (e) => { if (state === "open") { rippleHere(e); poke(); } });
+  stage.addEventListener("click", () => { if (state === "opening") skip(); }); // tap to skip the opening
+  const fracOf = (e) => { const r = fc.getBoundingClientRect(); return [(e.clientX - r.left) / r.width, (e.clientY - r.top) / r.height]; };
+  const overDark = (fxy) => main.gtOverDark(fxy[0], fxy[1]);
+  fc.addEventListener("click", (e) => {
+    if (state !== "open") return;
+    const p = fracOf(e);
+    if (main.gtOverDisc && main.gtOverDisc(p[0], p[1])) document.getElementById("gt-new").click(); // the sun spins
+    else if (overDark(p) && main.gtStep) main.gtStep(); // the dark steps
+    else { rippleHere(e); poke(); } // anywhere else just ripples
+  });
+  // mirror the widget's flick frames, releasing each frame's ground as a ring; sharpen once the rings settle
+  main.addEventListener("gt:frame", () => { if (state === "open") { clearTimeout(hiresTimer); copyMain(); emitRing(false); } });
+  main.addEventListener("gt:land", () => {
+    if (state !== "open") return;
+    copyMain();
+    if (reduced.matches) { paintGround(target); hires(); } else emitRing(true); // the ground itself is repainted when the landing ring settles
+  });
+  bar.addEventListener("click", (e) => {
+    const b = e.target.closest("button"), act = b && b.dataset.act;
+    if (act === "close") close();
+    else if (act === "new") document.getElementById("gt-new").click();
+  });
+  window.addEventListener("resize", () => {
+    if (state !== "open") return;
+    target = fit(); place(target); paintGround(target); hires();
+  });
+  btn.addEventListener("click", open);
+})();
+</script>
+<!-- ===== end focus mode ===== -->
