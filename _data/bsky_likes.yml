@@ -1,3 +1,99 @@
+- post_uri: at://did:plc:m2hihxuzr3u3g4igbewzh37m/app.bsky.feed.post/3n3dov42nqs22
+  thread_root_uri: at://did:plc:qiknc4t5rq7yngvz7g4aezq7/app.bsky.feed.post/3n3b66iqork2w
+  post_url: https://bsky.app/profile/did:plc:m2hihxuzr3u3g4igbewzh37m/post/3n3dov42nqs22
+  post_date: '2026-11-28T02:48:28.727Z'
+  liked_at: '2026-11-28T12:36:09.098786+00:00'
+  author_handle: eldritchanchovy.bsky.social
+  author_did: did:plc:m2hihxuzr3u3g4igbewzh37m
+  post_text: 'A fake disaster: big, two-turkey gathering. A guest had volunteered
+    to cook and bring turkey #2. She arrives, triumphantly shouting “I’ve got the
+    bird!!!”, carrying a perfectly roasted [checks notes]
+
+
+    Cornish game hen
+
+
+    and lets the host panic for a few seconds before bringing out'
+  links: []
+  all_post_uris:
+  - at://did:plc:m2hihxuzr3u3g4igbewzh37m/app.bsky.feed.post/3n3dov42nqs22
+- post_uri: at://did:plc:3hd4d5dlrwy6hkjolrb7vz6o/app.bsky.feed.post/3n3djsy5xis2r
+  thread_root_uri: at://did:plc:3hd4d5dlrwy6hkjolrb7vz6o/app.bsky.feed.post/3n3djsy5xis2r
+  post_url: https://bsky.app/profile/did:plc:3hd4d5dlrwy6hkjolrb7vz6o/post/3n3djsy5xis2r
+  post_date: '2026-11-28T01:17:48.808Z'
+  liked_at: '2026-11-28T11:57:46.792896+00:00'
+  author_handle: voltageanddoltage.bsky.social
+  author_did: did:plc:3hd4d5dlrwy6hkjolrb7vz6o
+  post_text: Every post-PM trudeau pic just has this crazy vibe, dude's just on the
+    Orient Express playing cards with Katy, I don't even know what to say
+  links:
+  - url: https://www.youtube.com/watch?v=lRnwK01n904
+    source: thread
+    card_title: PM Justin Trudeau falls down stairs
+    card_description: YouTube video by C W
+    citoid:
+      raw:
+        url: https://www.youtube.com/watch?v=lRnwK01n904
+        itemType: videoRecording
+        title: PM Justin Trudeau falls down stairs
+        abstractNote: Enjoy the videos and music you love, upload original content,
+          and share it all with friends, family, and the world on YouTube.
+        language: en
+        accessDate: '2026-11-28'
+      title: PM Justin Trudeau falls down stairs
+      item_type: videoRecording
+      abstract: Enjoy the videos and music you love, upload original content, and
+        share it all with friends, family, and the world on YouTube.
+  all_post_uris:
+  - at://did:plc:3hd4d5dlrwy6hkjolrb7vz6o/app.bsky.feed.post/3n3djsy5xis2r
+- post_uri: at://did:plc:lsgc3t2a474yb6nq2nd5nftv/app.bsky.feed.post/3n3cncafz4s2z
+  thread_root_uri: at://did:plc:lsgc3t2a474yb6nq2nd5nftv/app.bsky.feed.post/3n3cncafz4s2z
+  post_url: https://bsky.app/profile/did:plc:lsgc3t2a474yb6nq2nd5nftv/post/3n3cncafz4s2z
+  post_date: '2026-11-27T16:47:22.277Z'
+  liked_at: '2026-11-28T03:46:26.273762+00:00'
+  author_handle: ramikrispin.bsky.social
+  author_did: did:plc:lsgc3t2a474yb6nq2nd5nftv
+  post_text: 'A great comparison between Inkling 2 Mini vs Qwen 3.8 27B👇🏼
+
+
+    www.youtube.com/watch?v=W8MY...'
+  links:
+  - url: https://www.youtube.com/watch?v=W8MYFyGxSas
+    source: card
+    card_title: Inkling 2 Mini - The Qwen 27B Killer?
+    card_description: YouTube video by Sam Witteveen
+    citoid:
+      citoid_status: http_error
+  all_post_uris:
+  - at://did:plc:lsgc3t2a474yb6nq2nd5nftv/app.bsky.feed.post/3n3cncafz4s2z
+- post_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3n3cvhu6tek2g
+  thread_root_uri: at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3n3cvhu6tek2g
+  post_url: https://bsky.app/profile/did:plc:kujygvp2rz4hyratlykzsqka/post/3n3cvhu6tek2g
+  post_date: '2026-11-27T19:13:40.722Z'
+  liked_at: '2026-11-27T20:06:09.432614+00:00'
+  author_handle: andymasley.bsky.social
+  author_did: did:plc:kujygvp2rz4hyratlykzsqka
+  post_text: Tried to have "the AI talk" at Thanksgiving but my crackpot uncle immediately
+    brought up that counting arguments provide no evidence that advanced AIs will
+    become schemers and I started to say no no the case for expecting schemers doesn't
+    need a strict counting argument to be cor
+  links: []
+  all_post_uris:
+  - at://did:plc:kujygvp2rz4hyratlykzsqka/app.bsky.feed.post/3n3cvhu6tek2g
+- post_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3n3c43v2dzc2w
+  thread_root_uri: at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3n3c43v2dzc2w
+  post_url: https://bsky.app/profile/did:plc:3zyo4iakhqs47bttjalqgbk7/post/3n3c43v2dzc2w
+  post_date: '2026-11-27T11:39:35.425Z'
+  liked_at: '2026-11-27T17:48:20.996630+00:00'
+  author_handle: statsepi.bsky.social
+  author_did: did:plc:3zyo4iakhqs47bttjalqgbk7
+  post_text: Co-authorship cabals (where a group agrees to put each other on each
+    others' paper with little or no consideration of contribution) are enormously
+    effective and my only suggestion for early career researchers is to get into one
+    as quickly as you possibly can 😜
+  links: []
+  all_post_uris:
+  - at://did:plc:3zyo4iakhqs47bttjalqgbk7/app.bsky.feed.post/3n3c43v2dzc2w
 - post_uri: at://did:plc:zoo24ulqecqyeyknptqnuib2/app.bsky.feed.post/3n2uhpjekk22u
   thread_root_uri: at://did:plc:zoo24ulqecqyeyknptqnuib2/app.bsky.feed.post/3n2uhpjekk22u
   post_url: https://bsky.app/profile/did:plc:zoo24ulqecqyeyknptqnuib2/post/3n2uhpjekk22u
